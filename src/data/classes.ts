@@ -3,55 +3,55 @@ export const classes: ClassData[] = [
     id: 1,
     name: 'Warrior',
     icon: 'class_warrior',
-    specs: [161, 164, 163]
+    specs: [10, 11, 12]
   },
   { 
     id: 2,
     name: 'Paladin',
     icon: 'class_paladin',
-    specs: [382, 383, 381]
+    specs: [20, 21, 22]
   },
   { 
     id: 3,
     name: 'Hunter',
     icon: 'class_hunter',
-    specs: [361, 363, 362]
+    specs: [30, 31, 32]
   },
   { 
     id: 4,
     name: 'Rogue',
     icon: 'class_rogue',
-    specs: [182, 181, 183]
+    specs: [40, 41, 42]
   },
   { 
     id: 5,
     name: 'Priest',
     icon: 'class_priest',
-    specs: [201, 202, 203]
+    specs: [50, 51, 52]
+  },
+  { 
+    id: 6,
+    name: 'Shaman',
+    icon: 'class_shaman',
+    specs: [60, 61, 62]
   },
   { 
     id: 7,
-    name: 'Shaman',
-    icon: 'class_shaman',
-    specs: [261, 263, 262]
+    name: 'Mage',
+    icon: 'class_mage',
+    specs: [70, 71, 72]
   },
   { 
     id: 8,
-    name: 'Mage',
-    icon: 'class_mage',
-    specs: [81, 41, 61]
+    name: 'Warlock',
+    icon: 'class_warlock',
+    specs: [80, 81, 82]
   },
   { 
     id: 9,
-    name: 'Warlock',
-    icon: 'class_warlock',
-    specs: [302, 303, 301]
-  },
-  { 
-    id: 11,
     name: 'Druid',
     icon: 'class_druid',
-    specs: [283, 281, 282]
+    specs: [90, 91, 92]
   },
 ]
 
