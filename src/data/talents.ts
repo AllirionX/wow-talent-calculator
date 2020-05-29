@@ -83,7 +83,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 1,
       "icon": "icon_1011",
-      "ranks": [10111,10112,10113],
+      "ranks": [10111,10112],
       "requires": []
     },
     1012: {
@@ -147,7 +147,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 1,
       "icon": "icon_1031",
-      "ranks": [10311,10312,10313],
+      "ranks": [10311,10312],
       "requires": []
     },
     1032: {
