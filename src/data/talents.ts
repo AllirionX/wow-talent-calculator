@@ -2661,7 +2661,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 0,
       "icon": "icon_5130",
-      "ranks": [51301,51302,51303,51304,51305],
+      "ranks": [51301,51302,51303],
       "requires": []
     },
     5131: {
@@ -2669,7 +2669,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 1,
       "icon": "icon_5131",
-      "ranks": [51311,51312,51313],
+      "ranks": [51311,51312],
       "requires": []
     },
     5132: {
@@ -2677,7 +2677,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 2,
       "icon": "icon_5132",
-      "ranks": [51321,51322],
+      "ranks": [51321,51322,51323],
       "requires": []
     },
     5133: {
