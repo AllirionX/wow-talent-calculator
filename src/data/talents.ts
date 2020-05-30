@@ -3535,7 +3535,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 0,
       "icon": "icon_7000",
-      "ranks": [70001,70002,70003,70004,70005],
+      "ranks": [70001,70002,70003],
       "requires": []
     },
     7001: {
@@ -3543,7 +3543,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 1,
       "icon": "icon_7001",
-      "ranks": [70011,70012,70013,70014,70015],
+      "ranks": [70011,70012],
       "requires": []
     },
     7002: {
@@ -3551,7 +3551,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 2,
       "icon": "icon_7002",
-      "ranks": [70021,70022,70023,70024,70025],
+      "ranks": [70021,70022,70023],
       "requires": []
     },
     7003: {
@@ -3559,7 +3559,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 3,
       "icon": "icon_7003",
-      "ranks": [70031,70032,70033,70034,70035],
+      "ranks": [70031,70032],
       "requires": []
     },
     7010: {
@@ -3567,7 +3567,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 0,
       "icon": "icon_7010",
-      "ranks": [70101,70102,70103,70104,70105],
+      "ranks": [70101,70102,70103],
       "requires": []
     },
     7011: {
@@ -3575,7 +3575,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 1,
       "icon": "icon_7011",
-      "ranks": [70111,70112,70113,70114,70115],
+      "ranks": [70111,70112],
       "requires": []
     },
     7012: {
@@ -3583,7 +3583,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 2,
       "icon": "icon_7012",
-      "ranks": [70121,70122,70123,70124,70125],
+      "ranks": [70121,70122,70123],
       "requires": []
     },
     7013: {
@@ -3591,7 +3591,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 3,
       "icon": "icon_7013",
-      "ranks": [70131,70132,70133,70134,70135],
+      "ranks": [70131,70132],
       "requires": []
     },
     7020: {
@@ -3599,7 +3599,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 0,
       "icon": "icon_7020",
-      "ranks": [70201,70202,70203,70204,70205],
+      "ranks": [70201,70202,70203],
       "requires": []
     },
     7021: {
@@ -3607,7 +3607,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 1,
       "icon": "icon_7021",
-      "ranks": [70211,70212,70213,70214,70215],
+      "ranks": [70211],
       "requires": []
     },
     7022: {
@@ -3615,7 +3615,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 2,
       "icon": "icon_7022",
-      "ranks": [70221,70222,70223,70224,70225],
+      "ranks": [70221],
       "requires": []
     },
     7023: {
@@ -3623,7 +3623,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 3,
       "icon": "icon_7023",
-      "ranks": [70231,70232,70233,70234,70235],
+      "ranks": [70231,70232],
       "requires": []
     },
     7030: {
@@ -3631,7 +3631,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 0,
       "icon": "icon_7030",
-      "ranks": [70301,70302,70303,70304,70305],
+      "ranks": [70301,70302,70303],
       "requires": []
     },
     7031: {
@@ -3639,7 +3639,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 1,
       "icon": "icon_7031",
-      "ranks": [70311,70312,70313,70314,70315],
+      "ranks": [70311,70312],
       "requires": []
     },
     7032: {
@@ -3647,7 +3647,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 2,
       "icon": "icon_7032",
-      "ranks": [70321,70322,70323,70324,70325],
+      "ranks": [70321,70322,70323],
       "requires": []
     },
     7033: {
@@ -3655,7 +3655,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 3,
       "icon": "icon_7033",
-      "ranks": [70331,70332,70333,70334,70335],
+      "ranks": [70331,70332],
       "requires": []
     },
     7040: {
@@ -3663,7 +3663,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 0,
       "icon": "icon_7040",
-      "ranks": [70401,70402,70403,70404,70405],
+      "ranks": [70401,70402,70403],
       "requires": []
     },
     7041: {
@@ -3671,7 +3671,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 1,
       "icon": "icon_7041",
-      "ranks": [70411,70412,70413,70414,70415],
+      "ranks": [70411],
       "requires": []
     },
     7042: {
@@ -3679,7 +3679,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 2,
       "icon": "icon_7042",
-      "ranks": [70421,70422,70423,70424,70425],
+      "ranks": [70421],
       "requires": []
     },
     7043: {
@@ -3687,7 +3687,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 3,
       "icon": "icon_7043",
-      "ranks": [70431,70432,70433,70434,70435],
+      "ranks": [70431,70432],
       "requires": []
     },
     7051: {
@@ -3695,7 +3695,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 1,
       "icon": "icon_7051",
-      "ranks": [70511,70512,70513,70514,70515],
+      "ranks": [70511,70512],
       "requires": []
     },
     7052: {
@@ -3703,7 +3703,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 2,
       "icon": "icon_7052",
-      "ranks": [70521,70522,70523,70524,70525],
+      "ranks": [70521,70522,70523],
       "requires": []
     },
     7061: {
@@ -3711,7 +3711,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 1,
       "icon": "icon_7061",
-      "ranks": [70611,70612,70613,70614,70615],
+      "ranks": [70611],
       "requires": []
     },
     7062: {
@@ -3719,7 +3719,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 2,
       "icon": "icon_7062",
-      "ranks": [70621,70622,70623,70624,70625],
+      "ranks": [70621],
       "requires": []
     }
   },
@@ -3729,7 +3729,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 0,
       "icon": "icon_7100",
-      "ranks": [71001,71002,71003,71004,71005],
+      "ranks": [71001,71002,71003],
       "requires": []
     },
     7101: {
@@ -3737,7 +3737,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 1,
       "icon": "icon_7101",
-      "ranks": [71011,71012,71013,71014,71015],
+      "ranks": [71011,71012],
       "requires": []
     },
     7102: {
@@ -3745,7 +3745,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 2,
       "icon": "icon_7102",
-      "ranks": [71021,71022,71023,71024,71025],
+      "ranks": [71021,71022,71023],
       "requires": []
     },
     7103: {
@@ -3753,7 +3753,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 3,
       "icon": "icon_7103",
-      "ranks": [71031,71032,71033,71034,71035],
+      "ranks": [71031,71032],
       "requires": []
     },
     7110: {
@@ -3761,7 +3761,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 0,
       "icon": "icon_7110",
-      "ranks": [71101,71102,71103,71104,71105],
+      "ranks": [71101,71102,71103],
       "requires": []
     },
     7111: {
@@ -3769,7 +3769,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 1,
       "icon": "icon_7111",
-      "ranks": [71111,71112,71113,71114,71115],
+      "ranks": [71111,71112],
       "requires": []
     },
     7112: {
@@ -3777,7 +3777,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 2,
       "icon": "icon_7112",
-      "ranks": [71121,71122,71123,71124,71125],
+      "ranks": [71121,71122,71123],
       "requires": []
     },
     7113: {
@@ -3785,7 +3785,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 3,
       "icon": "icon_7113",
-      "ranks": [71131,71132,71133,71134,71135],
+      "ranks": [71131,71132],
       "requires": []
     },
     7120: {
@@ -3793,7 +3793,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 0,
       "icon": "icon_7120",
-      "ranks": [71201,71202,71203,71204,71205],
+      "ranks": [71201,71202,71203],
       "requires": []
     },
     7121: {
@@ -3801,7 +3801,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 1,
       "icon": "icon_7121",
-      "ranks": [71211,71212,71213,71214,71215],
+      "ranks": [71211],
       "requires": []
     },
     7122: {
@@ -3809,7 +3809,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 2,
       "icon": "icon_7122",
-      "ranks": [71221,71222,71223,71224,71225],
+      "ranks": [71221],
       "requires": []
     },
     7123: {
@@ -3817,7 +3817,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 3,
       "icon": "icon_7123",
-      "ranks": [71231,71232,71233,71234,71235],
+      "ranks": [71231,71232],
       "requires": []
     },
     7130: {
@@ -3825,7 +3825,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 0,
       "icon": "icon_7130",
-      "ranks": [71301,71302,71303,71304,71305],
+      "ranks": [71301,71302,71303],
       "requires": []
     },
     7131: {
@@ -3833,7 +3833,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 1,
       "icon": "icon_7131",
-      "ranks": [71311,71312,71313,71314,71315],
+      "ranks": [71311,71312],
       "requires": []
     },
     7132: {
@@ -3841,7 +3841,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 2,
       "icon": "icon_7132",
-      "ranks": [71321,71322,71323,71324,71325],
+      "ranks": [71321,71322,71323],
       "requires": []
     },
     7133: {
@@ -3849,7 +3849,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 3,
       "icon": "icon_7133",
-      "ranks": [71331,71332,71333,71334,71335],
+      "ranks": [71331,71332],
       "requires": []
     },
     7140: {
@@ -3857,7 +3857,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 0,
       "icon": "icon_7140",
-      "ranks": [71401,71402,71403,71404,71405],
+      "ranks": [71401,71402,71403],
       "requires": []
     },
     7141: {
@@ -3865,7 +3865,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 1,
       "icon": "icon_7141",
-      "ranks": [71411,71412,71413,71414,71415],
+      "ranks": [71411],
       "requires": []
     },
     7142: {
@@ -3873,7 +3873,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 2,
       "icon": "icon_7142",
-      "ranks": [71421,71422,71423,71424,71425],
+      "ranks": [71421],
       "requires": []
     },
     7143: {
@@ -3881,7 +3881,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 3,
       "icon": "icon_7143",
-      "ranks": [71431,71432,71433,71434,71435],
+      "ranks": [71431,71432],
       "requires": []
     },
     7151: {
@@ -3889,7 +3889,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 1,
       "icon": "icon_7151",
-      "ranks": [71511,71512,71513,71514,71515],
+      "ranks": [71511,71512],
       "requires": []
     },
     7152: {
@@ -3897,7 +3897,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 2,
       "icon": "icon_7152",
-      "ranks": [71521,71522,71523,71524,71525],
+      "ranks": [71521,71522,71523],
       "requires": []
     },
     7161: {
@@ -3905,7 +3905,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 1,
       "icon": "icon_7161",
-      "ranks": [71611,71612,71613,71614,71615],
+      "ranks": [71611],
       "requires": []
     },
     7162: {
@@ -3913,7 +3913,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 2,
       "icon": "icon_7162",
-      "ranks": [71621,71622,71623,71624,71625],
+      "ranks": [71621],
       "requires": []
     }
   },
@@ -3923,7 +3923,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 0,
       "icon": "icon_7200",
-      "ranks": [72001,72002,72003,72004,72005],
+      "ranks": [72001,72002,72003],
       "requires": []
     },
     7201: {
@@ -3931,7 +3931,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 1,
       "icon": "icon_7201",
-      "ranks": [72011,72012,72013,72014,72015],
+      "ranks": [72011,72012],
       "requires": []
     },
     7202: {
@@ -3939,7 +3939,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 2,
       "icon": "icon_7202",
-      "ranks": [72021,72022,72023,72024,72025],
+      "ranks": [72021,72022,72023],
       "requires": []
     },
     7203: {
@@ -3947,7 +3947,7 @@ export const talentsBySpec: Root = {
       "row": 0,
       "col": 3,
       "icon": "icon_7203",
-      "ranks": [72031,72032,72033,72034,72035],
+      "ranks": [72031,72032],
       "requires": []
     },
     7210: {
@@ -3955,7 +3955,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 0,
       "icon": "icon_7210",
-      "ranks": [72101,72102,72103,72104,72105],
+      "ranks": [72101,72102,72103],
       "requires": []
     },
     7211: {
@@ -3963,7 +3963,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 1,
       "icon": "icon_7211",
-      "ranks": [72111,72112,72113,72114,72115],
+      "ranks": [72111,72112],
       "requires": []
     },
     7212: {
@@ -3971,7 +3971,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 2,
       "icon": "icon_7212",
-      "ranks": [72121,72122,72123,72124,72125],
+      "ranks": [72121,72122,72123],
       "requires": []
     },
     7213: {
@@ -3979,7 +3979,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 3,
       "icon": "icon_7213",
-      "ranks": [72131,72132,72133,72134,72135],
+      "ranks": [72131,72132],
       "requires": []
     },
     7220: {
@@ -3987,7 +3987,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 0,
       "icon": "icon_7220",
-      "ranks": [72201,72202,72203,72204,72205],
+      "ranks": [72201,72202,72203],
       "requires": []
     },
     7221: {
@@ -3995,7 +3995,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 1,
       "icon": "icon_7221",
-      "ranks": [72211,72212,72213,72214,72215],
+      "ranks": [72211],
       "requires": []
     },
     7222: {
@@ -4003,7 +4003,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 2,
       "icon": "icon_7222",
-      "ranks": [72221,72222,72223,72224,72225],
+      "ranks": [72221],
       "requires": []
     },
     7223: {
@@ -4011,7 +4011,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 3,
       "icon": "icon_7223",
-      "ranks": [72231,72232,72233,72234,72235],
+      "ranks": [72231,72232],
       "requires": []
     },
     7230: {
@@ -4019,7 +4019,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 0,
       "icon": "icon_7230",
-      "ranks": [72301,72302,72303,72304,72305],
+      "ranks": [72301,72302,72303],
       "requires": []
     },
     7231: {
@@ -4027,7 +4027,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 1,
       "icon": "icon_7231",
-      "ranks": [72311,72312,72313,72314,72315],
+      "ranks": [72311,72312],
       "requires": []
     },
     7232: {
@@ -4035,7 +4035,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 2,
       "icon": "icon_7232",
-      "ranks": [72321,72322,72323,72324,72325],
+      "ranks": [72321,72322,72323],
       "requires": []
     },
     7233: {
@@ -4043,7 +4043,7 @@ export const talentsBySpec: Root = {
       "row": 3,
       "col": 3,
       "icon": "icon_7233",
-      "ranks": [72331,72332,72333,72334,72335],
+      "ranks": [72331,72332],
       "requires": []
     },
     7240: {
@@ -4051,7 +4051,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 0,
       "icon": "icon_7240",
-      "ranks": [72401,72402,72403,72404,72405],
+      "ranks": [72401,72402,72403],
       "requires": []
     },
     7241: {
@@ -4059,7 +4059,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 1,
       "icon": "icon_7241",
-      "ranks": [72411,72412,72413,72414,72415],
+      "ranks": [72411],
       "requires": []
     },
     7242: {
@@ -4067,7 +4067,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 2,
       "icon": "icon_7242",
-      "ranks": [72421,72422,72423,72424,72425],
+      "ranks": [72421],
       "requires": []
     },
     7243: {
@@ -4075,7 +4075,7 @@ export const talentsBySpec: Root = {
       "row": 4,
       "col": 3,
       "icon": "icon_7243",
-      "ranks": [72431,72432,72433,72434,72435],
+      "ranks": [72431,72432],
       "requires": []
     },
     7251: {
@@ -4083,7 +4083,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 1,
       "icon": "icon_7251",
-      "ranks": [72511,72512,72513,72514,72515],
+      "ranks": [72511,72512],
       "requires": []
     },
     7252: {
@@ -4091,7 +4091,7 @@ export const talentsBySpec: Root = {
       "row": 5,
       "col": 2,
       "icon": "icon_7252",
-      "ranks": [72521,72522,72523,72524,72525],
+      "ranks": [72521,72522,72523],
       "requires": []
     },
     7261: {
@@ -4099,7 +4099,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 1,
       "icon": "icon_7261",
-      "ranks": [72611,72612,72613,72614,72615],
+      "ranks": [72611],
       "requires": []
     },
     7262: {
@@ -4107,7 +4107,7 @@ export const talentsBySpec: Root = {
       "row": 6,
       "col": 2,
       "icon": "icon_7262",
-      "ranks": [72621,72622,72623,72624,72625],
+      "ranks": [72621],
       "requires": []
     }
   },
