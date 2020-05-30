@@ -2023,7 +2023,7 @@ export const talentsBySpec: Root = {
       "row": 1,
       "col": 1,
       "icon": "icon_4111",
-      "ranks": [41111,41112,41113],
+      "ranks": [41111,41112],
       "requires": []
     },
     4112: {
@@ -2265,7 +2265,7 @@ export const talentsBySpec: Root = {
       "row": 2,
       "col": 3,
       "icon": "icon_4223",
-      "ranks": [42231,42232,42233],
+      "ranks": [42231,42232],
       "requires": []
     },
     4230: {
