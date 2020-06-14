@@ -693,7 +693,7 @@
     "name": "Second Souffle",
     "icon": "icon_1062",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un effet d'imobilisation ou d'étourdissement, il gagne un amélioration qui lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
+    "description": "Lorsque le Guerrier est victime d'un effet d'imobilisation ou d'étourdissement, il gagne une amélioration qui lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
   },
   "10622": {
     "name": "Specialisation:10 Row:6 Column:2 Rank:2",
@@ -720,22 +720,22 @@
     "description": "Description for Specialisation:10 Row:6 Column:2 Rank:5. Use icon icon_1062.jpg"
   },
   "11001": {
-    "name": "Specialisation:11 Row:0 Column:0 Rank:1",
+    "name": "Réflexes Physique rang1",
     "icon": "icon_1100",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:0 Column:0 Rank:1. Use icon icon_1100.jpg"
+    "description": "Augmente l'agilité du Guerrier de 5%"
   },
   "11002": {
-    "name": "Specialisation:11 Row:0 Column:0 Rank:2",
+    "name": "Réflexes Physique rang2",
     "icon": "icon_1100",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:0 Column:0 Rank:2. Use icon icon_1100.jpg"
+    "description": "Augmente l'agilité du Guerrier de 10%"
   },
   "11003": {
-    "name": "Specialisation:11 Row:0 Column:0 Rank:3",
+    "name": "Réflexes Physique rang3",
     "icon": "icon_1100",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:0 Column:0 Rank:3. Use icon icon_1100.jpg"
+    "description": "Augmente l'agilité du Guerrier de 15%"
   },
   "11004": {
     "name": "Specialisation:11 Row:0 Column:0 Rank:4",
@@ -750,16 +750,16 @@
     "description": "Description for Specialisation:11 Row:0 Column:0 Rank:5. Use icon icon_1100.jpg"
   },
   "11011": {
-    "name": "Specialisation:11 Row:0 Column:1 Rank:1",
+    "name": "Cris Améliorés rang1",
     "icon": "icon_1101",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:0 Column:1 Rank:1. Use icon icon_1101.jpg"
+    "description": "Augmente l'efficacité des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
   },
   "11012": {
-    "name": "Specialisation:11 Row:0 Column:1 Rank:2",
+    "name": "Cris Améliorés rang2",
     "icon": "icon_1101",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:0 Column:1 Rank:2. Use icon icon_1101.jpg"
+    "description": "Augmente l'efficacité des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 40%"
   },
   "11013": {
     "name": "Specialisation:11 Row:0 Column:1 Rank:3",
@@ -780,22 +780,22 @@
     "description": "Description for Specialisation:11 Row:0 Column:1 Rank:5. Use icon icon_1101.jpg"
   },
   "11021": {
-    "name": "Specialisation:11 Row:0 Column:2 Rank:1",
+    "name": "Cruauté rang1",
     "icon": "icon_1102",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:0 Column:2 Rank:1. Use icon icon_1102.jpg"
+    "description": "Augmente les chances de critiques du Guerrier de 2%"
   },
   "11022": {
-    "name": "Specialisation:11 Row:0 Column:2 Rank:2",
+    "name": "Cruauté rang2",
     "icon": "icon_1102",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:0 Column:2 Rank:2. Use icon icon_1102.jpg"
+    "description": "Augmente les chances de critiques du Guerrier de 4%"
   },
   "11023": {
-    "name": "Specialisation:11 Row:0 Column:2 Rank:3",
+    "name": "Cruauté rang3",
     "icon": "icon_1102",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:0 Column:2 Rank:3. Use icon icon_1102.jpg"
+    "description": "Augmente les chances de critiques du Guerrier de 6%"
   },
   "11024": {
     "name": "Specialisation:11 Row:0 Column:2 Rank:4",
@@ -810,16 +810,16 @@
     "description": "Description for Specialisation:11 Row:0 Column:2 Rank:5. Use icon icon_1102.jpg"
   },
   "11031": {
-    "name": "Specialisation:11 Row:0 Column:3 Rank:1",
+    "name": "Rage Berserker Améliorée rang1",
     "icon": "icon_1103",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:0 Column:3 Rank:1. Use icon icon_1103.jpg"
+    "description": "Augmente le montant de Rage génèré par la technique Rage Berserker de 25%"
   },
   "11032": {
-    "name": "Specialisation:11 Row:0 Column:3 Rank:2",
+    "name": "Rage Berserker Améliorée rang2",
     "icon": "icon_1103",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:0 Column:3 Rank:2. Use icon icon_1103.jpg"
+    "description": "Augmente le montant de Rage génèré par la technique Rage Berserker de 50%"
   },
   "11033": {
     "name": "Specialisation:11 Row:0 Column:3 Rank:3",
@@ -840,22 +840,22 @@
     "description": "Description for Specialisation:11 Row:0 Column:3 Rank:5. Use icon icon_1103.jpg"
   },
   "11101": {
-    "name": "Specialisation:11 Row:1 Column:0 Rank:1",
+    "name": "Enchaînement Amélioré rang1",
     "icon": "icon_1110",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:1 Column:0 Rank:1. Use icon icon_1110.jpg"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 40%"
   },
   "11102": {
-    "name": "Specialisation:11 Row:1 Column:0 Rank:2",
+    "name": "Enchaînement Amélioré rang2",
     "icon": "icon_1110",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:1 Column:0 Rank:2. Use icon icon_1110.jpg"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 80%"
   },
   "11103": {
-    "name": "Specialisation:11 Row:1 Column:0 Rank:3",
+    "name": "Enchaînement Amélioré rang3",
     "icon": "icon_1110",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:1 Column:0 Rank:3. Use icon icon_1110.jpg"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 120%"
   },
   "11104": {
     "name": "Specialisation:11 Row:1 Column:0 Rank:4",
@@ -870,16 +870,16 @@
     "description": "Description for Specialisation:11 Row:1 Column:0 Rank:5. Use icon icon_1110.jpg"
   },
   "11111": {
-    "name": "Specialisation:11 Row:1 Column:1 Rank:1",
+    "name": "Voix Tonitruante rang1",
     "icon": "icon_1111",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:1 Column:1 Rank:1. Use icon icon_1111.jpg"
+    "description": "Augmente la portée des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 25% et Augmente leur durée de 50%"
   },
   "11112": {
-    "name": "Specialisation:11 Row:1 Column:1 Rank:2",
+    "name": "Voix Tonitruante rang2",
     "icon": "icon_1111",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:1 Column:1 Rank:2. Use icon icon_1111.jpg"
+    "description": "Augmente la portée des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 50% et Augmente leur durée de 100%"
   },
   "11113": {
     "name": "Specialisation:11 Row:1 Column:1 Rank:3",
@@ -900,22 +900,22 @@
     "description": "Description for Specialisation:11 Row:1 Column:1 Rank:5. Use icon icon_1111.jpg"
   },
   "11121": {
-    "name": "Specialisation:11 Row:1 Column:2 Rank:1",
+    "name": "Posture Berserker Améliorée rang1",
     "icon": "icon_1112",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:1 Column:2 Rank:1. Use icon icon_1112.jpg"
+    "description": "Diminue la pénalité de dégats subit de 3% ainsi que la menace génèré par le Guerrier dans cette posture de 5%"
   },
   "11122": {
-    "name": "Specialisation:11 Row:1 Column:2 Rank:2",
+    "name": "Posture Berserker Améliorée rang2",
     "icon": "icon_1112",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:1 Column:2 Rank:2. Use icon icon_1112.jpg"
+    "description": "Diminue la pénalité de dégats subit de 6% ainsi que la menace génèré par le Guerrier dans cette posture de 10%"
   },
   "11123": {
-    "name": "Specialisation:11 Row:1 Column:2 Rank:3",
+    "name": "Posture Berserker Améliorée rang3",
     "icon": "icon_1112",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:1 Column:2 Rank:3. Use icon icon_1112.jpg"
+    "description": "Diminue la pénalité de dégats subit de 9% ainsi que la menace génèré par le Guerrier dans cette posture de 15%"
   },
   "11124": {
     "name": "Specialisation:11 Row:1 Column:2 Rank:4",
@@ -930,16 +930,16 @@
     "description": "Description for Specialisation:11 Row:1 Column:2 Rank:5. Use icon icon_1112.jpg"
   },
   "11131": {
-    "name": "Specialisation:11 Row:1 Column:3 Rank:1",
+    "name": "Colère Déchaînée rang1",
     "icon": "icon_1113",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:1 Column:3 Rank:1. Use icon icon_1113.jpg"
+    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +1pts en Rage"
   },
   "11132": {
-    "name": "Specialisation:11 Row:1 Column:3 Rank:2",
+    "name": "Colère Déchaînée rang2",
     "icon": "icon_1113",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:1 Column:3 Rank:2. Use icon icon_1113.jpg"
+    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +2pts en Rage"
   },
   "11133": {
     "name": "Specialisation:11 Row:1 Column:3 Rank:3",
@@ -960,22 +960,22 @@
     "description": "Description for Specialisation:11 Row:1 Column:3 Rank:5. Use icon icon_1113.jpg"
   },
   "11201": {
-    "name": "Specialisation:11 Row:2 Column:0 Rank:1",
+    "name": "Folie Sanguinaire rang1",
     "icon": "icon_1120",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:2 Column:0 Rank:1. Use icon icon_1120.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 1% de ses points de vie en 6sec"
   },
   "11202": {
-    "name": "Specialisation:11 Row:2 Column:0 Rank:2",
+    "name": "Folie Sanguinaire rang2",
     "icon": "icon_1120",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:2 Column:0 Rank:2. Use icon icon_1120.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 2% de ses points de vie en 6sec"
   },
   "11203": {
-    "name": "Specialisation:11 Row:2 Column:0 Rank:3",
+    "name": "Folie Sanguinaire rang3",
     "icon": "icon_1120",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:2 Column:0 Rank:3. Use icon icon_1120.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 3% de ses points de vie en 6sec"
   },
   "11204": {
     "name": "Specialisation:11 Row:2 Column:0 Rank:4",
@@ -990,10 +990,10 @@
     "description": "Description for Specialisation:11 Row:2 Column:0 Rank:5. Use icon icon_1120.jpg"
   },
   "11211": {
-    "name": "Specialisation:11 Row:2 Column:1 Rank:1",
+    "name": "Hurlement Perçant",
     "icon": "icon_1121",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:2 Column:1 Rank:1. Use icon icon_1121.jpg"
+    "description": "Technique a activer, instantané, 1Opts de Rage, Cri qui ralentit toutes les cibles ennemies dans les 10yards et réduit leur vitesse de déplacement de 50% durant 6sec"
   },
   "11212": {
     "name": "Specialisation:11 Row:2 Column:1 Rank:2",
@@ -1020,10 +1020,10 @@
     "description": "Description for Specialisation:11 Row:2 Column:1 Rank:5. Use icon icon_1121.jpg"
   },
   "11221": {
-    "name": "Specialisation:11 Row:2 Column:2 Rank:1",
+    "name": "Ivresse de la Victoire",
     "icon": "icon_1122",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:2 Column:2 Rank:1. Use icon icon_1122.jpg"
+    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1050,16 +1050,16 @@
     "description": "Description for Specialisation:11 Row:2 Column:2 Rank:5. Use icon icon_1122.jpg"
   },
   "11231": {
-    "name": "Specialisation:11 Row:2 Column:3 Rank:1",
+    "name": "Défi Intimidant rang1",
     "icon": "icon_1123",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:2 Column:3 Rank:1. Use icon icon_1123.jpg"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation de 1min et celui de Cri de Défi de 2min"
   },
   "11232": {
-    "name": "Specialisation:11 Row:2 Column:3 Rank:2",
+    "name": "Défi Intimidant rang2",
     "icon": "icon_1123",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:2 Column:3 Rank:2. Use icon icon_1123.jpg"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation de 2min et celui de Cri de Défi de 4min"
   },
   "11233": {
     "name": "Specialisation:11 Row:2 Column:3 Rank:3",
@@ -1080,22 +1080,22 @@
     "description": "Description for Specialisation:11 Row:2 Column:3 Rank:5. Use icon icon_1123.jpg"
   },
   "11301": {
-    "name": "Specialisation:11 Row:3 Column:0 Rank:1",
+    "name": "Spécialisation Ambidextrie rang1",
     "icon": "icon_1130",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:3 Column:0 Rank:1. Use icon icon_1130.jpg"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 10%"
   },
   "11302": {
-    "name": "Specialisation:11 Row:3 Column:0 Rank:2",
+    "name": "Spécialisation Ambidextrie rang2",
     "icon": "icon_1130",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:3 Column:0 Rank:2. Use icon icon_1130.jpg"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 20%"
   },
   "11303": {
-    "name": "Specialisation:11 Row:3 Column:0 Rank:3",
+    "name": "Spécialisation Ambidextrie rang3",
     "icon": "icon_1130",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:3 Column:0 Rank:3. Use icon icon_1130.jpg"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 30%"
   },
   "11304": {
     "name": "Specialisation:11 Row:3 Column:0 Rank:4",
@@ -1110,16 +1110,16 @@
     "description": "Description for Specialisation:11 Row:3 Column:0 Rank:5. Use icon icon_1130.jpg"
   },
   "11311": {
-    "name": "Specialisation:11 Row:3 Column:1 Rank:1",
+    "name": "Exécution Améliorée rang1",
     "icon": "icon_1131",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:3 Column:1 Rank:1. Use icon icon_1131.jpg"
+    "description": "Diminue le cout en Rage de la technique Exécution de 2pts et augmente les chances de critiques de la technique de 5%"
   },
   "11312": {
-    "name": "Specialisation:11 Row:3 Column:1 Rank:2",
+    "name": "Exécution Améliorée rang2",
     "icon": "icon_1131",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:3 Column:1 Rank:2. Use icon icon_1131.jpg"
+    "description": "Diminue le cout en Rage de la technique Exécution de 5pts et augmente les chances de critiques de la technique de 10%"
   },
   "11313": {
     "name": "Specialisation:11 Row:3 Column:1 Rank:3",
@@ -1140,22 +1140,22 @@
     "description": "Description for Specialisation:11 Row:3 Column:1 Rank:5. Use icon icon_1131.jpg"
   },
   "11321": {
-    "name": "Specialisation:11 Row:3 Column:2 Rank:1",
+    "name": "Enragé rang1",
     "icon": "icon_1132",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:3 Column:2 Rank:1. Use icon icon_1132.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
   },
   "11322": {
-    "name": "Specialisation:11 Row:3 Column:2 Rank:2",
+    "name": "Enragé rang2",
     "icon": "icon_1132",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:3 Column:2 Rank:2. Use icon icon_1132.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
   },
   "11323": {
-    "name": "Specialisation:11 Row:3 Column:2 Rank:3",
+    "name": "enragé rang3",
     "icon": "icon_1132",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:3 Column:2 Rank:3. Use icon icon_1132.jpg"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
   },
   "11324": {
     "name": "Specialisation:11 Row:3 Column:2 Rank:4",
@@ -1170,16 +1170,16 @@
     "description": "Description for Specialisation:11 Row:3 Column:2 Rank:5. Use icon icon_1132.jpg"
   },
   "11331": {
-    "name": "Specialisation:11 Row:3 Column:3 Rank:1",
+    "name": "Interception Améliorée rang1",
     "icon": "icon_1133",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:3 Column:3 Rank:1. Use icon icon_1133.jpg"
+    "description": "Diminue le temps de rechargement de la technique Interception de 5sec"
   },
   "11332": {
-    "name": "Specialisation:11 Row:3 Column:3 Rank:2",
+    "name": "Interception Améliorée rang2",
     "icon": "icon_1133",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:3 Column:3 Rank:2. Use icon icon_1133.jpg"
+    "description": "Diminue le temps de rechargement de la technique Interception de 10sec"
   },
   "11333": {
     "name": "Specialisation:11 Row:3 Column:3 Rank:3",
@@ -1200,22 +1200,22 @@
     "description": "Description for Specialisation:11 Row:3 Column:3 Rank:5. Use icon icon_1133.jpg"
   },
   "11401": {
-    "name": "Specialisation:11 Row:4 Column:0 Rank:1",
+    "name": "Précision rang1",
     "icon": "icon_1140",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:4 Column:0 Rank:1. Use icon icon_1140.jpg"
+    "description": "Augmente les chances de toucher du Guerrier de 2%"
   },
   "11402": {
-    "name": "Specialisation:11 Row:4 Column:0 Rank:2",
+    "name": "Précision rang2",
     "icon": "icon_1140",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:4 Column:0 Rank:2. Use icon icon_1140.jpg"
+    "description": "Augmente les chances de toucher du Guerrier de 4%"
   },
   "11403": {
-    "name": "Specialisation:11 Row:4 Column:0 Rank:3",
+    "name": "Précision rang3",
     "icon": "icon_1140",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:4 Column:0 Rank:3. Use icon icon_1140.jpg"
+    "description": "Augmente les chances de toucher du Guerrier de 6%"
   },
   "11404": {
     "name": "Specialisation:11 Row:4 Column:0 Rank:4",
@@ -1230,10 +1230,10 @@
     "description": "Description for Specialisation:11 Row:4 Column:0 Rank:5. Use icon icon_1140.jpg"
   },
   "11411": {
-    "name": "Specialisation:11 Row:4 Column:1 Rank:1",
+    "name": "Souhait Mortel",
     "icon": "icon_1141",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:4 Column:1 Rank:1. Use icon icon_1141.jpg"
+    "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les postures, Enrage le Guerrier durant 30sec, durant l'effet le Guerrier se libère et est insensible aux effets de Peur et augmente les dégats qu'il inflige de 20% mais il ne peut plus Parer/Esquiver ni Bloquer les attaques"
   },
   "11412": {
     "name": "Specialisation:11 Row:4 Column:1 Rank:2",
@@ -1260,10 +1260,10 @@
     "description": "Description for Specialisation:11 Row:4 Column:1 Rank:5. Use icon icon_1141.jpg"
   },
   "11421": {
-    "name": "Specialisation:11 Row:4 Column:2 Rank:1",
+    "name": "Mutilation",
     "icon": "icon_1142",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:4 Column:2 Rank:1. Use icon icon_1142.jpg"
+    "description": "La technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats sur la durée au lieu d'instantané pendant 10sec"
   },
   "11422": {
     "name": "Specialisation:11 Row:4 Column:2 Rank:2",
@@ -1290,16 +1290,16 @@
     "description": "Description for Specialisation:11 Row:4 Column:2 Rank:5. Use icon icon_1142.jpg"
   },
   "11431": {
-    "name": "Specialisation:11 Row:4 Column:3 Rank:1",
+    "name": "Tourbillon Amélioré rang1",
     "icon": "icon_1143",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:4 Column:3 Rank:1. Use icon icon_1143.jpg"
+    "description": "Diminue le temps de rechargement de la technique de 10%"
   },
   "11432": {
-    "name": "Specialisation:11 Row:4 Column:3 Rank:2",
+    "name": "Tourbillon Amélioré rang2",
     "icon": "icon_1143",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:4 Column:3 Rank:2. Use icon icon_1143.jpg"
+    "description": "Diminue le temps de rechargement de la technique de 20%"
   },
   "11433": {
     "name": "Specialisation:11 Row:4 Column:3 Rank:3",
@@ -1320,16 +1320,16 @@
     "description": "Description for Specialisation:11 Row:4 Column:3 Rank:5. Use icon icon_1143.jpg"
   },
   "11511": {
-    "name": "Specialisation:11 Row:5 Column:1 Rank:1",
+    "name": "Rage Berserker Améliorée rang1",
     "icon": "icon_1151",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:5 Column:1 Rank:1. Use icon icon_1151.jpg"
+    "description": "En plus de ces effets la technique Rage Berserker génère instantanément 5pts de Rage au Guerrier"
   },
   "11512": {
-    "name": "Specialisation:11 Row:5 Column:1 Rank:2",
+    "name": "Rage Berserker Améliorée rang2",
     "icon": "icon_1151",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:5 Column:1 Rank:2. Use icon icon_1151.jpg"
+    "description": "En plus de ces effets la technique Rage Berserker génère instantanément 10pts de Rage au Guerrier"
   },
   "11513": {
     "name": "Specialisation:11 Row:5 Column:1 Rank:3",
@@ -1350,22 +1350,22 @@
     "description": "Description for Specialisation:11 Row:5 Column:1 Rank:5. Use icon icon_1151.jpg"
   },
   "11521": {
-    "name": "Specialisation:11 Row:5 Column:2 Rank:1",
+    "name": "Rafale rang1",
     "icon": "icon_1152",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:5 Column:2 Rank:1. Use icon icon_1152.jpg"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 10% durant 12sec ou 3 charges"
   },
   "11522": {
-    "name": "Specialisation:11 Row:5 Column:2 Rank:2",
+    "name": "Rafale rang2",
     "icon": "icon_1152",
     "rank": 2,
-    "description": "Description for Specialisation:11 Row:5 Column:2 Rank:2. Use icon icon_1152.jpg"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 20% durant 12sec ou 3 charges"
   },
   "11523": {
-    "name": "Specialisation:11 Row:5 Column:2 Rank:3",
+    "name": "Rafale rang3",
     "icon": "icon_1152",
     "rank": 3,
-    "description": "Description for Specialisation:11 Row:5 Column:2 Rank:3. Use icon icon_1152.jpg"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 30% durant 12sec ou 3 charges"
   },
   "11524": {
     "name": "Specialisation:11 Row:5 Column:2 Rank:4",
@@ -1380,10 +1380,10 @@
     "description": "Description for Specialisation:11 Row:5 Column:2 Rank:5. Use icon icon_1152.jpg"
   },
   "11611": {
-    "name": "Specialisation:11 Row:6 Column:1 Rank:1",
+    "name": "Sanguinaire",
     "icon": "icon_1161",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:6 Column:1 Rank:1. Use icon icon_1161.jpg"
+    "description": "Technique a activer, instantanée, 30pts de Rage, 0-5yards de portée, 6sec de temps de rechargement, inflige instantanément un dégats a la cible d'un montant équivalent a 45% de la Puissance d'Attaque du Guerrier, de plus les 3 prochaines attaques soignent le Guerrier de 1% de ses points de vie"
   },
   "11612": {
     "name": "Specialisation:11 Row:6 Column:1 Rank:2",
@@ -1410,10 +1410,10 @@
     "description": "Description for Specialisation:11 Row:6 Column:1 Rank:5. Use icon icon_1161.jpg"
   },
   "11621": {
-    "name": "Specialisation:11 Row:6 Column:2 Rank:1",
+    "name": "Maîtrise de la Rage",
     "icon": "icon_1162",
     "rank": 1,
-    "description": "Description for Specialisation:11 Row:6 Column:2 Rank:1. Use icon icon_1162.jpg"
+    "description": "Diminue le temps de rechargement des techniques Rage Berserker, Rage Sanguinaire, Témérité et Souhait Mortel de 33%"
   },
   "11622": {
     "name": "Specialisation:11 Row:6 Column:2 Rank:2",
