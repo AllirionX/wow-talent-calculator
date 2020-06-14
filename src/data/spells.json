@@ -63,19 +63,19 @@
     "name": "Maîtrise Tactique rang1",
     "icon": "icon_1002",
     "rank": 1,
-    "description": "En plus des 10pts de base, le Guerrier garde 5pts de Rages supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier garde 5pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10022": {
     "name": "Maîtrise Tactique rang2",
     "icon": "icon_1002",
     "rank": 2,
-    "description": "En plus des 10pts de base, le Guerrier garde 10pts de Rages supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier garde 10pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10023": {
     "name": "Maîtrise Tactique rang3",
     "icon": "icon_1002",
     "rank": 3,
-    "description": "En plus des 10pts de base, le Guerrier garde 15pts de Rages supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier garde 15pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10024": {
     "name": "Specialisation:10 Row:0 Column:2 Rank:4",
@@ -1023,7 +1023,7 @@
     "name": "Ivresse de la Victoire",
     "icon": "icon_1122",
     "rank": 1,
-    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible"
+    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1260,10 +1260,10 @@
     "description": "Description for Specialisation:11 Row:4 Column:1 Rank:5. Use icon icon_1141.jpg"
   },
   "11421": {
-    "name": "Mutilation",
+    "name": "Maîtrise de la Rage",
     "icon": "icon_1142",
     "rank": 1,
-    "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats pendant 10sec au lieu de lui retiré un montant de vie instantané"
+    "description": "Diminue le temps de rechargement des techniques Rage Berserker, Rage Sanguinaire, Témérité et Souhait Mortel de 33%"
   },
   "11422": {
     "name": "Specialisation:11 Row:4 Column:2 Rank:2",
@@ -1410,10 +1410,10 @@
     "description": "Description for Specialisation:11 Row:6 Column:1 Rank:5. Use icon icon_1161.jpg"
   },
   "11621": {
-    "name": "Maîtrise de la Rage",
+    "name": "Mutilation",
     "icon": "icon_1162",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques Rage Berserker, Rage Sanguinaire, Témérité et Souhait Mortel de 33%"
+    "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats pendant 10sec au lieu de lui retiré un montant de vie instantané"
   },
   "11622": {
     "name": "Specialisation:11 Row:6 Column:2 Rank:2",
