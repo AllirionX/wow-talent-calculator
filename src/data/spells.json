@@ -33,13 +33,13 @@
     "name": "Charge améliorée rang1",
     "icon": "icon_1001",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantité de point de Rage généré par la technique de 3pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantité de point de Rage génèré par la technique de 3pts"
   },
   "10012": {
     "name": "Charge améliorée rang2",
     "icon": "icon_1001",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Charge de 50% et augmente la quantité de point de Rage généré par la technique de 6pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 50% et augmente la quantité de point de Rage génèré par la technique de 6pts"
   },
   "10013": {
     "name": "Specialisation:10 Row:0 Column:1 Rank:3",
@@ -183,19 +183,19 @@
     "name": "Frappe Héroïque Améliorée rang1",
     "icon": "icon_1012",
     "rank": 1,
-    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 1pts et augmente les chances de critiques avec la technique Frappe Héroïque de 2%"
+    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 1pts et augmente les chances de critiques avec cette technique de 2%"
   },
   "10122": {
     "name": "Frappe Héroïque Améliorée rang2",
     "icon": "icon_1012",
     "rank": 2,
-    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 2pts et augmente les chances de critiques avec la technique Frappe Héroïque de 4%"
+    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 2pts et augmente les chances de critiques avec cette technique de 4%"
   },
   "10123": {
     "name": "Frappe Héroïque Améliorée rang3",
     "icon": "icon_1012",
     "rank": 3,
-    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 3pts et augmente les chances de critiques avec la technique Frappe Héroïque de 6%"
+    "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 3pts et augmente les chances de critiques avec cette technique de 6%"
   },
   "10124": {
     "name": "Specialisation:10 Row:1 Column:2 Rank:4",
@@ -243,19 +243,19 @@
     "name": "Blessures Profondes rang1",
     "icon": "icon_1020",
     "rank": 1,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de sa plage de dégats de son arme en points de dégats en 12sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de la plage de dégats de son arme en points de dégats en 12sec"
   },
   "10202": {
     "name": "Blessures Profondes rang2",
     "icon": "icon_1020",
     "rank": 2,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de sa plage de dégats de son arme en points de dégats en 9sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de la plage de dégats de son arme en points de dégats en 9sec"
   },
   "10203": {
     "name": "Blessures Profondes rang3",
     "icon": "icon_1020",
     "rank": 3,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de sa plage de dégats de son arme en points de dégats en 6sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de la plage de dégats de son arme en points de dégats en 6sec"
   },
   "10204": {
     "name": "Specialisation:10 Row:2 Column:0 Rank:4",
@@ -453,13 +453,13 @@
     "name": "Volonté de Fer rang1",
     "icon": "icon_1033",
     "rank": 1,
-    "description": "Diminue la durée des effets d'étourdissement et de séduction sur le Guerrier de 10%"
+    "description": "Diminue la durée des effets d'étourdissement et de charme sur le Guerrier de 10%"
   },
   "10332": {
     "name": "Volonté de Fer rang2",
     "icon": "icon_1033",
     "rank": 2,
-    "description": "Diminue la durée des effets d'étourdissement et de séduction sur le Guerrier de 20%"
+    "description": "Diminue la durée des effets d'étourdissement et de charme sur le Guerrier de 20%"
   },
   "10333": {
     "name": "Specialisation:10 Row:3 Column:3 Rank:3",
@@ -483,19 +483,19 @@
     "name": "Discipline rang1",
     "icon": "icon_1040",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques Représaille, Témérité et Mur Protecteur de 10%"
+    "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 10%"
   },
   "10402": {
     "name": "Discipline rang2",
     "icon": "icon_1040",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques Représaille, Témérité et Mur Protecteur de 20%"
+    "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 20%"
   },
   "10403": {
     "name": "Discipline rang3",
     "icon": "icon_1040",
     "rank": 3,
-    "description": "Diminue le temps de rechargement des techniques Représaille, Témérité et Mur Protecteur de 30%"
+    "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 30%"
   },
   "10404": {
     "name": "Specialisation:10 Row:4 Column:0 Rank:4",
@@ -513,7 +513,7 @@
     "name": "Attaques Circulaires",
     "icon": "icon_1041",
     "rank": 1,
-    "description": "Technique a activer, 30sec de temps de recharge, 30pts de Rages, utilisable dans toutes les postures, Vos attaques en mélées touches également une cible a portée, dure 10sec ou 5 charges"
+    "description": "Technique a activer, 30sec de temps de recharge, 30pts de Rage, utilisable dans toutes les postures, Vos attaques en mélées touches également une cible a portée, dure 10sec ou 5 charges"
   },
   "10412": {
     "name": "Specialisation:10 Row:4 Column:1 Rank:2",
@@ -573,13 +573,13 @@
     "name": "Traumatisme rang1",
     "icon": "icon_1043",
     "rank": 1,
-    "description": "Chacun de vos saignement applique également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
+    "description": "Vos saignement appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
   },
   "10432": {
     "name": "Traumatisme rang2",
     "icon": "icon_1043",
     "rank": 2,
-    "description": "Chacun de vos saignement applique également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 30%"
+    "description": "Vos saignement appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 30%"
   },
   "10433": {
     "name": "Specialisation:10 Row:4 Column:3 Rank:3",
@@ -603,13 +603,13 @@
     "name": "Duelliste rang1",
     "icon": "icon_1051",
     "rank": 1,
-    "description": "Augmente l'expertise du Guerrier de 2pts et permet a ses attaques d'ignorer 5% de l'armure de sa cible"
+    "description": "Augmente toutes les compétences d'armes du Guerrier de 2pts et permet a ses attaques d'ignorer 2% de l'armure de sa cible"
   },
   "10512": {
     "name": "Duelliste rang2",
     "icon": "icon_1051",
     "rank": 2,
-    "description": "Augmente l'expertise du Guerrier de 5pts et permet a ses attaques d'ignorer 10% de l'armure de sa cible"
+    "description": "Augmente toutes les compétences d'armes du Guerrier de 5pts et permet a ses attaques d'ignorer 5% de l'armure de sa cible"
   },
   "10513": {
     "name": "Specialisation:10 Row:5 Column:1 Rank:3",
@@ -633,19 +633,19 @@
     "name": "Expert en Armes rang1",
     "icon": "icon_1052",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Guerrier de 2% et sa vitesse de Frappe de 5%"
+    "description": "Augmente les dégats des critiques du Guerrier de 2% et sa vitesse d'attaque de 5%"
   },
   "10522": {
     "name": "Expert en Armes rang2",
     "icon": "icon_1052",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Guerrier de 4% et sa vitesse de Frappe de 10%"
+    "description": "Augmente les dégats des critiques du Guerrier de 4% et sa vitesse d'attaque de 10%"
   },
   "10523": {
     "name": "Expert en Armes rang3",
     "icon": "icon_1052",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Guerrier de 6% et sa vitesse de Frappe de 15%"
+    "description": "Augmente les dégats des critiques du Guerrier de 6% et sa vitesse d'attaque de 15%"
   },
   "10524": {
     "name": "Specialisation:10 Row:5 Column:2 Rank:4",
@@ -663,7 +663,7 @@
     "name": "Frappe Mortelle",
     "icon": "icon_1061",
     "rank": 1,
-    "description": "Technique a activer, 6sec de temps de rechargement, 30pts en Rages, 0-5yards de portée, utilisable dans toutes les postures, Inflige a la cible un dégat instantané qui correspond a 70% de la plage de dégats de l'arme +160 et affaiblit la cible durant 10sec qui réduit les soins subit de 50%"
+    "description": "Technique a activer, 6sec de temps de rechargement, 30pts en Rage, 0-5yards de portée, utilisable dans toutes les postures, Inflige a la cible un dégat instantané qui correspond a 70% de la plage de dégats de l'arme +160 et affaiblit la cible durant 10sec qui réduit les soins qu'elle subit de 50%"
   },
   "10612": {
     "name": "Specialisation:10 Row:6 Column:1 Rank:2",
@@ -723,19 +723,19 @@
     "name": "Réflexes Physique rang1",
     "icon": "icon_1100",
     "rank": 1,
-    "description": "Augmente l'agilité du Guerrier de 5%"
+    "description": "Augmente l'Agilité du Guerrier de 5%"
   },
   "11002": {
     "name": "Réflexes Physique rang2",
     "icon": "icon_1100",
     "rank": 2,
-    "description": "Augmente l'agilité du Guerrier de 10%"
+    "description": "Augmente l'Agilité du Guerrier de 10%"
   },
   "11003": {
     "name": "Réflexes Physique rang3",
     "icon": "icon_1100",
     "rank": 3,
-    "description": "Augmente l'agilité du Guerrier de 15%"
+    "description": "Augmente l'Agilité du Guerrier de 15%"
   },
   "11004": {
     "name": "Specialisation:11 Row:0 Column:0 Rank:4",
@@ -753,13 +753,13 @@
     "name": "Cris Améliorés rang1",
     "icon": "icon_1101",
     "rank": 1,
-    "description": "Augmente l'efficacité des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
+    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
   },
   "11012": {
     "name": "Cris Améliorés rang2",
     "icon": "icon_1101",
     "rank": 2,
-    "description": "Augmente l'efficacité des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 40%"
+    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 40%"
   },
   "11013": {
     "name": "Specialisation:11 Row:0 Column:1 Rank:3",
@@ -903,19 +903,19 @@
     "name": "Posture Berserker Améliorée rang1",
     "icon": "icon_1112",
     "rank": 1,
-    "description": "Diminue la pénalité de dégats subit de 3% ainsi que la menace génèré par le Guerrier dans cette posture de 5%"
+    "description": "Diminue la pénalitée de dégats subit de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
   },
   "11122": {
     "name": "Posture Berserker Améliorée rang2",
     "icon": "icon_1112",
     "rank": 2,
-    "description": "Diminue la pénalité de dégats subit de 6% ainsi que la menace génèré par le Guerrier dans cette posture de 10%"
+    "description": "Diminue la pénalitée de dégats subit de 6% ainsi que la menace génèrée par le Guerrier dans cette posture de 10%"
   },
   "11123": {
     "name": "Posture Berserker Améliorée rang3",
     "icon": "icon_1112",
     "rank": 3,
-    "description": "Diminue la pénalité de dégats subit de 9% ainsi que la menace génèré par le Guerrier dans cette posture de 15%"
+    "description": "Diminue la pénalitée de dégats subit de 9% ainsi que la menace génèrée par le Guerrier dans cette posture de 15%"
   },
   "11124": {
     "name": "Specialisation:11 Row:1 Column:2 Rank:4",
@@ -933,13 +933,13 @@
     "name": "Colère Déchaînée rang1",
     "icon": "icon_1113",
     "rank": 1,
-    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +1pts en Rage"
+    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 50% de chance d'obtenir un bonus de +1pts en Rage"
   },
   "11132": {
     "name": "Colère Déchaînée rang2",
     "icon": "icon_1113",
     "rank": 2,
-    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +2pts en Rage"
+    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +1pts en Rage"
   },
   "11133": {
     "name": "Specialisation:11 Row:1 Column:3 Rank:3",
@@ -993,7 +993,7 @@
     "name": "Hurlement Perçant",
     "icon": "icon_1121",
     "rank": 1,
-    "description": "Technique a activer, instantané, 1Opts de Rage, Cri qui ralentit toutes les cibles ennemies dans les 10yards et réduit leur vitesse de déplacement de 50% durant 6sec"
+    "description": "Technique a activer, instantané, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans les 10yards et réduit leur vitesse de déplacement de 50% durant 6sec"
   },
   "11212": {
     "name": "Specialisation:11 Row:2 Column:1 Rank:2",
@@ -1023,7 +1023,7 @@
     "name": "Ivresse de la Victoire",
     "icon": "icon_1122",
     "rank": 1,
-    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur"
+    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1053,13 +1053,13 @@
     "name": "Défi Intimidant rang1",
     "icon": "icon_1123",
     "rank": 1,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation de 1min et celui de Cri de Défi de 2min"
+    "description": "Réduit le temps de rechargement de la technique Cri d'Intimidation de 1min et celui de la technique Cri de Défi de 2min"
   },
   "11232": {
     "name": "Défi Intimidant rang2",
     "icon": "icon_1123",
     "rank": 2,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation de 2min et celui de Cri de Défi de 4min"
+    "description": "Réduit le temps de rechargement de la technique Cri d'Intimidation de 2min et celui de la technique Cri de Défi de 4min"
   },
   "11233": {
     "name": "Specialisation:11 Row:2 Column:3 Rank:3",
@@ -1083,19 +1083,19 @@
     "name": "Spécialisation Ambidextrie rang1",
     "icon": "icon_1130",
     "rank": 1,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 10%"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 10%"
   },
   "11302": {
     "name": "Spécialisation Ambidextrie rang2",
     "icon": "icon_1130",
     "rank": 2,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 20%"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 20%"
   },
   "11303": {
     "name": "Spécialisation Ambidextrie rang3",
     "icon": "icon_1130",
     "rank": 3,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec 2 armes de 30%"
+    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 30%"
   },
   "11304": {
     "name": "Specialisation:11 Row:3 Column:0 Rank:4",
@@ -1113,13 +1113,13 @@
     "name": "Exécution Améliorée rang1",
     "icon": "icon_1131",
     "rank": 1,
-    "description": "Diminue le cout en Rage de la technique Exécution de 2pts et augmente les chances de critiques de la technique de 5%"
+    "description": "Diminue le cout en Rage de la technique Exécution de 2pts et lui rend ensuite 5pts de Rage"
   },
   "11312": {
     "name": "Exécution Améliorée rang2",
     "icon": "icon_1131",
     "rank": 2,
-    "description": "Diminue le cout en Rage de la technique Exécution de 5pts et augmente les chances de critiques de la technique de 10%"
+    "description": "Diminue le cout en Rage de la technique Exécution de 5pts et lui rend ensuite 10pts de Rage"
   },
   "11313": {
     "name": "Specialisation:11 Row:3 Column:1 Rank:3",
@@ -1152,7 +1152,7 @@
     "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
   },
   "11323": {
-    "name": "enragé rang3",
+    "name": "Enragé rang3",
     "icon": "icon_1132",
     "rank": 3,
     "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
@@ -1233,7 +1233,7 @@
     "name": "Souhait Mortel",
     "icon": "icon_1141",
     "rank": 1,
-    "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les postures, Enrage le Guerrier durant 30sec, durant l'effet le Guerrier se libère et est insensible aux effets de Peur et augmente les dégats qu'il inflige de 20% mais il ne peut plus Parer/Esquiver ni Bloquer les attaques"
+    "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les postures, Procure un effet de rage sur le Guerrier durant 30sec, durant l'effet le Guerrier se libère et est insensible aux effets de Peur et augmente les dégats qu'il inflige de 20% mais il ne peut plus ni Parer, ni Esquiver ni Bloquer les attaques"
   },
   "11412": {
     "name": "Specialisation:11 Row:4 Column:1 Rank:2",
@@ -1263,7 +1263,7 @@
     "name": "Mutilation",
     "icon": "icon_1142",
     "rank": 1,
-    "description": "La technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats sur la durée au lieu d'instantané pendant 10sec"
+    "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats pendant 10sec au lieu de lui retiré un montant de vie instantané"
   },
   "11422": {
     "name": "Specialisation:11 Row:4 Column:2 Rank:2",
@@ -1353,19 +1353,19 @@
     "name": "Rafale rang1",
     "icon": "icon_1152",
     "rank": 1,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 10% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d'attaque de 10% durant 12sec ou 3 charges"
   },
   "11522": {
     "name": "Rafale rang2",
     "icon": "icon_1152",
     "rank": 2,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 20% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d'attaque de 20% durant 12sec ou 3 charges"
   },
   "11523": {
     "name": "Rafale rang3",
     "icon": "icon_1152",
     "rank": 3,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse de frappe de 30% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d(attaque de 30% durant 12sec ou 3 charges"
   },
   "11524": {
     "name": "Specialisation:11 Row:5 Column:2 Rank:4",
