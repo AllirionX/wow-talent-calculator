@@ -1890,13 +1890,13 @@
     "description": "Description for Specialisation:12 Row:3 Column:2 Rank:5. Use icon icon_1232.jpg"
   },
   "12331": {
-    "name": "Intervention Améliorée rang1",
+    "name": "Protecteur rang1",
     "icon": "icon_1233",
     "rank": 1,
     "description": "Réduit le temps de rechargement de la technique Intervention de 25% et son cout en Rage de 50%"
   },
   "12332": {
-    "name": "Intervention Améliorée rang2",
+    "name": "Protecteur rang2",
     "icon": "icon_1233",
     "rank": 2,
     "description": "Réduit le temps de rechargement de la technique Intervention de 50% et son cout en Rage de 100%"
@@ -1953,7 +1953,7 @@
     "name": "Renvoi de Sort",
     "icon": "icon_1241",
     "rank": 1,
-    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en posture Défensive et Combat uniquement, 15pts de Rage, 10sec de temps de rechargement, Lorsqu'il est activé, renvoit le prochain sort dans les 5sec lancé sur le Guerrier"
+    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Lorsqu'il est activé, renvoit le prochain sort dans les 5sec lancé sur le Guerrier"
   },
   "12412": {
     "name": "Specialisation:12 Row:4 Column:1 Rank:2",
@@ -2049,7 +2049,7 @@
     "name": "Bouclier Réflecteur rang2",
     "icon": "icon_1251",
     "rank": 2,
-    "description": "Lorsque le Guerrier bloque une attaque avec son bouclier, il renvoit a l'attaquant un dégat équivalent a 1% de sa valeur de blocage"
+    "description": "Lorsque le Guerrier bloque une attaque avec son bouclier, il renvoit a l'attaquant un dégat équivalent a 2% de sa valeur de blocage"
   },
   "12513": {
     "name": "Specialisation:12 Row:5 Column:1 Rank:3",
