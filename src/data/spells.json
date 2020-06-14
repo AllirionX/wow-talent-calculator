@@ -121,7 +121,7 @@
   },
   "10101": {
     "name": "Parade rang1",
-    "icon": "icon_1010",
+    "icon": "ability_parry.jpg",
     "rank": 1,
     "description": "Augmente les chances de Parade du Guerrier de 2%"
   },
