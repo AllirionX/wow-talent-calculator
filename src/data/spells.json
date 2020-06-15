@@ -33,13 +33,13 @@
     "name": "Charge améliorée (rang1)",
     "icon": "icon_1001",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantitée de Rage génèrée par la technique de 3pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantité de Rage génèré par la technique de 3pts"
   },
   "10012": {
     "name": "Charge améliorée (rang2)",
     "icon": "icon_1001",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Charge de 50% et augmente la quantitée de Rage génèrée par la technique de 6pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 50% et augmente la quantité de Rage génèré par la technique de 6pts"
   },
   "10013": {
     "name": "Specialisation:10 Row:0 Column:1 Rank:3",
@@ -63,19 +63,19 @@
     "name": "Maîtrise Tactique (rang1)",
     "icon": "icon_1002",
     "rank": 1,
-    "description": "En plus des 10pts de base, le Guerrier concerve 5pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve 5pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10022": {
     "name": "Maîtrise Tactique (rang2)",
     "icon": "icon_1002",
     "rank": 2,
-    "description": "En plus des 10pts de base, le Guerrier concerve 10pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve 10pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10023": {
     "name": "Maîtrise Tactique (rang3)",
     "icon": "icon_1002",
     "rank": 3,
-    "description": "En plus des 10pts de base, le Guerrier concerve 15pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve 15pts de Rage supplémentaires lorsqu'il change de posture"
   },
   "10024": {
     "name": "Specialisation:10 Row:0 Column:2 Rank:4",
@@ -273,7 +273,7 @@
     "name": "Juggernaut",
     "icon": "icon_1021",
     "rank": 1,
-    "description": "Permet au Guerrier de génèrer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne 100% de chance de critique sur sa prochaine technique Heurtoir ou Ivresse de la Victoire dans les 30sec" 
+    "description": "Permet au Guerrier de génèrer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne 100% de chance de critique sur sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Dévaster dans les 30sec" 
   },
   "10212": {
     "name": "Specialisation:10 Row:2 Column:1 Rank:2",
@@ -720,19 +720,19 @@
     "description": "Description for Specialisation:10 Row:6 Column:2 Rank:5. Use icon icon_1062.jpg"
   },
   "11001": {
-    "name": "Réflexes Physique (rang1)",
+    "name": "Tonus Physique (rang1)",
     "icon": "icon_1100",
     "rank": 1,
     "description": "Augmente l'Agilité du Guerrier de 5%"
   },
   "11002": {
-    "name": "Réflexes Physique (rang2)",
+    "name": "Tonus Physique (rang2)",
     "icon": "icon_1100",
     "rank": 2,
     "description": "Augmente l'Agilité du Guerrier de 10%"
   },
   "11003": {
-    "name": "Réflexes Physique (rang3)",
+    "name": "Tonus Physique (rang3)",
     "icon": "icon_1100",
     "rank": 3,
     "description": "Augmente l'Agilité du Guerrier de 15%"
@@ -903,19 +903,19 @@
     "name": "Posture Berserker Améliorée (rang1)",
     "icon": "icon_1112",
     "rank": 1,
-    "description": "Diminue la pénalitée de dégats subit de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
+    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
   },
   "11122": {
     "name": "Posture Berserker Améliorée (rang2)",
     "icon": "icon_1112",
     "rank": 2,
-    "description": "Diminue la pénalitée de dégats subit de 6% ainsi que la menace génèrée par le Guerrier dans cette posture de 10%"
+    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 6% ainsi que la menace génèrée par le Guerrier dans cette posture de 10%"
   },
   "11123": {
     "name": "Posture Berserker Améliorée (rang3)",
     "icon": "icon_1112",
     "rank": 3,
-    "description": "Diminue la pénalitée de dégats subit de 9% ainsi que la menace génèrée par le Guerrier dans cette posture de 15%"
+    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 9% ainsi que la menace génèrée par le Guerrier dans cette posture de 15%"
   },
   "11124": {
     "name": "Specialisation:11 Row:1 Column:2 Rank:4",
@@ -1083,19 +1083,19 @@
     "name": "Spécialisation Ambidextrie (rang1)",
     "icon": "icon_1130",
     "rank": 1,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 10%"
+    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 10%"
   },
   "11302": {
     "name": "Spécialisation Ambidextrie (rang2)",
     "icon": "icon_1130",
     "rank": 2,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 20%"
+    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 20%"
   },
   "11303": {
     "name": "Spécialisation Ambidextrie (rang3)",
     "icon": "icon_1130",
     "rank": 3,
-    "description": "Augmente les dégats infligés lorsque le Guerrier combat avec une arme dans chaque main de 30%"
+    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 30%"
   },
   "11304": {
     "name": "Specialisation:11 Row:3 Column:0 Rank:4",
@@ -1170,13 +1170,13 @@
     "description": "Description for Specialisation:11 Row:3 Column:2 Rank:5. Use icon icon_1132.jpg"
   },
   "11331": {
-    "name": "Interception Améliorée (rang1)",
+    "name": "Fonceur (rang1)",
     "icon": "icon_1133",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Interception de 5sec"
   },
   "11332": {
-    "name": "Interception Améliorée (rang2)",
+    "name": "Fonceur (rang2)",
     "icon": "icon_1133",
     "rank": 2,
     "description": "Diminue le temps de rechargement de la technique Interception de 10sec"
@@ -1293,13 +1293,13 @@
     "name": "Tourbillon Amélioré (rang1)",
     "icon": "icon_1143",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique de 10%"
+    "description": "Diminue le temps de rechargement de la technique Tourbillon de 10%"
   },
   "11432": {
     "name": "Tourbillon Amélioré (rang2)",
     "icon": "icon_1143",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique de 20%"
+    "description": "Diminue le temps de rechargement de la technique Tourbillon de 20%"
   },
   "11433": {
     "name": "Specialisation:11 Row:4 Column:3 Rank:3",
@@ -2013,13 +2013,13 @@
     "name": "Coup de Bouclier Amélioré (rang1)",
     "icon": "icon_1243",
     "rank": 1,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hèbêter la cible durant 1,5sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hébêter la cible durant 1,5sec"
   },
   "12432": {
     "name": "Coup de Bouclier Amélioré (rang2)",
     "icon": "icon_1243",
     "rank": 2,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hèbêter la cible durant 3sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hébêter la cible durant 3sec"
   },
   "12433": {
     "name": "Specialisation:12 Row:4 Column:3 Rank:3",
@@ -2160,22 +2160,22 @@
     "description": "Description for Specialisation:12 Row:6 Column:2 Rank:5. Use icon icon_1262.jpg"
   },
   "20001": {
-    "name": "Specialisation:20 Row:0 Column:0 Rank:1",
+    "name": "Foi en son Armure (rang1)",
     "icon": "icon_2000",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:0 Column:0 Rank:1. Use icon icon_2000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 1pts de Mana"
   },
   "20002": {
-    "name": "Specialisation:20 Row:0 Column:0 Rank:2",
+    "name": "Foi en son Armure (rang2)",
     "icon": "icon_2000",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:0 Column:0 Rank:2. Use icon icon_2000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 2pts de Mana"
   },
   "20003": {
-    "name": "Specialisation:20 Row:0 Column:0 Rank:3",
+    "name": "Foi en son Armure (rang3)",
     "icon": "icon_2000",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:0 Column:0 Rank:3. Use icon icon_2000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 3pts de Mana"
   },
   "20004": {
     "name": "Specialisation:20 Row:0 Column:0 Rank:4",
@@ -2190,16 +2190,16 @@
     "description": "Description for Specialisation:20 Row:0 Column:0 Rank:5. Use icon icon_2000.jpg"
   },
   "20011": {
-    "name": "Specialisation:20 Row:0 Column:1 Rank:1",
+    "name": "Focalisation Améliorée (rang1)",
     "icon": "icon_2001",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:0 Column:1 Rank:1. Use icon icon_2001.jpg"
+    "description": "Donne 35% de chance de non-interruption lorsque le Paladin cast un sort de l'école de Magie du Sacré"
   },
   "20012": {
-    "name": "Specialisation:20 Row:0 Column:1 Rank:2",
+    "name": "Focalisation Améliorée (rang2)",
     "icon": "icon_2001",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:0 Column:1 Rank:2. Use icon icon_2001.jpg"
+    "description": "Donne 70% de chance de non-interruption lorsque le Paladin cast un sort de l'école de Magie du Sacré"
   },
   "20013": {
     "name": "Specialisation:20 Row:0 Column:1 Rank:3",
@@ -2220,22 +2220,22 @@
     "description": "Description for Specialisation:20 Row:0 Column:1 Rank:5. Use icon icon_2001.jpg"
   },
   "20021": {
-    "name": "Specialisation:20 Row:0 Column:2 Rank:1",
+    "name": "Piété Amélioré (rang1)",
     "icon": "icon_2002",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:0 Column:2 Rank:1. Use icon icon_2002.jpg"
+    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 5%"
   },
   "20022": {
-    "name": "Specialisation:20 Row:0 Column:2 Rank:2",
+    "name": "Piété Amélioré (rang2)",
     "icon": "icon_2002",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:0 Column:2 Rank:2. Use icon icon_2002.jpg"
+    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 10%"
   },
   "20023": {
-    "name": "Specialisation:20 Row:0 Column:2 Rank:3",
+    "name": "Piété Amélioré (rang3)",
     "icon": "icon_2002",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:0 Column:2 Rank:3. Use icon icon_2002.jpg"
+    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 15%"
   },
   "20024": {
     "name": "Specialisation:20 Row:0 Column:2 Rank:4",
@@ -2250,16 +2250,16 @@
     "description": "Description for Specialisation:20 Row:0 Column:2 Rank:5. Use icon icon_2002.jpg"
   },
   "20031": {
-    "name": "Specialisation:20 Row:0 Column:3 Rank:1",
+    "name": "Sagesse Améliorée (rang1)",
     "icon": "icon_2003",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:0 Column:3 Rank:1. Use icon icon_2003.jpg"
+    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 10% et augmente leur durée de 5min"
   },
   "20032": {
-    "name": "Specialisation:20 Row:0 Column:3 Rank:2",
+    "name": "Sagesse Améliorée (rang2)",
     "icon": "icon_2003",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:0 Column:3 Rank:2. Use icon icon_2003.jpg"
+    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 20% et augmente leur durée de 10min"
   },
   "20033": {
     "name": "Specialisation:20 Row:0 Column:3 Rank:3",
@@ -2280,22 +2280,22 @@
     "description": "Description for Specialisation:20 Row:0 Column:3 Rank:5. Use icon icon_2003.jpg"
   },
   "20101": {
-    "name": "Specialisation:20 Row:1 Column:0 Rank:1",
+    "name": "Intelligence Divine (rang1)",
     "icon": "icon_2010",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:1 Column:0 Rank:1. Use icon icon_2010.jpg"
+    "description": "Augmente l'Intelligence du Paladin de 5%"
   },
   "20102": {
-    "name": "Specialisation:20 Row:1 Column:0 Rank:2",
+    "name": "Intelligence Divine (rang2)",
     "icon": "icon_2010",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:1 Column:0 Rank:2. Use icon icon_2010.jpg"
+    "description": "Augmente l'Intelligence du Paladin de 10%"
   },
   "20103": {
-    "name": "Specialisation:20 Row:1 Column:0 Rank:3",
+    "name": "Intelligence Divine (rang3)",
     "icon": "icon_2010",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:1 Column:0 Rank:3. Use icon icon_2010.jpg"
+    "description": "Augmente l'Intelligence du Paladin de 15%"
   },
   "20104": {
     "name": "Specialisation:20 Row:1 Column:0 Rank:4",
@@ -2310,16 +2310,16 @@
     "description": "Description for Specialisation:20 Row:1 Column:0 Rank:5. Use icon icon_2010.jpg"
   },
   "20111": {
-    "name": "Specialisation:20 Row:1 Column:1 Rank:1",
+    "name": "Sagesse Infini (rang1)",
     "icon": "icon_2011",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:1 Column:1 Rank:1. Use icon icon_2011.jpg"
+    "description": "Diminue le coût en mana des techniques Bénédiction de Sagesse Sceau de Sagesse et Jugement de Sagesse de 50%"
   },
   "20112": {
-    "name": "Specialisation:20 Row:1 Column:1 Rank:2",
+    "name": "Sagesse Infini (rang2)",
     "icon": "icon_2011",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:1 Column:1 Rank:2. Use icon icon_2011.jpg"
+    "description": "Diminue le coût en mana des techniques Bénédiction de Sagesse Sceau de Sagesse et Jugement de Sagesse de 100%"
   },
   "20113": {
     "name": "Specialisation:20 Row:1 Column:1 Rank:3",
@@ -2340,22 +2340,22 @@
     "description": "Description for Specialisation:20 Row:1 Column:1 Rank:5. Use icon icon_2011.jpg"
   },
   "20121": {
-    "name": "Specialisation:20 Row:1 Column:2 Rank:1",
+    "name": "Puissance Purifiante (rang1)",
     "icon": "icon_2012",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:1 Column:2 Rank:1. Use icon icon_2012.jpg"
+    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 15%"
   },
   "20122": {
-    "name": "Specialisation:20 Row:1 Column:2 Rank:2",
+    "name": "Puissance Purifiante (rang2)",
     "icon": "icon_2012",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:1 Column:2 Rank:2. Use icon icon_2012.jpg"
+    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 30%"
   },
   "20123": {
-    "name": "Specialisation:20 Row:1 Column:2 Rank:3",
+    "name": "Puissance Purifiante (rang3)",
     "icon": "icon_2012",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:1 Column:2 Rank:3. Use icon icon_2012.jpg"
+    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 45%"
   },
   "20124": {
     "name": "Specialisation:20 Row:1 Column:2 Rank:4",
@@ -2370,16 +2370,16 @@
     "description": "Description for Specialisation:20 Row:1 Column:2 Rank:5. Use icon icon_2012.jpg"
   },
   "20131": {
-    "name": "Specialisation:20 Row:1 Column:3 Rank:1",
+    "name": "Imposition des Mains Améliorées (rang1)",
     "icon": "icon_2013",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:1 Column:3 Rank:1. Use icon icon_2013.jpg"
+    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 1min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui augmente l'armure de 2% durant 1min"
   },
   "20132": {
-    "name": "Specialisation:20 Row:1 Column:3 Rank:2",
+    "name": "Imposition des Mains Améliorées (rang2)",
     "icon": "icon_2013",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:1 Column:3 Rank:2. Use icon icon_2013.jpg"
+    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 2min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui augmente l'armure de 2% durant 2min"
   },
   "20133": {
     "name": "Specialisation:20 Row:1 Column:3 Rank:3",
@@ -2400,22 +2400,22 @@
     "description": "Description for Specialisation:20 Row:1 Column:3 Rank:5. Use icon icon_2013.jpg"
   },
   "20201": {
-    "name": "Specialisation:20 Row:2 Column:0 Rank:1",
+    "name": "Lumière Guérisseuse (rang1)",
     "icon": "icon_2020",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:2 Column:0 Rank:1. Use icon icon_2020.jpg"
+    "description": "Augmente le montant des soins du Paladin de 5%"
   },
   "20202": {
-    "name": "Specialisation:20 Row:2 Column:0 Rank:2",
+    "name": "Lumière Guérisseuse (rang2)",
     "icon": "icon_2020",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:2 Column:0 Rank:2. Use icon icon_2020.jpg"
+    "description": "Augmente le montant des soins du Paladin de 10%"
   },
   "20203": {
-    "name": "Specialisation:20 Row:2 Column:0 Rank:3",
+    "name": "Lumière Guérisseuse (rang3)",
     "icon": "icon_2020",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:2 Column:0 Rank:3. Use icon icon_2020.jpg"
+    "description": "Augmente le montant des soins du Paladin de 15%"
   },
   "20204": {
     "name": "Specialisation:20 Row:2 Column:0 Rank:4",
@@ -2430,10 +2430,10 @@
     "description": "Description for Specialisation:20 Row:2 Column:0 Rank:5. Use icon icon_2020.jpg"
   },
   "20211": {
-    "name": "Specialisation:20 Row:2 Column:1 Rank:1",
+    "name": "Consécration",
     "icon": "icon_2021",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:2 Column:1 Rank:1. Use icon icon_2021.jpg"
+    "description": "Technique a activer, instantanée, coût 135pts de mana, Consacre le sol autour du Paladin et inflige 64pts de dégats du sacré aux ennemis dans la zone et soigne les alliés dans la zone du même montant durant 8sec"
   },
   "20212": {
     "name": "Specialisation:20 Row:2 Column:1 Rank:2",
@@ -2460,10 +2460,10 @@
     "description": "Description for Specialisation:20 Row:2 Column:1 Rank:5. Use icon icon_2021.jpg"
   },
   "20221": {
-    "name": "Specialisation:20 Row:2 Column:2 Rank:1",
+    "name": "Main Généreuse",
     "icon": "icon_2022",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:2 Column:2 Rank:1. Use icon icon_2022.jpg"
+    "description": "Diminue le coût en mana des techniques Main de Liberté, Main de Sacrifice, Main de Protection, Imposition des Mains de 100% et leur procure 1sec de temps de recharge global au lieu d'1,5sec"
   },
   "20222": {
     "name": "Specialisation:20 Row:2 Column:2 Rank:2",
@@ -2490,16 +2490,16 @@
     "description": "Description for Specialisation:20 Row:2 Column:2 Rank:5. Use icon icon_2022.jpg"
   },
   "20231": {
-    "name": "Specialisation:20 Row:2 Column:3 Rank:1",
+    "name": "Rédemption Améliorée (rang1)",
     "icon": "icon_2023",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:2 Column:3 Rank:1. Use icon icon_2023.jpg"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que le temps d'incantation de la technique de 1sec et augmente le montant de vie et de mana rendue a la cible de 15%"
   },
   "20232": {
-    "name": "Specialisation:20 Row:2 Column:3 Rank:2",
+    "name": "Rédemption Améliorée (rang2)",
     "icon": "icon_2023",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:2 Column:3 Rank:2. Use icon icon_2023.jpg"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 40%, ainsi que le temps d'incantation de la technique de 2sec et augmente le montant de vie et de mana rendue a la cible de 30%"
   },
   "20233": {
     "name": "Specialisation:20 Row:2 Column:3 Rank:3",
@@ -2520,22 +2520,22 @@
     "description": "Description for Specialisation:20 Row:2 Column:3 Rank:5. Use icon icon_2023.jpg"
   },
   "20301": {
-    "name": "Specialisation:20 Row:3 Column:0 Rank:1",
+    "name": "Vie Bénie (rang1)",
     "icon": "icon_2030",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:3 Column:0 Rank:1. Use icon icon_2030.jpg"
+    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 5%"
   },
   "20302": {
-    "name": "Specialisation:20 Row:3 Column:0 Rank:2",
+    "name": "Vie Bénie (rang2)",
     "icon": "icon_2030",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:3 Column:0 Rank:2. Use icon icon_2030.jpg"
+    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 10%"
   },
   "20303": {
-    "name": "Specialisation:20 Row:3 Column:0 Rank:3",
+    "name": "Vie Bénie (rang3)",
     "icon": "icon_2030",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:3 Column:0 Rank:3. Use icon icon_2030.jpg"
+    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 15%"
   },
   "20304": {
     "name": "Specialisation:20 Row:3 Column:0 Rank:4",
@@ -2550,16 +2550,16 @@
     "description": "Description for Specialisation:20 Row:3 Column:0 Rank:5. Use icon icon_2030.jpg"
   },
   "20311": {
-    "name": "Specialisation:20 Row:3 Column:1 Rank:1",
+    "name": "Pureté de Coeur (rang1)",
     "icon": "icon_2031",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:3 Column:1 Rank:1. Use icon icon_2031.jpg"
+    "description": "Diminue la durée des effets de Poison, de Maladie et de Malédiction sur le Paladin de 10%"
   },
   "20312": {
-    "name": "Specialisation:20 Row:3 Column:1 Rank:2",
+    "name": "Pureté de Coeur (rang2)",
     "icon": "icon_2031",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:3 Column:1 Rank:2. Use icon icon_2031.jpg"
+    "description": "Diminue la durée des effets de Poison, de Maladie et de Malédiction sur le Paladin de 20%"
   },
   "20313": {
     "name": "Specialisation:20 Row:3 Column:1 Rank:3",
@@ -2580,22 +2580,22 @@
     "description": "Description for Specialisation:20 Row:3 Column:1 Rank:5. Use icon icon_2031.jpg"
   },
   "20321": {
-    "name": "Specialisation:20 Row:3 Column:2 Rank:1",
+    "name": "Puissance du Sacré (rang1)",
     "icon": "icon_2032",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:3 Column:2 Rank:1. Use icon icon_2032.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 2%"
   },
   "20322": {
-    "name": "Specialisation:20 Row:3 Column:2 Rank:2",
+    "name": "Puissance du Sacré (rang2)",
     "icon": "icon_2032",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:3 Column:2 Rank:2. Use icon icon_2032.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 4%"
   },
   "20323": {
-    "name": "Specialisation:20 Row:3 Column:2 Rank:3",
+    "name": "Puissance du Sacré (rang3)",
     "icon": "icon_2032",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:3 Column:2 Rank:3. Use icon icon_2032.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 6%"
   },
   "20324": {
     "name": "Specialisation:20 Row:3 Column:2 Rank:4",
@@ -2610,16 +2610,16 @@
     "description": "Description for Specialisation:20 Row:3 Column:2 Rank:5. Use icon icon_2032.jpg"
   },
   "20331": {
-    "name": "Specialisation:20 Row:3 Column:3 Rank:1",
+    "name": "Chasseur le Mal (rang1)",
     "icon": "icon_2033",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:3 Column:3 Rank:1. Use icon icon_2033.jpg"
+    "description": "Du moment que la technique Pistage des Mort-Vivant est active sur le Paladin, diminue le temps de rechargement d'Exorcisme et Colère Divine de 10% ainsi que le temps d'incantation de Renvoi du Mal de 50%"
   },
   "20332": {
-    "name": "Specialisation:20 Row:3 Column:3 Rank:2",
+    "name": "Chasseur le Mal (rang2)",
     "icon": "icon_2033",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:3 Column:3 Rank:2. Use icon icon_2033.jpg"
+    "description": "Du moment que la technique Pistage des Mort-Vivant est active sur le Paladin, diminue le temps de rechargement d'Exorcisme et Colère Divine de 20% ainsi que le temps d'incantation de Renvoi du Mal de 100%"
   },
   "20333": {
     "name": "Specialisation:20 Row:3 Column:3 Rank:3",
@@ -2640,22 +2640,22 @@
     "description": "Description for Specialisation:20 Row:3 Column:3 Rank:5. Use icon icon_2033.jpg"
   },
   "20401": {
-    "name": "Specialisation:20 Row:4 Column:0 Rank:1",
+    "name": "Lumière Infinie (rang1)",
     "icon": "icon_2040",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:4 Column:0 Rank:1. Use icon icon_2040.jpg"
+    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 5%"
   },
   "20402": {
-    "name": "Specialisation:20 Row:4 Column:0 Rank:2",
+    "name": "Lumière Infinie (rang2)",
     "icon": "icon_2040",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:4 Column:0 Rank:2. Use icon icon_2040.jpg"
+    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 10"
   },
   "20403": {
-    "name": "Specialisation:20 Row:4 Column:0 Rank:3",
+    "name": "Lumière Infinie (rang3)",
     "icon": "icon_2040",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:4 Column:0 Rank:3. Use icon icon_2040.jpg"
+    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 15"
   },
   "20404": {
     "name": "Specialisation:20 Row:4 Column:0 Rank:4",
@@ -2670,10 +2670,10 @@
     "description": "Description for Specialisation:20 Row:4 Column:0 Rank:5. Use icon icon_2040.jpg"
   },
   "20411": {
-    "name": "Specialisation:20 Row:4 Column:1 Rank:1",
+    "name": "Faveur Divine",
     "icon": "icon_2041",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:4 Column:1 Rank:1. Use icon icon_2041.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Procure une amélioration au Paladin qui donne 100% de chance a son prochain sort du sacré d'obtenir un effet critique."
   },
   "20412": {
     "name": "Specialisation:20 Row:4 Column:1 Rank:2",
@@ -2700,10 +2700,10 @@
     "description": "Description for Specialisation:20 Row:4 Column:1 Rank:5. Use icon icon_2041.jpg"
   },
   "20421": {
-    "name": "Specialisation:20 Row:4 Column:2 Rank:1",
+    "name": "Concentration Améliorée",
     "icon": "icon_2042",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:4 Column:2 Rank:1. Use icon icon_2042.jpg"
+    "description": "Tous les joueurs bénéficiant d'une Aura de ce Paladin voit la durée des effets de Silence réduite de 30%"
   },
   "20422": {
     "name": "Specialisation:20 Row:4 Column:2 Rank:2",
@@ -2730,16 +2730,16 @@
     "description": "Description for Specialisation:20 Row:4 Column:2 Rank:5. Use icon icon_2042.jpg"
   },
   "20431": {
-    "name": "Specialisation:20 Row:4 Column:3 Rank:1",
+    "name": "Jugement Durable (rang1)",
     "icon": "icon_2043",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:4 Column:3 Rank:1. Use icon icon_2043.jpg"
+    "description": "Augmente la durée des techniques Jugement de Sagesse et Jugement de Lumière de 10sec"
   },
   "20432": {
-    "name": "Specialisation:20 Row:4 Column:3 Rank:2",
+    "name": "Jugement Durable (rang2)",
     "icon": "icon_2043",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:4 Column:3 Rank:2. Use icon icon_2043.jpg"
+    "description": "Augmente la durée des techniques Jugement de Sagesse et Jugement de Lumière de 20sec"
   },
   "20433": {
     "name": "Specialisation:20 Row:4 Column:3 Rank:3",
@@ -2760,16 +2760,16 @@
     "description": "Description for Specialisation:20 Row:4 Column:3 Rank:5. Use icon icon_2043.jpg"
   },
   "20511": {
-    "name": "Specialisation:20 Row:5 Column:1 Rank:1",
+    "name": "Etendue de Lumière (rang1)",
     "icon": "icon_2051",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:5 Column:1 Rank:1. Use icon icon_2051.jpg"
+    "description": "Augmente la portée des techniques Horion Sacré, Epuration, Purification ainsi que les différentes Mains et Auras de 5yards"
   },
   "20512": {
-    "name": "Specialisation:20 Row:5 Column:1 Rank:2",
+    "name": "Etendue de Lumière (rang2)",
     "icon": "icon_2051",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:5 Column:1 Rank:2. Use icon icon_2051.jpg"
+    "description": "Augmente la portée des techniques Horion Sacré, Epuration, Purification ainsi que les différentes Mains et Auras de 10yards"
   },
   "20513": {
     "name": "Specialisation:20 Row:5 Column:1 Rank:3",
@@ -2790,22 +2790,22 @@
     "description": "Description for Specialisation:20 Row:5 Column:1 Rank:5. Use icon icon_2051.jpg"
   },
   "20521": {
-    "name": "Specialisation:20 Row:5 Column:2 Rank:1",
+    "name": "Bénie par la Lumière (rang1)",
     "icon": "icon_2052",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:5 Column:2 Rank:1. Use icon icon_2052.jpg"
+    "description": "Convertit 10% de l'Intelligence du Paladin en Bonus sort"
   },
   "20522": {
-    "name": "Specialisation:20 Row:5 Column:2 Rank:2",
+    "name": "Bénie par la Lumière (rang2)",
     "icon": "icon_2052",
     "rank": 2,
-    "description": "Description for Specialisation:20 Row:5 Column:2 Rank:2. Use icon icon_2052.jpg"
+    "description": "Convertit 20% de l'Intelligence du Paladin en Bonus sort"
   },
   "20523": {
-    "name": "Specialisation:20 Row:5 Column:2 Rank:3",
+    "name": "Bénie par la Lumière (rang3)",
     "icon": "icon_2052",
     "rank": 3,
-    "description": "Description for Specialisation:20 Row:5 Column:2 Rank:3. Use icon icon_2052.jpg"
+    "description": "Convertit 30% de l'Intelligence du Paladin en Bonus sort"
   },
   "20524": {
     "name": "Specialisation:20 Row:5 Column:2 Rank:4",
@@ -2820,10 +2820,10 @@
     "description": "Description for Specialisation:20 Row:5 Column:2 Rank:5. Use icon icon_2052.jpg"
   },
   "20611": {
-    "name": "Specialisation:20 Row:6 Column:1 Rank:1",
+    "name": "Illumination",
     "icon": "icon_2061",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:6 Column:1 Rank:1. Use icon icon_2061.jpg"
+    "description": "Lorsque le Paladin obtient un effet critique avec une technique du sacré, 100% du coût en mana de cette technique est rendu au Paladin"
   },
   "20612": {
     "name": "Specialisation:20 Row:6 Column:1 Rank:2",
@@ -2850,10 +2850,10 @@
     "description": "Description for Specialisation:20 Row:6 Column:1 Rank:5. Use icon icon_2061.jpg"
   },
   "20621": {
-    "name": "Specialisation:20 Row:6 Column:2 Rank:1",
+    "name": "Horion Sacré",
     "icon": "icon_2062",
     "rank": 1,
-    "description": "Description for Specialisation:20 Row:6 Column:2 Rank:1. Use icon icon_2062.jpg"
+    "description": "technique a activer, instantanée, coûte 225pdm, 15sec de temps de recharge, 20m de portée en offensif, 30m de portée en soin, inflige ou rend 212pts du sacré a la cible"
   },
   "20622": {
     "name": "Specialisation:20 Row:6 Column:2 Rank:2",
