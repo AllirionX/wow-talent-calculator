@@ -1803,19 +1803,19 @@
     "name": "Résistance (rang1)",
     "icon": "icon_1230",
     "rank": 1,
-    "description": "Augmente l'Armure du Guerrier de 4% et diminue la durée des effets affectant le mouvement de 5%"
+    "description": "Augmente l'Armure du Guerrier de 4% et diminue la durée des effets affectant le mouvement de 10%"
   },
   "12302": {
     "name": "Résistance (rang2)",
     "icon": "icon_1230",
     "rank": 2,
-    "description": "Augmente l'Armure du Guerrier de 8% et diminue la durée des effets affectant le mouvement de 10%"
+    "description": "Augmente l'Armure du Guerrier de 8% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "12303": {
     "name": "Résistance (rang3)",
     "icon": "icon_1230",
     "rank": 3,
-    "description": "Augmente l'Armure du Guerrier de 12% et diminue la durée des effets affectant le mouvement de 15%"
+    "description": "Augmente l'Armure du Guerrier de 12% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "12304": {
     "name": "Specialisation:12 Row:3 Column:0 Rank:4",
@@ -2250,13 +2250,13 @@
     "description": "Description for Specialisation:20 Row:0 Column:2 Rank:5. Use icon icon_2002.jpg"
   },
   "20031": {
-    "name": "Sagesse Améliorée (rang1)",
+    "name": "Bénédiction de Sagesse Améliorée (rang1)",
     "icon": "icon_2003",
     "rank": 1,
     "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 10% et augmente leur durée de 5min"
   },
   "20032": {
-    "name": "Sagesse Améliorée (rang2)",
+    "name": "Bénédiction de Sagesse Améliorée (rang2)",
     "icon": "icon_2003",
     "rank": 2,
     "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 20% et augmente leur durée de 10min"
@@ -2880,22 +2880,22 @@
     "description": "Description for Specialisation:20 Row:6 Column:2 Rank:5. Use icon icon_2062.jpg"
   },
   "21001": {
-    "name": "Specialisation:21 Row:0 Column:0 Rank:1",
+    "name": "Poids du Bouclier (rang1)",
     "icon": "icon_2100",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:0 Column:0 Rank:1. Use icon icon_2100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 1pts de Vie"
   },
   "21002": {
-    "name": "Specialisation:21 Row:0 Column:0 Rank:2",
+    "name": "Poids du Bouclier (rang2)",
     "icon": "icon_2100",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:0 Column:0 Rank:2. Use icon icon_2100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 2pts de Vie"
   },
   "21003": {
-    "name": "Specialisation:21 Row:0 Column:0 Rank:3",
+    "name": "Poids du Bouclier (rang3)",
     "icon": "icon_2100",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:0 Column:0 Rank:3. Use icon icon_2100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 3pts de Vie"
   },
   "21004": {
     "name": "Specialisation:21 Row:0 Column:0 Rank:4",
@@ -2910,16 +2910,16 @@
     "description": "Description for Specialisation:21 Row:0 Column:0 Rank:5. Use icon icon_2100.jpg"
   },
   "21011": {
-    "name": "Specialisation:21 Row:0 Column:1 Rank:1",
+    "name": "Bénédiction de Salut Améliorée (rang1)",
     "icon": "icon_2101",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:0 Column:1 Rank:1. Use icon icon_2101.jpg"
+    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeure diminuent les dégats subit par la cible de 3% et augmente leur durée de 5min"
   },
   "21012": {
-    "name": "Specialisation:21 Row:0 Column:1 Rank:2",
+    "name": "Bénédiction de Salut Améliorée (rang2)",
     "icon": "icon_2101",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:0 Column:1 Rank:2. Use icon icon_2101.jpg"
+    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeure diminuent les dégats subit par la cible de 6% et augmente leur durée de 10min"
   },
   "21013": {
     "name": "Specialisation:21 Row:0 Column:1 Rank:3",
@@ -2940,22 +2940,22 @@
     "description": "Description for Specialisation:21 Row:0 Column:1 Rank:5. Use icon icon_2101.jpg"
   },
   "21021": {
-    "name": "Specialisation:21 Row:0 Column:2 Rank:1",
+    "name": "Anticipation (rang1)",
     "icon": "icon_2102",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:0 Column:2 Rank:1. Use icon icon_2102.jpg"
+    "description": "Augmente les chances d'esquiver du Paladin de 2%"
   },
   "21022": {
-    "name": "Specialisation:21 Row:0 Column:2 Rank:2",
+    "name": "Anticipation (rang2)",
     "icon": "icon_2102",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:0 Column:2 Rank:2. Use icon icon_2102.jpg"
+    "description": "Augmente les chances d'esquiver du Paladin de 4%"
   },
   "21023": {
-    "name": "Specialisation:21 Row:0 Column:2 Rank:3",
+    "name": "Anticipation (rang3)",
     "icon": "icon_2102",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:0 Column:2 Rank:3. Use icon icon_2102.jpg"
+    "description": "Augmente les chances d'esquiver du Paladin de 6%"
   },
   "21024": {
     "name": "Specialisation:21 Row:0 Column:2 Rank:4",
@@ -2970,16 +2970,16 @@
     "description": "Description for Specialisation:21 Row:0 Column:2 Rank:5. Use icon icon_2102.jpg"
   },
   "21031": {
-    "name": "Specialisation:21 Row:0 Column:3 Rank:1",
+    "name": "Redoute (rang1)",
     "icon": "icon_2103",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:0 Column:3 Rank:1. Use icon icon_2103.jpg"
+    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 15% durant 10sec ou 5 charges"
   },
   "21032": {
-    "name": "Specialisation:21 Row:0 Column:3 Rank:2",
+    "name": "Redoute (rang2)",
     "icon": "icon_2103",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:0 Column:3 Rank:2. Use icon icon_2103.jpg"
+    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 30% durant 10sec ou 5 charges"
   },
   "21033": {
     "name": "Specialisation:21 Row:0 Column:3 Rank:3",
@@ -3000,22 +3000,22 @@
     "description": "Description for Specialisation:21 Row:0 Column:3 Rank:5. Use icon icon_2103.jpg"
   },
   "21101": {
-    "name": "Specialisation:21 Row:1 Column:0 Rank:1",
+    "name": "Endurance Divine (rang1)",
     "icon": "icon_2110",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:1 Column:0 Rank:1. Use icon icon_2110.jpg"
+    "description": "Augmente l'Endurance du Paladin de 5%"
   },
   "21102": {
-    "name": "Specialisation:21 Row:1 Column:0 Rank:2",
+    "name": "Endurance Divine (rang2)",
     "icon": "icon_2110",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:1 Column:0 Rank:2. Use icon icon_2110.jpg"
+    "description": "Augmente l'Endurance du Paladin de 10%"
   },
   "21103": {
-    "name": "Specialisation:21 Row:1 Column:0 Rank:3",
+    "name": "Endurance Divine (rang3)",
     "icon": "icon_2110",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:1 Column:0 Rank:3. Use icon icon_2110.jpg"
+    "description": "Augmente l'Endurance du Paladin de 15%"
   },
   "21104": {
     "name": "Specialisation:21 Row:1 Column:0 Rank:4",
@@ -3030,16 +3030,16 @@
     "description": "Description for Specialisation:21 Row:1 Column:0 Rank:5. Use icon icon_2110.jpg"
   },
   "21111": {
-    "name": "Specialisation:21 Row:1 Column:1 Rank:1",
+    "name": "Faveur du Gardien (rang1)",
     "icon": "icon_2111",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:1 Column:1 Rank:1. Use icon icon_2111.jpg"
+    "description": "Diminue le temps de rechargement de Main de Protection de 1min, augmente la durée de Main de Liberté de 3sec et diminue le temps de rechargement de Main de Sacrifice de 50%"
   },
   "21112": {
-    "name": "Specialisation:21 Row:1 Column:1 Rank:2",
+    "name": "Faveur du Gardien (rang2)",
     "icon": "icon_2111",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:1 Column:1 Rank:2. Use icon icon_2111.jpg"
+    "description": "Diminue le temps de rechargement de Main de Protection de 2min, augmente la durée de Main de Liberté de 6sec et diminue le temps de rechargement de Main de Sacrifice de 100%"
   },
   "21113": {
     "name": "Specialisation:21 Row:1 Column:1 Rank:3",
@@ -3060,22 +3060,22 @@
     "description": "Description for Specialisation:21 Row:1 Column:1 Rank:5. Use icon icon_2111.jpg"
   },
   "21121": {
-    "name": "Specialisation:21 Row:1 Column:2 Rank:1",
+    "name": "Spécialisation Bouclier (rang1)",
     "icon": "icon_2112",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:1 Column:2 Rank:1. Use icon icon_2112.jpg"
+    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 2%"
   },
   "21122": {
-    "name": "Specialisation:21 Row:1 Column:2 Rank:2",
+    "name": "Spécialisation Bouclier (rang2)",
     "icon": "icon_2112",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:1 Column:2 Rank:2. Use icon icon_2112.jpg"
+    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 4%"
   },
   "21123": {
-    "name": "Specialisation:21 Row:1 Column:2 Rank:3",
+    "name": "Spécialisation Bouclier (rang3)",
     "icon": "icon_2112",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:1 Column:2 Rank:3. Use icon icon_2112.jpg"
+    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 6%"
   },
   "21124": {
     "name": "Specialisation:21 Row:1 Column:2 Rank:4",
@@ -3090,16 +3090,16 @@
     "description": "Description for Specialisation:21 Row:1 Column:2 Rank:5. Use icon icon_2112.jpg"
   },
   "21131": {
-    "name": "Specialisation:21 Row:1 Column:3 Rank:1",
+    "name": "Fureur Vertueuse Améliorée (rang1)",
     "icon": "icon_2113",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:1 Column:3 Rank:1. Use icon icon_2113.jpg"
+    "description": "Augmente la menace génèré par la technique Fureur Vertueuse de 15% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%"
   },
   "21132": {
-    "name": "Specialisation:21 Row:1 Column:3 Rank:2",
+    "name": "Fureur Vertueuse Améliorée (rang2)",
     "icon": "icon_2113",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:1 Column:3 Rank:2. Use icon icon_2113.jpg"
+    "description": "Augmente la menace génèré par la technique Fureur Vertueuse de 30% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 6%"
   },
   "21133": {
     "name": "Specialisation:21 Row:1 Column:3 Rank:3",
@@ -3120,22 +3120,22 @@
     "description": "Description for Specialisation:21 Row:1 Column:3 Rank:5. Use icon icon_2113.jpg"
   },
   "21201": {
-    "name": "Specialisation:21 Row:2 Column:0 Rank:1",
+    "name": "Devoir Sacré (rang1)",
     "icon": "icon_2120",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:2 Column:0 Rank:1. Use icon icon_2120.jpg"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 5%"
   },
   "21202": {
-    "name": "Specialisation:21 Row:2 Column:0 Rank:2",
+    "name": "Devoir Sacré (rang2)",
     "icon": "icon_2120",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:2 Column:0 Rank:2. Use icon icon_2120.jpg"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 10%"
   },
   "21203": {
-    "name": "Specialisation:21 Row:2 Column:0 Rank:3",
+    "name": "Devoir Sacré (rang3)",
     "icon": "icon_2120",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:2 Column:0 Rank:3. Use icon icon_2120.jpg"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 15%"
   },
   "21204": {
     "name": "Specialisation:21 Row:2 Column:0 Rank:4",
@@ -3150,10 +3150,10 @@
     "description": "Description for Specialisation:21 Row:2 Column:0 Rank:5. Use icon icon_2120.jpg"
   },
   "21211": {
-    "name": "Specialisation:21 Row:2 Column:1 Rank:1",
+    "name": "Défense Vertueuse",
     "icon": "icon_2121",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:2 Column:1 Rank:1. Use icon icon_2121.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, 10sec de temps de rechargement, Force jusqu'a 3 ennemis qui ne ciblent pas déjà le Paladin a l'attaquer durant 5sec"
   },
   "21212": {
     "name": "Specialisation:21 Row:2 Column:1 Rank:2",
@@ -3180,10 +3180,10 @@
     "description": "Description for Specialisation:21 Row:2 Column:1 Rank:5. Use icon icon_2121.jpg"
   },
   "21221": {
-    "name": "Specialisation:21 Row:2 Column:2 Rank:1",
+    "name": "Harmonisation Spirituelle",
     "icon": "icon_2122",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:2 Column:2 Rank:1. Use icon icon_2122.jpg"
+    "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 10% du montant reçu lui est rendu en mana également, même s'il est déjà au maximum de son montant de vie"
   },
   "21222": {
     "name": "Specialisation:21 Row:2 Column:2 Rank:2",
@@ -3210,16 +3210,16 @@
     "description": "Description for Specialisation:21 Row:2 Column:2 Rank:5. Use icon icon_2122.jpg"
   },
   "21231": {
-    "name": "Specialisation:21 Row:2 Column:3 Rank:1",
+    "name": "Blocage Amélioré (rang1)",
     "icon": "icon_2123",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:2 Column:3 Rank:1. Use icon icon_2123.jpg"
+    "description": "Augmente le montant des blocages du Paladin de 15%"
   },
   "21232": {
-    "name": "Specialisation:21 Row:2 Column:3 Rank:2",
+    "name": "Blocage Amélioré (rang2)",
     "icon": "icon_2123",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:2 Column:3 Rank:2. Use icon icon_2123.jpg"
+    "description": "Augmente le montant des blocages du Paladin de 30%"
   },
   "21233": {
     "name": "Specialisation:21 Row:2 Column:3 Rank:3",
@@ -3240,22 +3240,22 @@
     "description": "Description for Specialisation:21 Row:2 Column:3 Rank:5. Use icon icon_2123.jpg"
   },
   "21301": {
-    "name": "Specialisation:21 Row:3 Column:0 Rank:1",
+    "name": "Auras Améliorées (rang1)",
     "icon": "icon_2130",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:3 Column:0 Rank:1. Use icon icon_2130.jpg"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 5%"
   },
   "21302": {
-    "name": "Specialisation:21 Row:3 Column:0 Rank:2",
+    "name": "Auras Améliorées (rang2)",
     "icon": "icon_2130",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:3 Column:0 Rank:2. Use icon icon_2130.jpg"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 10%"
   },
   "21303": {
-    "name": "Specialisation:21 Row:3 Column:0 Rank:3",
+    "name": "Auras Améliorées (rang3)",
     "icon": "icon_2130",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:3 Column:0 Rank:3. Use icon icon_2130.jpg"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 15%"
   },
   "21304": {
     "name": "Specialisation:21 Row:3 Column:0 Rank:4",
@@ -3270,16 +3270,16 @@
     "description": "Description for Specialisation:21 Row:3 Column:0 Rank:5. Use icon icon_2130.jpg"
   },
   "21311": {
-    "name": "Specialisation:21 Row:3 Column:1 Rank:1",
+    "name": "Stoïcisme (rang1)",
     "icon": "icon_2131",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:3 Column:1 Rank:1. Use icon icon_2131.jpg"
+    "description": "Réduit la durée des effets d'étourdissement, de désorientation et de peur sur le Paladin de 10%"
   },
   "21312": {
-    "name": "Specialisation:21 Row:3 Column:1 Rank:2",
+    "name": "Stoïcisme (rang2)",
     "icon": "icon_2131",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:3 Column:1 Rank:2. Use icon icon_2131.jpg"
+    "description": "Réduit la durée des effets d'étourdissement, de désorientation et de peur sur le Paladin de 20%"
   },
   "21313": {
     "name": "Specialisation:21 Row:3 Column:1 Rank:3",
@@ -3300,22 +3300,22 @@
     "description": "Description for Specialisation:21 Row:3 Column:1 Rank:5. Use icon icon_2131.jpg"
   },
   "21321": {
-    "name": "Specialisation:21 Row:3 Column:2 Rank:1",
+    "name": "Résistance (rang1)",
     "icon": "icon_2132",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:3 Column:2 Rank:1. Use icon icon_2132.jpg"
+    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 10%"
   },
   "21322": {
-    "name": "Specialisation:21 Row:3 Column:2 Rank:2",
+    "name": "Résistance (rang2)",
     "icon": "icon_2132",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:3 Column:2 Rank:2. Use icon icon_2132.jpg"
+    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "21323": {
-    "name": "Specialisation:21 Row:3 Column:2 Rank:3",
+    "name": "Résistance (rang3)",
     "icon": "icon_2132",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:3 Column:2 Rank:3. Use icon icon_2132.jpg"
+    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "21324": {
     "name": "Specialisation:21 Row:3 Column:2 Rank:4",
@@ -3330,16 +3330,16 @@
     "description": "Description for Specialisation:21 Row:3 Column:2 Rank:5. Use icon icon_2132.jpg"
   },
   "21331": {
-    "name": "Specialisation:21 Row:3 Column:3 Rank:1",
+    "name": "Soutien Divin (rang1)",
     "icon": "icon_2133",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:3 Column:3 Rank:1. Use icon icon_2133.jpg"
+    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine et Intervention Divine de 1min"
   },
   "21332": {
-    "name": "Specialisation:21 Row:3 Column:3 Rank:2",
+    "name": "Soutien Divin (rang2)",
     "icon": "icon_2133",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:3 Column:3 Rank:2. Use icon icon_2133.jpg"
+    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine et Intervention Divine de 2min"
   },
   "21333": {
     "name": "Specialisation:21 Row:3 Column:3 Rank:3",
@@ -3360,22 +3360,22 @@
     "description": "Description for Specialisation:21 Row:3 Column:3 Rank:5. Use icon icon_2133.jpg"
   },
   "21401": {
-    "name": "Specialisation:21 Row:4 Column:0 Rank:1",
+    "name": "Ardent Défenseur (rang1)",
     "icon": "icon_2140",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:4 Column:0 Rank:1. Use icon icon_2140.jpg"
+    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 5% de dégats en moins"
   },
   "21402": {
-    "name": "Specialisation:21 Row:4 Column:0 Rank:2",
+    "name": "Ardent Défenseur (rang2)",
     "icon": "icon_2140",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:4 Column:0 Rank:2. Use icon icon_2140.jpg"
+    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 10% de dégats en moins"
   },
   "21403": {
-    "name": "Specialisation:21 Row:4 Column:0 Rank:3",
+    "name": "Ardent Défenseur (rang3)",
     "icon": "icon_2140",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:4 Column:0 Rank:3. Use icon icon_2140.jpg"
+    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 15% de dégats en moins"
   },
   "21404": {
     "name": "Specialisation:21 Row:4 Column:0 Rank:4",
@@ -3390,10 +3390,10 @@
     "description": "Description for Specialisation:21 Row:4 Column:0 Rank:5. Use icon icon_2140.jpg"
   },
   "21411": {
-    "name": "Specialisation:21 Row:4 Column:1 Rank:1",
+    "name": "Maîtrise des Auras",
     "icon": "icon_2141",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:4 Column:1 Rank:1. Use icon icon_2141.jpg"
+    "description": "Le Paladin peut bénéficier de 2 Auras simultanément au lieu d'une seule"
   },
   "21412": {
     "name": "Specialisation:21 Row:4 Column:1 Rank:2",
@@ -3420,10 +3420,10 @@
     "description": "Description for Specialisation:21 Row:4 Column:1 Rank:5. Use icon icon_2141.jpg"
   },
   "21421": {
-    "name": "Specialisation:21 Row:4 Column:2 Rank:1",
+    "name": "Bouclier Sacré",
     "icon": "icon_2142",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:4 Column:2 Rank:1. Use icon icon_2142.jpg"
+    "description": "Technique a activer, instantanée, 10sec de temps de rechargement, coûte 150pts de mana, procure au Paladin une amélioration qui dure 10sec ou 5 charges, Augmente ses chances de bloquer de 30%, a chaque fois qu'il bloque une attaque, une charge est consommé, 1% de sa mana lui est rendu et il renvoie 35pts de dégats du sacré, ces dégats génèrent +35% de menace"
   },
   "21422": {
     "name": "Specialisation:21 Row:4 Column:2 Rank:2",
@@ -3450,16 +3450,16 @@
     "description": "Description for Specialisation:21 Row:4 Column:2 Rank:5. Use icon icon_2142.jpg"
   },
   "21431": {
-    "name": "Specialisation:21 Row:4 Column:3 Rank:1",
+    "name": "Rétribution (rang1)",
     "icon": "icon_2143",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:4 Column:3 Rank:1. Use icon icon_2143.jpg"
+    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 1 charge d'attaque supplémentaire"
   },
   "21432": {
-    "name": "Specialisation:21 Row:4 Column:3 Rank:2",
+    "name": "Rétribution (rang2)",
     "icon": "icon_2143",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:4 Column:3 Rank:2. Use icon icon_2143.jpg"
+    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 2 charges d'attaques supplémentaires"
   },
   "21433": {
     "name": "Specialisation:21 Row:4 Column:3 Rank:3",
@@ -3480,16 +3480,16 @@
     "description": "Description for Specialisation:21 Row:4 Column:3 Rank:5. Use icon icon_2143.jpg"
   },
   "21511": {
-    "name": "Specialisation:21 Row:5 Column:1 Rank:1",
+    "name": "Expert au Bouclier (rang1)",
     "icon": "icon_2151",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:5 Column:1 Rank:1. Use icon icon_2151.jpg"
+    "description": "Donne 3% d'Expertise au Paladin et augmente la menace généré par ses attaques avec une arme a une main et un bouclier de 10%"
   },
   "21512": {
-    "name": "Specialisation:21 Row:5 Column:1 Rank:2",
+    "name": "Expert au Bouclier (rang2)",
     "icon": "icon_2151",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:5 Column:1 Rank:2. Use icon icon_2151.jpg"
+    "description": "Donne 6% d'Expertise au Paladin et augmente la menace généré par ses attaques avec une arme a une main et un bouclier de 20%"
   },
   "21513": {
     "name": "Specialisation:21 Row:5 Column:1 Rank:3",
@@ -3510,22 +3510,22 @@
     "description": "Description for Specialisation:21 Row:5 Column:1 Rank:5. Use icon icon_2151.jpg"
   },
   "21521": {
-    "name": "Specialisation:21 Row:5 Column:2 Rank:1",
+    "name": "Persistance (rang1)",
     "icon": "icon_2152",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:5 Column:2 Rank:1. Use icon icon_2152.jpg"
+    "description": "Convertit 10% de l'Endurance du Paladin en bonus sort"
   },
   "21522": {
-    "name": "Specialisation:21 Row:5 Column:2 Rank:2",
+    "name": "Persistance (rang2)",
     "icon": "icon_2152",
     "rank": 2,
-    "description": "Description for Specialisation:21 Row:5 Column:2 Rank:2. Use icon icon_2152.jpg"
+    "description": "Convertit 20% de l'Endurance du Paladin en bonus sort"
   },
   "21523": {
-    "name": "Specialisation:21 Row:5 Column:2 Rank:3",
+    "name": "Persistance (rang3)",
     "icon": "icon_2152",
     "rank": 3,
-    "description": "Description for Specialisation:21 Row:5 Column:2 Rank:3. Use icon icon_2152.jpg"
+    "description": "Convertit 30% de l'Endurance du Paladin en bonus sort"
   },
   "21524": {
     "name": "Specialisation:21 Row:5 Column:2 Rank:4",
@@ -3540,10 +3540,10 @@
     "description": "Description for Specialisation:21 Row:5 Column:2 Rank:5. Use icon icon_2152.jpg"
   },
   "21611": {
-    "name": "Specialisation:21 Row:6 Column:1 Rank:1",
+    "name": "Marteau du Juste",
     "icon": "icon_2161",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:6 Column:1 Rank:1. Use icon icon_2161.jpg"
+    "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 0-5yards de portée, coûte 360pts de mana, Frappe jusqu'a 3 cibles devant le Paladin, inflige un dégat du sacré équivalent a la plage de dégat de l'arme mais génère un haut niveau de menace"
   },
   "21612": {
     "name": "Specialisation:21 Row:6 Column:1 Rank:2",
@@ -3570,10 +3570,10 @@
     "description": "Description for Specialisation:21 Row:6 Column:1 Rank:5. Use icon icon_2161.jpg"
   },
   "21621": {
-    "name": "Specialisation:21 Row:6 Column:2 Rank:1",
+    "name": "Bouclier Vengeur",
     "icon": "icon_2162",
     "rank": 1,
-    "description": "Description for Specialisation:21 Row:6 Column:2 Rank:1. Use icon icon_2162.jpg"
+    "description": "Technique a activer, 30sec de temps de rechargement, 8-30yards de portée, coûte 250pts de mana, Touche jusqu'a 3 cibles a portée, silence et hébête durant 4sec et inflige 130pts de dégats du sacré et génére un niveau de menace important"
   },
   "21622": {
     "name": "Specialisation:21 Row:6 Column:2 Rank:2",
