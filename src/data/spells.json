@@ -3093,13 +3093,13 @@
     "name": "Fureur Vertueuse Améliorée (rang1)",
     "icon": "icon_2113",
     "rank": 1,
-    "description": "Augmente la menace génèré par la technique Fureur Vertueuse de 15% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%"
+    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 15% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%"
   },
   "21132": {
     "name": "Fureur Vertueuse Améliorée (rang2)",
     "icon": "icon_2113",
     "rank": 2,
-    "description": "Augmente la menace génèré par la technique Fureur Vertueuse de 30% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 6%"
+    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 30% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 6%"
   },
   "21133": {
     "name": "Specialisation:21 Row:1 Column:3 Rank:3",
@@ -3123,19 +3123,19 @@
     "name": "Devoir Sacré (rang1)",
     "icon": "icon_2120",
     "rank": 1,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 5%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 4%"
   },
   "21202": {
     "name": "Devoir Sacré (rang2)",
     "icon": "icon_2120",
     "rank": 2,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 10%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 8%"
   },
   "21203": {
     "name": "Devoir Sacré (rang3)",
     "icon": "icon_2120",
     "rank": 3,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 15%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 12%"
   },
   "21204": {
     "name": "Specialisation:21 Row:2 Column:0 Rank:4",
@@ -3153,7 +3153,7 @@
     "name": "Défense Vertueuse",
     "icon": "icon_2121",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, 10sec de temps de rechargement, Force jusqu'a 3 ennemis qui ne ciblent pas déjà le Paladin a l'attaquer durant 5sec"
+    "description": "Technique a activer, instantanée, gratuite en mana, 10sec de temps de rechargement, 0-10yards de portée, Force jusqu'a 3 ennemis qui ne ciblent pas déjà le Paladin a l'attaquer durant 5sec"
   },
   "21212": {
     "name": "Specialisation:21 Row:2 Column:1 Rank:2",
@@ -3183,7 +3183,7 @@
     "name": "Harmonisation Spirituelle",
     "icon": "icon_2122",
     "rank": 1,
-    "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 10% du montant reçu lui est rendu en mana également, même s'il est déjà au maximum de son montant de vie"
+    "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 8% du montant reçu lui est rendu en mana également, même s'il est déjà au maximum de son montant de vie"
   },
   "21222": {
     "name": "Specialisation:21 Row:2 Column:2 Rank:2",
@@ -3309,13 +3309,13 @@
     "name": "Résistance (rang2)",
     "icon": "icon_2132",
     "rank": 2,
-    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 20%"
+    "description": "Augmente l'Armure du Paladin de 8% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "21323": {
     "name": "Résistance (rang3)",
     "icon": "icon_2132",
     "rank": 3,
-    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 30%"
+    "description": "Augmente l'Armure du Paladin de 12% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "21324": {
     "name": "Specialisation:21 Row:3 Column:2 Rank:4",
