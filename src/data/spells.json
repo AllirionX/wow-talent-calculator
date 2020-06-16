@@ -4320,22 +4320,22 @@
     "description": "Description for Specialisation:22 Row:6 Column:2 Rank:5. Use icon icon_2262.jpg"
   },
   "30001": {
-    "name": "Specialisation:30 Row:0 Column:0 Rank:1",
+    "name": "Peaux Cuirasser (rang1)",
     "icon": "icon_3000",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:0 Column:0 Rank:1. Use icon icon_3000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30002": {
-    "name": "Specialisation:30 Row:0 Column:0 Rank:2",
+    "name": "Peaux Cuirasser (rang2)",
     "icon": "icon_3000",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:0 Column:0 Rank:2. Use icon icon_3000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30003": {
-    "name": "Specialisation:30 Row:0 Column:0 Rank:3",
+    "name": "Peaux Cuirasser (rang3)",
     "icon": "icon_3000",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:0 Column:0 Rank:3. Use icon icon_3000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30004": {
     "name": "Specialisation:30 Row:0 Column:0 Rank:4",
@@ -4350,16 +4350,16 @@
     "description": "Description for Specialisation:30 Row:0 Column:0 Rank:5. Use icon icon_3000.jpg"
   },
   "30011": {
-    "name": "Specialisation:30 Row:0 Column:1 Rank:1",
+    "name": "Focalisation (rang1)",
     "icon": "icon_3001",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:0 Column:1 Rank:1. Use icon icon_3001.jpg"
+    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête et Ressuciter le Familier"
   },
   "30012": {
-    "name": "Specialisation:30 Row:0 Column:1 Rank:2",
+    "name": "Focalisation (rang2)",
     "icon": "icon_3001",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:0 Column:1 Rank:2. Use icon icon_3001.jpg"
+    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête et Ressuciter le Familier"
   },
   "30013": {
     "name": "Specialisation:30 Row:0 Column:1 Rank:3",
@@ -4380,22 +4380,22 @@
     "description": "Description for Specialisation:30 Row:0 Column:1 Rank:5. Use icon icon_3001.jpg"
   },
   "30021": {
-    "name": "Specialisation:30 Row:0 Column:2 Rank:1",
+    "name": "Entraînement (rang1)",
     "icon": "icon_3002",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:0 Column:2 Rank:1. Use icon icon_3002.jpg"
+    "description": "Augmente l'Endurance du Familier de 5% et celle du Chasseur de 1%"
   },
   "30022": {
-    "name": "Specialisation:30 Row:0 Column:2 Rank:2",
+    "name": "Entraînement (rang2)",
     "icon": "icon_3002",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:0 Column:2 Rank:2. Use icon icon_3002.jpg"
+    "description": "Augmente l'Endurance du Familier de 10% et celle du Chasseur de 2%"
   },
   "30023": {
-    "name": "Specialisation:30 Row:0 Column:2 Rank:3",
+    "name": "Entraînement (rang3)",
     "icon": "icon_3002",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:0 Column:2 Rank:3. Use icon icon_3002.jpg"
+    "description": "Augmente l'Endurance du Familier de 15% et celle du Chasseur de 3%"
   },
   "30024": {
     "name": "Specialisation:30 Row:0 Column:2 Rank:4",
@@ -4410,16 +4410,16 @@
     "description": "Description for Specialisation:30 Row:0 Column:2 Rank:5. Use icon icon_3002.jpg"
   },
   "30031": {
-    "name": "Specialisation:30 Row:0 Column:3 Rank:1",
+    "name": "Ressuciter le Familier Amélioré (rang1)",
     "icon": "icon_3003",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:0 Column:3 Rank:1. Use icon icon_3003.jpg"
+    "description": "Diminue le coût en mana de la technique Ressuciter le Familier de 20%, réduit son temps d'incantation de 3sec et augmente le montant de vie rendu au Familier de 15%"
   },
   "30032": {
-    "name": "Specialisation:30 Row:0 Column:3 Rank:2",
+    "name": "Ressuciter le Familier Amélioré (rang2)",
     "icon": "icon_3003",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:0 Column:3 Rank:2. Use icon icon_3003.jpg"
+    "description": "Diminue le coût en mana de la technique Ressuciter le Familier de 40%, réduit son temps d'incantation de 6sec et augmente le montant de vie rendu au Familier de 30%"
   },
   "30033": {
     "name": "Specialisation:30 Row:0 Column:3 Rank:3",
@@ -4440,22 +4440,22 @@
     "description": "Description for Specialisation:30 Row:0 Column:3 Rank:5. Use icon icon_3003.jpg"
   },
   "30101": {
-    "name": "Specialisation:30 Row:1 Column:0 Rank:1",
+    "name": "Anticipation (rang1)",
     "icon": "icon_3010",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:1 Column:0 Rank:1. Use icon icon_3010.jpg"
+    "description": "Augmente les chances d'Esquiver du Familier de 3% et celle du Chasseur de 1%"
   },
   "30102": {
-    "name": "Specialisation:30 Row:1 Column:0 Rank:2",
+    "name": "Anticipation (rang2)",
     "icon": "icon_3010",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:1 Column:0 Rank:2. Use icon icon_3010.jpg"
+    "description": "Augmente les chances d'Esquiver du Familier de 6% et celle du Chasseur de 2%"
   },
   "30103": {
-    "name": "Specialisation:30 Row:1 Column:0 Rank:3",
+    "name": "Anticipation (rang3)",
     "icon": "icon_3010",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:1 Column:0 Rank:3. Use icon icon_3010.jpg"
+    "description": "Augmente les chances d'Esquiver du Familier de 9% et celle du Chasseur de 3%"
   },
   "30104": {
     "name": "Specialisation:30 Row:1 Column:0 Rank:4",
