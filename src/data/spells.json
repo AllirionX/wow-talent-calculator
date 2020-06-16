@@ -4320,19 +4320,19 @@
     "description": "Description for Specialisation:22 Row:6 Column:2 Rank:5. Use icon icon_2262.jpg"
   },
   "30001": {
-    "name": "Peaux Cicatrisé (rang1)",
+    "name": "Peau Cicatrisée (rang1)",
     "icon": "icon_3000",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30002": {
-    "name": "Peaux Cicatrisé (rang2)",
+    "name": "Peau Cicatrisée (rang2)",
     "icon": "icon_3000",
     "rank": 2,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30003": {
-    "name": "Peaux Cicatrisé (rang3)",
+    "name": "Peau Cicatrisée (rang3)",
     "icon": "icon_3000",
     "rank": 3,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
@@ -4470,16 +4470,16 @@
     "description": "Description for Specialisation:30 Row:1 Column:0 Rank:5. Use icon icon_3010.jpg"
   },
   "30111": {
-    "name": "Aspect de la Bête Amélioré (rang1)",
+    "name": "Bestialité Naturelle (rang1)",
     "icon": "icon_3011",
     "rank": 1,
-    "description": "En plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10%"
   },
   "30112": {
-    "name": "Aspect de la Bête Amélioré (rang2)",
+    "name": "Bestialité Naturelle (rang2)",
     "icon": "icon_3011",
     "rank": 2,
-    "description": "En plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 100% sur le Chasseur"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 20%"
   },
   "30113": {
     "name": "Specialisation:30 Row:1 Column:1 Rank:3",
@@ -4530,16 +4530,16 @@
     "description": "Description for Specialisation:30 Row:1 Column:2 Rank:5. Use icon icon_3012.jpg"
   },
   "30131": {
-    "name": "Expert des Aspects (rang1)",
+    "name": "Bête des Aspects (rang1)",
     "icon": "icon_3013",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%, de plus en plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
   },
   "30132": {
-    "name": "Expert des Aspects (rang2)",
+    "name": "Bête des Aspects (rang2)",
     "icon": "icon_3013",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 100%"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 100%, de plus en plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 100% sur le Chasseur"
   },
   "30133": {
     "name": "Specialisation:30 Row:1 Column:3 Rank:3",
@@ -4563,19 +4563,19 @@
     "name": "Aspects Améliorés (rang1)",
     "icon": "icon_3020",
     "rank": 1,
-    "description": "Augmente les effets des différentes technique d'Aspect de 5%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 5%"
   },
   "30202": {
     "name": "Aspects Améliorés (rang2)",
     "icon": "icon_3020",
     "rank": 2,
-    "description": "Augmente les effets des différentes technique d'Aspect de 10%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 10%"
   },
   "30203": {
     "name": "Aspects Améliorés (rang3)",
     "icon": "icon_3020",
     "rank": 3,
-    "description": "Augmente les effets des différentes technique d'Aspect de 15%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 15%"
   },
   "30204": {
     "name": "Specialisation:30 Row:2 Column:0 Rank:4",
@@ -4623,7 +4623,7 @@
     "name": "Ordre de Tuer",
     "icon": "icon_3022",
     "rank": 1,
-    "description": "Technique a activer, instantanée, se déclanche après que le Chasseur est infligé un coup critique ou si la cible est inférieur a 20% de sa vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
+    "description": "Technique a activer, instantanée, 45yards de portée, coûte 75pts de mana, 10sec de temps de rechargement, se déclanche après que le Chasseur est infligé un coup critique ou lorsqu'une cible est inférieur a 20% de vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
   },
   "30222": {
     "name": "Specialisation:30 Row:2 Column:2 Rank:2",
@@ -4680,19 +4680,19 @@
     "description": "Description for Specialisation:30 Row:2 Column:3 Rank:5. Use icon icon_3023.jpg"
   },
   "30301": {
-    "name": "Férocité (rang1)",
+    "name": "Férocité Bestiale (rang1)",
     "icon": "icon_3030",
     "rank": 1,
     "description": "Augmente les chances de critiques du Familier de 5% et celle du Chasseur de 1%"
   },
   "30302": {
-    "name": "Férocité (rang2)",
+    "name": "Férocité Bestiale (rang2)",
     "icon": "icon_3030",
     "rank": 2,
     "description": "Augmente les chances de critiques du Familier de 10% et celle du Chasseur de 2%"
   },
   "30303": {
-    "name": "Férocité (rang3)",
+    "name": "Férocité Bestiale (rang3)",
     "icon": "icon_3030",
     "rank": 3,
     "description": "Augmente les chances de critiques du Familier de 15% et celle du Chasseur de 3%"
@@ -4710,13 +4710,13 @@
     "description": "Description for Specialisation:30 Row:3 Column:0 Rank:5. Use icon icon_3030.jpg"
   },
   "30311": {
-    "name": "Réceptif aux Calins (rang1)",
+    "name": "Réceptif aux Caresses (rang1)",
     "icon": "icon_3031",
     "rank": 1,
     "description": "Augmente la portée des techniques Soin du Familier et Guérison du Familier de 10yards, et diminue également leur coût en mana de 15%, de plus augmente de 10% le montant des soins reçu par votre Familier"
   },
   "30312": {
-    "name": "Réceptif aux Calins (rang2)",
+    "name": "Réceptif aux Caresses (rang2)",
     "icon": "icon_3031",
     "rank": 2,
     "description": "Augmente la portée des techniques Soin du Familier et Guérison du Familier de 20yards, et diminue également leur coût en mana de 30%, de plus augmente de 10% le montant des soins reçu par votre Familier"
@@ -4740,19 +4740,19 @@
     "description": "Description for Specialisation:30 Row:3 Column:1 Rank:5. Use icon icon_3031.jpg"
   },
   "30321": {
-    "name": "Anticipation (rang1)",
+    "name": "Anticipation Bestiale (rang1)",
     "icon": "icon_3032",
     "rank": 1,
     "description": "Augmente les chances d'Esquiver de votre Familier de 3% ainsi que celles du Chasseur de 1%"
   },
   "30322": {
-    "name": "Anticipation (rang2)",
+    "name": "Anticipation Bestiale (rang2)",
     "icon": "icon_3032",
     "rank": 2,
     "description": "Augmente les chances d'Esquiver de votre Familier de 6% ainsi que celles du Chasseur de 2%"
   },
   "30323": {
-    "name": "Anticipation (rang3)",
+    "name": "Anticipation Bestiale (rang3)",
     "icon": "icon_3032",
     "rank": 3,
     "description": "Augmente les chances d'Esquiver de votre Familier de 9% ainsi que celles du Chasseur de 3%"
@@ -4770,13 +4770,13 @@
     "description": "Description for Specialisation:30 Row:3 Column:2 Rank:5. Use icon icon_3032.jpg"
   },
   "30331": {
-    "name": "Fureur Libérée (rang1)",
+    "name": "Fureur Bestiale (rang1)",
     "icon": "icon_3033",
     "rank": 1,
     "description": "Augmente les dégats infligés par le Familier de 10% et ceux du Chasseur de 1%"
   },
   "30332": {
-    "name": "Fureur Libérée (rang2)",
+    "name": "Fureur Bestiale (rang2)",
     "icon": "icon_3033",
     "rank": 2,
     "description": "Augmente les dégats infligés par le Familier de 20% et ceux du Chasseur de 2%"
@@ -4803,19 +4803,19 @@
     "name": "Lien Spirituel (rang1)",
     "icon": "icon_3040",
     "rank": 1,
-    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 1% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 2%"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne une amélioration qui rend 1% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 1%"
   },
   "30402": {
     "name": "Lien Spirituel (rang2)",
     "icon": "icon_3040",
     "rank": 2,
-    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 2% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 4%"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne une amélioration qui rend 2% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 2%"
   },
   "30403": {
     "name": "Lien Spirituel (rang3)",
     "icon": "icon_3040",
     "rank": 3,
-    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 3% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 6%"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne une amélioration qui rend 3% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 3%"
   },
   "30404": {
     "name": "Specialisation:30 Row:4 Column:0 Rank:4",
@@ -4863,7 +4863,7 @@
     "name": "Intimidation",
     "icon": "icon_3042",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur procure une amélioration utilisable même sous contrôle qui permet a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et d'étourdir durant 3sec la cible"
+    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur ordonne a son Familier d'attaquer la cible et procure a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et d'étourdir durant 3sec la cible"
   },
   "30422": {
     "name": "Specialisation:30 Row:4 Column:2 Rank:2",
@@ -4953,19 +4953,19 @@
     "name": "Frénésie Bestiale (rang1)",
     "icon": "icon_3052",
     "rank": 1,
-    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 10% ainsi que la vitesse de tir du Chasseur de 5% durant 8sec"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque au corps a corps et a distance de 10% durant 8sec"
   },
   "30522": {
     "name": "Frénésie Bestiale (rang2)",
     "icon": "icon_3052",
     "rank": 2,
-    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 20% ainsi que la vitesse de tir du Chasseur de 10% durant 8sec"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque au corps a corps et a distance de 20% durant 8sec"
   },
   "30523": {
     "name": "Frénésie Bestiale (rang3)",
     "icon": "icon_3052",
     "rank": 3,
-    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 30% ainsi que la vitesse de tir du Chasseur de 15% durant 8sec"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque au corps a corps et a distance de 30% durant 8sec"
   },
   "30524": {
     "name": "Specialisation:30 Row:5 Column:2 Rank:4",
