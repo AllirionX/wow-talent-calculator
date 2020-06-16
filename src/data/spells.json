@@ -3600,22 +3600,22 @@
     "description": "Description for Specialisation:21 Row:6 Column:2 Rank:5. Use icon icon_2162.jpg"
   },
   "22001": {
-    "name": "Specialisation:22 Row:0 Column:0 Rank:1",
+    "name": "Poids de l'Armure (rang1)",
     "icon": "icon_2200",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:0 Column:0 Rank:1. Use icon icon_2200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en +1pts de Puissance d'Attaque"
   },
   "22002": {
-    "name": "Specialisation:22 Row:0 Column:0 Rank:2",
+    "name": "Poids de l'Armure (rang2)",
     "icon": "icon_2200",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:0 Column:0 Rank:2. Use icon icon_2200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en +2pts de Puissance d'Attaque"
   },
   "22003": {
-    "name": "Specialisation:22 Row:0 Column:0 Rank:3",
+    "name": "Poids de l'Armure (rang3)",
     "icon": "icon_2200",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:0 Column:0 Rank:3. Use icon icon_2200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en +3pts de Puissance d'Attaque"
   },
   "22004": {
     "name": "Specialisation:22 Row:0 Column:0 Rank:4",
@@ -3630,16 +3630,16 @@
     "description": "Description for Specialisation:22 Row:0 Column:0 Rank:5. Use icon icon_2200.jpg"
   },
   "22011": {
-    "name": "Specialisation:22 Row:0 Column:1 Rank:1",
+    "name": "Bénédiction de Puissance Améliorée (rang1)",
     "icon": "icon_2201",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:0 Column:1 Rank:1. Use icon icon_2201.jpg"
+    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 10% et augmente leur durée de 5min"
   },
   "22012": {
-    "name": "Specialisation:22 Row:0 Column:1 Rank:2",
+    "name": "Bénédiction de Puissance Améliorée (rang2),
     "icon": "icon_2201",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:0 Column:1 Rank:2. Use icon icon_2201.jpg"
+    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 20% et augmente leur durée de 10min"
   },
   "22013": {
     "name": "Specialisation:22 Row:0 Column:1 Rank:3",
@@ -3660,22 +3660,22 @@
     "description": "Description for Specialisation:22 Row:0 Column:1 Rank:5. Use icon icon_2201.jpg"
   },
   "22021": {
-    "name": "Specialisation:22 Row:0 Column:2 Rank:1",
+    "name": "Parade (rang1)",
     "icon": "icon_2202",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:0 Column:2 Rank:1. Use icon icon_2202.jpg"
+    "description": "Augmente les chances de Parade du Paladin de 2%"
   },
   "22022": {
-    "name": "Specialisation:22 Row:0 Column:2 Rank:2",
+    "name": "Parade (rang2)",
     "icon": "icon_2202",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:0 Column:2 Rank:2. Use icon icon_2202.jpg"
+    "description": "Augmente les chances de Parade du Paladin de 4%"
   },
   "22023": {
-    "name": "Specialisation:22 Row:0 Column:2 Rank:3",
+    "name": "Parade (rang3)",
     "icon": "icon_2202",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:0 Column:2 Rank:3. Use icon icon_2202.jpg"
+    "description": "Augmente les chances de Parade du Paladin de 6%"
   },
   "22024": {
     "name": "Specialisation:22 Row:0 Column:2 Rank:4",
@@ -3690,16 +3690,16 @@
     "description": "Description for Specialisation:22 Row:0 Column:2 Rank:5. Use icon icon_2202.jpg"
   },
   "22031": {
-    "name": "Specialisation:22 Row:0 Column:3 Rank:1",
+    "name": "Sceaux Sanctifiés (rang1)",
     "icon": "icon_2203",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:0 Column:3 Rank:1. Use icon icon_2203.jpg"
+    "description": "Diminue le coût en mana des techniques de Sceaux de Piété, Sceaux du Croisé, Sceaux de Sagesse, Sceaux de Lumière et Sceaux d'Autorité du Paladin de 25%"
   },
   "22032": {
-    "name": "Specialisation:22 Row:0 Column:3 Rank:2",
+    "name": "Sceaux Sanctifiés (rang2)",
     "icon": "icon_2203",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:0 Column:3 Rank:2. Use icon icon_2203.jpg"
+    "description": "Diminue le coût en mana des techniques de Sceaux de Piété, Sceaux du Croisé, Sceaux de Sagesse, Sceaux de Lumière et Sceaux d'Autorité du Paladin de 50%"
   },
   "22033": {
     "name": "Specialisation:22 Row:0 Column:3 Rank:3",
@@ -3720,22 +3720,22 @@
     "description": "Description for Specialisation:22 Row:0 Column:3 Rank:5. Use icon icon_2203.jpg"
   },
   "22101": {
-    "name": "Specialisation:22 Row:1 Column:0 Rank:1",
+    "name": "Force Divine (rang1)",
     "icon": "icon_2210",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:1 Column:0 Rank:1. Use icon icon_2210.jpg"
+    "description": "Augmente la Force du Paladin de 5%"
   },
   "22102": {
-    "name": "Specialisation:22 Row:1 Column:0 Rank:2",
+    "name": "Force Divine (rang1)",
     "icon": "icon_2210",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:1 Column:0 Rank:2. Use icon icon_2210.jpg"
+    "description": "Augmente la Force du Paladin de 10%"
   },
   "22103": {
-    "name": "Specialisation:22 Row:1 Column:0 Rank:3",
+    "name": "Force Divine (rang1)",
     "icon": "icon_2210",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:1 Column:0 Rank:3. Use icon icon_2210.jpg"
+    "description": "Augmente la Force du Paladin de 15%"
   },
   "22104": {
     "name": "Specialisation:22 Row:1 Column:0 Rank:4",
@@ -3750,16 +3750,16 @@
     "description": "Description for Specialisation:22 Row:1 Column:0 Rank:5. Use icon icon_2210.jpg"
   },
   "22111": {
-    "name": "Specialisation:22 Row:1 Column:1 Rank:1",
+    "name": "Poursuite de la Justice (rang1)",
     "icon": "icon_2211",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:1 Column:1 Rank:1. Use icon icon_2211.jpg"
+    "description": "Augmente la vitesse de déplacement du Paladin a pied et en monture de 8%"
   },
   "22112": {
-    "name": "Specialisation:22 Row:1 Column:1 Rank:2",
+    "name": "Poursuite de la Justice (rang2)",
     "icon": "icon_2211",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:1 Column:1 Rank:2. Use icon icon_2211.jpg"
+    "description": "Augmente la vitesse de déplacement du Paladin a pied et en monture de 16%"
   },
   "22113": {
     "name": "Specialisation:22 Row:1 Column:1 Rank:3",
@@ -3780,22 +3780,22 @@
     "description": "Description for Specialisation:22 Row:1 Column:1 Rank:5. Use icon icon_2211.jpg"
   },
   "22121": {
-    "name": "Specialisation:22 Row:1 Column:2 Rank:1",
+    "name": "Précision (rang2)",
     "icon": "icon_2212",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:1 Column:2 Rank:1. Use icon icon_2212.jpg"
+    "description": "Augmente les chances de toucher avec les attaques et les sorts du Paladin de 2%"
   },
   "22122": {
-    "name": "Specialisation:22 Row:1 Column:2 Rank:2",
+    "name": "Précision (rang1)",
     "icon": "icon_2212",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:1 Column:2 Rank:2. Use icon icon_2212.jpg"
+    "description": "Augmente les chances de toucher avec les attaques et les sorts du Paladin de 4%"
   },
   "22123": {
-    "name": "Specialisation:22 Row:1 Column:2 Rank:3",
+    "name": "Précision (rang3)",
     "icon": "icon_2212",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:1 Column:2 Rank:3. Use icon icon_2212.jpg"
+    "description": "Augmente les chances de toucher avec les attaques et les sorts du Paladin de 6%"
   },
   "22124": {
     "name": "Specialisation:22 Row:1 Column:2 Rank:4",
@@ -3810,16 +3810,16 @@
     "description": "Description for Specialisation:22 Row:1 Column:2 Rank:5. Use icon icon_2212.jpg"
   },
   "22131": {
-    "name": "Specialisation:22 Row:1 Column:3 Rank:1",
+    "name": "Jugements Améliorés (rang1)",
     "icon": "icon_2213",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:1 Column:3 Rank:1. Use icon icon_2213.jpg"
+    "description": "Diminue le temps de rechargement des techniques Jugement de Sagesse, Jugement de Lumière et Jugement de Justice de 1sec"
   },
   "22132": {
-    "name": "Specialisation:22 Row:1 Column:3 Rank:2",
+    "name": "Jugements Améliorés (rang1)",
     "icon": "icon_2213",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:1 Column:3 Rank:2. Use icon icon_2213.jpg"
+    "description": "Diminue le temps de rechargement des techniques Jugement de Sagesse, Jugement de Lumière et Jugement de Justice de 2sec"
   },
   "22133": {
     "name": "Specialisation:22 Row:1 Column:3 Rank:3",
@@ -3840,22 +3840,22 @@
     "description": "Description for Specialisation:22 Row:1 Column:3 Rank:5. Use icon icon_2213.jpg"
   },
   "22201": {
-    "name": "Specialisation:22 Row:2 Column:0 Rank:1",
+    "name": "Convictions (rang1)",
     "icon": "icon_2220",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:2 Column:0 Rank:1. Use icon icon_2220.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec les attaques et les sorts de 2%"
   },
   "22202": {
-    "name": "Specialisation:22 Row:2 Column:0 Rank:2",
+    "name": "Convictions (rang2)",
     "icon": "icon_2220",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:2 Column:0 Rank:2. Use icon icon_2220.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec les attaques et les sorts de 4%"
   },
   "22203": {
-    "name": "Specialisation:22 Row:2 Column:0 Rank:3",
+    "name": "Convictions (rang3)",
     "icon": "icon_2220",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:2 Column:0 Rank:3. Use icon icon_2220.jpg"
+    "description": "Augmente les chances de critiques du Paladin avec les attaques et les sorts de 6%"
   },
   "22204": {
     "name": "Specialisation:22 Row:2 Column:0 Rank:4",
@@ -3870,10 +3870,10 @@
     "description": "Description for Specialisation:22 Row:2 Column:0 Rank:5. Use icon icon_2220.jpg"
   },
   "22211": {
-    "name": "Specialisation:22 Row:2 Column:1 Rank:1",
+    "name": "Sainteté",
     "icon": "icon_2221",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:2 Column:1 Rank:1. Use icon icon_2221.jpg"
+    "description": "Lorsque le Paladin active une Aura, il fait gagner a tout son groupe une amélioration supplémentaire qui augmente les dégats des sorts du sacré de 10%"
   },
   "22212": {
     "name": "Specialisation:22 Row:2 Column:1 Rank:2",
@@ -3900,10 +3900,10 @@
     "description": "Description for Specialisation:22 Row:2 Column:1 Rank:5. Use icon icon_2221.jpg"
   },
   "22221": {
-    "name": "Specialisation:22 Row:2 Column:2 Rank:1",
+    "name": "Sceau d'Autorité",
     "icon": "icon_2222",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:2 Column:2 Rank:1. Use icon icon_2222.jpg"
+    "description": "Technique a activer, instantanée, Amélioration qui dure 30sec, coûte 65pts de mana, Procure a chaque attaque du Paladin un dégats supplémentaire qui correspond a 10% de la plage de dégats de l'arme, Lorsque le Sceau d'Autorité est Jugé, il est dissipé et inflige instantanément 51pts de dégats a la cible, cet effet critique automatiquement si la cible est sous l'effet d'un étourdissement ou d'une stupéfaction"
   },
   "22222": {
     "name": "Specialisation:22 Row:2 Column:2 Rank:2",
@@ -3930,16 +3930,16 @@
     "description": "Description for Specialisation:22 Row:2 Column:2 Rank:5. Use icon icon_2222.jpg"
   },
   "22231": {
-    "name": "Specialisation:22 Row:2 Column:3 Rank:1",
+    "name": "Dragonne du Justicier (rang1)",
     "icon": "icon_2223",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:2 Column:3 Rank:1. Use icon icon_2223.jpg"
+    "description": "Diminue la durée des effets de désarmement sur le Paladin de 25%"
   },
   "22232": {
-    "name": "Specialisation:22 Row:2 Column:3 Rank:2",
+    "name": "Dragonne du Justicier (rang2)",
     "icon": "icon_2223",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:2 Column:3 Rank:2. Use icon icon_2223.jpg"
+    "description": "Diminue la durée des effets de désarmement sur le Paladin de 50%"
   },
   "22233": {
     "name": "Specialisation:22 Row:2 Column:3 Rank:3",
@@ -3960,22 +3960,22 @@
     "description": "Description for Specialisation:22 Row:2 Column:3 Rank:5. Use icon icon_2223.jpg"
   },
   "22301": {
-    "name": "Specialisation:22 Row:3 Column:0 Rank:1",
+    "name": "Fanatique (rang1)",
     "icon": "icon_2230",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:3 Column:0 Rank:1. Use icon icon_2230.jpg"
+    "description": "Augmente les dégats qu'inflige le Paladin en mélée et avec les sorts de 2%"
   },
   "22302": {
-    "name": "Specialisation:22 Row:3 Column:0 Rank:2",
+    "name": "Fanatique (rang2)",
     "icon": "icon_2230",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:3 Column:0 Rank:2. Use icon icon_2230.jpg"
+    "description": "Augmente les dégats qu'inflige le Paladin en mélée et avec les sorts de 4%"
   },
   "22303": {
-    "name": "Specialisation:22 Row:3 Column:0 Rank:3",
+    "name": "Fanatique (rang3)",
     "icon": "icon_2230",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:3 Column:0 Rank:3. Use icon icon_2230.jpg"
+    "description": "Augmente les dégats qu'inflige le Paladin en mélée et avec les sorts de 6%"
   },
   "22304": {
     "name": "Specialisation:22 Row:3 Column:0 Rank:4",
@@ -3990,16 +3990,16 @@
     "description": "Description for Specialisation:22 Row:3 Column:0 Rank:5. Use icon icon_2230.jpg"
   },
   "22311": {
-    "name": "Specialisation:22 Row:3 Column:1 Rank:1",
+    "name": "Oeil pour Oeil (rang1)",
     "icon": "icon_2231",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:3 Column:1 Rank:1. Use icon icon_2231.jpg"
+    "description": "Permet a la technique l'Aura de Vindict de renvoyer 50% des dégats qu'elle inflige également sur les attaques a distances"
   },
   "22312": {
-    "name": "Specialisation:22 Row:3 Column:1 Rank:2",
+    "name": "Oeil pour Oeil (rang2)",
     "icon": "icon_2231",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:3 Column:1 Rank:2. Use icon icon_2231.jpg"
+    "description": "Permet a la technique l'Aura de Vindict de renvoyer 100% des dégats qu'elle inflige également sur les attaques a distances"
   },
   "22313": {
     "name": "Specialisation:22 Row:3 Column:1 Rank:3",
@@ -4020,22 +4020,22 @@
     "description": "Description for Specialisation:22 Row:3 Column:1 Rank:5. Use icon icon_2231.jpg"
   },
   "22321": {
-    "name": "Specialisation:22 Row:3 Column:2 Rank:1",
+    "name": "Marteaux Améliorés (rang1)",
     "icon": "icon_2232",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:3 Column:2 Rank:1. Use icon icon_2232.jpg"
+    "description": "Diminue le temps de rechargement de la technique Marteaux de Justice de 5sec, et diminue également le temps d'incantation de la technique Marteaux du Courroux de 33%"
   },
   "22322": {
-    "name": "Specialisation:22 Row:3 Column:2 Rank:2",
+    "name": "Marteaux Améliorés (rang2)",
     "icon": "icon_2232",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:3 Column:2 Rank:2. Use icon icon_2232.jpg"
+    "description": "Diminue le temps de rechargement de la technique Marteaux de Justice de 10sec, et diminue également le temps d'incantation de la technique Marteaux du Courroux de 66%"
   },
   "22323": {
-    "name": "Specialisation:22 Row:3 Column:2 Rank:3",
+    "name": "Marteaux Améliorés (rang3)",
     "icon": "icon_2232",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:3 Column:2 Rank:3. Use icon icon_2232.jpg"
+    "description": "Diminue le temps de rechargement de la technique Marteaux de Justice de 15sec, et diminue également le temps d'incantation de la technique Marteaux du Courroux de 100%"
   },
   "22324": {
     "name": "Specialisation:22 Row:3 Column:2 Rank:4",
@@ -4050,16 +4050,16 @@
     "description": "Description for Specialisation:22 Row:3 Column:2 Rank:5. Use icon icon_2232.jpg"
   },
   "22331": {
-    "name": "Specialisation:22 Row:3 Column:3 Rank:1",
+    "name": "Croisade (rang1)",
     "icon": "icon_2233",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:3 Column:3 Rank:1. Use icon icon_2233.jpg"
+    "description": "Augmente les chances de critiques de 25% avec les techniques Exorcisme et Colère Divine et réduit le temps de rechargement de Courroux Vengeur de 1min"
   },
   "22332": {
-    "name": "Specialisation:22 Row:3 Column:3 Rank:2",
+    "name": "Croisade (rang2)",
     "icon": "icon_2233",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:3 Column:3 Rank:2. Use icon icon_2233.jpg"
+    "description": "Augmente les chances de critiques de 50% avec les techniques Exorcisme et Colère Divine et réduit le temps de rechargement de Courroux Vengeur de 2min"
   },
   "22333": {
     "name": "Specialisation:22 Row:3 Column:3 Rank:3",
@@ -4080,22 +4080,22 @@
     "description": "Description for Specialisation:22 Row:3 Column:3 Rank:5. Use icon icon_2233.jpg"
   },
   "22401": {
-    "name": "Specialisation:22 Row:4 Column:0 Rank:1",
+    "name": "Jugement du Croisé (rang1)",
     "icon": "icon_2240",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:4 Column:0 Rank:1. Use icon icon_2240.jpg"
+    "description": "Lorsque le Paladin utilise une technique de Jugement, il pose également un affaiblissement qui augmente les chances de critique de toutes les sources sur cette cible de 1%"
   },
   "22402": {
-    "name": "Specialisation:22 Row:4 Column:0 Rank:2",
+    "name": "Jugement du Croisé (rang2)",
     "icon": "icon_2240",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:4 Column:0 Rank:2. Use icon icon_2240.jpg"
+    "description": "Lorsque le Paladin utilise une technique de Jugement, il pose également un affaiblissement qui augmente les chances de critique de toutes les sources sur cette cible de 2%"
   },
   "22403": {
-    "name": "Specialisation:22 Row:4 Column:0 Rank:3",
+    "name": "Jugement du Croisé (rang3)",
     "icon": "icon_2240",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:4 Column:0 Rank:3. Use icon icon_2240.jpg"
+    "description": "Lorsque le Paladin utilise une technique de Jugement, il pose également un affaiblissement qui augmente les chances de critique de toutes les sources sur cette cible de 3%"
   },
   "22404": {
     "name": "Specialisation:22 Row:4 Column:0 Rank:4",
@@ -4110,10 +4110,10 @@
     "description": "Description for Specialisation:22 Row:4 Column:0 Rank:5. Use icon icon_2240.jpg"
   },
   "22411": {
-    "name": "Specialisation:22 Row:4 Column:1 Rank:1",
+    "name": "Repentir",
     "icon": "icon_2241",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:4 Column:1 Rank:1. Use icon icon_2241.jpg"
+    "description": "Technique a activer, instantanée, coûte 60pts de mana, 20yards de portée, utilisable uniquement sur une cible humanoide, 1min de temps de recharge, Provoque un effet de stupéfaction de 6sec sur un joueur ou 60sec sur un PNJ, le moindre dégats interrompt l'effet"
   },
   "22412": {
     "name": "Specialisation:22 Row:4 Column:1 Rank:2",
@@ -4140,10 +4140,10 @@
     "description": "Description for Specialisation:22 Row:4 Column:1 Rank:5. Use icon icon_2241.jpg"
   },
   "22421": {
-    "name": "Specialisation:22 Row:4 Column:2 Rank:1",
+    "name": "Dessein Divin",
     "icon": "icon_2242",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:4 Column:2 Rank:1. Use icon icon_2242.jpg"
+    "description": "Rends tous les Sceaux du Paladin impossible a dissiper et permet a la technique Main de Liberté de supprimer les effets d'étourdissement sur sa cible"
   },
   "22422": {
     "name": "Specialisation:22 Row:4 Column:2 Rank:2",
@@ -4170,16 +4170,16 @@
     "description": "Description for Specialisation:22 Row:4 Column:2 Rank:5. Use icon icon_2242.jpg"
   },
   "22431": {
-    "name": "Specialisation:22 Row:4 Column:3 Rank:1",
+    "name": "Jugement Divin (rang1)",
     "icon": "icon_2243",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:4 Column:3 Rank:1. Use icon icon_2243.jpg"
+    "description": "Diminue le coût en mana des techniques de Jugement du Paladin de 50% et lorsqu'il utilise une technique de Jugement le Paladin regagne 1% de sa mana"
   },
   "22432": {
-    "name": "Specialisation:22 Row:4 Column:3 Rank:2",
+    "name": "Jugement Divin (rang2)",
     "icon": "icon_2243",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:4 Column:3 Rank:2. Use icon icon_2243.jpg"
+    "description": "Diminue le coût en mana des techniques de Jugement du Paladin de 100% et lorsqu'il utilise une technique de Jugement le Paladin regagne 2% de sa mana"
   },
   "22433": {
     "name": "Specialisation:22 Row:4 Column:3 Rank:3",
@@ -4200,22 +4200,22 @@
     "description": "Description for Specialisation:22 Row:4 Column:3 Rank:5. Use icon icon_2243.jpg"
   },
   "22511": {
-    "name": "Specialisation:22 Row:5 Column:1 Rank:1",
+    "name": "Vengeance (rang1)",
     "icon": "icon_2251",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:5 Column:1 Rank:1. Use icon icon_2251.jpg"
+    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 10%"
   },
   "22512": {
-    "name": "Specialisation:22 Row:5 Column:1 Rank:2",
+    "name": "Vengeance (rang2)",
     "icon": "icon_2251",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:5 Column:1 Rank:2. Use icon icon_2251.jpg"
+    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 20%"
   },
   "22513": {
-    "name": "Specialisation:22 Row:5 Column:1 Rank:3",
+    "name": "Vengeance (rang3)",
     "icon": "icon_2251",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:5 Column:1 Rank:3. Use icon icon_2251.jpg"
+    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 30%"
   },
   "22514": {
     "name": "Specialisation:22 Row:5 Column:1 Rank:4",
@@ -4230,22 +4230,22 @@
     "description": "Description for Specialisation:22 Row:5 Column:1 Rank:5. Use icon icon_2251.jpg"
   },
   "22521": {
-    "name": "Specialisation:22 Row:5 Column:2 Rank:1",
+    "name": "Combattant de la Lumière (rang1)",
     "icon": "icon_2252",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:5 Column:2 Rank:1. Use icon icon_2252.jpg"
+    "description": "Convertit 10% de la Force du Paladin en bonus sort"
   },
   "22522": {
-    "name": "Specialisation:22 Row:5 Column:2 Rank:2",
+    "name": "Combattant de la Lumière (rang2)",
     "icon": "icon_2252",
     "rank": 2,
-    "description": "Description for Specialisation:22 Row:5 Column:2 Rank:2. Use icon icon_2252.jpg"
+    "description": "Convertit 20% de la Force du Paladin en bonus sort"
   },
   "22523": {
-    "name": "Specialisation:22 Row:5 Column:2 Rank:3",
+    "name": "Combattant de la Lumière (rang3)",
     "icon": "icon_2252",
     "rank": 3,
-    "description": "Description for Specialisation:22 Row:5 Column:2 Rank:3. Use icon icon_2252.jpg"
+    "description": "Convertit 30% de la Force du Paladin en bonus sort"
   },
   "22524": {
     "name": "Specialisation:22 Row:5 Column:2 Rank:4",
@@ -4260,10 +4260,10 @@
     "description": "Description for Specialisation:22 Row:5 Column:2 Rank:5. Use icon icon_2252.jpg"
   },
   "22611": {
-    "name": "Specialisation:22 Row:6 Column:1 Rank:1",
+    "name": "Inquisition",
     "icon": "icon_2261",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:6 Column:1 Rank:1. Use icon icon_2261.jpg"
+    "description": "Technique a activer, instantanée, 0-5yards de portée, 6sec de temps de rechargement, coûte 400pts de mana, Frappe instantanément la cible et lui inflige 100% des dégats de l'arme du Paladin, de plus, raffrachit la durée de tous les affaiblissement de Jugement sur la cible et pose également un affaiblissement qui diminue les caractéristique de la cible de 10% durant 10sec"
   },
   "22612": {
     "name": "Specialisation:22 Row:6 Column:1 Rank:2",
@@ -4290,10 +4290,10 @@
     "description": "Description for Specialisation:22 Row:6 Column:1 Rank:5. Use icon icon_2261.jpg"
   },
   "22621": {
-    "name": "Specialisation:22 Row:6 Column:2 Rank:1",
+    "name": "Art de la Guerre",
     "icon": "icon_2262",
     "rank": 1,
-    "description": "Description for Specialisation:22 Row:6 Column:2 Rank:1. Use icon icon_2262.jpg"
+    "description": "Lorsque le Paladin obtient un critique avec une technique, un sort ou un soin, il gagne une amélioration durant 12sec, qui réduit le temps d'incantation de sa prochaine technique Eclair Lumineux ou Renvoi du Mal de 1,5sec, ou de Lumière Sacré ou Colère Divine de 0,5sec"
   },
   "22622": {
     "name": "Specialisation:22 Row:6 Column:2 Rank:2",
