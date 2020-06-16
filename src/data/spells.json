@@ -4320,19 +4320,19 @@
     "description": "Description for Specialisation:22 Row:6 Column:2 Rank:5. Use icon icon_2262.jpg"
   },
   "30001": {
-    "name": "Peaux Cuirasser (rang1)",
+    "name": "Peaux Cicatrisé (rang1)",
     "icon": "icon_3000",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30002": {
-    "name": "Peaux Cuirasser (rang2)",
+    "name": "Peaux Cicatrisé (rang2)",
     "icon": "icon_3000",
     "rank": 2,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
   "30003": {
-    "name": "Peaux Cuirasser (rang3)",
+    "name": "Peaux Cicatrisé (rang3)",
     "icon": "icon_3000",
     "rank": 3,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
@@ -4350,16 +4350,16 @@
     "description": "Description for Specialisation:30 Row:0 Column:0 Rank:5. Use icon icon_3000.jpg"
   },
   "30011": {
-    "name": "Focalisation (rang1)",
+    "name": "Complicité (rang1)",
     "icon": "icon_3001",
     "rank": 1,
-    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête et Ressuciter le Familier"
+    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête de 2min"
   },
   "30012": {
-    "name": "Focalisation (rang2)",
+    "name": "Complicité (rang2)",
     "icon": "icon_3001",
     "rank": 2,
-    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête et Ressuciter le Familier"
+    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 100% et augmente la durée de la technique Oeil de la Bête de 4min"
   },
   "30013": {
     "name": "Specialisation:30 Row:0 Column:1 Rank:3",
@@ -4383,19 +4383,19 @@
     "name": "Entraînement (rang1)",
     "icon": "icon_3002",
     "rank": 1,
-    "description": "Augmente l'Endurance du Familier de 5% et celle du Chasseur de 1%"
+    "description": "Augmente les Points de Vie du Familier de 5% et celle du Chasseur de 1%"
   },
   "30022": {
     "name": "Entraînement (rang2)",
     "icon": "icon_3002",
     "rank": 2,
-    "description": "Augmente l'Endurance du Familier de 10% et celle du Chasseur de 2%"
+    "description": "Augmente les Points de Vie du Familier de 10% et celle du Chasseur de 2%"
   },
   "30023": {
     "name": "Entraînement (rang3)",
     "icon": "icon_3002",
     "rank": 3,
-    "description": "Augmente l'Endurance du Familier de 15% et celle du Chasseur de 3%"
+    "description": "Augmente les Points de Vie du Familier de 15% et celle du Chasseur de 3%"
   },
   "30024": {
     "name": "Specialisation:30 Row:0 Column:2 Rank:4",
@@ -4440,22 +4440,22 @@
     "description": "Description for Specialisation:30 Row:0 Column:3 Rank:5. Use icon icon_3003.jpg"
   },
   "30101": {
-    "name": "Anticipation (rang1)",
+    "name": "Précision Bestiale (rang1)",
     "icon": "icon_3010",
     "rank": 1,
-    "description": "Augmente les chances d'Esquiver du Familier de 3% et celle du Chasseur de 1%"
+    "description": "Augmente les chances de Toucher du Familier de 3% et celle du Chasseur de 1%"
   },
   "30102": {
-    "name": "Anticipation (rang2)",
+    "name": "Précision Bestiale (rang2)",
     "icon": "icon_3010",
     "rank": 2,
-    "description": "Augmente les chances d'Esquiver du Familier de 6% et celle du Chasseur de 2%"
+    "description": "Augmente les chances de Toucher du Familier de 6% et celle du Chasseur de 2%"
   },
   "30103": {
-    "name": "Anticipation (rang3)",
+    "name": "Précision Bestiale (rang3)",
     "icon": "icon_3010",
     "rank": 3,
-    "description": "Augmente les chances d'Esquiver du Familier de 9% et celle du Chasseur de 3%"
+    "description": "Augmente les chances de Toucher du Familier de 9% et celle du Chasseur de 3%"
   },
   "30104": {
     "name": "Specialisation:30 Row:1 Column:0 Rank:4",
@@ -4470,16 +4470,16 @@
     "description": "Description for Specialisation:30 Row:1 Column:0 Rank:5. Use icon icon_3010.jpg"
   },
   "30111": {
-    "name": "Specialisation:30 Row:1 Column:1 Rank:1",
+    "name": "Aspect de la Bête Amélioré (rang1)",
     "icon": "icon_3011",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:1 Column:1 Rank:1. Use icon icon_3011.jpg"
+    "description": "En plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
   },
   "30112": {
-    "name": "Specialisation:30 Row:1 Column:1 Rank:2",
+    "name": "Aspect de la Bête Amélioré (rang2)",
     "icon": "icon_3011",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:1 Column:1 Rank:2. Use icon icon_3011.jpg"
+    "description": "En plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 100% sur le Chasseur"
   },
   "30113": {
     "name": "Specialisation:30 Row:1 Column:1 Rank:3",
@@ -4500,22 +4500,22 @@
     "description": "Description for Specialisation:30 Row:1 Column:1 Rank:5. Use icon icon_3011.jpg"
   },
   "30121": {
-    "name": "Specialisation:30 Row:1 Column:2 Rank:1",
+    "name": "Peau Epaisse (rang1)",
     "icon": "icon_3012",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:1 Column:2 Rank:1. Use icon icon_3012.jpg"
+    "description": "Diminue les dégats subit par le Familier de 5% et ceux du Chasseur de 2%"
   },
   "30122": {
-    "name": "Specialisation:30 Row:1 Column:2 Rank:2",
+    "name": "Peau Epaisse (rang2)",
     "icon": "icon_3012",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:1 Column:2 Rank:2. Use icon icon_3012.jpg"
+    "description": "Diminue les dégats subit par le Familier de 10% et ceux du Chasseur de 4%"
   },
   "30123": {
-    "name": "Specialisation:30 Row:1 Column:2 Rank:3",
+    "name": "Peau Epaisse (rang3)",
     "icon": "icon_3012",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:1 Column:2 Rank:3. Use icon icon_3012.jpg"
+    "description": "Diminue les dégats subit par le Familier de 15% et ceux du Chasseur de 6%"
   },
   "30124": {
     "name": "Specialisation:30 Row:1 Column:2 Rank:4",
@@ -4530,16 +4530,16 @@
     "description": "Description for Specialisation:30 Row:1 Column:2 Rank:5. Use icon icon_3012.jpg"
   },
   "30131": {
-    "name": "Specialisation:30 Row:1 Column:3 Rank:1",
+    "name": "Expert des Aspects (rang1)",
     "icon": "icon_3013",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:1 Column:3 Rank:1. Use icon icon_3013.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%"
   },
   "30132": {
-    "name": "Specialisation:30 Row:1 Column:3 Rank:2",
+    "name": "Expert des Aspects (rang2)",
     "icon": "icon_3013",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:1 Column:3 Rank:2. Use icon icon_3013.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 100%"
   },
   "30133": {
     "name": "Specialisation:30 Row:1 Column:3 Rank:3",
@@ -4560,22 +4560,22 @@
     "description": "Description for Specialisation:30 Row:1 Column:3 Rank:5. Use icon icon_3013.jpg"
   },
   "30201": {
-    "name": "Specialisation:30 Row:2 Column:0 Rank:1",
+    "name": "Aspects Améliorés (rang1)",
     "icon": "icon_3020",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:2 Column:0 Rank:1. Use icon icon_3020.jpg"
+    "description": "Augmente les effets des différentes technique d'Aspect de 5%"
   },
   "30202": {
-    "name": "Specialisation:30 Row:2 Column:0 Rank:2",
+    "name": "Aspects Améliorés (rang2)",
     "icon": "icon_3020",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:2 Column:0 Rank:2. Use icon icon_3020.jpg"
+    "description": "Augmente les effets des différentes technique d'Aspect de 10%"
   },
   "30203": {
-    "name": "Specialisation:30 Row:2 Column:0 Rank:3",
+    "name": "Aspects Améliorés (rang3)",
     "icon": "icon_3020",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:2 Column:0 Rank:3. Use icon icon_3020.jpg"
+    "description": "Augmente les effets des différentes technique d'Aspect de 15%"
   },
   "30204": {
     "name": "Specialisation:30 Row:2 Column:0 Rank:4",
@@ -4590,10 +4590,10 @@
     "description": "Description for Specialisation:30 Row:2 Column:0 Rank:5. Use icon icon_3020.jpg"
   },
   "30211": {
-    "name": "Specialisation:30 Row:2 Column:1 Rank:1",
+    "name": "Double Aspect",
     "icon": "icon_3021",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:2 Column:1 Rank:1. Use icon icon_3021.jpg"
+    "description": "Permet au Chasseur d'être sous l'effet de 2 techniques d'Aspect simultanément au lieu d'une seule"
   },
   "30212": {
     "name": "Specialisation:30 Row:2 Column:1 Rank:2",
@@ -4620,10 +4620,10 @@
     "description": "Description for Specialisation:30 Row:2 Column:1 Rank:5. Use icon icon_3021.jpg"
   },
   "30221": {
-    "name": "Specialisation:30 Row:2 Column:2 Rank:1",
+    "name": "Ordre de Tuer",
     "icon": "icon_3022",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:2 Column:2 Rank:1. Use icon icon_3022.jpg"
+    "description": "Technique a activer, instantanée, se déclanche après que le Chasseur est infligé un coup critique ou si la cible est inférieur a 20% de sa vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
   },
   "30222": {
     "name": "Specialisation:30 Row:2 Column:2 Rank:2",
@@ -4650,16 +4650,16 @@
     "description": "Description for Specialisation:30 Row:2 Column:2 Rank:5. Use icon icon_3022.jpg"
   },
   "30231": {
-    "name": "Specialisation:30 Row:2 Column:3 Rank:1",
+    "name": "Rapidité Bestiale (rang1)",
     "icon": "icon_3023",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:2 Column:3 Rank:1. Use icon icon_3023.jpg"
+    "description": "Augmente la vitesse de déplacement du Familier de 15% et celle du Chasseur de 8%"
   },
   "30232": {
-    "name": "Specialisation:30 Row:2 Column:3 Rank:2",
+    "name": "Rapidité Bestiale (rang2)",
     "icon": "icon_3023",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:2 Column:3 Rank:2. Use icon icon_3023.jpg"
+    "description": "Augmente la vitesse de déplacement du Familier de 30% et celle du Chasseur de 16%"
   },
   "30233": {
     "name": "Specialisation:30 Row:2 Column:3 Rank:3",
@@ -4680,22 +4680,22 @@
     "description": "Description for Specialisation:30 Row:2 Column:3 Rank:5. Use icon icon_3023.jpg"
   },
   "30301": {
-    "name": "Specialisation:30 Row:3 Column:0 Rank:1",
+    "name": "Férocité (rang1)",
     "icon": "icon_3030",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:3 Column:0 Rank:1. Use icon icon_3030.jpg"
+    "description": "Augmente les chances de critiques du Familier de 5% et celle du Chasseur de 1%"
   },
   "30302": {
-    "name": "Specialisation:30 Row:3 Column:0 Rank:2",
+    "name": "Férocité (rang2)",
     "icon": "icon_3030",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:3 Column:0 Rank:2. Use icon icon_3030.jpg"
+    "description": "Augmente les chances de critiques du Familier de 10% et celle du Chasseur de 2%"
   },
   "30303": {
-    "name": "Specialisation:30 Row:3 Column:0 Rank:3",
+    "name": "Férocité (rang3)",
     "icon": "icon_3030",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:3 Column:0 Rank:3. Use icon icon_3030.jpg"
+    "description": "Augmente les chances de critiques du Familier de 15% et celle du Chasseur de 3%"
   },
   "30304": {
     "name": "Specialisation:30 Row:3 Column:0 Rank:4",
@@ -4710,16 +4710,16 @@
     "description": "Description for Specialisation:30 Row:3 Column:0 Rank:5. Use icon icon_3030.jpg"
   },
   "30311": {
-    "name": "Specialisation:30 Row:3 Column:1 Rank:1",
+    "name": "Réceptif aux Calins (rang1)",
     "icon": "icon_3031",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:3 Column:1 Rank:1. Use icon icon_3031.jpg"
+    "description": "Augmente la portée des techniques Soin du Familier et Guérison du Familier de 10yards, et diminue également leur coût en mana de 15%, de plus augmente de 10% le montant des soins reçu par votre Familier"
   },
   "30312": {
-    "name": "Specialisation:30 Row:3 Column:1 Rank:2",
+    "name": "Réceptif aux Calins (rang2)",
     "icon": "icon_3031",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:3 Column:1 Rank:2. Use icon icon_3031.jpg"
+    "description": "Augmente la portée des techniques Soin du Familier et Guérison du Familier de 20yards, et diminue également leur coût en mana de 30%, de plus augmente de 10% le montant des soins reçu par votre Familier"
   },
   "30313": {
     "name": "Specialisation:30 Row:3 Column:1 Rank:3",
@@ -4740,22 +4740,22 @@
     "description": "Description for Specialisation:30 Row:3 Column:1 Rank:5. Use icon icon_3031.jpg"
   },
   "30321": {
-    "name": "Specialisation:30 Row:3 Column:2 Rank:1",
+    "name": "Anticipation (rang1)",
     "icon": "icon_3032",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:3 Column:2 Rank:1. Use icon icon_3032.jpg"
+    "description": "Augmente les chances d'Esquiver de votre Familier de 3% ainsi que celles du Chasseur de 1%"
   },
   "30322": {
-    "name": "Specialisation:30 Row:3 Column:2 Rank:2",
+    "name": "Anticipation (rang2)",
     "icon": "icon_3032",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:3 Column:2 Rank:2. Use icon icon_3032.jpg"
+    "description": "Augmente les chances d'Esquiver de votre Familier de 6% ainsi que celles du Chasseur de 2%"
   },
   "30323": {
-    "name": "Specialisation:30 Row:3 Column:2 Rank:3",
+    "name": "Anticipation (rang3)",
     "icon": "icon_3032",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:3 Column:2 Rank:3. Use icon icon_3032.jpg"
+    "description": "Augmente les chances d'Esquiver de votre Familier de 9% ainsi que celles du Chasseur de 3%"
   },
   "30324": {
     "name": "Specialisation:30 Row:3 Column:2 Rank:4",
@@ -4770,16 +4770,16 @@
     "description": "Description for Specialisation:30 Row:3 Column:2 Rank:5. Use icon icon_3032.jpg"
   },
   "30331": {
-    "name": "Specialisation:30 Row:3 Column:3 Rank:1",
+    "name": "Fureur Libérée (rang1)",
     "icon": "icon_3033",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:3 Column:3 Rank:1. Use icon icon_3033.jpg"
+    "description": "Augmente les dégats infligés par le Familier de 10% et ceux du Chasseur de 1%"
   },
   "30332": {
-    "name": "Specialisation:30 Row:3 Column:3 Rank:2",
+    "name": "Fureur Libérée (rang2)",
     "icon": "icon_3033",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:3 Column:3 Rank:2. Use icon icon_3033.jpg"
+    "description": "Augmente les dégats infligés par le Familier de 20% et ceux du Chasseur de 2%"
   },
   "30333": {
     "name": "Specialisation:30 Row:3 Column:3 Rank:3",
@@ -4800,22 +4800,22 @@
     "description": "Description for Specialisation:30 Row:3 Column:3 Rank:5. Use icon icon_3033.jpg"
   },
   "30401": {
-    "name": "Specialisation:30 Row:4 Column:0 Rank:1",
+    "name": "Lien Spirituel (rang1)",
     "icon": "icon_3040",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:4 Column:0 Rank:1. Use icon icon_3040.jpg"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 1% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 2%"
   },
   "30402": {
-    "name": "Specialisation:30 Row:4 Column:0 Rank:2",
+    "name": "Lien Spirituel (rang2)",
     "icon": "icon_3040",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:4 Column:0 Rank:2. Use icon icon_3040.jpg"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 2% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 4%"
   },
   "30403": {
-    "name": "Specialisation:30 Row:4 Column:0 Rank:3",
+    "name": "Lien Spirituel (rang3)",
     "icon": "icon_3040",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:4 Column:0 Rank:3. Use icon icon_3040.jpg"
+    "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne un amélioration qui rend 3% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 6%"
   },
   "30404": {
     "name": "Specialisation:30 Row:4 Column:0 Rank:4",
@@ -4830,10 +4830,10 @@
     "description": "Description for Specialisation:30 Row:4 Column:0 Rank:5. Use icon icon_3040.jpg"
   },
   "30411": {
-    "name": "Specialisation:30 Row:4 Column:1 Rank:1",
+    "name": "Guérison du Familier",
     "icon": "icon_3041",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:4 Column:1 Rank:1. Use icon icon_3041.jpg"
+    "description": "Technique a activer, instantanée, 20yards de portée, coûte 400pts de mana, Procure une amélioration sur le Familier qui le soigne de 125pts de vie toutes les 3sec pendant 15sec et qui dissipe 1 affaiblissement sur le Familier a chaque tick"
   },
   "30412": {
     "name": "Specialisation:30 Row:4 Column:1 Rank:2",
@@ -4860,10 +4860,10 @@
     "description": "Description for Specialisation:30 Row:4 Column:1 Rank:5. Use icon icon_3041.jpg"
   },
   "30421": {
-    "name": "Specialisation:30 Row:4 Column:2 Rank:1",
+    "name": "Intimidation",
     "icon": "icon_3042",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:4 Column:2 Rank:1. Use icon icon_3042.jpg"
+    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur procure une amélioration utilisable même sous contrôle qui permet a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et d'étourdir durant 3sec la cible"
   },
   "30422": {
     "name": "Specialisation:30 Row:4 Column:2 Rank:2",
@@ -4890,16 +4890,16 @@
     "description": "Description for Specialisation:30 Row:4 Column:2 Rank:5. Use icon icon_3042.jpg"
   },
   "30431": {
-    "name": "Specialisation:30 Row:4 Column:3 Rank:1",
+    "name": "Effrayer une Bête Amélioré (rang1)",
     "icon": "icon_3043",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:4 Column:3 Rank:1. Use icon icon_3043.jpg"
+    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 50%, diminue également le temps de rechargement de 25% et augmente la portée de 5yards"
   },
   "30432": {
-    "name": "Specialisation:30 Row:4 Column:3 Rank:2",
+    "name": "Effrayer une Bête Amélioré (rang2)",
     "icon": "icon_3043",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:4 Column:3 Rank:2. Use icon icon_3043.jpg"
+    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 100%, diminue également le temps de rechargement de 50% et augmente la portée de 10yards"
   },
   "30433": {
     "name": "Specialisation:30 Row:4 Column:3 Rank:3",
@@ -4920,16 +4920,16 @@
     "description": "Description for Specialisation:30 Row:4 Column:3 Rank:5. Use icon icon_3043.jpg"
   },
   "30511": {
-    "name": "Specialisation:30 Row:5 Column:1 Rank:1",
+    "name": "Discipline du Familier (rang1)",
     "icon": "icon_3051",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:5 Column:1 Rank:1. Use icon icon_3051.jpg"
+    "description": "Augmente le montant de Focalisation régénéré par le Familier de 50% et lui donne +2pts de Talents"
   },
   "30512": {
-    "name": "Specialisation:30 Row:5 Column:1 Rank:2",
+    "name": "Discipline du Familier (rang2)",
     "icon": "icon_3051",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:5 Column:1 Rank:2. Use icon icon_3051.jpg"
+    "description": "Augmente le montant de Focalisation régénéré par le Familier de 100% et lui donne +4pts de Talents"
   },
   "30513": {
     "name": "Specialisation:30 Row:5 Column:1 Rank:3",
@@ -4950,22 +4950,22 @@
     "description": "Description for Specialisation:30 Row:5 Column:1 Rank:5. Use icon icon_3051.jpg"
   },
   "30521": {
-    "name": "Specialisation:30 Row:5 Column:2 Rank:1",
+    "name": "Frénésie Bestiale (rang1)",
     "icon": "icon_3052",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:5 Column:2 Rank:1. Use icon icon_3052.jpg"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 10% ainsi que la vitesse de tir du Chasseur de 5% durant 8sec"
   },
   "30522": {
-    "name": "Specialisation:30 Row:5 Column:2 Rank:2",
+    "name": "Frénésie Bestiale (rang2)",
     "icon": "icon_3052",
     "rank": 2,
-    "description": "Description for Specialisation:30 Row:5 Column:2 Rank:2. Use icon icon_3052.jpg"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 20% ainsi que la vitesse de tir du Chasseur de 10% durant 8sec"
   },
   "30523": {
-    "name": "Specialisation:30 Row:5 Column:2 Rank:3",
+    "name": "Frénésie Bestiale (rang3)",
     "icon": "icon_3052",
     "rank": 3,
-    "description": "Description for Specialisation:30 Row:5 Column:2 Rank:3. Use icon icon_3052.jpg"
+    "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque de 30% ainsi que la vitesse de tir du Chasseur de 15% durant 8sec"
   },
   "30524": {
     "name": "Specialisation:30 Row:5 Column:2 Rank:4",
@@ -4980,10 +4980,10 @@
     "description": "Description for Specialisation:30 Row:5 Column:2 Rank:5. Use icon icon_3052.jpg"
   },
   "30611": {
-    "name": "Specialisation:30 Row:6 Column:1 Rank:1",
+    "name": "Bête Intérieure",
     "icon": "icon_3061",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:6 Column:1 Rank:1. Use icon icon_3061.jpg"
+    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de rechargement, coûte 200pts de mana, Permet au Chasseur et son Familier d'échanger instantanément leur position"
   },
   "30612": {
     "name": "Specialisation:30 Row:6 Column:1 Rank:2",
@@ -5010,10 +5010,10 @@
     "description": "Description for Specialisation:30 Row:6 Column:1 Rank:5. Use icon icon_3061.jpg"
   },
   "30621": {
-    "name": "Specialisation:30 Row:6 Column:2 Rank:1",
+    "name": "Inséparables Compagnons",
     "icon": "icon_3062",
     "rank": 1,
-    "description": "Description for Specialisation:30 Row:6 Column:2 Rank:1. Use icon icon_3062.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère des effets affectant le mouvement"
   },
   "30622": {
     "name": "Specialisation:30 Row:6 Column:2 Rank:2",
