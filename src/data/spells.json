@@ -4203,19 +4203,19 @@
     "name": "Vengeance (rang1)",
     "icon": "icon_2251",
     "rank": 1,
-    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 10%"
+    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 15%"
   },
   "22512": {
     "name": "Vengeance (rang2)",
     "icon": "icon_2251",
     "rank": 2,
-    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 20%"
+    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 30%"
   },
   "22513": {
-    "name": "Vengeance (rang3)",
+    "name": "Specialisation:22 Row:5 Column:1 Rank:3",
     "icon": "icon_2251",
     "rank": 3,
-    "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 30%"
+    "description": "Description for Specialisation:22 Row:5 Column:1 Rank:3. Use icon icon_2251.jpg"
   },
   "22514": {
     "name": "Specialisation:22 Row:5 Column:1 Rank:4",
