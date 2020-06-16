@@ -3993,13 +3993,13 @@
     "name": "Oeil pour Oeil (rang1)",
     "icon": "icon_2231",
     "rank": 1,
-    "description": "Permet a la technique l'Aura de Vindict de renvoyer 50% des dégats qu'elle inflige également sur les attaques a distances"
+    "description": "Permet a la technique Aura de Vindict de renvoyer 50% des dégats qu'elle inflige également sur les attaques a distances"
   },
   "22312": {
     "name": "Oeil pour Oeil (rang2)",
     "icon": "icon_2231",
     "rank": 2,
-    "description": "Permet a la technique l'Aura de Vindict de renvoyer 100% des dégats qu'elle inflige également sur les attaques a distances"
+    "description": "Permet a la technique Aura de Vindict de renvoyer 100% des dégats qu'elle inflige également sur les attaques a distances"
   },
   "22313": {
     "name": "Specialisation:22 Row:3 Column:1 Rank:3",
