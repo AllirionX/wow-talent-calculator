@@ -4353,13 +4353,13 @@
     "name": "Complicité (rang1)",
     "icon": "icon_3001",
     "rank": 1,
-    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête de 2min"
+    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 2min"
   },
   "30012": {
     "name": "Complicité (rang2)",
     "icon": "icon_3001",
     "rank": 2,
-    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Renvoi du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 100% et augmente la durée de la technique Oeil de la Bête de 4min"
+    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 100% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 4min"
   },
   "30013": {
     "name": "Specialisation:30 Row:0 Column:1 Rank:3",
@@ -4473,13 +4473,13 @@
     "name": "Bestialité Naturelle (rang1)",
     "icon": "icon_3011",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10%"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10% et le coût en Focalisation de toutes techniques du Familier de 1pts"
   },
   "30112": {
     "name": "Bestialité Naturelle (rang2)",
     "icon": "icon_3011",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 20%"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 20% et le coût en Focalisation de toutes techniques du Familier de 2pts"
   },
   "30113": {
     "name": "Specialisation:30 Row:1 Column:1 Rank:3",
@@ -4833,7 +4833,7 @@
     "name": "Guérison du Familier",
     "icon": "icon_3041",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 20yards de portée, coûte 400pts de mana, Procure une amélioration sur le Familier qui le soigne de 125pts de vie toutes les 3sec pendant 15sec et qui dissipe 1 affaiblissement sur le Familier a chaque tick"
+    "description": "Technique a activer, instantanée, 20yards de portée, coûte 400pts de mana, Procure une amélioration sur le Familier qui le soigne de 125pts de vie toutes les 2sec pendant 12sec et qui dissipe 1 affaiblissement sur le Familier a chaque tick"
   },
   "30412": {
     "name": "Specialisation:30 Row:4 Column:1 Rank:2",
@@ -4890,16 +4890,16 @@
     "description": "Description for Specialisation:30 Row:4 Column:2 Rank:5. Use icon icon_3042.jpg"
   },
   "30431": {
-    "name": "Effrayer une Bête Amélioré (rang1)",
+    "name": "Maître des Bêtes (rang1)",
     "icon": "icon_3043",
     "rank": 1,
-    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 50%, diminue également le temps de rechargement de 25% et augmente la portée de 5yards"
+    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 50%, augmente également sa portée de 5yards, diminue également le temps de rechargement de cette technique ainsi que la technique Tir Tranquilisant de 25%"
   },
   "30432": {
-    "name": "Effrayer une Bête Amélioré (rang2)",
+    "name": "Maître des Bêtes (rang2)",
     "icon": "icon_3043",
     "rank": 2,
-    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 100%, diminue également le temps de rechargement de 50% et augmente la portée de 10yards"
+    "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 100%, augmente également sa portée de 10yards, diminue également le temps de rechargement de cette technique ainsi que la technique Tir Tranquilisant de 50%"
   },
   "30433": {
     "name": "Specialisation:30 Row:4 Column:3 Rank:3",
@@ -5040,22 +5040,22 @@
     "description": "Description for Specialisation:30 Row:6 Column:2 Rank:5. Use icon icon_3062.jpg"
   },
   "31001": {
-    "name": "Specialisation:31 Row:0 Column:0 Rank:1",
+    "name": "Maille étincellante (rang1)",
     "icon": "icon_3100",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:0 Column:0 Rank:1. Use icon icon_3100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de mana"
   },
   "31002": {
-    "name": "Specialisation:31 Row:0 Column:0 Rank:2",
+    "name": "Maille étincellante (rang2)",
     "icon": "icon_3100",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:0 Column:0 Rank:2. Use icon icon_3100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de mana"
   },
   "31003": {
-    "name": "Specialisation:31 Row:0 Column:0 Rank:3",
+    "name": "Maille étincellante (rang3)",
     "icon": "icon_3100",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:0 Column:0 Rank:3. Use icon icon_3100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de mana"
   },
   "31004": {
     "name": "Specialisation:31 Row:0 Column:0 Rank:4",
@@ -5070,16 +5070,16 @@
     "description": "Description for Specialisation:31 Row:0 Column:0 Rank:5. Use icon icon_3100.jpg"
   },
   "31011": {
-    "name": "Specialisation:31 Row:0 Column:1 Rank:1",
+    "name": "Focus (rang1)",
     "icon": "icon_3101",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:0 Column:1 Rank:1. Use icon icon_3101.jpg"
+    "description": "Octroie 50% d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Flèche Multiple, Salve et Visée"
   },
   "31012": {
-    "name": "Specialisation:31 Row:0 Column:1 Rank:2",
+    "name": "Focus (rang2)",
     "icon": "icon_3101",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:0 Column:1 Rank:2. Use icon icon_3101.jpg"
+    "description": "Octroie 100% d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Flèche Multiple, Salve et Visée"
   },
   "31013": {
     "name": "Specialisation:31 Row:0 Column:1 Rank:3",
@@ -5100,22 +5100,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:1 Rank:5. Use icon icon_3101.jpg"
   },
   "31021": {
-    "name": "Specialisation:31 Row:0 Column:2 Rank:1",
+    "name": "Oeil du Faucon (rang1)",
     "icon": "icon_3102",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:0 Column:2 Rank:1. Use icon icon_3102.jpg"
+    "description": "Augmente la portée de tir du Chasseur de 2yards"
   },
   "31022": {
-    "name": "Specialisation:31 Row:0 Column:2 Rank:2",
+    "name": "Oeil du Faucon (rang2)",
     "icon": "icon_3102",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:0 Column:2 Rank:2. Use icon icon_3102.jpg"
+    "description": "Augmente la portée de tir du Chasseur de 4yards"
   },
   "31023": {
-    "name": "Specialisation:31 Row:0 Column:2 Rank:3",
+    "name": "Oeil du Faucon (rang3)",
     "icon": "icon_3102",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:0 Column:2 Rank:3. Use icon icon_3102.jpg"
+    "description": "Augmente la portée de tir du Chasseur de 6yards"
   },
   "31024": {
     "name": "Specialisation:31 Row:0 Column:2 Rank:4",
@@ -5130,16 +5130,16 @@
     "description": "Description for Specialisation:31 Row:0 Column:2 Rank:5. Use icon icon_3102.jpg"
   },
   "31031": {
-    "name": "Specialisation:31 Row:0 Column:3 Rank:1",
+    "name": "Efficacité (rang1)",
     "icon": "icon_3103",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:0 Column:3 Rank:1. Use icon icon_3103.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques de Tir et de Morsure de 5%"
   },
   "31032": {
-    "name": "Specialisation:31 Row:0 Column:3 Rank:2",
+    "name": "Efficacité (rang2)",
     "icon": "icon_3103",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:0 Column:3 Rank:2. Use icon icon_3103.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques de Tir et de Morsure de 10%"
   },
   "31033": {
     "name": "Specialisation:31 Row:0 Column:3 Rank:3",
@@ -5160,22 +5160,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:3 Rank:5. Use icon icon_3103.jpg"
   },
   "31101": {
-    "name": "Specialisation:31 Row:1 Column:0 Rank:1",
+    "name": "Marque du Chasseur Améliorée (rang1)",
     "icon": "icon_3110",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:1 Column:0 Rank:1. Use icon icon_3110.jpg"
+    "description": "Augmente le montant de Puissance d'Attaque a distance procuré par la technique Marque du Chasseur de 5% et réduit sont coût en mana de 33%"
   },
   "31102": {
-    "name": "Specialisation:31 Row:1 Column:0 Rank:2",
+    "name": "Marque du Chasseur Améliorée (rang2)",
     "icon": "icon_3110",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:1 Column:0 Rank:2. Use icon icon_3110.jpg"
+    "description": "Augmente le montant de Puissance d'Attaque a distance procuré par la technique Marque du Chasseur de 10% et réduit sont coût en mana de 66%"
   },
   "31103": {
-    "name": "Specialisation:31 Row:1 Column:0 Rank:3",
+    "name": "Marque du Chasseur Améliorée (rang3)",
     "icon": "icon_3110",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:1 Column:0 Rank:3. Use icon icon_3110.jpg"
+    "description": "Augmente le montant de Puissance d'Attaque a distance procuré par la technique Marque du Chasseur de 15% et réduit sont coût en mana de 100%"
   },
   "31104": {
     "name": "Specialisation:31 Row:1 Column:0 Rank:4",
@@ -5190,16 +5190,16 @@
     "description": "Description for Specialisation:31 Row:1 Column:0 Rank:5. Use icon icon_3110.jpg"
   },
   "31111": {
-    "name": "Specialisation:31 Row:1 Column:1 Rank:1",
+    "name": "A la Gorge (rang1)",
     "icon": "icon_3111",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:1 Column:1 Rank:1. Use icon icon_3111.jpg"
+    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 15pts de Focalisation a son Familier"
   },
   "31112": {
-    "name": "Specialisation:31 Row:1 Column:1 Rank:2",
+    "name": "A la Gorge (rang2)",
     "icon": "icon_3111",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:1 Column:1 Rank:2. Use icon icon_3111.jpg"
+    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 30pts de Focalisation a son Familier"
   },
   "31113": {
     "name": "Specialisation:31 Row:1 Column:1 Rank:3",
@@ -5220,22 +5220,22 @@
     "description": "Description for Specialisation:31 Row:1 Column:1 Rank:5. Use icon icon_3111.jpg"
   },
   "31121": {
-    "name": "Specialisation:31 Row:1 Column:2 Rank:1",
+    "name": "Coup Fatal (rang1)",
     "icon": "icon_3112",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:1 Column:2 Rank:1. Use icon icon_3112.jpg"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 2%"
   },
   "31122": {
-    "name": "Specialisation:31 Row:1 Column:2 Rank:2",
+    "name": "Coup Fatal (rang2)",
     "icon": "icon_3112",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:1 Column:2 Rank:2. Use icon icon_3112.jpg"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 4%"
   },
   "31123": {
-    "name": "Specialisation:31 Row:1 Column:2 Rank:3",
+    "name": "Coup Fatal (rang3)",
     "icon": "icon_3112",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:1 Column:2 Rank:3. Use icon icon_3112.jpg"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 6%"
   },
   "31124": {
     "name": "Specialisation:31 Row:1 Column:2 Rank:4",
@@ -5250,16 +5250,16 @@
     "description": "Description for Specialisation:31 Row:1 Column:2 Rank:5. Use icon icon_3112.jpg"
   },
   "31131": {
-    "name": "Specialisation:31 Row:1 Column:3 Rank:1",
+    "name": "Trait de Choc Amélioré (rang1)",
     "icon": "icon_3113",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:1 Column:3 Rank:1. Use icon icon_3113.jpg"
+    "description": "Diminue le coût en mana de la technique Trait de Choc de 20% et augmente sa durée de 1sec"
   },
   "31132": {
-    "name": "Specialisation:31 Row:1 Column:3 Rank:2",
+    "name": "Trait de Choc Amélioré (rang2)",
     "icon": "icon_3113",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:1 Column:3 Rank:2. Use icon icon_3113.jpg"
+    "description": "Diminue le coût en mana de la technique Trait de Choc de 40% et augmente sa durée de 2sec"
   },
   "31133": {
     "name": "Specialisation:31 Row:1 Column:3 Rank:3",
@@ -5280,22 +5280,22 @@
     "description": "Description for Specialisation:31 Row:1 Column:3 Rank:5. Use icon icon_3113.jpg"
   },
   "31201": {
-    "name": "Specialisation:31 Row:2 Column:0 Rank:1",
+    "name": "Aspect du Faucon Amélioré (rang1)",
     "icon": "icon_3120",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:2 Column:0 Rank:1. Use icon icon_3120.jpg"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un bonus de vitesse d'attaque a distance de 5%"
   },
   "31202": {
-    "name": "Specialisation:31 Row:2 Column:0 Rank:2",
+    "name": "Aspect du Faucon Amélioré (rang2)",
     "icon": "icon_3120",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:2 Column:0 Rank:2. Use icon icon_3120.jpg"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un bonus de vitesse d'attaque a distance de 10%"
   },
   "31203": {
-    "name": "Specialisation:31 Row:2 Column:0 Rank:3",
+    "name": "Aspect du Faucon Amélioré (rang3)",
     "icon": "icon_3120",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:2 Column:0 Rank:3. Use icon icon_3120.jpg"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un bonus de vitesse d'attaque a distance de 15%"
   },
   "31204": {
     "name": "Specialisation:31 Row:2 Column:0 Rank:4",
@@ -5310,10 +5310,10 @@
     "description": "Description for Specialisation:31 Row:2 Column:0 Rank:5. Use icon icon_3120.jpg"
   },
   "31211": {
-    "name": "Specialisation:31 Row:2 Column:1 Rank:1",
+    "name": "Visée",
     "icon": "icon_3121",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:2 Column:1 Rank:1. Use icon icon_3121.jpg"
+    "description": "Technique a activer, 3sec de temps d'incantation, coût 67pts de mana, 10sec de temps de rechargement et partage ce temps avec la technique Tir des Arcanes, 8-35yards de portée, inflige un dégat a distance avec un bonus de +600 et réduit les soins sur la cible de 50% durant 10sec"
   },
   "31212": {
     "name": "Specialisation:31 Row:2 Column:1 Rank:2",
@@ -5340,10 +5340,10 @@
     "description": "Description for Specialisation:31 Row:2 Column:1 Rank:5. Use icon icon_3121.jpg"
   },
   "31221": {
-    "name": "Specialisation:31 Row:2 Column:2 Rank:1",
+    "name": "Tir Tranquilisant",
     "icon": "icon_3122",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:2 Column:2 Rank:1. Use icon icon_3122.jpg"
+    "description": "Technique a activer, instantanée, 0-35yards de portée, 20sec de temps de rechargement, coût 120pts de mana, retire instantanément les effets de Rage sur la cible PNJ ou Joueur"
   },
   "31222": {
     "name": "Specialisation:31 Row:2 Column:2 Rank:2",
@@ -5370,16 +5370,16 @@
     "description": "Description for Specialisation:31 Row:2 Column:2 Rank:5. Use icon icon_3122.jpg"
   },
   "31231": {
-    "name": "Specialisation:31 Row:2 Column:3 Rank:1",
+    "name": "Tir Rapide Amélioré (Rang1)",
     "icon": "icon_3123",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:2 Column:3 Rank:1. Use icon icon_3123.jpg"
+    "description": "Diminue le temps de recharge de la technique Tir Rapide de 1min et augmente sa durée de 3sec"
   },
   "31232": {
-    "name": "Specialisation:31 Row:2 Column:3 Rank:2",
+    "name": "Tir Rapide Amélioré (Rang2)",
     "icon": "icon_3123",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:2 Column:3 Rank:2. Use icon icon_3123.jpg"
+    "description": "Diminue le temps de recharge de la technique Tir Rapide de 2min et augmente sa durée de 6sec"
   },
   "31233": {
     "name": "Specialisation:31 Row:2 Column:3 Rank:3",
@@ -5400,22 +5400,22 @@
     "description": "Description for Specialisation:31 Row:2 Column:3 Rank:5. Use icon icon_3123.jpg"
   },
   "31301": {
-    "name": "Specialisation:31 Row:3 Column:0 Rank:1",
+    "name": "Morsures Améliorées (rang1)",
     "icon": "icon_3130",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:3 Column:0 Rank:1. Use icon icon_3130.jpg"
+    "description": "Augmente le montant des effets des différentes techniques de Morsure de 2%"
   },
   "31302": {
-    "name": "Specialisation:31 Row:3 Column:0 Rank:2",
+    "name": "Morsures Améliorées (rang2)",
     "icon": "icon_3130",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:3 Column:0 Rank:2. Use icon icon_3130.jpg"
+    "description": "Augmente le montant des effets des différentes techniques de Morsure de 4%"
   },
   "31303": {
-    "name": "Specialisation:31 Row:3 Column:0 Rank:3",
+    "name": "Morsures Améliorées (rang3)",
     "icon": "icon_3130",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:3 Column:0 Rank:3. Use icon icon_3130.jpg"
+    "description": "Augmente le montant des effets des différentes techniques de Morsure de 6%"
   },
   "31304": {
     "name": "Specialisation:31 Row:3 Column:0 Rank:4",
@@ -5430,19 +5430,19 @@
     "description": "Description for Specialisation:31 Row:3 Column:0 Rank:5. Use icon icon_3130.jpg"
   },
   "31311": {
-    "name": "Specialisation:31 Row:3 Column:1 Rank:1",
+    "name": "Astucieux (rang1)",
     "icon": "icon_3131",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:3 Column:1 Rank:1. Use icon icon_3131.jpg"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 50% du dégats de la technique a la cible, Morsure de la Vipère dissipé rend 50% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 5sec, Trait de Choc dissipé applique un effet d'Etourdissement de 1,5sec sur la cible"
   },
   "31312": {
-    "name": "Specialisation:31 Row:3 Column:1 Rank:2",
+    "name": "Astucieux (rang2)",
     "icon": "icon_3131",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:3 Column:1 Rank:2. Use icon icon_3131.jpg"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 100% du dégats de la technique a la cible, Morsure de la Vipère dissipé rend 100% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 10sec, Trait de Choc dissipé applique un effet d'Etourdissement de 3sec sur la cible"
   },
   "31313": {
-    "name": "Specialisation:31 Row:3 Column:1 Rank:3",
+    "name": "Astucieux (rang3)",
     "icon": "icon_3131",
     "rank": 3,
     "description": "Description for Specialisation:31 Row:3 Column:1 Rank:3. Use icon icon_3131.jpg"
@@ -5460,22 +5460,22 @@
     "description": "Description for Specialisation:31 Row:3 Column:1 Rank:5. Use icon icon_3131.jpg"
   },
   "31321": {
-    "name": "Specialisation:31 Row:3 Column:2 Rank:1",
+    "name": "Coup Mortel (rang1)",
     "icon": "icon_3132",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:3 Column:2 Rank:1. Use icon icon_3132.jpg"
+    "description": "Augmente les dégats infligés par les techniques a distance critiques de 10%"
   },
   "31322": {
-    "name": "Specialisation:31 Row:3 Column:2 Rank:2",
+    "name": "Coup Mortel (rang2)",
     "icon": "icon_3132",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:3 Column:2 Rank:2. Use icon icon_3132.jpg"
+    "description": "Augmente les dégats infligés par les techniques a distance critiques de 20%"
   },
   "31323": {
-    "name": "Specialisation:31 Row:3 Column:2 Rank:3",
+    "name": "Coup Mortel (rang3)",
     "icon": "icon_3132",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:3 Column:2 Rank:3. Use icon icon_3132.jpg"
+    "description": "Augmente les dégats infligés par les techniques a distance critiques de 30%"
   },
   "31324": {
     "name": "Specialisation:31 Row:3 Column:2 Rank:4",
@@ -5490,16 +5490,16 @@
     "description": "Description for Specialisation:31 Row:3 Column:2 Rank:5. Use icon icon_3132.jpg"
   },
   "31331": {
-    "name": "Specialisation:31 Row:3 Column:3 Rank:1",
+    "name": "Tueur Rapide (rang1)",
     "icon": "icon_3133",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:3 Column:3 Rank:1. Use icon icon_3133.jpg"
+    "description": "Lorsque le Chasseur obtient un Coup Fatal sur un ennemi qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 30sec"
   },
   "31332": {
-    "name": "Specialisation:31 Row:3 Column:3 Rank:2",
+    "name": "Tueur Rapide (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:3 Column:3 Rank:2. Use icon icon_3133.jpg"
+    "description": "Lorsque le Chasseur obtient un Coup Fatal sur un ennemi qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 40% durant 30sec"
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
@@ -5520,22 +5520,22 @@
     "description": "Description for Specialisation:31 Row:3 Column:3 Rank:5. Use icon icon_3133.jpg"
   },
   "31401": {
-    "name": "Specialisation:31 Row:4 Column:0 Rank:1",
+    "name": "Barrage (rang1)",
     "icon": "icon_3140",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:4 Column:0 Rank:1. Use icon icon_3140.jpg"
+    "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 5% et diminue le coût en mana de ces 2 techniques du même montant"
   },
   "31402": {
-    "name": "Specialisation:31 Row:4 Column:0 Rank:2",
+    "name": "Barrage (rang2)",
     "icon": "icon_3140",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:4 Column:0 Rank:2. Use icon icon_3140.jpg"
+    "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 10% et diminue le coût en mana de ces 2 techniques du même montant"
   },
   "31403": {
-    "name": "Specialisation:31 Row:4 Column:0 Rank:3",
+    "name": "Barrage (rang3)",
     "icon": "icon_3140",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:4 Column:0 Rank:3. Use icon icon_3140.jpg"
+    "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 15% et diminue le coût en mana de ces 2 techniques du même montant"
   },
   "31404": {
     "name": "Specialisation:31 Row:4 Column:0 Rank:4",
@@ -5550,10 +5550,10 @@
     "description": "Description for Specialisation:31 Row:4 Column:0 Rank:5. Use icon icon_3140.jpg"
   },
   "31411": {
-    "name": "Specialisation:31 Row:4 Column:1 Rank:1",
+    "name": "Flèche de Dispersion",
     "icon": "icon_3141",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:4 Column:1 Rank:1. Use icon icon_3141.jpg"
+    "description": "Technique a activer, instantanée, 0-15yards de portée, coûte 60pts de mana, 30sec de temps de rechargement, inflige 50% des dégats de l'arme a distance du Chasseur et provoque un effet de Désorientation sur la cible durant 4sec, le moindre dégats dissipe l'effet"
   },
   "31412": {
     "name": "Specialisation:31 Row:4 Column:1 Rank:2",
@@ -5580,10 +5580,10 @@
     "description": "Description for Specialisation:31 Row:4 Column:1 Rank:5. Use icon icon_3141.jpg"
   },
   "31421": {
-    "name": "Specialisation:31 Row:4 Column:2 Rank:1",
+    "name": "Salve Améliorée",
     "icon": "icon_3142",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:4 Column:2 Rank:1. Use icon icon_3142.jpg"
+    "description": "Supprime l'effet de Canalisation de la technique Salve et réduit la menace qu'elle génère de 100% et réduit son temps de rechargement a 10sec"
   },
   "31422": {
     "name": "Specialisation:31 Row:4 Column:2 Rank:2",
@@ -5610,16 +5610,16 @@
     "description": "Description for Specialisation:31 Row:4 Column:2 Rank:5. Use icon icon_3142.jpg"
   },
   "31431": {
-    "name": "Specialisation:31 Row:4 Column:3 Rank:1",
+    "name": "Tir des Arcanes Améliorés (rang1)",
     "icon": "icon_3143",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:4 Column:3 Rank:1. Use icon icon_3143.jpg"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et son coût en mana de 20%"
   },
   "31432": {
-    "name": "Specialisation:31 Row:4 Column:3 Rank:2",
+    "name": "Tir des Arcanes Améliorés (rang2)",
     "icon": "icon_3143",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:4 Column:3 Rank:2. Use icon icon_3143.jpg"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et son coût en mana de 40%"
   },
   "31433": {
     "name": "Specialisation:31 Row:4 Column:3 Rank:3",
@@ -5640,16 +5640,16 @@
     "description": "Description for Specialisation:31 Row:4 Column:3 Rank:5. Use icon icon_3143.jpg"
   },
   "31511": {
-    "name": "Specialisation:31 Row:5 Column:1 Rank:1",
+    "name": "Menaçant (rang1)",
     "icon": "icon_3151",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:5 Column:1 Rank:1. Use icon icon_3151.jpg"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 25% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 50%"
   },
   "31512": {
-    "name": "Specialisation:31 Row:5 Column:1 Rank:2",
+    "name": "Menaçant (rang2)",
     "icon": "icon_3151",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:5 Column:1 Rank:2. Use icon icon_3151.jpg"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 20%, augmente également la menace généré par la technique Trait Provocateur de 50% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 100%"
   },
   "31513": {
     "name": "Specialisation:31 Row:5 Column:1 Rank:3",
@@ -5670,22 +5670,22 @@
     "description": "Description for Specialisation:31 Row:5 Column:1 Rank:5. Use icon icon_3151.jpg"
   },
   "31521": {
-    "name": "Specialisation:31 Row:5 Column:2 Rank:1",
+    "name": "Spécialisation Armes a Distance (rang1)",
     "icon": "icon_3152",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:5 Column:2 Rank:1. Use icon icon_3152.jpg"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +2pts"
   },
   "31522": {
-    "name": "Specialisation:31 Row:5 Column:2 Rank:2",
+    "name": "Spécialisation Armes a Distance (rang2)",
     "icon": "icon_3152",
     "rank": 2,
-    "description": "Description for Specialisation:31 Row:5 Column:2 Rank:2. Use icon icon_3152.jpg"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +4pts"
   },
   "31523": {
-    "name": "Specialisation:31 Row:5 Column:2 Rank:3",
+    "name": "Spécialisation Armes a Distance (rang3)",
     "icon": "icon_3152",
     "rank": 3,
-    "description": "Description for Specialisation:31 Row:5 Column:2 Rank:3. Use icon icon_3152.jpg"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +6pts"
   },
   "31524": {
     "name": "Specialisation:31 Row:5 Column:2 Rank:4",
@@ -5700,10 +5700,10 @@
     "description": "Description for Specialisation:31 Row:5 Column:2 Rank:5. Use icon icon_3152.jpg"
   },
   "31611": {
-    "name": "Specialisation:31 Row:6 Column:1 Rank:1",
+    "name": "Aura de Précision",
     "icon": "icon_3161",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:6 Column:1 Rank:1. Use icon icon_3161.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, Aura qui affecte tous les joueurs dans les 45yards de portée et augmente leur Puissance d'Attaque au corps a corps et a distance de +100pts"
   },
   "31612": {
     "name": "Specialisation:31 Row:6 Column:1 Rank:2",
@@ -5730,10 +5730,10 @@
     "description": "Description for Specialisation:31 Row:6 Column:1 Rank:5. Use icon icon_3161.jpg"
   },
   "31621": {
-    "name": "Specialisation:31 Row:6 Column:2 Rank:1",
+    "name": "Flèche Baillon",
     "icon": "icon_3162",
     "rank": 1,
-    "description": "Description for Specialisation:31 Row:6 Column:2 Rank:1. Use icon icon_3162.jpg"
+    "description": "Technique a activer, instantanée, 20sec de temps de rechargement, 8-35yards de portée, coûte 202pts de mana, Pose un affaiblissement sur la cible qui la silence durant 3sec"
   },
   "31622": {
     "name": "Specialisation:31 Row:6 Column:2 Rank:2",
