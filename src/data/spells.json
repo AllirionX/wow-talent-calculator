@@ -5760,22 +5760,22 @@
     "description": "Description for Specialisation:31 Row:6 Column:2 Rank:5. Use icon icon_3162.jpg"
   },
   "32001": {
-    "name": "Specialisation:32 Row:0 Column:0 Rank:1",
+    "name": "Poids de la Maille (rang1)",
     "icon": "icon_3200",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:0 Column:0 Rank:1. Use icon icon_3200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Vie"
   },
   "32002": {
-    "name": "Specialisation:32 Row:0 Column:0 Rank:2",
+    "name": "Poids de la Maille (rang2)",
     "icon": "icon_3200",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:0 Column:0 Rank:2. Use icon icon_3200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Vie"
   },
   "32003": {
-    "name": "Specialisation:32 Row:0 Column:0 Rank:3",
+    "name": "Poids de la Maille (rang3)",
     "icon": "icon_3200",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:0 Column:0 Rank:3. Use icon icon_3200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Vie"
   },
   "32004": {
     "name": "Specialisation:32 Row:0 Column:0 Rank:4",
@@ -5790,16 +5790,16 @@
     "description": "Description for Specialisation:32 Row:0 Column:0 Rank:5. Use icon icon_3200.jpg"
   },
   "32011": {
-    "name": "Specialisation:32 Row:0 Column:1 Rank:1",
+    "name": "Maîtrise des Pièges (rang1)",
     "icon": "icon_3201",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:0 Column:1 Rank:1. Use icon icon_3201.jpg"
+    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 10pts le niveau des camouflages des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
   },
   "32012": {
-    "name": "Specialisation:32 Row:0 Column:1 Rank:2",
+    "name": "Maîtrise des Pièges (rang2)",
     "icon": "icon_3201",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:0 Column:1 Rank:2. Use icon icon_3201.jpg"
+    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 20pts le niveau des camouflages des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
   },
   "32013": {
     "name": "Specialisation:32 Row:0 Column:1 Rank:3",
@@ -5820,22 +5820,22 @@
     "description": "Description for Specialisation:32 Row:0 Column:1 Rank:5. Use icon icon_3201.jpg"
   },
   "32021": {
-    "name": "Specialisation:32 Row:0 Column:2 Rank:1",
+    "name": "Traqueur (rang1)",
     "icon": "icon_3202",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:0 Column:2 Rank:1. Use icon icon_3202.jpg"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 1% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32022": {
-    "name": "Specialisation:32 Row:0 Column:2 Rank:2",
+    "name": "Traqueur (rang2)",
     "icon": "icon_3202",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:0 Column:2 Rank:2. Use icon icon_3202.jpg"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 2% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32023": {
-    "name": "Specialisation:32 Row:0 Column:2 Rank:3",
+    "name": "Traqueur (rang3)",
     "icon": "icon_3202",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:0 Column:2 Rank:3. Use icon icon_3202.jpg"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 3% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32024": {
     "name": "Specialisation:32 Row:0 Column:2 Rank:4",
@@ -5850,16 +5850,16 @@
     "description": "Description for Specialisation:32 Row:0 Column:2 Rank:5. Use icon icon_3202.jpg"
   },
   "32031": {
-    "name": "Specialisation:32 Row:0 Column:3 Rank:1",
+    "name": "Tacticien (rang1)",
     "icon": "icon_3203",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:0 Column:3 Rank:1. Use icon icon_3203.jpg"
+    "description": "Diminue le temps de rechargement des techniques Feindre la Mort et Désengagement de 2sec ainsi que leur coût en mana de 50% et réduit les chances des cibles de résiste a la technique Feindre la Mort de 5%"
   },
   "32032": {
-    "name": "Specialisation:32 Row:0 Column:3 Rank:2",
+    "name": "Tacticien (rang2)",
     "icon": "icon_3203",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:0 Column:3 Rank:2. Use icon icon_3203.jpg"
+    "description": "Diminue le temps de rechargement des techniques Feindre la Mort et Désengagement de 4sec ainsi que leur coût en mana de 100% et réduit les chances des cibles de résiste a la technique Feindre la Mort de 10%"
   },
   "32033": {
     "name": "Specialisation:32 Row:0 Column:3 Rank:3",
@@ -5880,22 +5880,22 @@
     "description": "Description for Specialisation:32 Row:0 Column:3 Rank:5. Use icon icon_3203.jpg"
   },
   "32101": {
-    "name": "Specialisation:32 Row:1 Column:0 Rank:1",
+    "name": "Déviation (rang1)",
     "icon": "icon_3210",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:1 Column:0 Rank:1. Use icon icon_3210.jpg"
+    "description": "Augmente les chances de Parade du Chasseur de 2%"
   },
   "32102": {
-    "name": "Specialisation:32 Row:1 Column:0 Rank:2",
+    "name": "Déviation (rang2)",
     "icon": "icon_3210",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:1 Column:0 Rank:2. Use icon icon_3210.jpg"
+    "description": "Augmente les chances de Parade du Chasseur de 4%"
   },
   "32103": {
-    "name": "Specialisation:32 Row:1 Column:0 Rank:3",
+    "name": "Déviation (rang3)",
     "icon": "icon_3210",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:1 Column:0 Rank:3. Use icon icon_3210.jpg"
+    "description": "Augmente les chances de Parade du Chasseur de 6%"
   },
   "32104": {
     "name": "Specialisation:32 Row:1 Column:0 Rank:4",
@@ -5910,16 +5910,16 @@
     "description": "Description for Specialisation:32 Row:1 Column:0 Rank:5. Use icon icon_3210.jpg"
   },
   "32111": {
-    "name": "Specialisation:32 Row:1 Column:1 Rank:1",
+    "name": "Fusée Eclairante Améliorée (rang1)",
     "icon": "icon_3211",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:1 Column:1 Rank:1. Use icon icon_3211.jpg"
+    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 25% ainsi que son coût en mana de 50%"
   },
   "32112": {
-    "name": "Specialisation:32 Row:1 Column:1 Rank:2",
+    "name": "Fusée Eclairante Améliorée (rang2)",
     "icon": "icon_3211",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:1 Column:1 Rank:2. Use icon icon_3211.jpg"
+    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 50% ainsi que son coût en mana de 100%"
   },
   "32113": {
     "name": "Specialisation:32 Row:1 Column:1 Rank:3",
@@ -5940,22 +5940,22 @@
     "description": "Description for Specialisation:32 Row:1 Column:1 Rank:5. Use icon icon_3211.jpg"
   },
   "32121": {
-    "name": "Specialisation:32 Row:1 Column:2 Rank:1",
+    "name": "Dards Améliorés (rang1)",
     "icon": "icon_3212",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:1 Column:2 Rank:1. Use icon icon_3212.jpg"
+    "description": "Augmente la durée des différentes techniques de Morsure de 1sec et diminue également leur coût en mana de 5%"
   },
   "32122": {
-    "name": "Specialisation:32 Row:1 Column:2 Rank:2",
+    "name": "Dards Améliorés (rang2)",
     "icon": "icon_3212",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:1 Column:2 Rank:2. Use icon icon_3212.jpg"
+    "description": "Augmente la durée des différentes techniques de Morsure de 2sec et diminue également leur coût en mana de 10%"
   },
   "32123": {
-    "name": "Specialisation:32 Row:1 Column:2 Rank:3",
+    "name": "Dards Améliorés (rang3)",
     "icon": "icon_3212",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:1 Column:2 Rank:3. Use icon icon_3212.jpg"
+    "description": "Augmente la durée des différentes techniques de Morsure de 3sec et diminue également leur coût en mana de 15%"
   },
   "32124": {
     "name": "Specialisation:32 Row:1 Column:2 Rank:4",
@@ -5970,16 +5970,16 @@
     "description": "Description for Specialisation:32 Row:1 Column:2 Rank:5. Use icon icon_3212.jpg"
   },
   "32131": {
-    "name": "Specialisation:32 Row:1 Column:3 Rank:1",
+    "name": "Frappes Sauvages (rang1)",
     "icon": "icon_3213",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:1 Column:3 Rank:1. Use icon icon_3213.jpg"
+    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 10% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
   },
   "32132": {
-    "name": "Specialisation:32 Row:1 Column:3 Rank:2",
+    "name": "Frappes Sauvages (rang2)",
     "icon": "icon_3213",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:1 Column:3 Rank:2. Use icon icon_3213.jpg"
+    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 20% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
   },
   "32133": {
     "name": "Specialisation:32 Row:1 Column:3 Rank:3",
@@ -6000,22 +6000,22 @@
     "description": "Description for Specialisation:32 Row:1 Column:3 Rank:5. Use icon icon_3213.jpg"
   },
   "32201": {
-    "name": "Specialisation:32 Row:2 Column:0 Rank:1",
+    "name": "Pièges Améliorés (rang1)",
     "icon": "icon_3220",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:2 Column:0 Rank:1. Use icon icon_3220.jpg"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 10%"
   },
   "32202": {
-    "name": "Specialisation:32 Row:2 Column:0 Rank:2",
+    "name": "Pièges Améliorés (rang2)",
     "icon": "icon_3220",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:2 Column:0 Rank:2. Use icon icon_3220.jpg"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 20%"
   },
   "32203": {
-    "name": "Specialisation:32 Row:2 Column:0 Rank:3",
+    "name": "Pièges Améliorés (rang3)",
     "icon": "icon_3220",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:2 Column:0 Rank:3. Use icon icon_3220.jpg"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 30%"
   },
   "32204": {
     "name": "Specialisation:32 Row:2 Column:0 Rank:4",
@@ -6030,10 +6030,10 @@
     "description": "Description for Specialisation:32 Row:2 Column:0 Rank:5. Use icon icon_3220.jpg"
   },
   "32211": {
-    "name": "Specialisation:32 Row:2 Column:1 Rank:1",
+    "name": "Aspect de la Vipère",
     "icon": "icon_3221",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:2 Column:1 Rank:1. Use icon icon_3221.jpg"
+    "description": "Technique a activer, instantanée, coûte pts de mana, Nouvel Aspect qui permet a chaque attaque du Chasseur en mélée ou a distance de rendre 3% des dégats infligés en mana"
   },
   "32212": {
     "name": "Specialisation:32 Row:2 Column:1 Rank:2",
@@ -6060,10 +6060,10 @@
     "description": "Description for Specialisation:32 Row:2 Column:1 Rank:5. Use icon icon_3221.jpg"
   },
   "32221": {
-    "name": "Specialisation:32 Row:2 Column:2 Rank:1",
+    "name": "Dissuasion",
     "icon": "icon_3222",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:2 Column:2 Rank:1. Use icon icon_3222.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Augmente les chances d'Esquive et de Parade du Chasseur de 25% durant 10sec et permet d'absorber complètement la prochaine technique a distance qui touche le Chasseur"
   },
   "32222": {
     "name": "Specialisation:32 Row:2 Column:2 Rank:2",
@@ -6090,16 +6090,16 @@
     "description": "Description for Specialisation:32 Row:2 Column:2 Rank:5. Use icon icon_3222.jpg"
   },
   "32231": {
-    "name": "Specialisation:32 Row:2 Column:3 Rank:1",
+    "name": "Survivant (rang1)",
     "icon": "icon_3223",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:2 Column:3 Rank:1. Use icon icon_3223.jpg"
+    "description": "Augmente l'Endurance et l'Armure du Chasseur de 5%"
   },
   "32232": {
-    "name": "Specialisation:32 Row:2 Column:3 Rank:2",
+    "name": "Survivant (rang1)",
     "icon": "icon_3223",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:2 Column:3 Rank:2. Use icon icon_3223.jpg"
+    "description": "Augmente l'Endurance et l'Armure du Chasseur de 10%"
   },
   "32233": {
     "name": "Specialisation:32 Row:2 Column:3 Rank:3",
@@ -6120,22 +6120,22 @@
     "description": "Description for Specialisation:32 Row:2 Column:3 Rank:5. Use icon icon_3223.jpg"
   },
   "32301": {
-    "name": "Specialisation:32 Row:3 Column:0 Rank:1",
+    "name": "Coup d'Oeil (rang1)",
     "icon": "icon_3230",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:3 Column:0 Rank:1. Use icon icon_3230.jpg"
+    "description": "Augmente les chances de Toucher du Chasseur de 2%"
   },
   "32302": {
-    "name": "Specialisation:32 Row:3 Column:0 Rank:2",
+    "name": "Coup d'Oeil (rang2)",
     "icon": "icon_3230",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:3 Column:0 Rank:2. Use icon icon_3230.jpg"
+    "description": "Augmente les chances de Toucher du Chasseur de 4%"
   },
   "32303": {
-    "name": "Specialisation:32 Row:3 Column:0 Rank:3",
+    "name": "Coup d'Oeil (rang3)",
     "icon": "icon_3230",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:3 Column:0 Rank:3. Use icon icon_3230.jpg"
+    "description": "Augmente les chances de Toucher du Chasseur de 6%"
   },
   "32304": {
     "name": "Specialisation:32 Row:3 Column:0 Rank:4",
@@ -6150,16 +6150,16 @@
     "description": "Description for Specialisation:32 Row:3 Column:0 Rank:5. Use icon icon_3230.jpg"
   },
   "32311": {
-    "name": "Specialisation:32 Row:3 Column:1 Rank:1",
+    "name": "Sans Faille (rang1)",
     "icon": "icon_3231",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:3 Column:1 Rank:1. Use icon icon_3231.jpg"
+    "description": "Diminue la durée des effets de Désarmement sur le Chasseur de 25% et permet a ses attaques en mélée et a distance d'ignorer 5% de l'Armure"
   },
   "32312": {
-    "name": "Specialisation:32 Row:3 Column:1 Rank:2",
+    "name": "Sans Faille (rang2)",
     "icon": "icon_3231",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:3 Column:1 Rank:2. Use icon icon_3231.jpg"
+    "description": "Diminue la durée des effets de Désarmement sur le Chasseur de 50% et permet a ses attaques en mélée et a distance d'ignorer 10% de l'Armure"
   },
   "32313": {
     "name": "Specialisation:32 Row:3 Column:1 Rank:3",
@@ -6180,22 +6180,22 @@
     "description": "Description for Specialisation:32 Row:3 Column:1 Rank:5. Use icon icon_3231.jpg"
   },
   "32321": {
-    "name": "Specialisation:32 Row:3 Column:2 Rank:1",
+    "name": "Pied Sûr (rang1)",
     "icon": "icon_3232",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:3 Column:2 Rank:1. Use icon icon_3232.jpg"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10%"
   },
   "32322": {
-    "name": "Specialisation:32 Row:3 Column:2 Rank:2",
+    "name": "Pied Sûr (rang2)",
     "icon": "icon_3232",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:3 Column:2 Rank:2. Use icon icon_3232.jpg"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 20%"
   },
   "32323": {
-    "name": "Specialisation:32 Row:3 Column:2 Rank:3",
+    "name": "Pied Sûr (rang3)",
     "icon": "icon_3232",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:3 Column:2 Rank:3. Use icon icon_3232.jpg"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 30%"
   },
   "32324": {
     "name": "Specialisation:32 Row:3 Column:2 Rank:4",
@@ -6210,16 +6210,16 @@
     "description": "Description for Specialisation:32 Row:3 Column:2 Rank:5. Use icon icon_3232.jpg"
   },
   "32331": {
-    "name": "Specialisation:32 Row:3 Column:3 Rank:1",
+    "name": "Coupure d'Ailes Améliorée (rang1)",
     "icon": "icon_3233",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:3 Column:3 Rank:1. Use icon icon_3233.jpg"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 25% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec"
   },
   "32332": {
-    "name": "Specialisation:32 Row:3 Column:3 Rank:2",
+    "name": "Coupure d'Ailes Améliorée (rang2)",
     "icon": "icon_3233",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:3 Column:3 Rank:2. Use icon icon_3233.jpg"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 50% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec"
   },
   "32333": {
     "name": "Specialisation:32 Row:3 Column:3 Rank:3",
@@ -6240,22 +6240,22 @@
     "description": "Description for Specialisation:32 Row:3 Column:3 Rank:5. Use icon icon_3233.jpg"
   },
   "32401": {
-    "name": "Specialisation:32 Row:4 Column:0 Rank:1",
+    "name": "Instinct de Tueur (rang1)",
     "icon": "icon_3240",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:4 Column:0 Rank:1. Use icon icon_3240.jpg"
+    "description": "Augmente les chances de critique du Chasseur de 2%"
   },
   "32402": {
-    "name": "Specialisation:32 Row:4 Column:0 Rank:2",
+    "name": "Instinct de Tueur (rang2)",
     "icon": "icon_3240",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:4 Column:0 Rank:2. Use icon icon_3240.jpg"
+    "description": "Augmente les chances de critique du Chasseur de 4%"
   },
   "32403": {
-    "name": "Specialisation:32 Row:4 Column:0 Rank:3",
+    "name": "Instinct de Tueur (rang3)",
     "icon": "icon_3240",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:4 Column:0 Rank:3. Use icon icon_3240.jpg"
+    "description": "Augmente les chances de critique du Chasseur de 6%"
   },
   "32404": {
     "name": "Specialisation:32 Row:4 Column:0 Rank:4",
@@ -6270,10 +6270,10 @@
     "description": "Description for Specialisation:32 Row:4 Column:0 Rank:5. Use icon icon_3240.jpg"
   },
   "32411": {
-    "name": "Specialisation:32 Row:4 Column:1 Rank:1",
+    "name": "Piège Serpent",
     "icon": "icon_3241",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:4 Column:1 Rank:1. Use icon icon_3241.jpg"
+    "description": "Technique a activer, instantanée, coûte 305pts de Mana, 15sec de temps de rechargement, lié avec les autres Pièges, utilisable uniquement hors combat, Nouveau Piège qui fait apparaitre plusieurs serpent qui empoisonne les cibles proches"
   },
   "32412": {
     "name": "Specialisation:32 Row:4 Column:1 Rank:2",
@@ -6300,10 +6300,10 @@
     "description": "Description for Specialisation:32 Row:4 Column:1 Rank:5. Use icon icon_3241.jpg"
   },
   "32421": {
-    "name": "Specialisation:32 Row:4 Column:2 Rank:1",
+    "name": "Désengagement",
     "icon": "icon_3242",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:4 Column:2 Rank:1. Use icon icon_3242.jpg"
+    "description": ""
   },
   "32422": {
     "name": "Specialisation:32 Row:4 Column:2 Rank:2",
@@ -6330,16 +6330,16 @@
     "description": "Description for Specialisation:32 Row:4 Column:2 Rank:5. Use icon icon_3242.jpg"
   },
   "32431": {
-    "name": "Specialisation:32 Row:4 Column:3 Rank:1",
+    "name": "Pièges Astucieux (rang1)",
     "icon": "icon_3243",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:4 Column:3 Rank:1. Use icon icon_3243.jpg"
+    "description": "Lorsqu'une technique de Piège du Chasseur se déclanche, il pose un affaiblissement supplémentaire qui immobilise durant 2sec"
   },
   "32432": {
-    "name": "Specialisation:32 Row:4 Column:3 Rank:2",
+    "name": "Pièges Astucieux (rang2)",
     "icon": "icon_3243",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:4 Column:3 Rank:2. Use icon icon_3243.jpg"
+    "description": "Lorsqu'une technique de Piège du Chasseur se déclanche, il pose un affaiblissement supplémentaire qui immobilise durant 4sec"
   },
   "32433": {
     "name": "Specialisation:32 Row:4 Column:3 Rank:3",
@@ -6360,16 +6360,16 @@
     "description": "Description for Specialisation:32 Row:4 Column:3 Rank:5. Use icon icon_3243.jpg"
   },
   "32511": {
-    "name": "Specialisation:32 Row:5 Column:1 Rank:1",
+    "name": "Frisson de la Chasse (rang1)",
     "icon": "icon_3251",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:5 Column:1 Rank:1. Use icon icon_3251.jpg"
+    "description": "Convertit 15% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32512": {
-    "name": "Specialisation:32 Row:5 Column:1 Rank:2",
+    "name": "Frisson de la Chasse (rang2)",
     "icon": "icon_3251",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:5 Column:1 Rank:2. Use icon icon_3251.jpg"
+    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32513": {
     "name": "Specialisation:32 Row:5 Column:1 Rank:3",
@@ -6390,22 +6390,22 @@
     "description": "Description for Specialisation:32 Row:5 Column:1 Rank:5. Use icon icon_3251.jpg"
   },
   "32521": {
-    "name": "Specialisation:32 Row:5 Column:2 Rank:1",
+    "name": "Réflexes Eclairs (rang1)",
     "icon": "icon_3252",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:5 Column:2 Rank:1. Use icon icon_3252.jpg"
+    "description": "Augmente l'Agilité du Chasseur de 5%"
   },
   "32522": {
-    "name": "Specialisation:32 Row:5 Column:2 Rank:2",
+    "name": "Réflexes Eclairs (rang2)",
     "icon": "icon_3252",
     "rank": 2,
-    "description": "Description for Specialisation:32 Row:5 Column:2 Rank:2. Use icon icon_3252.jpg"
+    "description": "Augmente l'Agilité du Chasseur de 10%"
   },
   "32523": {
-    "name": "Specialisation:32 Row:5 Column:2 Rank:3",
+    "name": "Réflexes Eclairs (rang3)",
     "icon": "icon_3252",
     "rank": 3,
-    "description": "Description for Specialisation:32 Row:5 Column:2 Rank:3. Use icon icon_3252.jpg"
+    "description": "Augmente l'Agilité du Chasseur de 15%"
   },
   "32524": {
     "name": "Specialisation:32 Row:5 Column:2 Rank:4",
@@ -6420,10 +6420,10 @@
     "description": "Description for Specialisation:32 Row:5 Column:2 Rank:5. Use icon icon_3252.jpg"
   },
   "32611": {
-    "name": "Specialisation:32 Row:6 Column:1 Rank:1",
+    "name": "Morsure de la Wyvern",
     "icon": "icon_3261",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:6 Column:1 Rank:1. Use icon icon_3261.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable uniquement hors combat, 8-35yards de portée, coûte 115pts de mana, Nouvelle Morsure qui a pour effet de plonger la cible dans un effet de Sommeil durant 10sec contre un Joueur, 1min contre un PNJ, le moindre dégat dissipe l'effet, si la technique est dissipé par un joueur, c'est le joueur qui dissipe l'effet qui subit alors l'effet"
   },
   "32612": {
     "name": "Specialisation:32 Row:6 Column:1 Rank:2",
@@ -6450,10 +6450,10 @@
     "description": "Description for Specialisation:32 Row:6 Column:1 Rank:5. Use icon icon_3261.jpg"
   },
   "32621": {
-    "name": "Specialisation:32 Row:6 Column:2 Rank:1",
+    "name": "Promptitude",
     "icon": "icon_3262",
     "rank": 1,
-    "description": "Description for Specialisation:32 Row:6 Column:2 Rank:1. Use icon icon_3262.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de recharge, gratuite en mana, met instantanément fin a tous les temps de rechargement des techniques du Chasseur"
   },
   "32622": {
     "name": "Specialisation:32 Row:6 Column:2 Rank:2",
