@@ -6003,19 +6003,19 @@
     "name": "Pièges Améliorés (rang1)",
     "icon": "icon_3220",
     "rank": 1,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 10%"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 10%"
   },
   "32202": {
     "name": "Pièges Améliorés (rang2)",
     "icon": "icon_3220",
     "rank": 2,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 20%"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 20%"
   },
   "32203": {
     "name": "Pièges Améliorés (rang3)",
     "icon": "icon_3220",
     "rank": 3,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu de 30%"
+    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 30%"
   },
   "32204": {
     "name": "Specialisation:32 Row:2 Column:0 Rank:4",
@@ -6093,13 +6093,13 @@
     "name": "Survivant (rang1)",
     "icon": "icon_3223",
     "rank": 1,
-    "description": "Augmente l'Endurance et l'Armure du Chasseur de 5%"
+    "description": "Augmente l'Endurance du Chasseur de 5% et diminue la durée des effets de Désarmement sur le Chasseur de 25%"
   },
   "32232": {
     "name": "Survivant (rang1)",
     "icon": "icon_3223",
     "rank": 2,
-    "description": "Augmente l'Endurance et l'Armure du Chasseur de 10%"
+    "description": "Augmente l'Endurance du Chasseur de 10% et diminue la durée des effets de Désarmement sur le Chasseur de 50%"
   },
   "32233": {
     "name": "Specialisation:32 Row:2 Column:3 Rank:3",
@@ -6150,16 +6150,16 @@
     "description": "Description for Specialisation:32 Row:3 Column:0 Rank:5. Use icon icon_3230.jpg"
   },
   "32311": {
-    "name": "Sans Faille (rang1)",
+    "name": "Frisson de la Chasse (rang1)",
     "icon": "icon_3231",
     "rank": 1,
-    "description": "Diminue la durée des effets de Désarmement sur le Chasseur de 25% et permet a ses attaques en mélée et a distance d'ignorer 5% de l'Armure"
+    "description": "Convertit 15% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32312": {
-    "name": "Sans Faille (rang2)",
+    "name": "Frisson de la Chasse (rang2)",
     "icon": "icon_3231",
     "rank": 2,
-    "description": "Diminue la durée des effets de Désarmement sur le Chasseur de 50% et permet a ses attaques en mélée et a distance d'ignorer 10% de l'Armure"
+    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32313": {
     "name": "Specialisation:32 Row:3 Column:1 Rank:3",
@@ -6183,19 +6183,19 @@
     "name": "Pied Sûr (rang1)",
     "icon": "icon_3232",
     "rank": 1,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10% et augmente l'Armure du Chasseur de 4%"
   },
   "32322": {
     "name": "Pied Sûr (rang2)",
     "icon": "icon_3232",
     "rank": 2,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 20%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 20% et augmente l'Armure du Chasseur de 8%"
   },
   "32323": {
     "name": "Pied Sûr (rang3)",
     "icon": "icon_3232",
     "rank": 3,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 30%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 30% et augmente l'Armure du Chasseur de 12%"
   },
   "32324": {
     "name": "Specialisation:32 Row:3 Column:2 Rank:4",
@@ -6360,16 +6360,16 @@
     "description": "Description for Specialisation:32 Row:4 Column:3 Rank:5. Use icon icon_3243.jpg"
   },
   "32511": {
-    "name": "Frisson de la Chasse (rang1)",
+    "name": "Expérience du Combat (rang1)",
     "icon": "icon_3251",
     "rank": 1,
-    "description": "Convertit 15% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 3%"
   },
   "32512": {
-    "name": "Frisson de la Chasse (rang2)",
+    "name": "Expérience du Combat (rang2)",
     "icon": "icon_3251",
     "rank": 2,
-    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "CDiminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 6%"
   },
   "32513": {
     "name": "Specialisation:32 Row:5 Column:1 Rank:3",
