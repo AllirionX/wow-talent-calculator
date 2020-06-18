@@ -120,19 +120,19 @@
     "description": "Description for Specialisation:10 Row:0 Column:3 Rank:5. Use icon icon_1003.jpg"
   },
   "10101": {
-    "name": "Parade (rang1)",
+    "name": "Déviation (rang1)",
     "icon": "ability_parry",
     "rank": 1,
     "description": "Augmente les chances de Parade du Guerrier de 2%"
   },
   "10102": {
-    "name": "Parade (rang2)",
+    "name": "Déviation (rang2)",
     "icon": "icon_1010",
     "rank": 2,
     "description": "Augmente les chances de Parade du Guerrier de 4%"
   },
   "10103": {
-    "name": "Parade (rang3)",
+    "name": "Déviation (rang3)",
     "icon": "icon_1010",
     "rank": 3,
     "description": "Augmente les chances de Parade du Guerrier de 6%"
@@ -210,16 +210,16 @@
     "description": "Description for Specialisation:10 Row:1 Column:2 Rank:5. Use icon icon_1012.jpg"
   },
   "10131": {
-    "name": "Fulgurance Améliorée (rang1)",
+    "name": "Riposte (rang1)",
     "icon": "icon_1013",
     "rank": 1,
-    "description": "Augmente les chances de critiques avec la technique Fulgurance de 25%"
+    "description": "Augmente les chances de critiques avec les techniques Fulgurance et Vengeance de 25%"
   },
   "10132": {
-    "name": "Fulgurance Améliorée (rang2)",
+    "name": "Riposte (rang2)",
     "icon": "icon_1013",
     "rank": 2,
-    "description": "Augmente les chances de critiques avec la technique Fulgurance de 50%"
+    "description": "Augmente les chances de critiques avec les techniques Fulgurance et Vengeance de 50%"
   },
   "10133": {
     "name": "Specialisation:10 Row:1 Column:3 Rank:3",
@@ -573,13 +573,13 @@
     "name": "Traumatisme (rang1)",
     "icon": "icon_1043",
     "rank": 1,
-    "description": "Vos saignement appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
+    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
   },
   "10432": {
     "name": "Traumatisme (rang2)",
     "icon": "icon_1043",
     "rank": 2,
-    "description": "Vos saignement appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 30%"
+    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 30%"
   },
   "10433": {
     "name": "Specialisation:10 Row:4 Column:3 Rank:3",
@@ -603,13 +603,13 @@
     "name": "Duelliste (rang1)",
     "icon": "icon_1051",
     "rank": 1,
-    "description": "Augmente toutes les compétences d'armes du Guerrier de 2pts et permet a ses attaques d'ignorer 2% de l'armure de sa cible"
+    "description": "Augmente toutes les compétences d'armes du Guerrier de 3pts et permet a ses attaques d'ignorer 3% de l'armure de sa cible"
   },
   "10512": {
     "name": "Duelliste (rang2)",
     "icon": "icon_1051",
     "rank": 2,
-    "description": "Augmente toutes les compétences d'armes du Guerrier de 5pts et permet a ses attaques d'ignorer 5% de l'armure de sa cible"
+    "description": "Augmente toutes les compétences d'armes du Guerrier de 6pts et permet a ses attaques d'ignorer 6% de l'armure de sa cible"
   },
   "10513": {
     "name": "Specialisation:10 Row:5 Column:1 Rank:3",
@@ -1773,13 +1773,13 @@
     "name": "Vengeance Améliorée (rang1)",
     "icon": "icon_1223",
     "rank": 1,
-    "description": "Augmente les chances de critique du Guerrier avec la technique Vengeance de 25%"
+    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 5% durant 6sec"
   },
   "12232": {
     "name": "Vengeance Améliorée (rang2)",
     "icon": "icon_1223",
     "rank": 2,
-    "description": "Augmente les chances de critique du Guerrier avec la technique Vengeance de 50%"
+    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 10% durant 6sec"
   },
   "12233": {
     "name": "Specialisation:12 Row:2 Column:3 Rank:3",
@@ -5583,7 +5583,7 @@
     "name": "Salve Améliorée",
     "icon": "icon_3142",
     "rank": 1,
-    "description": "Supprime l'effet de Canalisation de la technique Salve et réduit la menace qu'elle génère de 100% et réduit son temps de rechargement a 10sec"
+    "description": "Supprime l'effet de Canalisation de la technique Salve et réduit la menace qu'elle génère de 100% et réduit son temps de rechargement de 50%"
   },
   "31422": {
     "name": "Specialisation:31 Row:4 Column:2 Rank:2",
@@ -5673,19 +5673,19 @@
     "name": "Spécialisation Armes a Distance (rang1)",
     "icon": "icon_3152",
     "rank": 1,
-    "description": "Augmente les compétences d'armes a distance du Chasseur de +2pts"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +2pts et ses attaques a distance ignorent 2% de l'Armure de sa cible"
   },
   "31522": {
     "name": "Spécialisation Armes a Distance (rang2)",
     "icon": "icon_3152",
     "rank": 2,
-    "description": "Augmente les compétences d'armes a distance du Chasseur de +4pts"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +4pts et ses attaques a distance ignorent 4% de l'Armure de sa cible"
   },
   "31523": {
     "name": "Spécialisation Armes a Distance (rang3)",
     "icon": "icon_3152",
     "rank": 3,
-    "description": "Augmente les compétences d'armes a distance du Chasseur de +6pts"
+    "description": "Augmente les compétences d'armes a distance du Chasseur de +6pts et ses attaques a distance ignorent 6% de l'Armure de sa cible"
   },
   "31524": {
     "name": "Specialisation:31 Row:5 Column:2 Rank:4",
@@ -5793,13 +5793,13 @@
     "name": "Maîtrise des Pièges (rang1)",
     "icon": "icon_3201",
     "rank": 1,
-    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 10pts le niveau des camouflages des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
+    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 5 rangs le niveau de camouflage des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
   },
   "32012": {
     "name": "Maîtrise des Pièges (rang2)",
     "icon": "icon_3201",
     "rank": 2,
-    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 20pts le niveau des camouflages des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
+    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 10 rangs le niveau de camouflage des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
   },
   "32013": {
     "name": "Specialisation:32 Row:0 Column:1 Rank:3",
@@ -5823,19 +5823,19 @@
     "name": "Traqueur (rang1)",
     "icon": "icon_3202",
     "rank": 1,
-    "description": "Augmente les dégats infligés et les dégats des critiques de 1% envers les cibles dont la technique de Pistage du Chasseur est active"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 2% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32022": {
     "name": "Traqueur (rang2)",
     "icon": "icon_3202",
     "rank": 2,
-    "description": "Augmente les dégats infligés et les dégats des critiques de 2% envers les cibles dont la technique de Pistage du Chasseur est active"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 4% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32023": {
     "name": "Traqueur (rang3)",
     "icon": "icon_3202",
     "rank": 3,
-    "description": "Augmente les dégats infligés et les dégats des critiques de 3% envers les cibles dont la technique de Pistage du Chasseur est active"
+    "description": "Augmente les dégats infligés et les dégats des critiques de 6% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
   "32024": {
     "name": "Specialisation:32 Row:0 Column:2 Rank:4",
@@ -6303,7 +6303,7 @@
     "name": "Désengagement",
     "icon": "icon_3242",
     "rank": 1,
-    "description": ""
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, utilisable uniquement en combat, Permet au Chasseur d'effectuer un saut en arrière de 15yards"
   },
   "32422": {
     "name": "Specialisation:32 Row:4 Column:2 Rank:2",
@@ -6369,7 +6369,7 @@
     "name": "Expérience du Combat (rang2)",
     "icon": "icon_3251",
     "rank": 2,
-    "description": "CDiminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 6%"
+    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 6%"
   },
   "32513": {
     "name": "Specialisation:32 Row:5 Column:1 Rank:3",
@@ -6420,7 +6420,7 @@
     "description": "Description for Specialisation:32 Row:5 Column:2 Rank:5. Use icon icon_3252.jpg"
   },
   "32611": {
-    "name": "Morsure de la Wyvern",
+    "name": "Morsure de la Wyverne",
     "icon": "icon_3261",
     "rank": 1,
     "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable uniquement hors combat, 8-35yards de portée, coûte 115pts de mana, Nouvelle Morsure qui a pour effet de plonger la cible dans un effet de Sommeil durant 10sec contre un Joueur, 1min contre un PNJ, le moindre dégat dissipe l'effet, si la technique est dissipé par un joueur, c'est le joueur qui dissipe l'effet qui subit alors l'effet"
@@ -6600,22 +6600,22 @@
     "description": "Description for Specialisation:40 Row:0 Column:3 Rank:5. Use icon icon_4003.jpg"
   },
   "40101": {
-    "name": "Vocation Sournoise (rang1)",
+    "name": "Anesthésie Nerveuse (rang1)",
     "icon": "icon_4010",
     "rank": 1,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 1sec et la technique Garrot silence la cible pour la même durée"
+    "description": "Diminue les dégats subit par le Voleur de 2% et réduit la menace généré par le Voleur de 5%"
   },
   "40102": {
-    "name": "Vocation Sournoise (rang2)",
+    "name": "Anesthésie Nerveuse (rang2)",
     "icon": "icon_4010",
     "rank": 2,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec et la technique Garrot silence la cible pour la même durée"
+    "description": "Diminue les dégats subit par le Voleur de 4% et réduit la menace généré par le Voleur de 10%"
   },
   "40103": {
-    "name": "Vocation Sournoise (rang3)",
+    "name": "Anesthésie Nerveuse (rang3)",
     "icon": "icon_4010",
     "rank": 3,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 3sec et la technique Garrot silence la cible pour la même durée"
+    "description": "Diminue les dégats subit par le Voleur de 6% et réduit la menace généré par le Voleur de 15%"
   },
   "40104": {
     "name": "Specialisation:40 Row:1 Column:0 Rank:4",
@@ -6630,13 +6630,13 @@
     "description": "Description for Specialisation:40 Row:1 Column:0 Rank:5. Use icon icon_4010.jpg"
   },
   "40111": {
-    "name": "Meurtrier (rang1)",
+    "name": "Meurtre (rang1)",
     "icon": "icon_4011",
     "rank": 1,
     "description": "Le Voleur inflige +5% de dégats durant 6ec lorsqu'il sort du Camouflage"
   },
   "40112": {
-    "name": "Meurtrier (rang2)",
+    "name": "Meurtre (rang2)",
     "icon": "icon_4011",
     "rank": 2,
     "description": "Le Voleur inflige +10% de dégats durant 6sec lorsqu'il sort du Camouflage"
@@ -6660,22 +6660,22 @@
     "description": "Description for Specialisation:40 Row:1 Column:1 Rank:5. Use icon icon_4011.jpg"
   },
   "40121": {
-    "name": "Attaque Sournoise Améliorée (rang1)",
+    "name": "Amocheur (rang1)",
     "icon": "icon_4012",
     "rank": 1,
-    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 10%"
+    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 5%"
   },
   "40122": {
-    "name": "Attaque Sournoise Améliorée (rang2)",
+    "name": "Amocheur (rang2)",
     "icon": "icon_4012",
     "rank": 2,
-    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 20%"
+    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 10%"
   },
   "40123": {
-    "name": "Attaque Sournoise Améliorée (rang3)",
+    "name": "Amocheur (rang3)",
     "icon": "icon_4012",
     "rank": 3,
-    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 30%"
+    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 15%"
   },
   "40124": {
     "name": "Specialisation:40 Row:1 Column:2 Rank:4",
@@ -6690,16 +6690,16 @@
     "description": "Description for Specialisation:40 Row:1 Column:2 Rank:5. Use icon icon_4012.jpg"
   },
   "40131": {
-    "name": "Anesthésie Nerveuse (rang1)",
+    "name": "Vocation Sournoise (rang1)",
     "icon": "icon_4013",
     "rank": 1,
-    "description": "Diminue les dégats subit par le Voleur de 3%"
+    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec et la technique Garrot silence la cible pour la même durée"
   },
   "40132": {
-    "name": "Anesthésie Nerveuse (rang2)",
+    "name": "Vocation Sournoise (rang2)",
     "icon": "icon_4013",
     "rank": 2,
-    "description": "Diminue les dégats subit par le Voleur de 6%"
+    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec et la technique Garrot silence la cible pour la même durée"
   },
   "40133": {
     "name": "Specialisation:40 Row:1 Column:3 Rank:3",
@@ -6840,22 +6840,22 @@
     "description": "Description for Specialisation:40 Row:2 Column:3 Rank:5. Use icon icon_4023.jpg"
   },
   "40301": {
-    "name": "Rétablissement Rapide (rang1)",
+    "name": "Attaque Sournoise Améliorée (rang1)",
     "icon": "icon_4030",
     "rank": 1,
-    "description": "Augmente le montant de soin reçu par le Voleur de 4% et il lui permet de récupérer 20% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 10%"
   },
   "40302": {
-    "name": "Rétablissement Rapide (rang2)",
+    "name": "Attaque Sournoise Améliorée (rang2)",
     "icon": "icon_4030",
     "rank": 2,
-    "description": "Augmente le montant de soin reçu par le Voleur de 8% et il lui permet de récupérer 40% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 20%"
   },
   "40303": {
-    "name": "Rétablissement Rapide (rang3)",
+    "name": "Attaque Sournoise Améliorée (rang3)",
     "icon": "icon_4030",
     "rank": 3,
-    "description": "Augmente le montant de soin reçu par le Voleur de 12% et il lui permet de récupérer 60% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 30%"
   },
   "40304": {
     "name": "Specialisation:40 Row:3 Column:0 Rank:4",
@@ -6900,22 +6900,22 @@
     "description": "Description for Specialisation:40 Row:3 Column:1 Rank:5. Use icon icon_4031.jpg"
   },
   "40321": {
-    "name": "Perfidie (rang1)",
+    "name": "Pied Léger (rang1)",
     "icon": "icon_4032",
     "rank": 1,
-    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 3%"
+    "description": "Augmente la vitesse de déplacement du Voleur de 5% et diminue la durée des effets affectant le mouvement sur le Voleur de 10%"
   },
   "40322": {
-    "name": "Perfidie (rang2)",
+    "name": "Pied Léger (rang2)",
     "icon": "icon_4032",
     "rank": 2,
-    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 6%"
+    "description": "Augmente la vitesse de déplacement du Voleur de 10% et diminue la durée des effets affectant le mouvement sur le Voleur de 20%"
   },
   "40323": {
-    "name": "Perfidie (rang3)",
+    "name": "Pied Léger (rang3)",
     "icon": "icon_4032",
     "rank": 3,
-    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 9%"
+    "description": "Augmente la vitesse de déplacement du Voleur de 15% et diminue la durée des effets affectant le mouvement sur le Voleur de 30%"
   },
   "40324": {
     "name": "Specialisation:40 Row:3 Column:2 Rank:4",
@@ -6960,22 +6960,22 @@
     "description": "Description for Specialisation:40 Row:3 Column:3 Rank:5. Use icon icon_4033.jpg"
   },
   "40401": {
-    "name": "Acheveur (rang1)",
+    "name": "Perfidie (rang1)",
     "icon": "icon_4040",
     "rank": 1,
-    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 5%"
+    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 3%"
   },
   "40402": {
-    "name": "Acheveur (rang2)",
+    "name": "Perfidie (rang2)",
     "icon": "icon_4040",
     "rank": 2,
-    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 10%"
+    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 6%"
   },
   "40403": {
-    "name": "Acheveur (rang3)",
+    "name": "Perfidie (rang3)",
     "icon": "icon_4040",
     "rank": 3,
-    "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 15%"
+    "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 9%"
   },
   "40404": {
     "name": "Specialisation:40 Row:4 Column:0 Rank:4",
@@ -7050,16 +7050,16 @@
     "description": "Description for Specialisation:40 Row:4 Column:2 Rank:5. Use icon icon_4042.jpg"
   },
   "40431": {
-    "name": "Pied Léger (rang1)",
+    "name": "Rétablissement Rapide (rang1)",
     "icon": "icon_4043",
     "rank": 1,
-    "description": "Augmente la vitesse de déplacement du Voleur de 8% et diminue la durée des effets affectant le mouvement sur le Voleur de 15%"
+    "description": "Augmente le montant de soin reçu par le Voleur de 5% et diminue le coût en Energie de toutes les techniques du Voleur de 3pts"
   },
   "40432": {
-    "name": "Pied Léger (rang2)",
+    "name": "Rétablissement Rapide (rang2)",
     "icon": "icon_4043",
     "rank": 2,
-    "description": "Augmente la vitesse de déplacement du Voleur de 16% et diminue la durée des effets affectant le mouvement sur le Voleur de 30%"
+    "description": "Augmente le montant de soin reçu par le Voleur de 10% et diminue le coût en Energie de toutes les techniques du Voleur de 6pts"
   },
   "40433": {
     "name": "Specialisation:40 Row:4 Column:3 Rank:3",
@@ -7143,7 +7143,7 @@
     "name": "Mutiler",
     "icon": "icon_4061",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 60pts d'Energie, génère 2pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont augmenté de 50% si la cible est sous l'effet d'un poison"
+    "description": "Technique a activer, instantanée, coûte 45pts d'Energie, génère 2pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont augmenté de 50% si la cible est sous l'effet d'un poison"
   },
   "40612": {
     "name": "Specialisation:40 Row:6 Column:1 Rank:2",
@@ -7233,13 +7233,13 @@
     "name": "Attaque Pernicieuse Amélioré (rang1)",
     "icon": "icon_4101",
     "rank": 1,
-    "description": "Diminue le coût en Energie de la technique Attaque Pernicieuse et Kriss de 2pts"
+    "description": "Diminue le coût en Energie de la technique Attaque Pernicieuse et Kriss de 3pts"
   },
   "41012": {
     "name": "Attaque Pernicieuse Amélioré (rang2)",
     "icon": "icon_4101",
     "rank": 2,
-    "description": "Diminue le coût en Energie de la technique Attaque Pernicieuse et Kriss de 5pts"
+    "description": "Diminue le coût en Energie de la technique Attaque Pernicieuse et Kriss de 6pts"
   },
   "41013": {
     "name": "Specialisation:41 Row:0 Column:1 Rank:3",
@@ -7260,22 +7260,22 @@
     "description": "Description for Specialisation:41 Row:0 Column:1 Rank:5. Use icon icon_4101.jpg"
   },
   "41021": {
-    "name": "Réflexes (rang1)",
+    "name": "Débiter Amélioré (rang1)",
     "icon": "icon_4102",
     "rank": 1,
-    "description": "Augmente les chances d'Esquiver du Voleur de 2%"
+    "description": "Augmente la durée de la technique Débiter du Voleur de 15%"
   },
   "41022": {
-    "name": "Réflexes (rang2)",
+    "name": "Débiter Amélioré (rang2)",
     "icon": "icon_4102",
     "rank": 2,
-    "description": "Augmente les chances d'Esquiver du Voleur de 4%"
+    "description": "Augmente la durée de la technique Débiter du Voleur de 30%"
   },
   "41023": {
-    "name": "Réflexes (rang3",
+    "name": "Débiter Amélioré (rang3",
     "icon": "icon_4102",
     "rank": 3,
-    "description": "Augmente les chances d'Esquiver du Voleur de 6%"
+    "description": "Augmente la durée de la technique Débiter du Voleur de 45%"
   },
   "41024": {
     "name": "Specialisation:41 Row:0 Column:2 Rank:4",
@@ -7320,22 +7320,22 @@
     "description": "Description for Specialisation:41 Row:0 Column:3 Rank:5. Use icon icon_4103.jpg"
   },
   "41101": {
-    "name": "Débiter Amélioré (rang1)",
+    "name": "Anticipation (rang1)",
     "icon": "icon_4110",
     "rank": 1,
-    "description": "Augmente la durée de la technique Débiter du Voleur de 15%"
+    "description": "Augmente les chances d'Esquiver du Voleur de 2%"
   },
   "41102": {
-    "name": "Débiter Amélioré (rang2)",
+    "name": "Anticipation (rang2)",
     "icon": "icon_4110",
     "rank": 2,
-    "description": "Augmente la durée de la technique Débiter du Voleur de 30%"
+    "description": "Augmente les chances d'Esquiver du Voleur de 4%"
   },
   "41103": {
-    "name": "Débiter Amélioré (rang3)",
+    "name": "Anticipation (rang3)",
     "icon": "icon_4110",
     "rank": 3,
-    "description": "Augmente la durée de la technique Débiter du Voleur de 45%"
+    "description": "Augmente les chances d'Esquiver du Voleur de 6%"
   },
   "41104": {
     "name": "Specialisation:41 Row:1 Column:0 Rank:4",
@@ -7380,22 +7380,22 @@
     "description": "Description for Specialisation:41 Row:1 Column:1 Rank:5. Use icon icon_4111.jpg"
   },
   "41121": {
-    "name": "Déviation (rang1)",
+    "name": "Précision (rang1)",
     "icon": "icon_4112",
     "rank": 1,
-    "description": "Augmente les chances de Parade du Voleur de 2%"
+    "description": "Augmente les chances de Toucher du Voleur de 2%"
   },
   "41122": {
-    "name": "Déviation (rang2)",
+    "name": "Précision (rang2)",
     "icon": "icon_4112",
     "rank": 2,
-    "description": "Augmente les chances de Parade du Voleur de 4%"
+    "description": "Augmente les chances de Toucher du Voleur de 4%"
   },
   "41123": {
-    "name": "Déviation (rang3)",
+    "name": "Précision (rang3)",
     "icon": "icon_4112",
     "rank": 3,
-    "description": "Augmente les chances de Parade du Voleur de 6%"
+    "description": "Augmente les chances de Toucher du Voleur de 6%"
   },
   "41124": {
     "name": "Specialisation:41 Row:1 Column:2 Rank:4",
@@ -7410,16 +7410,16 @@
     "description": "Description for Specialisation:41 Row:1 Column:2 Rank:5. Use icon icon_4112.jpg"
   },
   "41131": {
-    "name": "Vitalité (rang1)",
+    "name": "Détournement d'Attention (rang1)",
     "icon": "icon_4113",
     "rank": 1,
-    "description": "Augmente les Points de Vie du Voleur de 5%"
+    "description": "Diminue le temps de rechargement de la technique Feinte de 2sec et lorsqu'il est sous son effet il gagne une amélioration qui diminue les dégats qu'il reçoit de 2%"
   },
   "41132": {
-    "name": "Vitalité (rang2)",
+    "name": "Détournement d'Attention (rang2)",
     "icon": "icon_4113",
     "rank": 2,
-    "description": "Augmente les Points de Vie du Voleur de 10%"
+    "description": "Diminue le temps de rechargement de la technique Feinte de 4sec et lorsqu'il est sous son effet il gagne une amélioration qui diminue les dégats qu'il reçoit de 4%"
   },
   "41133": {
     "name": "Specialisation:41 Row:1 Column:3 Rank:3",
@@ -7440,22 +7440,22 @@
     "description": "Description for Specialisation:41 Row:1 Column:3 Rank:5. Use icon icon_4113.jpg"
   },
   "41201": {
-    "name": "Précision (rang1)",
+    "name": "Déviation (rang1)",
     "icon": "icon_4120",
     "rank": 1,
-    "description": "Augmente les chances de Toucher du Voleur de 2%"
+    "description": "Augmente les chances de Parade du Voleur de 2%"
   },
   "41202": {
-    "name": "Précision (rang2)",
+    "name": "Déviation (rang2)",
     "icon": "icon_4120",
     "rank": 2,
-    "description": "Augmente les chances de Toucher du Voleur de 4%"
+    "description": "Augmente les chances de Parade du Voleur de 4%"
   },
   "41203": {
-    "name": "Précision (rang3)",
+    "name": "Déviation (rang3)",
     "icon": "icon_4120",
     "rank": 3,
-    "description": "Augmente les chances de Toucher du Voleur de 6%"
+    "description": "Augmente les chances de Parade du Voleur de 6%"
   },
   "41204": {
     "name": "Specialisation:41 Row:2 Column:0 Rank:4",
@@ -7530,16 +7530,16 @@
     "description": "Description for Specialisation:41 Row:2 Column:2 Rank:5. Use icon icon_4122.jpg"
   },
   "41231": {
-    "name": "Rouste (rang1)",
+    "name": "Vitalité (rang1)",
     "icon": "icon_4123",
     "rank": 1,
-    "description": "Augmente les dégats infligé par sa technique Coup de Pied de 150%"
+    "description": "Augmente l'Endurance du Voleur de 5%"
   },
   "41232": {
-    "name": "Rouste (rang2)",
+    "name": "Vitalité (rang2)",
     "icon": "icon_4123",
     "rank": 2,
-    "description": "Augmente les dégats infligé par sa technique Coup de Pied de 300%"
+    "description": "Augmente l'Endurance du Voleur de 10%"
   },
   "41233": {
     "name": "Specialisation:41 Row:2 Column:3 Rank:3",
@@ -7560,22 +7560,22 @@
     "description": "Description for Specialisation:41 Row:2 Column:3 Rank:5. Use icon icon_4123.jpg"
   },
   "41301": {
-    "name": "Spécialisation Arme de Jet (rang1)",
+    "name": "Spécialisation Armes de Jets (rang1)",
     "icon": "icon_4130",
     "rank": 1,
-    "description": "Augmente la portée des Armes de Jet de 2yards et les dégats qu'elles infligent de 10%"
+    "description": "Augmente la portée des Armes de Jet de 2yards et les dégats qu'elles infligent de 10%, de plus les projectiles hébêtent la cible durant 0,5sec"
   },
   "41302": {
     "name": "Spécialisation Arme de Jet (rang2)",
     "icon": "icon_4130",
     "rank": 2,
-    "description": "Augmente la portée des Armes de Jet de 4yards et les dégats qu'elles infligent de 20%"
+    "description": "Augmente la portée des Armes de Jet de 4yards et les dégats qu'elles infligent de 20%, de plus les projectiles hébêtent la cible durant 1sec"
   },
   "41303": {
     "name": "Spécialisation Arme de Jet (rang3)",
     "icon": "icon_4130",
     "rank": 3,
-    "description": "Augmente la portée des Armes de Jet de 6yards et les dégats qu'elles infligent de 30%"
+    "description": "Augmente la portée des Armes de Jet de 6yards et les dégats qu'elles infligent de 30%, de plus les projectiles hébêtent la cible durant 1,5sec"
   },
   "41304": {
     "name": "Specialisation:41 Row:3 Column:0 Rank:4",
@@ -7593,13 +7593,13 @@
     "name": "Coup de Pied Amélioré (rang1)",
     "icon": "icon_4131",
     "rank": 1,
-    "description": "Permet a la technique Coup de Pied de silence la cible durant 1sec"
+    "description": "Augmente les dégats infligés par la technique Coup de Pied de 150% et permet a la technique de silence la cible durant 1sec"
   },
   "41312": {
     "name": "Coup de Pied Amélioré (rang2)",
     "icon": "icon_4131",
     "rank": 2,
-    "description": "Permet a la technique Coup de Pied de silence la cible durant 2sec"
+    "description": "Augmente les dégats infligés par la technique Coup de Pied de 300% et permet a la technique de silence la cible durant 2sec"
   },
   "41313": {
     "name": "Specialisation:41 Row:3 Column:1 Rank:3",
@@ -7620,22 +7620,22 @@
     "description": "Description for Specialisation:41 Row:3 Column:1 Rank:5. Use icon icon_4131.jpg"
   },
   "41321": {
-    "name": "Spécialisation d'Armes (rang1)",
+    "name": "Agression (rang1)",
     "icon": "icon_4132",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Voleur de 2% et sa vitesse d'attaque de 5%"
+    "description": "Augmente les dégats infligés par le Voleur de 2%"
   },
   "41322": {
-    "name": "Spécialisation d'Armes (rang2)",
+    "name": "Agression (rang2)",
     "icon": "icon_4132",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Voleur de 4% et sa vitesse d'attaque de 10%"
+    "description": "Augmente les dégats infligés par le Voleur de 4%"
   },
   "41323": {
-    "name": "Spécialisation d'Armes (rang3)",
+    "name": "Agression (rang3)",
     "icon": "icon_4132",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Voleur de 6% et sa vitesse d'attaque de 15%"
+    "description": "Augmente les dégats infligés par le Voleur de 6%"
   },
   "41324": {
     "name": "Specialisation:41 Row:3 Column:2 Rank:4",
@@ -7740,10 +7740,10 @@
     "description": "Description for Specialisation:41 Row:4 Column:1 Rank:5. Use icon icon_4141.jpg"
   },
   "41421": {
-    "name": "Injuste Avantage",
+    "name": "Trompeur",
     "icon": "icon_4142",
     "rank": 1,
-    "description": "Permet aux différents Coup de Grâce du Voleur d'avoir 100% de chance que la cible ne puisse pas les Esquiver ni Parer"
+    "description": "Permet aux différents Coup de Grâce du Voleur d'avoir 100% de chance que la cible ne puisse pas les Esquiver ni Parer, et applique une amélioration au Voleur avec un temps de rechargement de 1min qui absorbe le dégats qui est censé tuer le Voleur"
   },
   "41422": {
     "name": "Specialisation:41 Row:4 Column:2 Rank:2",
@@ -7803,13 +7803,13 @@
     "name": "Expert en Armes (rang1)",
     "icon": "icon_4151",
     "rank": 1,
-    "description": "Augmente les compétences d'Armes du Voleur de 2pts et ses attaques ignorent 2% de l'Armure de la cible"
+    "description": "Augmente les compétences d'Armes du Voleur de 3pts et ses attaques ignorent 3% de l'Armure de la cible"
   },
   "41512": {
     "name": "Expert en Armes (rang2)",
     "icon": "icon_4151",
     "rank": 2,
-    "description": "Augmente les compétences d'Armes du Voleur de 5pts et ses attaques ignorent 5% de l'Armure de la cible"
+    "description": "Augmente les compétences d'Armes du Voleur de 6pts et ses attaques ignorent 6% de l'Armure de la cible"
   },
   "41513": {
     "name": "Specialisation:41 Row:5 Column:1 Rank:3",
@@ -7830,22 +7830,22 @@
     "description": "Description for Specialisation:41 Row:5 Column:1 Rank:5. Use icon icon_4151.jpg"
   },
   "41521": {
-    "name": "Agressivité (rang1)",
+    "name": "Spécialisation d'Armes (rang1)",
     "icon": "icon_4152",
     "rank": 1,
-    "description": "Augmente les dégats des techniques du Voleur de 2%"
+    "description": "Augmente les chances de critiques du Voleur de 2% et sa vitesse d'attaque de 5%"
   },
   "41522": {
-    "name": "Agressivité (rang2)",
+    "name": "Spécialisation d'Armes (rang2)",
     "icon": "icon_4152",
     "rank": 2,
-    "description": "Augmente les dégats des techniques du Voleur de 4%"
+    "description": "Augmente les chances de critiques du Voleur de 4% et sa vitesse d'attaque de 10%"
   },
   "41523": {
-    "name": "Agressivité (rang3)",
+    "name": "Spécialisation d'Armes (rang3)",
     "icon": "icon_4152",
     "rank": 3,
-    "description": "Augmente les dégats des techniques du Voleur de 6%"
+    "description": "Augmente les chances de critiques du Voleur de 6% et sa vitesse d'attaque de 15%"
   },
   "41524": {
     "name": "Specialisation:41 Row:5 Column:2 Rank:4",
@@ -7890,10 +7890,10 @@
     "description": "Description for Specialisation:41 Row:6 Column:1 Rank:5. Use icon icon_4161.jpg"
   },
   "41621": {
-    "name": "Trompe la Mort",
+    "name": "Course",
     "icon": "icon_4162",
     "rank": 1,
-    "description": "Permet au Voleur d'absorber l'attaque ou la technique en mélée ou a distance qui est censé le tuer, 1min de temps de rechargement"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet au Voleur de poser une Amélioration au sol, qui lorsqu'elle est prise en clickant dessus, donne un Sprint au joueur durant 10sec, dure 10sec ou 5 charges"
   },
   "41622": {
     "name": "Specialisation:41 Row:6 Column:2 Rank:2",
@@ -7923,19 +7923,19 @@
     "name": "Maître des Illusions (rang1)",
     "icon": "icon_4200",
     "rank": 1,
-    "description": "Augmente le niveau de Camouflage du Voleur de +2"
+    "description": "Augmente le niveau de Camouflage du Voleur de +2 rangs"
   },
   "42002": {
     "name": "Maître des Illusions (rang2)",
     "icon": "icon_4200",
     "rank": 2,
-    "description": "Augmente le niveau de Camouflage du Voleur de +4"
+    "description": "Augmente le niveau de Camouflage du Voleur de +4 rangs"
   },
   "42003": {
     "name": "Maître des Illusions (rang3)",
     "icon": "icon_4200",
     "rank": 3,
-    "description": "Augmente le niveau de Camouflage du Voleur de +6"
+    "description": "Augmente le niveau de Camouflage du Voleur de +6 rangs"
   },
   "42004": {
     "name": "Specialisation:42 Row:0 Column:0 Rank:4",
@@ -8100,22 +8100,22 @@
     "description": "Description for Specialisation:42 Row:1 Column:1 Rank:5. Use icon icon_4211.jpg"
   },
   "42121": {
-    "name": "Lente Agonie (rang1)",
+    "name": "Initiative (rang1)",
     "icon": "icon_4212",
     "rank": 1,
-    "description": "Augmente la durée des techniques Garrot et Rupture de 2sec"
+    "description": "Donne 33% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42122": {
-    "name": "Lente Agonie (rang2)",
+    "name": "Initiative (rang2)",
     "icon": "icon_4212",
     "rank": 2,
-    "description": "Augmente la durée des techniques Garrot et Rupture de 4sec"
+    "description": "Donne 66% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42123": {
-    "name": "Lente Agonie (rang3)",
+    "name": "Initiative (rang3)",
     "icon": "icon_4212",
     "rank": 3,
-    "description": "Augmente la durée des techniques Garrot et Rupture de 6sec"
+    "description": "Donne 100% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42124": {
     "name": "Specialisation:42 Row:1 Column:2 Rank:4",
@@ -8160,22 +8160,22 @@
     "description": "Description for Specialisation:42 Row:1 Column:3 Rank:5. Use icon icon_4213.jpg"
   },
   "42201": {
-    "name": "Initiative (rang1)",
+    "name": "Meurtrier (rang1)",
     "icon": "icon_4220",
     "rank": 1,
-    "description": "Donne 33% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 5%"
   },
   "42202": {
-    "name": "Initiative (rang2)",
+    "name": "Meurtrier (rang2)",
     "icon": "icon_4220",
     "rank": 2,
-    "description": "Donne 66% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 10%"
   },
   "42203": {
-    "name": "Initiative (rang3)",
+    "name": "Meurtrier (rang3)",
     "icon": "icon_4220",
     "rank": 3,
-    "description": "Donne 100% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 15%"
   },
   "42204": {
     "name": "Specialisation:42 Row:2 Column:0 Rank:4",
@@ -8253,13 +8253,13 @@
     "name": "Cambrioleur (rang1)",
     "icon": "icon_4223",
     "rank": 1,
-    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 50% ainsi que le temps de rechargement de la technique Distraction de 25%"
+    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 40% et diminue le temps de rechargement de la technique Distraction de 25%"
   },
   "42232": {
     "name": "Cambrioleur (rang2)",
     "icon": "icon_4223",
     "rank": 2,
-    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 100% ainsi que le temps de rechargement de la technique Distraction de 50%"
+    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 80% et diminue le temps de rechargement de la technique Distraction de 50%"
   },
   "42233": {
     "name": "Specialisation:42 Row:2 Column:3 Rank:3",
@@ -8280,22 +8280,22 @@
     "description": "Description for Specialisation:42 Row:2 Column:3 Rank:5. Use icon icon_4223.jpg"
   },
   "42301": {
-    "name": "Plaies Profondes (rang1)",
+    "name": "Hémoglobine (rang1)",
     "icon": "icon_4230",
     "rank": 1,
-    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 10%"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 2sec"
   },
   "42302": {
-    "name": "Plaies Profondes (rang2)",
+    "name": "Hémoglobine (rang2)",
     "icon": "icon_4230",
     "rank": 2,
-    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 20%"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 4sec"
   },
   "42303": {
-    "name": "Plaies Profondes (rang3)",
+    "name": "Hémoglobine (rang3)",
     "icon": "icon_4230",
     "rank": 3,
-    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 30%"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 6sec"
   },
   "42304": {
     "name": "Specialisation:42 Row:3 Column:0 Rank:4",
@@ -8343,19 +8343,19 @@
     "name": "Lames Dentelées (rang1)",
     "icon": "icon_4232",
     "rank": 1,
-    "description": "Permet aux attaques du Voleur d'ignorer 3% de l'Armure de la cible"
+    "description": "Permet aux attaques du Voleur d'ignorer 3% de l'Armure de la cible et augmente les dégats infligés par les techniques de Saignement du Voleur de 10%"
   },
   "42322": {
     "name": "Lames Dentelées (rang2)",
     "icon": "icon_4232",
     "rank": 2,
-    "description": "Permet aux attaques du Voleur d'ignorer 6% de l'Armure de la cible"
+    "description": "Permet aux attaques du Voleur d'ignorer 6% de l'Armure de la cible et augmente les dégats infligés par les techniques de Saignement du Voleur de 20%"
   },
   "42323": {
     "name": "Lames Dentelées (rang3)",
     "icon": "icon_4232",
     "rank": 3,
-    "description": "Permet aux attaques du Voleur d'ignorer 9% de l'Armure de la cible"
+    "description": "Permet aux attaques du Voleur d'ignorer 9% de l'Armure de la cible et augmente les dégats infligés par les techniques de Saignement du Voleur de 30%"
   },
   "42324": {
     "name": "Specialisation:42 Row:3 Column:2 Rank:4",
@@ -8400,22 +8400,22 @@
     "description": "Description for Specialisation:42 Row:3 Column:3 Rank:5. Use icon icon_4233.jpg"
   },
   "42401": {
-    "name": "Meutre (rang1)",
+    "name": "Préparatifs (rang1)",
     "icon": "icon_4240",
     "rank": 1,
-    "description": "Augmente la Puissance d'Attaque du Voleur de 5%"
+    "description": "Lorsque le Voleur Esquive une attaque qui le vise il a 33% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
   "42402": {
-    "name": "Meutre (rang2)",
+    "name": "Préparatifs (rang2)",
     "icon": "icon_4240",
     "rank": 2,
-    "description": "Augmente la Puissance d'Attaque du Voleur de 10%"
+    "description": "Lorsque le Voleur Esquive une attaque qui le vise il a 66% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
   "42403": {
-    "name": "Meutre (rang3)",
+    "name": "Préparatifs (rang3)",
     "icon": "icon_4240",
     "rank": 3,
-    "description": "Augmente la Puissance d'Attaque du Voleur de 15%"
+    "description": "Lorsque le Voleur Esquive une attaque qui le vise il a 100% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
   "42404": {
     "name": "Specialisation:42 Row:4 Column:0 Rank:4",
@@ -8493,13 +8493,13 @@
     "name": "Sens Amplifiés (rang1)",
     "icon": "icon_4243",
     "rank": 1,
-    "description": "Augmente la Détection du Camouflage du Voleur de 5rangs"
+    "description": "Augmente la Détection du Camouflage du Voleur de +5 rangs et augmente ses chances d'Esquiver de 2%"
   },
   "42432": {
     "name": "Sens Amplifiés (rang2)",
     "icon": "icon_4243",
     "rank": 2,
-    "description": "Augmente la Détection du Camouflage du Voleur de 10rangs"
+    "description": "Augmente la Détection du Camouflage du Voleur de +10 rangs et augmente ses chances d'Esquiver de 4%"
   },
   "42433": {
     "name": "Specialisation:42 Row:4 Column:3 Rank:3",
@@ -8520,16 +8520,16 @@
     "description": "Description for Specialisation:42 Row:4 Column:3 Rank:5. Use icon icon_4243.jpg"
   },
   "42511": {
-    "name": "Préparatifs (rang1)",
+    "name": "Enveloppé par les Ombres (rang1)",
     "icon": "icon_4251",
     "rank": 1,
-    "description": "Lorsque le Voleur Esquive une attaque il a 50% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
+    "description": "Augmente la Résistance a l'Ombre du Voleur de 15pts, et permet a la technique Feinte du Voleur de donner une amélioration qui lui donne 50% de chance d'Esquiver la prochaine attaque dans les 7sec"
   },
   "42512": {
-    "name": "Préparatifs (rang2)",
+    "name": "Enveloppé par les Ombres (rang2)",
     "icon": "icon_4251",
     "rank": 2,
-    "description": "Lorsque le Voleur Esquive une attaque il a 100% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
+    "description": "Augmente la Résistance a l'Ombre du Voleur de 30pts, et permet a la technique Feinte du Voleur de donner une amélioration qui lui donne 100% de chance d'Esquiver la prochaine attaque dans les 7sec"
   },
   "42513": {
     "name": "Specialisation:42 Row:5 Column:1 Rank:3",
@@ -8583,7 +8583,7 @@
     "name": "Préméditation",
     "icon": "icon_4261",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 20sec de temps de recharge, 20yards de portée, permet d'appliquer 2pts de Combo sur une cible durant 20sec"
+    "description": "Technique a activer, instantanée, 20sec de temps de recharge, 20yards de portée, permet d'appliquer 2pts de Combo sur une cible durant maximum 20sec"
   },
   "42612": {
     "name": "Specialisation:42 Row:6 Column:1 Rank:2",
@@ -8613,7 +8613,7 @@
     "name": "Pas de Témoin",
     "icon": "icon_4262",
     "rank": 1,
-    "description": "Lorsque le Voleur obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur, il gagne une amélioration de 6sec qui rend l'utilisation de Vanish gratuite en temps de rechargement et en composant"
+    "description": "Lorsque le Voleur obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur, il gagne une amélioration de 6sec qui rend l'utilisation de la prochaine Disparition gratuite en temps de rechargement et en composant"
   },
   "42622": {
     "name": "Specialisation:42 Row:6 Column:2 Rank:2",
