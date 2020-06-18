@@ -6603,19 +6603,19 @@
     "name": "Vocation Sournoise (rang1)",
     "icon": "icon_4010",
     "rank": 1,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 1sec"
+    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 1sec et la technique Garrot silence la cible pour la même durée"
   },
   "40102": {
     "name": "Vocation Sournoise (rang2)",
     "icon": "icon_4010",
     "rank": 2,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec"
+    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec et la technique Garrot silence la cible pour la même durée"
   },
   "40103": {
     "name": "Vocation Sournoise (rang3)",
     "icon": "icon_4010",
     "rank": 3,
-    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 3sec"
+    "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 3sec et la technique Garrot silence la cible pour la même durée"
   },
   "40104": {
     "name": "Specialisation:40 Row:1 Column:0 Rank:4",
@@ -6843,19 +6843,19 @@
     "name": "Rétablissement Rapide (rang1)",
     "icon": "icon_4030",
     "rank": 1,
-    "description": "Augmente le montant de soin reçu par le Voleur de 4% et il lui permet de récupérer 30% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente le montant de soin reçu par le Voleur de 4% et il lui permet de récupérer 20% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
   },
   "40302": {
     "name": "Rétablissement Rapide (rang2)",
     "icon": "icon_4030",
     "rank": 2,
-    "description": "Augmente le montant de soin reçu par le Voleur de 8% et il lui permet de récupérer 60% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente le montant de soin reçu par le Voleur de 8% et il lui permet de récupérer 40% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
   },
   "40303": {
     "name": "Rétablissement Rapide (rang3)",
     "icon": "icon_4030",
     "rank": 3,
-    "description": "Augmente le montant de soin reçu par le Voleur de 12% et il lui permet de récupérer 90% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
+    "description": "Augmente le montant de soin reçu par le Voleur de 12% et il lui permet de récupérer 60% de l'Energie consommé lorsqu'il rate une technique ou qu'elle est Parer ou Esquiver"
   },
   "40304": {
     "name": "Specialisation:40 Row:3 Column:0 Rank:4",
@@ -6873,13 +6873,13 @@
     "name": "Poisons Améliorés (rang1)",
     "icon": "icon_4031",
     "rank": 1,
-    "description": "Augmente les chances du Voleur d'appliquer un Poison sur la cible de 5%"
+    "description": "Augmente les chances du Voleur d'appliquer un Poison sur la cible de 5% et la durée des poisons de 25%"
   },
   "40312": {
     "name": "Poisons Améliorés (rang2)",
     "icon": "icon_4031",
     "rank": 2,
-    "description": "Augmente les chances du Voleur d'appliquer un Poison sur la cible de 5%"
+    "description": "Augmente les chances du Voleur d'appliquer un Poison sur la cible de 5% et la durée des poisons de 50%"
   },
   "40313": {
     "name": "Specialisation:40 Row:3 Column:1 Rank:3",
@@ -7143,7 +7143,7 @@
     "name": "Mutiler",
     "icon": "icon_4061",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 60pts d'Energie, génère 2pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont doublés si la cible est sous l'effet d'un poison"
+    "description": "Technique a activer, instantanée, coûte 60pts d'Energie, génère 2pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont augmenté de 50% si la cible est sous l'effet d'un poison"
   },
   "40612": {
     "name": "Specialisation:40 Row:6 Column:1 Rank:2",
@@ -7533,13 +7533,13 @@
     "name": "Rouste (rang1)",
     "icon": "icon_4123",
     "rank": 1,
-    "description": "Après avoir effectué une Parade, le Voleur gagne une amélioration de 6sec qui augmente le prochain dégats infligé par sa technique Coup de Pied de 150%"
+    "description": "Augmente les dégats infligé par sa technique Coup de Pied de 150%"
   },
   "41232": {
     "name": "Rouste (rang2)",
     "icon": "icon_4123",
     "rank": 2,
-    "description": "Après avoir effectué une Parade, le Voleur gagne une amélioration de 6sec qui augmente le prochain dégats infligé par sa technique Coup de Pied de 300%"
+    "description": "Augmente les dégats infligé par sa technique Coup de Pied de 300%"
   },
   "41233": {
     "name": "Specialisation:41 Row:2 Column:3 Rank:3",
@@ -7683,19 +7683,19 @@
     "name": "Trancher (rang1)",
     "icon": "icon_4140",
     "rank": 1,
-    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter 1pts de Combo"
+    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter avec 1pts de Combo"
   },
   "41402": {
     "name": "Trancher (rang2)",
     "icon": "icon_4140",
     "rank": 2,
-    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter 3pts de Combo"
+    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter avec 3pts de Combo"
   },
   "41403": {
     "name": "Trancher (rang3)",
     "icon": "icon_4140",
     "rank": 3,
-    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter 5pts de Combo"
+    "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter avec 5pts de Combo"
   },
   "41404": {
     "name": "Specialisation:41 Row:4 Column:0 Rank:4",
@@ -7773,13 +7773,13 @@
     "name": "Nerfs d'Acier (rang1)",
     "icon": "icon_4143",
     "rank": 1,
-    "description": "Réduit les dégats subit par le Voleur de 10% lorsqu'il est sous l'effet de Peur, d'Etourdissement ou de sort a effet de zone"
+    "description": "Réduit les dégats subit par le Voleur de 10% lorsqu'il est sous l'effet de Peur ou d'Etourdissement"
   },
   "41432": {
     "name": "Nerfs d'Acier (rang2)",
     "icon": "icon_4143",
     "rank": 2,
-    "description": "Réduit les dégats subit par le Voleur de 20% lorsqu'il est sous l'effet de Peur, d'Etourdissement ou de sort a effet de zone"
+    "description": "Réduit les dégats subit par le Voleur de 20% lorsqu'il est sous l'effet de Peur ou d'Etourdissement"
   },
   "41433": {
     "name": "Specialisation:41 Row:4 Column:3 Rank:3",
@@ -7803,13 +7803,13 @@
     "name": "Expert en Armes (rang1)",
     "icon": "icon_4151",
     "rank": 1,
-    "description": "Augmente les compétences d'Armes du Voleur de 3pts et son expertise de 3%"
+    "description": "Augmente les compétences d'Armes du Voleur de 2pts et ses attaques ignorent 2% de l'Armure de la cible"
   },
   "41512": {
     "name": "Expert en Armes (rang2)",
     "icon": "icon_4151",
     "rank": 2,
-    "description": "Augmente les compétences d'Armes du Voleur de 6pts et son expertise de 6%"
+    "description": "Augmente les compétences d'Armes du Voleur de 5pts et ses attaques ignorent 5% de l'Armure de la cible"
   },
   "41513": {
     "name": "Specialisation:41 Row:5 Column:1 Rank:3",
@@ -7920,22 +7920,22 @@
     "description": "Description for Specialisation:41 Row:6 Column:2 Rank:5. Use icon icon_4162.jpg"
   },
   "42001": {
-    "name": "Specialisation:42 Row:0 Column:0 Rank:1",
+    "name": "Maître des Illusions (rang1)",
     "icon": "icon_4200",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:0 Column:0 Rank:1. Use icon icon_4200.jpg"
+    "description": "Augmente le niveau de Camouflage du Voleur de +2"
   },
   "42002": {
-    "name": "Specialisation:42 Row:0 Column:0 Rank:2",
+    "name": "Maître des Illusions (rang2)",
     "icon": "icon_4200",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:0 Column:0 Rank:2. Use icon icon_4200.jpg"
+    "description": "Augmente le niveau de Camouflage du Voleur de +4"
   },
   "42003": {
-    "name": "Specialisation:42 Row:0 Column:0 Rank:3",
+    "name": "Maître des Illusions (rang3)",
     "icon": "icon_4200",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:0 Column:0 Rank:3. Use icon icon_4200.jpg"
+    "description": "Augmente le niveau de Camouflage du Voleur de +6"
   },
   "42004": {
     "name": "Specialisation:42 Row:0 Column:0 Rank:4",
@@ -7950,16 +7950,16 @@
     "description": "Description for Specialisation:42 Row:0 Column:0 Rank:5. Use icon icon_4200.jpg"
   },
   "42011": {
-    "name": "Specialisation:42 Row:0 Column:1 Rank:1",
+    "name": "Insaisissable (rang1)",
     "icon": "icon_4201",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:0 Column:1 Rank:1. Use icon icon_4201.jpg"
+    "description": "Diminue le temps de rechargement des techniques Disparition et Cécité de 1min"
   },
   "42012": {
-    "name": "Specialisation:42 Row:0 Column:1 Rank:2",
+    "name": "Insaisissable (rang2)",
     "icon": "icon_4201",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:0 Column:1 Rank:2. Use icon icon_4201.jpg"
+    "description": "Diminue le temps de rechargement des techniques Disparition et Cécité de 2min"
   },
   "42013": {
     "name": "Specialisation:42 Row:0 Column:1 Rank:3",
@@ -7980,22 +7980,22 @@
     "description": "Description for Specialisation:42 Row:0 Column:1 Rank:5. Use icon icon_4201.jpg"
   },
   "42021": {
-    "name": "Specialisation:42 Row:0 Column:2 Rank:1",
+    "name": "Dissimulation (rang1)",
     "icon": "icon_4202",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:0 Column:2 Rank:1. Use icon icon_4202.jpg"
+    "description": "Diminue le temps de rechargement de la technique Camouflage de 2sec et augmente la vitesse du Voleur lorsqu'il est sous Camouflage de 5%"
   },
   "42022": {
-    "name": "Specialisation:42 Row:0 Column:2 Rank:2",
+    "name": "Dissimulation (rang2)",
     "icon": "icon_4202",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:0 Column:2 Rank:2. Use icon icon_4202.jpg"
+    "description": "Diminue le temps de rechargement de la technique Camouflage de 4sec et augmente la vitesse du Voleur lorsqu'il est sous Camouflage de 10%"
   },
   "42023": {
-    "name": "Specialisation:42 Row:0 Column:2 Rank:3",
+    "name": "Dissimulation (rang3)",
     "icon": "icon_4202",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:0 Column:2 Rank:3. Use icon icon_4202.jpg"
+    "description": "Diminue le temps de rechargement de la technique Camouflage de 6sec et augmente la vitesse du Voleur lorsqu'il est sous Camouflage de 15%"
   },
   "42024": {
     "name": "Specialisation:42 Row:0 Column:2 Rank:4",
@@ -8010,16 +8010,16 @@
     "description": "Description for Specialisation:42 Row:0 Column:2 Rank:5. Use icon icon_4202.jpg"
   },
   "42031": {
-    "name": "Specialisation:42 Row:0 Column:3 Rank:1",
+    "name": "Assommer Amélioré (rang1)",
     "icon": "icon_4203",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:0 Column:3 Rank:1. Use icon icon_4203.jpg"
+    "description": "Donne 50% de chance au Voleur de rester en Camouflage lorsqu'il utilise la technique Assommer"
   },
   "42032": {
-    "name": "Specialisation:42 Row:0 Column:3 Rank:2",
+    "name": "Assommer Amélioré (rang2)",
     "icon": "icon_4203",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:0 Column:3 Rank:2. Use icon icon_4203.jpg"
+    "description": "Donne 100% de chance au Voleur de rester en Camouflage lorsqu'il utilise la technique Assommer"
   },
   "42033": {
     "name": "Specialisation:42 Row:0 Column:3 Rank:3",
@@ -8040,22 +8040,22 @@
     "description": "Description for Specialisation:42 Row:0 Column:3 Rank:5. Use icon icon_4203.jpg"
   },
   "42101": {
-    "name": "Specialisation:42 Row:1 Column:0 Rank:1",
+    "name": "Deja plus Là (rang1)",
     "icon": "icon_4210",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:1 Column:0 Rank:1. Use icon icon_4210.jpg"
+    "description": "Diminue les dégats subit par les effets de zone de 5% et augmente la vitesse de déplacement durant l'effet de la technique vanish de 10%"
   },
   "42102": {
-    "name": "Specialisation:42 Row:1 Column:0 Rank:2",
+    "name": "Deja plus Là (rang2)",
     "icon": "icon_4210",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:1 Column:0 Rank:2. Use icon icon_4210.jpg"
+    "description": "Diminue les dégats subit par les effets de zone de 10% et augmente la vitesse de déplacement durant l'effet de la technique vanish de 20%"
   },
   "42103": {
-    "name": "Specialisation:42 Row:1 Column:0 Rank:3",
+    "name": "Deja plus Là (rang3)",
     "icon": "icon_4210",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:1 Column:0 Rank:3. Use icon icon_4210.jpg"
+    "description": "Diminue les dégats subit par les effets de zone de 15% et augmente la vitesse de déplacement durant l'effet de la technique vanish de 30%"
   },
   "42104": {
     "name": "Specialisation:42 Row:1 Column:0 Rank:4",
@@ -8070,16 +8070,16 @@
     "description": "Description for Specialisation:42 Row:1 Column:0 Rank:5. Use icon icon_4210.jpg"
   },
   "42111": {
-    "name": "Specialisation:42 Row:1 Column:1 Rank:1",
+    "name": "Feinte Améliorée (rang1)",
     "icon": "icon_4211",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:1 Column:1 Rank:1. Use icon icon_4211.jpg"
+    "description": "Diminue le coût en Energie de la technique Feinte de 10pts et augmente son efficacité de 10%"
   },
   "42112": {
-    "name": "Specialisation:42 Row:1 Column:1 Rank:2",
+    "name": "Feinte Améliorée (rang1)",
     "icon": "icon_4211",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:1 Column:1 Rank:2. Use icon icon_4211.jpg"
+    "description": "Diminue le coût en Energie de la technique Feinte de 20pts et augmente son efficacité de 20%"
   },
   "42113": {
     "name": "Specialisation:42 Row:1 Column:1 Rank:3",
@@ -8100,22 +8100,22 @@
     "description": "Description for Specialisation:42 Row:1 Column:1 Rank:5. Use icon icon_4211.jpg"
   },
   "42121": {
-    "name": "Specialisation:42 Row:1 Column:2 Rank:1",
+    "name": "Lente Agonie (rang1)",
     "icon": "icon_4212",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:1 Column:2 Rank:1. Use icon icon_4212.jpg"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 2sec"
   },
   "42122": {
-    "name": "Specialisation:42 Row:1 Column:2 Rank:2",
+    "name": "Lente Agonie (rang2)",
     "icon": "icon_4212",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:1 Column:2 Rank:2. Use icon icon_4212.jpg"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 4sec"
   },
   "42123": {
-    "name": "Specialisation:42 Row:1 Column:2 Rank:3",
+    "name": "Lente Agonie (rang3)",
     "icon": "icon_4212",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:1 Column:2 Rank:3. Use icon icon_4212.jpg"
+    "description": "Augmente la durée des techniques Garrot et Rupture de 6sec"
   },
   "42124": {
     "name": "Specialisation:42 Row:1 Column:2 Rank:4",
@@ -8130,16 +8130,16 @@
     "description": "Description for Specialisation:42 Row:1 Column:2 Rank:5. Use icon icon_4212.jpg"
   },
   "42131": {
-    "name": "Specialisation:42 Row:1 Column:3 Rank:1",
+    "name": "Embuscade Améliorée (rang1)",
     "icon": "icon_4213",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:1 Column:3 Rank:1. Use icon icon_4213.jpg"
+    "description": "Augmente les chances de critiques avec la technique Embuscade de 25%"
   },
   "42132": {
-    "name": "Specialisation:42 Row:1 Column:3 Rank:2",
+    "name": "Embuscade Améliorée (rang2)",
     "icon": "icon_4213",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:1 Column:3 Rank:2. Use icon icon_4213.jpg"
+    "description": "Augmente les chances de critiques avec la technique Embuscade de 50%"
   },
   "42133": {
     "name": "Specialisation:42 Row:1 Column:3 Rank:3",
@@ -8160,22 +8160,22 @@
     "description": "Description for Specialisation:42 Row:1 Column:3 Rank:5. Use icon icon_4213.jpg"
   },
   "42201": {
-    "name": "Specialisation:42 Row:2 Column:0 Rank:1",
+    "name": "Initiative (rang1)",
     "icon": "icon_4220",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:2 Column:0 Rank:1. Use icon icon_4220.jpg"
+    "description": "Donne 33% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42202": {
-    "name": "Specialisation:42 Row:2 Column:0 Rank:2",
+    "name": "Initiative (rang2)",
     "icon": "icon_4220",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:2 Column:0 Rank:2. Use icon icon_4220.jpg"
+    "description": "Donne 66% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42203": {
-    "name": "Specialisation:42 Row:2 Column:0 Rank:3",
+    "name": "Initiative (rang3)",
     "icon": "icon_4220",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:2 Column:0 Rank:3. Use icon icon_4220.jpg"
+    "description": "Donne 100% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
   "42204": {
     "name": "Specialisation:42 Row:2 Column:0 Rank:4",
@@ -8190,10 +8190,10 @@
     "description": "Description for Specialisation:42 Row:2 Column:0 Rank:5. Use icon icon_4220.jpg"
   },
   "42211": {
-    "name": "Specialisation:42 Row:2 Column:1 Rank:1",
+    "name": "Frappe Fantômatique",
     "icon": "icon_4221",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:2 Column:1 Rank:1. Use icon icon_4221.jpg"
+    "description": "Technique a activer, instantanée, coûte 35pts d'Energie, 6sec de temps de rechargement, 0-5yards de portée, génère 1pts de Combo, Attaque la cible et lui inflige 125% de la plage de dégats de l'Arme en main droite, et procure une amélioration au Voleur de 6sec qui lui donne 100% de chance d'Esquive sur la prochaine attaque subit"
   },
   "42212": {
     "name": "Specialisation:42 Row:2 Column:1 Rank:2",
@@ -8220,10 +8220,10 @@
     "description": "Description for Specialisation:42 Row:2 Column:1 Rank:5. Use icon icon_4221.jpg"
   },
   "42221": {
-    "name": "Specialisation:42 Row:2 Column:2 Rank:1",
+    "name": "Frappes Implacables",
     "icon": "icon_4222",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:2 Column:2 Rank:1. Use icon icon_4222.jpg"
+    "description": "Lorsque le Voleur utilise un Coup de Grâce, rend 5pts d'Energie par Point de Combo utilisé"
   },
   "42222": {
     "name": "Specialisation:42 Row:2 Column:2 Rank:2",
@@ -8250,16 +8250,16 @@
     "description": "Description for Specialisation:42 Row:2 Column:2 Rank:5. Use icon icon_4222.jpg"
   },
   "42231": {
-    "name": "Specialisation:42 Row:2 Column:3 Rank:1",
+    "name": "Cambrioleur (rang1)",
     "icon": "icon_4223",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:2 Column:3 Rank:1. Use icon icon_4223.jpg"
+    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 50% ainsi que le temps de rechargement de la technique Distraction de 25%"
   },
   "42232": {
-    "name": "Specialisation:42 Row:2 Column:3 Rank:2",
+    "name": "Cambrioleur (rang2)",
     "icon": "icon_4223",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:2 Column:3 Rank:2. Use icon icon_4223.jpg"
+    "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 100% ainsi que le temps de rechargement de la technique Distraction de 50%"
   },
   "42233": {
     "name": "Specialisation:42 Row:2 Column:3 Rank:3",
@@ -8280,22 +8280,22 @@
     "description": "Description for Specialisation:42 Row:2 Column:3 Rank:5. Use icon icon_4223.jpg"
   },
   "42301": {
-    "name": "Specialisation:42 Row:3 Column:0 Rank:1",
+    "name": "Plaies Profondes (rang1)",
     "icon": "icon_4230",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:3 Column:0 Rank:1. Use icon icon_4230.jpg"
+    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 10%"
   },
   "42302": {
-    "name": "Specialisation:42 Row:3 Column:0 Rank:2",
+    "name": "Plaies Profondes (rang2)",
     "icon": "icon_4230",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:3 Column:0 Rank:2. Use icon icon_4230.jpg"
+    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 20%"
   },
   "42303": {
-    "name": "Specialisation:42 Row:3 Column:0 Rank:3",
+    "name": "Plaies Profondes (rang3)",
     "icon": "icon_4230",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:3 Column:0 Rank:3. Use icon icon_4230.jpg"
+    "description": "Augmente les dégats infligés par les techniques de Saignement du Voleur de 30%"
   },
   "42304": {
     "name": "Specialisation:42 Row:3 Column:0 Rank:4",
@@ -8310,16 +8310,16 @@
     "description": "Description for Specialisation:42 Row:3 Column:0 Rank:5. Use icon icon_4230.jpg"
   },
   "42311": {
-    "name": "Specialisation:42 Row:3 Column:1 Rank:1",
+    "name": "Coups Fourrés (rang1)",
     "icon": "icon_4231",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:3 Column:1 Rank:1. Use icon icon_4231.jpg"
+    "description": "Diminue le coût en Energie des techniques qui font sortir du Camouflage de 10pts"
   },
   "42312": {
-    "name": "Specialisation:42 Row:3 Column:1 Rank:2",
+    "name": "Coups Fourrés (rang2)",
     "icon": "icon_4231",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:3 Column:1 Rank:2. Use icon icon_4231.jpg"
+    "description": "Diminue le coût en Energie des techniques qui font sortir du Camouflage de 20pts"
   },
   "42313": {
     "name": "Specialisation:42 Row:3 Column:1 Rank:3",
@@ -8340,22 +8340,22 @@
     "description": "Description for Specialisation:42 Row:3 Column:1 Rank:5. Use icon icon_4231.jpg"
   },
   "42321": {
-    "name": "Specialisation:42 Row:3 Column:2 Rank:1",
+    "name": "Lames Dentelées (rang1)",
     "icon": "icon_4232",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:3 Column:2 Rank:1. Use icon icon_4232.jpg"
+    "description": "Permet aux attaques du Voleur d'ignorer 3% de l'Armure de la cible"
   },
   "42322": {
-    "name": "Specialisation:42 Row:3 Column:2 Rank:2",
+    "name": "Lames Dentelées (rang2)",
     "icon": "icon_4232",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:3 Column:2 Rank:2. Use icon icon_4232.jpg"
+    "description": "Permet aux attaques du Voleur d'ignorer 6% de l'Armure de la cible"
   },
   "42323": {
-    "name": "Specialisation:42 Row:3 Column:2 Rank:3",
+    "name": "Lames Dentelées (rang3)",
     "icon": "icon_4232",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:3 Column:2 Rank:3. Use icon icon_4232.jpg"
+    "description": "Permet aux attaques du Voleur d'ignorer 9% de l'Armure de la cible"
   },
   "42324": {
     "name": "Specialisation:42 Row:3 Column:2 Rank:4",
@@ -8370,16 +8370,16 @@
     "description": "Description for Specialisation:42 Row:3 Column:2 Rank:5. Use icon icon_4232.jpg"
   },
   "42331": {
-    "name": "Specialisation:42 Row:3 Column:3 Rank:1",
+    "name": "Coup Tordu (rang1)",
     "icon": "icon_4233",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:3 Column:3 Rank:1. Use icon icon_4233.jpg"
+    "description": "Diminue le coût en Energie des techniques Assommer, Cécité et Distraction de 25%"
   },
   "42332": {
-    "name": "Specialisation:42 Row:3 Column:3 Rank:2",
+    "name": "Coup Tordu (rang2)",
     "icon": "icon_4233",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:3 Column:3 Rank:2. Use icon icon_4233.jpg"
+    "description": "Diminue le coût en Energie des techniques Assommer, Cécité et Distraction de 50%"
   },
   "42333": {
     "name": "Specialisation:42 Row:3 Column:3 Rank:3",
@@ -8400,22 +8400,22 @@
     "description": "Description for Specialisation:42 Row:3 Column:3 Rank:5. Use icon icon_4233.jpg"
   },
   "42401": {
-    "name": "Specialisation:42 Row:4 Column:0 Rank:1",
+    "name": "Meutre (rang1)",
     "icon": "icon_4240",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:4 Column:0 Rank:1. Use icon icon_4240.jpg"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 5%"
   },
   "42402": {
-    "name": "Specialisation:42 Row:4 Column:0 Rank:2",
+    "name": "Meutre (rang2)",
     "icon": "icon_4240",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:4 Column:0 Rank:2. Use icon icon_4240.jpg"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 10%"
   },
   "42403": {
-    "name": "Specialisation:42 Row:4 Column:0 Rank:3",
+    "name": "Meutre (rang3)",
     "icon": "icon_4240",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:4 Column:0 Rank:3. Use icon icon_4240.jpg"
+    "description": "Augmente la Puissance d'Attaque du Voleur de 15%"
   },
   "42404": {
     "name": "Specialisation:42 Row:4 Column:0 Rank:4",
@@ -8430,10 +8430,10 @@
     "description": "Description for Specialisation:42 Row:4 Column:0 Rank:5. Use icon icon_4240.jpg"
   },
   "42411": {
-    "name": "Specialisation:42 Row:4 Column:1 Rank:1",
+    "name": "Préparation",
     "icon": "icon_4241",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:4 Column:1 Rank:1. Use icon icon_4241.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, Met instantanément fin a tous les temps de rechargement des techniques du Voleur"
   },
   "42412": {
     "name": "Specialisation:42 Row:4 Column:1 Rank:2",
@@ -8460,10 +8460,10 @@
     "description": "Description for Specialisation:42 Row:4 Column:1 Rank:5. Use icon icon_4241.jpg"
   },
   "42421": {
-    "name": "Specialisation:42 Row:4 Column:2 Rank:1",
+    "name": "Hémorragie",
     "icon": "icon_4242",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:4 Column:2 Rank:1. Use icon icon_4242.jpg"
+    "description": "Technique a activer, instantanée, coûte 35pts d'Energie, génère 1pts de Combo, 0-5yards de portée, requiert une armée de mélée, Attaque la cible et pose un affaiblissement sur la cible qui dure 15sec ou 30 charges qui augmente toutes les sources de dégats sur la cible de +7"
   },
   "42422": {
     "name": "Specialisation:42 Row:4 Column:2 Rank:2",
@@ -8490,16 +8490,16 @@
     "description": "Description for Specialisation:42 Row:4 Column:2 Rank:5. Use icon icon_4242.jpg"
   },
   "42431": {
-    "name": "Specialisation:42 Row:4 Column:3 Rank:1",
+    "name": "Sens Amplifiés (rang1)",
     "icon": "icon_4243",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:4 Column:3 Rank:1. Use icon icon_4243.jpg"
+    "description": "Augmente la Détection du Camouflage du Voleur de 5rangs"
   },
   "42432": {
-    "name": "Specialisation:42 Row:4 Column:3 Rank:2",
+    "name": "Sens Amplifiés (rang2)",
     "icon": "icon_4243",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:4 Column:3 Rank:2. Use icon icon_4243.jpg"
+    "description": "Augmente la Détection du Camouflage du Voleur de 10rangs"
   },
   "42433": {
     "name": "Specialisation:42 Row:4 Column:3 Rank:3",
@@ -8520,16 +8520,16 @@
     "description": "Description for Specialisation:42 Row:4 Column:3 Rank:5. Use icon icon_4243.jpg"
   },
   "42511": {
-    "name": "Specialisation:42 Row:5 Column:1 Rank:1",
+    "name": "Préparatifs (rang1)",
     "icon": "icon_4251",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:5 Column:1 Rank:1. Use icon icon_4251.jpg"
+    "description": "Lorsque le Voleur Esquive une attaque il a 50% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
   "42512": {
-    "name": "Specialisation:42 Row:5 Column:1 Rank:2",
+    "name": "Préparatifs (rang2)",
     "icon": "icon_4251",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:5 Column:1 Rank:2. Use icon icon_4251.jpg"
+    "description": "Lorsque le Voleur Esquive une attaque il a 100% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
   "42513": {
     "name": "Specialisation:42 Row:5 Column:1 Rank:3",
@@ -8550,22 +8550,22 @@
     "description": "Description for Specialisation:42 Row:5 Column:1 Rank:5. Use icon icon_4251.jpg"
   },
   "42521": {
-    "name": "Specialisation:42 Row:5 Column:2 Rank:1",
+    "name": "Appel Sinitre (rang1)",
     "icon": "icon_4252",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:5 Column:2 Rank:1. Use icon icon_4252.jpg"
+    "description": "Augmente l'Agilité du Voleur de 5%"
   },
   "42522": {
-    "name": "Specialisation:42 Row:5 Column:2 Rank:2",
+    "name": "Appel Sinitre (rang2)",
     "icon": "icon_4252",
     "rank": 2,
-    "description": "Description for Specialisation:42 Row:5 Column:2 Rank:2. Use icon icon_4252.jpg"
+    "description": "Augmente l'Agilité du Voleur de 10%"
   },
   "42523": {
-    "name": "Specialisation:42 Row:5 Column:2 Rank:3",
+    "name": "Appel Sinitre (rang3)",
     "icon": "icon_4252",
     "rank": 3,
-    "description": "Description for Specialisation:42 Row:5 Column:2 Rank:3. Use icon icon_4252.jpg"
+    "description": "Augmente l'Agilité du Voleur de 15%"
   },
   "42524": {
     "name": "Specialisation:42 Row:5 Column:2 Rank:4",
@@ -8580,10 +8580,10 @@
     "description": "Description for Specialisation:42 Row:5 Column:2 Rank:5. Use icon icon_4252.jpg"
   },
   "42611": {
-    "name": "Specialisation:42 Row:6 Column:1 Rank:1",
+    "name": "Préméditation",
     "icon": "icon_4261",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:6 Column:1 Rank:1. Use icon icon_4261.jpg"
+    "description": "Technique a activer, instantanée, 20sec de temps de recharge, 20yards de portée, permet d'appliquer 2pts de Combo sur une cible durant 20sec"
   },
   "42612": {
     "name": "Specialisation:42 Row:6 Column:1 Rank:2",
@@ -8610,10 +8610,10 @@
     "description": "Description for Specialisation:42 Row:6 Column:1 Rank:5. Use icon icon_4261.jpg"
   },
   "42621": {
-    "name": "Specialisation:42 Row:6 Column:2 Rank:1",
+    "name": "Pas de Témoin",
     "icon": "icon_4262",
     "rank": 1,
-    "description": "Description for Specialisation:42 Row:6 Column:2 Rank:1. Use icon icon_4262.jpg"
+    "description": "Lorsque le Voleur obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur, il gagne une amélioration de 6sec qui rend l'utilisation de Vanish gratuite en temps de rechargement et en composant"
   },
   "42622": {
     "name": "Specialisation:42 Row:6 Column:2 Rank:2",
