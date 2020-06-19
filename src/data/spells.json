@@ -3151,7 +3151,7 @@
   },
   "21211": {
     "name": "Défense Vertueuse",
-    "icon": "ability_warrior_innerrage",
+    "icon": "spell_holy_power",
     "rank": 1,
     "description": "Technique a activer, instantanée, gratuite en mana, 10sec de temps de rechargement, 0-10yards de portée, Force jusqu'a 3 ennemis qui ne ciblent pas déjà le Paladin a l'attaquer durant 5sec"
   },
@@ -4051,7 +4051,7 @@
   },
   "22331": {
     "name": "Croisade (rang1)",
-    "icon": "spell_holy_excorcisme",
+    "icon": "spell_holy_excorcism",
     "rank": 1,
     "description": "Augmente les chances de critiques de 25% avec les techniques Exorcisme et Colère Divine et réduit le temps de rechargement de Courroux Vengeur de 1min"
   },
