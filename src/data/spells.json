@@ -2341,7 +2341,7 @@
   },
   "20121": {
     "name": "Puissance Purifiante (rang1)",
-    "icon": "spell_holy_exorcism",
+    "icon": "spell_holy_excorcism",
     "rank": 1,
     "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 15%"
   },
@@ -2641,7 +2641,7 @@
   },
   "20401": {
     "name": "Lumière Infinie (rang1)",
-    "icon": "spell_holy_prayerofhealing",
+    "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
     "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 5%"
   },
@@ -2791,7 +2791,7 @@
   },
   "20521": {
     "name": "Bénie par la Lumière (rang1)",
-    "icon": "ispell_holy_summonlightwell",
+    "icon": "spell_holy_summonlightwell",
     "rank": 1,
     "description": "Convertit 10% de l'Intelligence du Paladin en Bonus sort"
   },
