@@ -1,14 +1,15 @@
 import './Playground.scss'
 import React, { FC } from 'react'
-import { ClassPicker } from '../components/ClassPicker'
 import { RouteComponentProps } from 'react-router'
+import { Map } from 'immutable'
+import classNames from 'classnames'
+
+import { talentsById } from '../data/talents'
 import { Icon } from '../components/Icon'
 import { Tooltip } from '../components/Tooltip'
 import { Talent } from '../components/Talent'
-import { talentsById } from '../data/talents'
-import { Map } from 'immutable'
-import { SpellTooltip } from '../components/SpellTooltip';
-import classNames from 'classnames'
+import { SpellTooltip } from '../components/SpellTooltip'
+import { ClassPicker } from '../components/ClassPicker'
 
 interface Props extends RouteComponentProps {
   //
