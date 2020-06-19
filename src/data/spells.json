@@ -2880,7 +2880,7 @@
     "description": "Description for Specialisation:20 Row:6 Column:2 Rank:5. Use icon icon_2062.jpg"
   },
   "21001": {
-    "name": "Poids du Bouclier (rang1)",
+    "name": "spell_arcane_arcaneresilience (rang1)",
     "icon": "icon_2100",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 1pts de Vie"
@@ -2911,7 +2911,7 @@
   },
   "21011": {
     "name": "Bénédiction de Salut Améliorée (rang1)",
-    "icon": "icon_2101",
+    "icon": "spell_holy_sealofsalvation",
     "rank": 1,
     "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeure diminuent les dégats subit par la cible de 3% et augmente leur durée de 5min"
   },
@@ -2941,7 +2941,7 @@
   },
   "21021": {
     "name": "Anticipation (rang1)",
-    "icon": "icon_2102",
+    "icon": "spell_magic_lesserinvisibility",
     "rank": 1,
     "description": "Augmente les chances d'esquiver du Paladin de 2%"
   },
@@ -2971,7 +2971,7 @@
   },
   "21031": {
     "name": "Redoute (rang1)",
-    "icon": "icon_2103",
+    "icon": "ability_defend",
     "rank": 1,
     "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 15% durant 10sec ou 5 charges"
   },
@@ -3001,7 +3001,7 @@
   },
   "21101": {
     "name": "Endurance Divine (rang1)",
-    "icon": "icon_2110",
+    "icon": "spell_holy_wordfortitude",
     "rank": 1,
     "description": "Augmente l'Endurance du Paladin de 5%"
   },
@@ -3031,7 +3031,7 @@
   },
   "21111": {
     "name": "Faveur du Gardien (rang1)",
-    "icon": "icon_2111",
+    "icon": "spell_holy_sealofprotection",
     "rank": 1,
     "description": "Diminue le temps de rechargement de Main de Protection de 1min, augmente la durée de Main de Liberté de 3sec et diminue le temps de rechargement de Main de Sacrifice de 50%"
   },
@@ -3061,7 +3061,7 @@
   },
   "21121": {
     "name": "Spécialisation Bouclier (rang1)",
-    "icon": "icon_2112",
+    "icon": "inv_shield_06",
     "rank": 1,
     "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 2%"
   },
@@ -3091,7 +3091,7 @@
   },
   "21131": {
     "name": "Fureur Vertueuse Améliorée (rang1)",
-    "icon": "icon_2113",
+    "icon": "spell_holy_sealoffury",
     "rank": 1,
     "description": "Augmente la menace générée par la technique Fureur Vertueuse de 15% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%"
   },
@@ -3121,7 +3121,7 @@
   },
   "21201": {
     "name": "Devoir Sacré (rang1)",
-    "icon": "icon_2120",
+    "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
     "description": "Augmente le montant de tous les soins que reçoit le Paladin de 4%"
   },
@@ -3151,7 +3151,7 @@
   },
   "21211": {
     "name": "Défense Vertueuse",
-    "icon": "icon_2121",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
     "description": "Technique a activer, instantanée, gratuite en mana, 10sec de temps de rechargement, 0-10yards de portée, Force jusqu'a 3 ennemis qui ne ciblent pas déjà le Paladin a l'attaquer durant 5sec"
   },
@@ -3181,9 +3181,9 @@
   },
   "21221": {
     "name": "Harmonisation Spirituelle",
-    "icon": "icon_2122",
+    "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 8% du montant reçu lui est rendu en mana également, même s'il est déjà au maximum de son montant de vie"
+    "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 8% du montant reçu lui est rendu en mana également, ne fonctionne pas sur les soins exédentaires"
   },
   "21222": {
     "name": "Specialisation:21 Row:2 Column:2 Rank:2",
@@ -3211,7 +3211,7 @@
   },
   "21231": {
     "name": "Blocage Amélioré (rang1)",
-    "icon": "icon_2123",
+    "icon": "inv_shield_05",
     "rank": 1,
     "description": "Augmente le montant des blocages du Paladin de 15%"
   },
@@ -3241,7 +3241,7 @@
   },
   "21301": {
     "name": "Auras Améliorées (rang1)",
-    "icon": "icon_2130",
+    "icon": "spell_holy_devotionaura",
     "rank": 1,
     "description": "Augmente les effets de toutes les Auras du Paladin de 5%"
   },
@@ -3271,7 +3271,7 @@
   },
   "21311": {
     "name": "Stoïcisme (rang1)",
-    "icon": "icon_2131",
+    "icon": "spell_holy_unyieldingfaith",
     "rank": 1,
     "description": "Réduit la durée des effets d'étourdissement, de désorientation et de peur sur le Paladin de 10%"
   },
@@ -3301,7 +3301,7 @@
   },
   "21321": {
     "name": "Résistance (rang1)",
-    "icon": "icon_2132",
+    "icon": "spell_holy_devotion",
     "rank": 1,
     "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 10%"
   },
@@ -3331,7 +3331,7 @@
   },
   "21331": {
     "name": "Soutien Divin (rang1)",
-    "icon": "icon_2133",
+    "icon": "spell_nature_timestop",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine et Intervention Divine de 1min"
   },
@@ -3361,7 +3361,7 @@
   },
   "21401": {
     "name": "Ardent Défenseur (rang1)",
-    "icon": "icon_2140",
+    "icon": "ability_warrior_shieldwall",
     "rank": 1,
     "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 5% de dégats en moins"
   },
@@ -3391,7 +3391,7 @@
   },
   "21411": {
     "name": "Maîtrise des Auras",
-    "icon": "icon_2141",
+    "icon": "spell_holy_auraoflight",
     "rank": 1,
     "description": "Le Paladin peut bénéficier de 2 Auras simultanément au lieu d'une seule"
   },
@@ -3421,7 +3421,7 @@
   },
   "21421": {
     "name": "Bouclier Sacré",
-    "icon": "icon_2142",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
     "description": "Technique a activer, instantanée, 10sec de temps de rechargement, coûte 150pts de mana, procure au Paladin une amélioration qui dure 10sec ou 5 charges, Augmente ses chances de bloquer de 30%, a chaque fois qu'il bloque une attaque, une charge est consommé, 1% de sa mana lui est rendu et il renvoie 35pts de dégats du sacré, ces dégats génèrent +35% de menace"
   },
@@ -3451,7 +3451,7 @@
   },
   "21431": {
     "name": "Rétribution (rang1)",
-    "icon": "icon_2143",
+    "icon": "spell_holy_blessingofstrength",
     "rank": 1,
     "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 1 charge d'attaque supplémentaire"
   },
@@ -3481,7 +3481,7 @@
   },
   "21511": {
     "name": "Expert au Bouclier (rang1)",
-    "icon": "icon_2151",
+    "icon": "spell_holy_powerwordshield",
     "rank": 1,
     "description": "Donne 3% d'Expertise au Paladin et augmente la menace généré par ses attaques avec une arme a une main et un bouclier de 10%"
   },
@@ -3511,7 +3511,7 @@
   },
   "21521": {
     "name": "Persistance (rang1)",
-    "icon": "icon_2152",
+    "icon": "ability_golemthunderclap",
     "rank": 1,
     "description": "Convertit 10% de l'Endurance du Paladin en bonus sort"
   },
@@ -3541,7 +3541,7 @@
   },
   "21611": {
     "name": "Marteau du Juste",
-    "icon": "icon_2161",
+    "icon": "class_paladin",
     "rank": 1,
     "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 0-5yards de portée, coûte 360pts de mana, Frappe jusqu'a 3 cibles devant le Paladin, inflige un dégat du sacré équivalent a la plage de dégat de l'arme mais génère un haut niveau de menace"
   },
@@ -3571,7 +3571,7 @@
   },
   "21621": {
     "name": "Bouclier Vengeur",
-    "icon": "icon_2162",
+    "icon": "ability_warrior_shieldbash",
     "rank": 1,
     "description": "Technique a activer, 30sec de temps de rechargement, 8-30yards de portée, coûte 250pts de mana, Touche jusqu'a 3 cibles a portée, silence et hébête durant 4sec et inflige 130pts de dégats du sacré et génére un niveau de menace important"
   },
