@@ -2341,7 +2341,7 @@
   },
   "20121": {
     "name": "Puissance Purifiante (rang1)",
-    "icon": "icon_2012",
+    "icon": "spell_holy_exorcism",
     "rank": 1,
     "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 15%"
   },
@@ -2371,7 +2371,7 @@
   },
   "20131": {
     "name": "Imposition des Mains Améliorées (rang1)",
-    "icon": "icon_2013",
+    "icon": "spell_holy_layonhands",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 1min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui augmente l'armure de 2% durant 1min"
   },
@@ -2401,7 +2401,7 @@
   },
   "20201": {
     "name": "Lumière Guérisseuse (rang1)",
-    "icon": "icon_2020",
+    "icon": "spell_holy_holybolt",
     "rank": 1,
     "description": "Augmente le montant des soins du Paladin de 5%"
   },
@@ -2431,7 +2431,7 @@
   },
   "20211": {
     "name": "Consécration",
-    "icon": "icon_2021",
+    "icon": "spell_holy_innerfire",
     "rank": 1,
     "description": "Technique a activer, instantanée, coût 135pts de mana, Consacre le sol autour du Paladin et inflige 64pts de dégats du sacré aux ennemis dans la zone et soigne les alliés dans la zone du même montant durant 8sec"
   },
@@ -2461,7 +2461,7 @@
   },
   "20221": {
     "name": "Main Généreuse",
-    "icon": "icon_2022",
+    "icon": "spell_frost_manarecharge",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques Main de Liberté, Main de Sacrifice, Main de Protection, Imposition des Mains de 100% et leur procure 1sec de temps de recharge global au lieu d'1,5sec"
   },
@@ -2491,7 +2491,7 @@
   },
   "20231": {
     "name": "Rédemption Améliorée (rang1)",
-    "icon": "icon_2023",
+    "icon": "spell_holy_blessedrecovery",
     "rank": 1,
     "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que le temps d'incantation de la technique de 1sec et augmente le montant de vie et de mana rendue a la cible de 15%"
   },
@@ -2521,7 +2521,7 @@
   },
   "20301": {
     "name": "Vie Bénie (rang1)",
-    "icon": "icon_2030",
+    "icon": "spell_holy_renew",
     "rank": 1,
     "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 5%"
   },
@@ -2551,7 +2551,7 @@
   },
   "20311": {
     "name": "Pureté de Coeur (rang1)",
-    "icon": "icon_2031",
+    "icon": "spell_holy_purify",
     "rank": 1,
     "description": "Diminue la durée des effets de Poison, de Maladie et de Malédiction sur le Paladin de 10%"
   },
@@ -2581,7 +2581,7 @@
   },
   "20321": {
     "name": "Puissance du Sacré (rang1)",
-    "icon": "icon_2032",
+    "icon": "spell_holy_power",
     "rank": 1,
     "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 2%"
   },
@@ -2611,7 +2611,7 @@
   },
   "20331": {
     "name": "Chasser le Mal (rang1)",
-    "icon": "icon_2033",
+    "icon": "spell_holy_holynova",
     "rank": 1,
     "description": "Du moment que la technique Pistage des Mort-Vivant est active sur le Paladin, diminue le temps de rechargement d'Exorcisme et Colère Divine de 10% ainsi que le temps d'incantation de Renvoi du Mal de 50%"
   },
@@ -2641,7 +2641,7 @@
   },
   "20401": {
     "name": "Lumière Infinie (rang1)",
-    "icon": "icon_2040",
+    "icon": "spell_holy_prayerofhealing",
     "rank": 1,
     "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 5%"
   },
@@ -2671,7 +2671,7 @@
   },
   "20411": {
     "name": "Faveur Divine",
-    "icon": "icon_2041",
+    "icon": "spell_holy_heal",
     "rank": 1,
     "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Procure une amélioration au Paladin qui donne 100% de chance a son prochain sort du sacré d'obtenir un effet critique."
   },
@@ -2701,7 +2701,7 @@
   },
   "20421": {
     "name": "Concentration Améliorée",
-    "icon": "icon_2042",
+    "icon": "spell_holy_mindsooth",
     "rank": 1,
     "description": "Tous les joueurs bénéficiant d'une Aura de ce Paladin voit la durée des effets de Silence réduite de 30%"
   },
@@ -2731,7 +2731,7 @@
   },
   "20431": {
     "name": "Jugement Durable (rang1)",
-    "icon": "icon_2043",
+    "icon": "spell_holy_healingaura",
     "rank": 1,
     "description": "Augmente la durée des techniques Jugement de Sagesse et Jugement de Lumière de 10sec"
   },
@@ -2761,9 +2761,9 @@
   },
   "20511": {
     "name": "Etendue de Lumière (rang1)",
-    "icon": "icon_2051",
+    "icon": "spell_holy_searinglightpriest",
     "rank": 1,
-    "description": "Augmente la portée des techniques Horion Sacré, Epuration, Purification ainsi que les différentes Mains et Auras de 5yards"
+    "description": "Augmente la portée des techniques Horion Sacré en version soin, Epuration, Purification ainsi que les différentes Mains et Auras de 5yards"
   },
   "20512": {
     "name": "Etendue de Lumière (rang2)",
@@ -2791,7 +2791,7 @@
   },
   "20521": {
     "name": "Bénie par la Lumière (rang1)",
-    "icon": "icon_2052",
+    "icon": "ispell_holy_summonlightwell",
     "rank": 1,
     "description": "Convertit 10% de l'Intelligence du Paladin en Bonus sort"
   },
@@ -2821,7 +2821,7 @@
   },
   "20611": {
     "name": "Illumination",
-    "icon": "icon_2061",
+    "icon": "spell_holy_greaterheal",
     "rank": 1,
     "description": "Lorsque le Paladin obtient un effet critique avec une technique du sacré, 100% du coût en mana de cette technique est rendu au Paladin"
   },
@@ -2851,7 +2851,7 @@
   },
   "20621": {
     "name": "Horion Sacré",
-    "icon": "icon_2062",
+    "icon": "spell_holy_searinglight",
     "rank": 1,
     "description": "technique a activer, instantanée, coûte 225pdm, 15sec de temps de recharge, 20m de portée en offensif, 30m de portée en soin, inflige ou rend 212pts du sacré a la cible"
   },
