@@ -271,7 +271,7 @@
   },
   "10211": {
     "name": "Juggernaut",
-    "icon": "spell_holy_blessingofstamina",
+    "icon": "spell_nature_unyeildingstamina",
     "rank": 1,
     "description": "Permet au Guerrier de génèrer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne 100% de chance de critique sur sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Dévaster dans les 30sec" 
   },
@@ -481,7 +481,7 @@
   },
   "10401": {
     "name": "Discipline (rang1)",
-    "icon": "spell_holy_power",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 11%"
   },
@@ -751,7 +751,7 @@
   },
   "11011": {
     "name": "Cris Améliorés (rang1)",
-    "icon": "spell_fire_elementaldevastation",
+    "icon": "ability_warrior_warcry",
     "rank": 1,
     "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
   },
@@ -871,7 +871,7 @@
   },
   "11111": {
     "name": "Voix Tonitruante (rang1)",
-    "icon": "ability_warrior_warcry",
+    "icon": "spell_fire_elementaldevastation",
     "rank": 1,
     "description": "Augmente la portée des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 25% et Augmente leur durée de 50%"
   },
@@ -1201,7 +1201,7 @@
   },
   "11401": {
     "name": "Précision (rang1)",
-    "icon": "ability_townwatch",
+    "icon": "ability_markmanship",
     "rank": 1,
     "description": "Augmente les chances de toucher du Guerrier de 2%"
   },
@@ -1441,7 +1441,7 @@
   },
   "12001": {
     "name": "Endurance Physique (rang1)",
-    "icon": "icon_1200",
+    "icon": "spell_holy_devotionaura",
     "rank": 1,
     "description": "Augmente l'Endurance du Guerrier de 5%"
   },
@@ -1477,7 +1477,7 @@
   },
   "12012": {
     "name": "Provocation Améliorée (rang2)",
-    "icon": "icon_1201",
+    "icon": "spell_nature_reincarnation",
     "rank": 2,
     "description": "Réduit le temps de rechargement de la technique Provocation de 2sec"
   },
@@ -1501,7 +1501,7 @@
   },
   "12021": {
     "name": "Spécialisation Bouclier (rang1)",
-    "icon": "icon_1202",
+    "icon": "inv_shield_06",
     "rank": 1,
     "description": "Augmente les chances de bloquer du Guerrier avec un bouclier de 2%"
   },
@@ -1531,7 +1531,7 @@
   },
   "12031": {
     "name": "Rage Sanguinaire Atténuée (rang1)",
-    "icon": "icon_1203",
+    "icon": "ability_racial_bloodrage",
     "rank": 1,
     "description": "Réduit le montant de vie consommé par la technique Rage Sanguinaire de 45%"
   },
@@ -1561,7 +1561,7 @@
   },
   "12101": {
     "name": "Coup de Tonnerre Amélioré (rang1)",
-    "icon": "icon_1210",
+    "icon": "ability_thunderclap",
     "rank": 1,
     "description": "Réduit le cout en Rage de la technique Coup de Tonnerre de 1pts et augmente ses effets de 5%"
   },
@@ -1591,7 +1591,7 @@
   },
   "12111": {
     "name": "Blocage Amélioré (rang1)",
-    "icon": "icon_1211",
+    "icon": "spell_holy_sealofprotection",
     "rank": 1,
     "description": "Augmente le montant de Blocage du Guerrier avec un bouclier de 15%"
   },
@@ -1621,7 +1621,7 @@
   },
   "12121": {
     "name": "Défiance (rang1)",
-    "icon": "icon_1212",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
     "description": "Augmente la menace génèrée par le Guerrier de 5%"
   },
@@ -1651,7 +1651,7 @@
   },
   "12131": {
     "name": "Têtu (rang1)",
-    "icon": "icon_1213",
+    "icon": "ability_racial_avatar",
     "rank": 1,
     "description": "Lorsque le Guerrier obtient une Parade ou une Esquive ou un Blocage, il génère instantanément 1pts de Rage"
   },
@@ -1681,7 +1681,7 @@
   },
   "12201": {
     "name": "Anticipation (rang1)",
-    "icon": "icon_1220",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
     "description": "Augmente les chances d'Esquiver du Guerrier de 2%"
   },
@@ -1711,7 +1711,7 @@
   },
   "12211": {
     "name": "Dernier Rempart",
-    "icon": "icon_1221",
+    "icon": "spell_holy_ashestoashes",
     "rank": 1,
     "description": "Technique a activer, instantanée, 0pts de Rage, 9min de temps de rechargement, utilisable dans toutes les postures et sous contrôle, accorde au Guerrier 30% de point de vie temporairement durant 20sec"
   },
@@ -1741,7 +1741,7 @@
   },
   "12221": {
     "name": "Maîtrise du Blocage Améliorée",
-    "icon": "icon_1222",
+    "icon": "ability_defend",
     "rank": 1,
     "description": "Permet a la technique Maîtrise du Blocage de bénéficier d'une charge supplémentaire et augmente sa durée de 3sec"
   },
@@ -1771,7 +1771,7 @@
   },
   "12231": {
     "name": "Vengeance Améliorée (rang1)",
-    "icon": "icon_1223",
+    "icon": "iability_warrior_revenge",
     "rank": 1,
     "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 5% durant 6sec"
   },
@@ -1801,7 +1801,7 @@
   },
   "12301": {
     "name": "Résistance (rang1)",
-    "icon": "icon_1230",
+    "icon": "spell_holy_devotion",
     "rank": 1,
     "description": "Augmente l'Armure du Guerrier de 4% et diminue la durée des effets affectant le mouvement de 10%"
   },
@@ -1831,7 +1831,7 @@
   },
   "12311": {
     "name": "Désarmement Amélioré (rang1)",
-    "icon": "icon_1231",
+    "icon": "aility_warrior_disarm",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Désarmement et augmente la durée de son effet de 25%"
   },
@@ -1861,7 +1861,7 @@
   },
   "12321": {
     "name": "Rage Focalisée (rang1)",
-    "icon": "icon_1232",
+    "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
     "description": "Réduit le cout en Rage de toutes les techniques du Guerrier de 1pts"
   },
@@ -1891,7 +1891,7 @@
   },
   "12331": {
     "name": "Protecteur (rang1)",
-    "icon": "icon_1233",
+    "icon": "spell_holy_powerwordshield",
     "rank": 1,
     "description": "Réduit le temps de rechargement de la technique Intervention de 25% et son cout en Rage de 50%"
   },
@@ -1921,7 +1921,7 @@
   },
   "12401": {
     "name": "Survivant (rang1)",
-    "icon": "icon_1240",
+    "icon": "ability_warrior_shieldwall",
     "rank": 1,
     "description": "Réduit le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 11% et augmente la durée de ces techniques de 2sec"
   },
@@ -1951,7 +1951,7 @@
   },
   "12411": {
     "name": "Renvoi de Sort",
-    "icon": "icon_1241",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
     "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Lorsqu'il est activé, renvoie le prochain sort dans les 5sec lancé sur le Guerrier"
   },
@@ -1981,7 +1981,7 @@
   },
   "12421": {
     "name": "Coup Traumatisant",
-    "icon": "icon_1242",
+    "icon": "ability_thunderbolt",
     "rank": 1,
     "description": "Technique a activer, instantané, 45sec de temps de rechargement, 0pts de Rage, 0-5yards de portée, Utilisable dans toutes les postures, Etourdit la cible durant 5sec et génère un haut niveau de menace"
   },
@@ -2011,7 +2011,7 @@
   },
   "12431": {
     "name": "Coup de Bouclier Amélioré (rang1)",
-    "icon": "icon_1243",
+    "icon": "ability_warrior_shieldbash",
     "rank": 1,
     "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hébêter la cible durant 1,5sec"
   },
@@ -2041,7 +2041,7 @@
   },
   "12511": {
     "name": "Bouclier Pointu (rang1)",
-    "icon": "icon_1251",
+    "icon": "spell_nature_thorns",
     "rank": 1,
     "description": "Lorsque le Guerrier bloque une attaque avec son bouclier, il renvoit a l'attaquant un dégat équivalent a 1% de sa valeur de blocage"
   },
@@ -2071,7 +2071,7 @@
   },
   "12521": {
     "name": "Expert au Bouclier (rang1)",
-    "icon": "icon_1252",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
     "description": "Lorsqu'il combat avec une arme a une main et un bouclier, le Guerrier augmente son Expertise de 2% et augmente la menace qu'il génère de 5%"
   },
@@ -2101,7 +2101,7 @@
   },
   "12611": {
     "name": "Heurt de Bouclier",
-    "icon": "icon_1261",
+    "icon": "inv_shield_05",
     "rank": 1,
     "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 30pts de Rage, 0-5yards de portée, Requiert un Bouclier, utilisable dans toutes les postures, inflige instantanément 230pts de dégats sur la cible + le score de blocage du Guerrier et a 100% de chance de dissiper un effet magique sur la cible"
   },
@@ -2131,7 +2131,7 @@
   },
   "12621": {
     "name": "Dévaster",
-    "icon": "icon_1262",
+    "icon": "inv_sword_20",
     "rank": 1,
     "description": "Technique a activer, instantanée, Utilisable dans toutes les postures, Requiert une arme de mélée, 15pts de Rage, Inflige 15pts de dégats a la cible +50% de la plage de dégats de l'arme du Guerrier et génère un haut niveau de menace en plus de poser la technique Fracasse Armure sur la cible"
   },
