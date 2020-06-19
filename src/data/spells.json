@@ -2161,7 +2161,7 @@
   },
   "20001": {
     "name": "Foi en son Armure (rang1)",
-    "icon": "icon_2000",
+    "icon": "spell_holy_devotionaura",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 1pts de Mana"
   },
@@ -2191,7 +2191,7 @@
   },
   "20011": {
     "name": "Focalisation Améliorée (rang1)",
-    "icon": "icon_2001",
+    "icon": "spell_arcane_blink",
     "rank": 1,
     "description": "Donne 35% de chance de non-interruption lorsque le Paladin cast un sort de l'école de Magie du Sacré"
   },
@@ -2221,7 +2221,7 @@
   },
   "20021": {
     "name": "Piété Amélioré (rang1)",
-    "icon": "icon_2002",
+    "icon": "ability_thunderbolt",
     "rank": 1,
     "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 5%"
   },
@@ -2251,7 +2251,7 @@
   },
   "20031": {
     "name": "Bénédiction de Sagesse Améliorée (rang1)",
-    "icon": "icon_2003",
+    "icon": "spell_holy_sealofwisdom",
     "rank": 1,
     "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 10% et augmente leur durée de 5min"
   },
@@ -2281,7 +2281,7 @@
   },
   "20101": {
     "name": "Intelligence Divine (rang1)",
-    "icon": "icon_2010",
+    "icon": "ability_hibernation",
     "rank": 1,
     "description": "Augmente l'Intelligence du Paladin de 5%"
   },
@@ -2311,7 +2311,7 @@
   },
   "20111": {
     "name": "Sagesse Infinie (rang1)",
-    "icon": "icon_2011",
+    "icon": "spell_frost_windwalkon",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques Bénédiction de Sagesse, Sceau de Sagesse et Jugement de Sagesse de 50%"
   },
