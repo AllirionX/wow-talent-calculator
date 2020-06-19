@@ -7203,7 +7203,7 @@
     "name": "Suriner Amélioré (rang1)",
     "icon": "ability_gouge",
     "rank": 1,
-    "description": "Augmente la durée de la technique Suriner de 0,5sec. Use icon ability_gouge.jpg"
+    "description": "Augmente la durée de la technique Suriner de 0,5sec"
   },
   "41002": {
     "name": "Suriner Amélioré (rang2)",
