@@ -42,7 +42,7 @@ export const talentsBySpec: Root = {
       "id": 1000,
       "row": 0,
       "col": 0,
-      "icon": "ability_golemthunderclap",
+      "icon": "icon_1000",
       "ranks": [10001,10002,10003],
       "requires": []
     },
