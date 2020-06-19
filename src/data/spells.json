@@ -3181,7 +3181,7 @@
   },
   "21221": {
     "name": "Harmonisation Spirituelle",
-    "icon": "spell_arcane_blink",
+    "icon": "spell_holy_greaterheal",
     "rank": 1,
     "description": "Chaque fois que le Paladin reçoit un soin d'une source extérieure a lui même, 8% du montant reçu lui est rendu en mana également, ne fonctionne pas sur les soins exédentaires"
   },
@@ -3601,7 +3601,7 @@
   },
   "22001": {
     "name": "Poids de l'Armure (rang1)",
-    "icon": "icon_2200",
+    "icon": "spell_nature_enchantarmor",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en +1pts de Puissance d'Attaque"
   },
@@ -3631,7 +3631,7 @@
   },
   "22011": {
     "name": "Bénédiction de Puissance Améliorée (rang1)",
-    "icon": "icon_2201",
+    "icon": "spell_holy_fistofjustice",
     "rank": 1,
     "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 10% et augmente leur durée de 5min"
   },
@@ -3661,7 +3661,7 @@
   },
   "22021": {
     "name": "Parade (rang1)",
-    "icon": "icon_2202",
+    "icon": "ability_warrior_challange",
     "rank": 1,
     "description": "Augmente les chances de Parade du Paladin de 2%"
   },
@@ -3691,7 +3691,7 @@
   },
   "22031": {
     "name": "Sceaux Sanctifiés (rang1)",
-    "icon": "icon_2203",
+    "icon": "spell_frost_windwalkon",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques de Sceaux de Piété, Sceaux du Croisé, Sceaux de Sagesse, Sceaux de Lumière et Sceaux d'Autorité du Paladin de 25%"
   },
@@ -3721,18 +3721,18 @@
   },
   "22101": {
     "name": "Force Divine (rang1)",
-    "icon": "icon_2210",
+    "icon": "spell_holy_devotion",
     "rank": 1,
     "description": "Augmente la Force du Paladin de 5%"
   },
   "22102": {
-    "name": "Force Divine (rang1)",
+    "name": "Force Divine (rang2)",
     "icon": "icon_2210",
     "rank": 2,
     "description": "Augmente la Force du Paladin de 10%"
   },
   "22103": {
-    "name": "Force Divine (rang1)",
+    "name": "Force Divine (rang3)",
     "icon": "icon_2210",
     "rank": 3,
     "description": "Augmente la Force du Paladin de 15%"
@@ -3751,7 +3751,7 @@
   },
   "22111": {
     "name": "Poursuite de la Justice (rang1)",
-    "icon": "icon_2211",
+    "icon": "spell_holy_persuitofjustice",
     "rank": 1,
     "description": "Augmente la vitesse de déplacement du Paladin a pied et en monture de 8%"
   },
@@ -3780,13 +3780,13 @@
     "description": "Description for Specialisation:22 Row:1 Column:1 Rank:5. Use icon icon_2211.jpg"
   },
   "22121": {
-    "name": "Précision (rang2)",
-    "icon": "icon_2212",
+    "name": "Précision (rang1)",
+    "icon": "ability_rogue_ambush",
     "rank": 1,
     "description": "Augmente les chances de toucher avec les attaques et les sorts du Paladin de 2%"
   },
   "22122": {
-    "name": "Précision (rang1)",
+    "name": "Précision (rang2)",
     "icon": "icon_2212",
     "rank": 2,
     "description": "Augmente les chances de toucher avec les attaques et les sorts du Paladin de 4%"
@@ -3811,12 +3811,12 @@
   },
   "22131": {
     "name": "Jugements Améliorés (rang1)",
-    "icon": "icon_2213",
+    "icon": "spell_holy_righteousfury",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Jugement de Sagesse, Jugement de Lumière et Jugement de Justice de 1sec"
   },
   "22132": {
-    "name": "Jugements Améliorés (rang1)",
+    "name": "Jugements Améliorés (rang2)",
     "icon": "icon_2213",
     "rank": 2,
     "description": "Diminue le temps de rechargement des techniques Jugement de Sagesse, Jugement de Lumière et Jugement de Justice de 2sec"
@@ -3841,7 +3841,7 @@
   },
   "22201": {
     "name": "Convictions (rang1)",
-    "icon": "icon_2220",
+    "icon": "spell_holy_retributionaura",
     "rank": 1,
     "description": "Augmente les chances de critiques du Paladin avec les attaques et les sorts de 2%"
   },
@@ -3871,7 +3871,7 @@
   },
   "22211": {
     "name": "Sainteté",
-    "icon": "icon_2221",
+    "icon": "spell_holy_mindvision",
     "rank": 1,
     "description": "Lorsque le Paladin active une Aura, il fait gagner a tout son groupe une amélioration supplémentaire qui augmente les dégats des sorts du sacré de 10%"
   },
@@ -3901,7 +3901,7 @@
   },
   "22221": {
     "name": "Sceau d'Autorité",
-    "icon": "icon_2222",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
     "description": "Technique a activer, instantanée, Amélioration qui dure 30sec, coûte 65pts de mana, Procure a chaque attaque du Paladin un dégats supplémentaire qui correspond a 10% de la plage de dégats de l'arme, Lorsque le Sceau d'Autorité est Jugé, il est dissipé et inflige instantanément 51pts de dégats a la cible, cet effet critique automatiquement si la cible est sous l'effet d'un étourdissement ou d'une stupéfaction"
   },
@@ -3931,7 +3931,7 @@
   },
   "22231": {
     "name": "Dragonne du Justicier (rang1)",
-    "icon": "icon_2223",
+    "icon": "ability_warrior_disarm",
     "rank": 1,
     "description": "Diminue la durée des effets de désarmement sur le Paladin de 25%"
   },
@@ -3961,7 +3961,7 @@
   },
   "22301": {
     "name": "Fanatique (rang1)",
-    "icon": "icon_2230",
+    "icon": "inv_hammer_04",
     "rank": 1,
     "description": "Augmente les dégats qu'inflige le Paladin en mélée et avec les sorts de 2%"
   },
@@ -3991,7 +3991,7 @@
   },
   "22311": {
     "name": "Oeil pour Oeil (rang1)",
-    "icon": "icon_2231",
+    "icon": "spell_holy_auraoflight",
     "rank": 1,
     "description": "Permet a la technique Aura de Vindict de renvoyer 50% des dégats qu'elle inflige également sur les attaques a distances"
   },
@@ -4021,7 +4021,7 @@
   },
   "22321": {
     "name": "Marteaux Améliorés (rang1)",
-    "icon": "icon_2232",
+    "icon": "spell_holy_sealofmight",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Marteaux de Justice de 5sec, et diminue également le temps d'incantation de la technique Marteaux du Courroux de 33%"
   },
@@ -4051,7 +4051,7 @@
   },
   "22331": {
     "name": "Croisade (rang1)",
-    "icon": "icon_2233",
+    "icon": "spell_holy_excorcisme",
     "rank": 1,
     "description": "Augmente les chances de critiques de 25% avec les techniques Exorcisme et Colère Divine et réduit le temps de rechargement de Courroux Vengeur de 1min"
   },
@@ -4081,7 +4081,7 @@
   },
   "22401": {
     "name": "Jugement du Croisé (rang1)",
-    "icon": "icon_2240",
+    "icon": "spell_holy_holysmite",
     "rank": 1,
     "description": "Lorsque le Paladin utilise une technique de Jugement, il pose également un affaiblissement qui augmente les chances de critique de toutes les sources sur cette cible de 1%"
   },
@@ -4111,7 +4111,7 @@
   },
   "22411": {
     "name": "Repentir",
-    "icon": "icon_2241",
+    "icon": "spell_holy_prayerofhealing",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 60pts de mana, 20yards de portée, utilisable uniquement sur une cible humanoide, 1min de temps de recharge, Provoque un effet de stupéfaction de 6sec sur un joueur ou 60sec sur un PNJ, le moindre dégats interrompt l'effet"
   },
@@ -4141,7 +4141,7 @@
   },
   "22421": {
     "name": "Dessein Divin",
-    "icon": "icon_2242",
+    "icon": "spell_holy_sealofwrath",
     "rank": 1,
     "description": "Rends tous les Sceaux du Paladin impossible a dissiper et permet a la technique Main de Liberté de supprimer les effets d'étourdissement sur sa cible"
   },
@@ -4171,7 +4171,7 @@
   },
   "22431": {
     "name": "Jugement Divin (rang1)",
-    "icon": "icon_2243",
+    "icon": "spell_holy_greaterheal",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques de Jugement du Paladin de 50% et lorsqu'il utilise une technique de Jugement le Paladin regagne 1% de sa mana"
   },
@@ -4201,7 +4201,7 @@
   },
   "22511": {
     "name": "Vengeance (rang1)",
-    "icon": "icon_2251",
+    "icon": "ability_racial_avatar",
     "rank": 1,
     "description": "Lorsque le Paladin obtient un effet critique sur une attaque, une technique, un sort ou un soin, il gagne une amélioration qui dure 12sec ou 3 charges, qui augmente sa vitesse d'attaque de 15%"
   },
@@ -4231,7 +4231,7 @@
   },
   "22521": {
     "name": "Combattant de la Lumière (rang1)",
-    "icon": "icon_2252",
+    "icon": "spell_holy_power",
     "rank": 1,
     "description": "Convertit 10% de la Force du Paladin en bonus sort"
   },
@@ -4261,7 +4261,7 @@
   },
   "22611": {
     "name": "Inquisition",
-    "icon": "icon_2261",
+    "icon": "spell_holy_vindication",
     "rank": 1,
     "description": "Technique a activer, instantanée, 0-5yards de portée, 6sec de temps de rechargement, coûte 400pts de mana, Frappe instantanément la cible et lui inflige 100% des dégats de l'arme du Paladin, de plus, raffrachit la durée de tous les affaiblissement de Jugement sur la cible et pose également un affaiblissement qui diminue les caractéristique de la cible de 10% durant 10sec"
   },
@@ -4291,7 +4291,7 @@
   },
   "22621": {
     "name": "Art de la Guerre",
-    "icon": "icon_2262",
+    "icon": "spell_holy_summonlightwell",
     "rank": 1,
     "description": "Lorsque le Paladin obtient un critique avec une technique, un sort ou un soin, il gagne une amélioration durant 12sec, qui réduit le temps d'incantation de sa prochaine technique Eclair Lumineux ou Renvoi du Mal de 1,5sec, ou de Lumière Sacré ou Colère Divine de 0,5sec"
   },
