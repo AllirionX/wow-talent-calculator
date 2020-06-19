@@ -721,7 +721,7 @@
   },
   "11001": {
     "name": "Tonus Physique (rang1)",
-    "icon": "icon_1100",
+    "icon": "spell_nature_undyingstrength",
     "rank": 1,
     "description": "Augmente l'Agilité du Guerrier de 5%"
   },
@@ -751,7 +751,7 @@
   },
   "11011": {
     "name": "Cris Améliorés (rang1)",
-    "icon": "icon_1101",
+    "icon": "spell_fire_elementaldevastation",
     "rank": 1,
     "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
   },
@@ -781,7 +781,7 @@
   },
   "11021": {
     "name": "Cruauté (rang1)",
-    "icon": "icon_1102",
+    "icon": "ability_rogue_eviscerate",
     "rank": 1,
     "description": "Augmente les chances de critiques du Guerrier de 2%"
   },
@@ -811,7 +811,7 @@
   },
   "11031": {
     "name": "Rage Sanguinaire Améliorée (rang1)",
-    "icon": "icon_1103",
+    "icon": "ability_racial_bloodrage",
     "rank": 1,
     "description": "Augmente le montant de Rage génèré par la technique Rage Sanguinaire de 25%"
   },
@@ -841,7 +841,7 @@
   },
   "11101": {
     "name": "Enchaînement Amélioré (rang1)",
-    "icon": "icon_1110",
+    "icon": "ability_warrior_cleave",
     "rank": 1,
     "description": "Augmente les dégats infligés par la technique Enchaînement de 40%"
   },
@@ -871,7 +871,7 @@
   },
   "11111": {
     "name": "Voix Tonitruante (rang1)",
-    "icon": "icon_1111",
+    "icon": "ability_warrior_warcry",
     "rank": 1,
     "description": "Augmente la portée des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 25% et Augmente leur durée de 50%"
   },
@@ -901,7 +901,7 @@
   },
   "11121": {
     "name": "Posture Berserker Améliorée (rang1)",
-    "icon": "icon_1112",
+    "icon": "ability_racial_avatar",
     "rank": 1,
     "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
   },
@@ -931,7 +931,7 @@
   },
   "11131": {
     "name": "Colère Déchaînée (rang1)",
-    "icon": "icon_1113",
+    "icon": "spell_nature_stoneclawtotem",
     "rank": 1,
     "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 50% de chance d'obtenir un bonus de +1pts en Rage"
   },
@@ -961,7 +961,7 @@
   },
   "11201": {
     "name": "Folie Sanguinaire (rang1)",
-    "icon": "icon_1120",
+    "icon": "spell_shadow_summonimp",
     "rank": 1,
     "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 1% de ses points de vie en 6sec"
   },
@@ -991,7 +991,7 @@
   },
   "11211": {
     "name": "Hurlement Perçant",
-    "icon": "icon_1121",
+    "icon": "spell_shadow_deathscream",
     "rank": 1,
     "description": "Technique a activer, instantané, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans les 10yards et réduit leur vitesse de déplacement de 50% durant 6sec"
   },
@@ -1021,7 +1021,7 @@
   },
   "11221": {
     "name": "Ivresse de la Victoire",
-    "icon": "icon_1122",
+    "icon": "spell_holy_fistofjustice",
     "rank": 1,
     "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
   },
@@ -1051,7 +1051,7 @@
   },
   "11231": {
     "name": "Défi Intimidant (rang1)",
-    "icon": "icon_1123",
+    "icon": "ability_golemthunderclap",
     "rank": 1,
     "description": "Réduit le temps de rechargement de la technique Cri d'Intimidation de 1min et celui de la technique Cri de Défi de 2min"
   },
@@ -1081,7 +1081,7 @@
   },
   "11301": {
     "name": "Spécialisation Ambidextrie (rang1)",
-    "icon": "icon_1130",
+    "icon": "ability_dualwield",
     "rank": 1,
     "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 10%"
   },
@@ -1111,7 +1111,7 @@
   },
   "11311": {
     "name": "Exécution Améliorée (rang1)",
-    "icon": "icon_1131",
+    "icon": "inv_sword_48",
     "rank": 1,
     "description": "Diminue le cout en Rage de la technique Exécution de 2pts et lui rend ensuite 5pts de Rage"
   },
@@ -1141,7 +1141,7 @@
   },
   "11321": {
     "name": "Enragé (rang1)",
-    "icon": "icon_1132",
+    "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
     "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
   },
@@ -1171,7 +1171,7 @@
   },
   "11331": {
     "name": "Fonceur (rang1)",
-    "icon": "icon_1133",
+    "icon": "ability_rogue_sprint",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Interception de 5sec"
   },
@@ -1201,7 +1201,7 @@
   },
   "11401": {
     "name": "Précision (rang1)",
-    "icon": "icon_1140",
+    "icon": "ability_townwatch",
     "rank": 1,
     "description": "Augmente les chances de toucher du Guerrier de 2%"
   },
@@ -1231,7 +1231,7 @@
   },
   "11411": {
     "name": "Souhait Mortel",
-    "icon": "icon_1141",
+    "icon": "spell_shadow_deathpact",
     "rank": 1,
     "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les postures, Procure un effet de rage sur le Guerrier durant 30sec, le Guerrier se libère et est insensible aux effets de Peur et augmente les dégats qu'il inflige de 20% mais il ne peut plus ni Parer, ni Esquiver ni Bloquer les attaques"
   },
@@ -1261,7 +1261,7 @@
   },
   "11421": {
     "name": "Maîtrise de la Rage",
-    "icon": "icon_1142",
+    "icon": "spell_holy_blessingofstamina",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Rage Berserker, Rage Sanguinaire, Témérité et Souhait Mortel de 33%"
   },
@@ -1291,7 +1291,7 @@
   },
   "11431": {
     "name": "Tourbillon Amélioré (rang1)",
-    "icon": "icon_1143",
+    "icon": "ability_whirlwind",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Tourbillon de 10%"
   },
@@ -1321,7 +1321,7 @@
   },
   "11511": {
     "name": "Rage Berserker Améliorée (rang1)",
-    "icon": "icon_1151",
+    "icon": "spell_nature_ancestralguardian",
     "rank": 1,
     "description": "En plus de ces effets la technique Rage Berserker génère instantanément 5pts de Rage au Guerrier"
   },
@@ -1351,7 +1351,7 @@
   },
   "11521": {
     "name": "Rafale (rang1)",
-    "icon": "icon_1152",
+    "icon": "ability_ghoulfrenzy",
     "rank": 1,
     "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d'attaque de 10% durant 12sec ou 3 charges"
   },
@@ -1381,7 +1381,7 @@
   },
   "11611": {
     "name": "Sanguinaire",
-    "icon": "icon_1161",
+    "icon": "spell_nature_bloodlust",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30pts de Rage, 0-5yards de portée, 6sec de temps de rechargement, inflige instantanément un dégats a la cible d'un montant équivalent a 45% de la Puissance d'Attaque du Guerrier, de plus les 3 prochaines attaques soignent le Guerrier de 1% de ses points de vie"
   },
@@ -1411,7 +1411,7 @@
   },
   "11621": {
     "name": "Mutilation",
-    "icon": "icon_1162",
+    "icon": "spell_shadow_lifedrain",
     "rank": 1,
     "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats pendant 10sec au lieu de lui retiré un montant de vie instantané"
   },
