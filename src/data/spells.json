@@ -2880,8 +2880,8 @@
     "description": "Description for Specialisation:20 Row:6 Column:2 Rank:5. Use icon icon_2062.jpg"
   },
   "21001": {
-    "name": "spell_arcane_arcaneresilience (rang1)",
-    "icon": "icon_2100",
+    "name": "Poids du Bouclier (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Paladin en 1pts de Vie"
   },
@@ -2941,7 +2941,7 @@
   },
   "21021": {
     "name": "Anticipation (rang1)",
-    "icon": "spell_magic_lesserinvisibility",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Augmente les chances d'esquiver du Paladin de 2%"
   },
