@@ -481,7 +481,7 @@
   },
   "10401": {
     "name": "Discipline (rang1)",
-    "icon": "ability_warrior_innerrage",
+    "icon": "ability_warrior_challange",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 11%"
   },
