@@ -1,7 +1,7 @@
 {
   "10001": {
     "name": "Force Physique (rang1)",
-    "icon": "icon_1000",
+    "icon": "spell_holy_fistofjustice",
     "rank": 1,
     "description": "Augmente la Force du Guerrier de 5%"
   },
@@ -31,7 +31,7 @@
   },
   "10011": {
     "name": "Charge améliorée (rang1)",
-    "icon": "icon_1001",
+    "icon": "ability_warrior_charge",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantité de Rage génèré par la technique de 3pts"
   },
@@ -61,7 +61,7 @@
   },
   "10021": {
     "name": "Maîtrise Tactique (rang1)",
-    "icon": "icon_1002",
+    "icon": "spell_nature_enchantarmor",
     "rank": 1,
     "description": "En plus des 10pts de base, le Guerrier conserve 5pts de Rage supplémentaires lorsqu'il change de posture"
   },
@@ -91,7 +91,7 @@
   },
   "10031": {
     "name": "Dragonne au poignet (rang1)",
-    "icon": "icon_1003",
+    "icon": "spell_holy_vindication",
     "rank": 1,
     "description": "Diminue la durée des effets de désarmement sur le Guerrier de 25%"
   },
@@ -151,7 +151,7 @@
   },
   "10111": {
     "name": "Pourfendre Amélioré (rang1)",
-    "icon": "icon_1011",
+    "icon": "ability_gouge",
     "rank": 1,
     "description": "Augmente la durée de la technique Pourfendre de 3sec"
   },
@@ -181,7 +181,7 @@
   },
   "10121": {
     "name": "Frappe Héroïque Améliorée (rang1)",
-    "icon": "icon_1012",
+    "icon": "ability_rogue_ambush",
     "rank": 1,
     "description": "Diminue le cout en Rage de la technique Frappe Héroïque de 1pts et augmente les chances de critiques avec cette technique de 2%"
   },
@@ -211,7 +211,7 @@
   },
   "10131": {
     "name": "Riposte (rang1)",
-    "icon": "icon_1013",
+    "icon": "inv_sword_05",
     "rank": 1,
     "description": "Augmente les chances de critiques avec les techniques Fulgurance et Vengeance de 25%"
   },
@@ -241,7 +241,7 @@
   },
   "10201": {
     "name": "Blessures Profondes (rang1)",
-    "icon": "icon_1020",
+    "icon": "ability_backstab",
     "rank": 1,
     "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 100% de la plage de dégats de son arme en points de dégats en 12sec"
   },
@@ -271,7 +271,7 @@
   },
   "10211": {
     "name": "Juggernaut",
-    "icon": "icon_1021",
+    "icon": "spell_holy_blessingofstamina",
     "rank": 1,
     "description": "Permet au Guerrier de génèrer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne 100% de chance de critique sur sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Dévaster dans les 30sec" 
   },
@@ -301,7 +301,7 @@
   },
   "10221": {
     "name": "Heurtoir",
-    "icon": "icon_1022",
+    "icon": "ability_warrior_decisivestrike",
     "rank": 1,
     "description": "Technique a activer, 0-5yards de portée, 15pts de Rage, 3sec de cast, utilisable dans toutes les postures, Inflige un dégat physique a la cible équivalent a la plage de dégats de l'arme +87"
   },
@@ -331,7 +331,7 @@
   },
   "10231": {
     "name": "Heurtoir Amélioré (rang1)",
-    "icon": "icon_1023",
+    "icon": "spell_holy_eyeforaneye",
     "rank": 1,
     "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec"
   },
@@ -361,7 +361,7 @@
   },
   "10301": {
     "name": "Spécialisation Armes a deux mains (rang1)",
-    "icon": "icon_1030",
+    "icon": "inv_axe_09",
     "rank": 1,
     "description": "Augmente les dégats infligés par le Guerrier lorsqu'il est équipé d'une arme a deux mains de 2%"
   },
@@ -391,7 +391,7 @@
   },
   "10311": {
     "name": "Empaler (rang1)",
-    "icon": "icon_1031",
+    "icon": "ability_searingarrow",
     "rank": 1,
     "description": "Augmente les dégats infligés par les critiques des techniques du Guerrier de 10%"
   },
@@ -421,7 +421,7 @@
   },
   "10321": {
     "name": "Brise-Genoux Amélioré (rang1)",
-    "icon": "icon_1032",
+    "icon": "ability_shockwave",
     "rank": 1,
     "description": "Diminue le cout en Rage de la technique Brise-Genoux de 1pts, et la technique inflige 1% de la plage de dégats de l'arme en plus de ses effets"
   },
@@ -451,7 +451,7 @@
   },
   "10331": {
     "name": "Volonté de Fer (rang1)",
-    "icon": "icon_1033",
+    "icon": "spell_magic_magearmor",
     "rank": 1,
     "description": "Diminue la durée des effets d'étourdissement et de charme sur le Guerrier de 10%"
   },
@@ -481,7 +481,7 @@
   },
   "10401": {
     "name": "Discipline (rang1)",
-    "icon": "icon_1040",
+    "icon": "spell_holy_power",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Représailles, Témérité et Mur Protecteur de 11%"
   },
@@ -511,7 +511,7 @@
   },
   "10411": {
     "name": "Attaques Circulaires",
-    "icon": "icon_1041",
+    "icon": "ability_rogue_slicedice",
     "rank": 1,
     "description": "Technique a activer, 30sec de temps de recharge, 30pts de Rage, utilisable dans toutes les postures, Vos attaques en mélées touches également une cible a portée, dure 10sec ou 5 charges"
   },
@@ -541,7 +541,7 @@
   },
   "10421": {
     "name": "Goût du Sang",
-    "icon": "icon_1042",
+    "icon": "spell_shadow_lifedrain",
     "rank": 1,
     "description": "Chaque tick de la technique Pourfendre permet l'activation de la technique Fulgurance"
   },
@@ -571,7 +571,7 @@
   },
   "10431": {
     "name": "Traumatisme (rang1)",
-    "icon": "icon_1043",
+    "icon": "ability_racial_canibalize",
     "rank": 1,
     "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
   },
@@ -607,7 +607,7 @@
   },
   "10512": {
     "name": "Duelliste (rang2)",
-    "icon": "icon_1051",
+    "icon": "inv_sword_27",
     "rank": 2,
     "description": "Augmente toutes les compétences d'armes du Guerrier de 6pts et permet a ses attaques d'ignorer 6% de l'armure de sa cible"
   },
@@ -631,7 +631,7 @@
   },
   "10521": {
     "name": "Expert en Armes (rang1)",
-    "icon": "icon_1052",
+    "icon": "inv_axe_06",
     "rank": 1,
     "description": "Augmente les chances de critique du Guerrier de 2% et sa vitesse d'attaque de 5%"
   },
@@ -661,7 +661,7 @@
   },
   "10611": {
     "name": "Frappe Mortelle",
-    "icon": "icon_1061",
+    "icon": "ability_warrior_savageblow",
     "rank": 1,
     "description": "Technique a activer, 6sec de temps de rechargement, 30pts en Rage, 0-5yards de portée, utilisable dans toutes les postures, Inflige a la cible un dégat instantané équivalent a 70% de la plage de dégats de l'arme +160 et pose un affaiblissement sur la cible durant 10sec qui réduit les soins qu'elle subit de 50%"
   },
@@ -691,7 +691,7 @@
   },
   "10621": {
     "name": "Second Souffle",
-    "icon": "icon_1062",
+    "icon": "ability_warrior_battleshout",
     "rank": 1,
     "description": "Lorsque le Guerrier est victime d'un effet d'imobilisation ou d'étourdissement, il gagne une amélioration qui lui donne instantanément 10pts de Rage puis, lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
   },
