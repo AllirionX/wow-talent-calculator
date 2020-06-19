@@ -4,6 +4,7 @@ import { Icon } from './Icon'
 import classNames from 'classnames'
 import { Controller, Trigger } from './Tooltip'
 import { TalentTooltip } from './TalentTooltip'
+import spells from '../data/spells.json'
 
 interface Props {
   talent: TalentData
@@ -56,7 +57,7 @@ export class Talent extends React.PureComponent<Props> {
             onContextMenu={handleContextMenu}
           >
             <div className="talent__status" />
-            <Icon name={talent.icon} size="medium" />
+            <Icon name={spells[talent.ranks[0].toString()].icon} size="medium" />
   
             {showPoints &&
               <div className={pointsClassNames}>
