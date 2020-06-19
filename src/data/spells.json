@@ -571,7 +571,7 @@
   },
   "10431": {
     "name": "Traumatisme (rang1)",
-    "icon": "ability_racial_canibalize",
+    "icon": "ability_druid_ravage",
     "rank": 1,
     "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 15%"
   },
@@ -1201,7 +1201,7 @@
   },
   "11401": {
     "name": "Précision (rang1)",
-    "icon": "ability_markmanship",
+    "icon": "ability_marksmanship",
     "rank": 1,
     "description": "Augmente les chances de toucher du Guerrier de 2%"
   },
@@ -1471,13 +1471,13 @@
   },
   "12011": {
     "name": "Provocation Améliorée (rang1)",
-    "icon": "icon_1201",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
     "description": "Réduit le temps de rechargement de la technique Provocation de 1sec"
   },
   "12012": {
     "name": "Provocation Améliorée (rang2)",
-    "icon": "spell_nature_reincarnation",
+    "icon": "icon_1201",
     "rank": 2,
     "description": "Réduit le temps de rechargement de la technique Provocation de 2sec"
   },
@@ -1771,7 +1771,7 @@
   },
   "12231": {
     "name": "Vengeance Améliorée (rang1)",
-    "icon": "iability_warrior_revenge",
+    "icon": "ability_warrior_revenge",
     "rank": 1,
     "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 5% durant 6sec"
   },
@@ -1831,7 +1831,7 @@
   },
   "12311": {
     "name": "Désarmement Amélioré (rang1)",
-    "icon": "aility_warrior_disarm",
+    "icon": "ability_warrior_disarm",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Désarmement et augmente la durée de son effet de 25%"
   },
