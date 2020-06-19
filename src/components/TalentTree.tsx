@@ -1,13 +1,14 @@
 import './TalentTree.scss'
 import React, { useCallback } from 'react'
 import { Map }  from 'immutable'
-import { Talent } from './Talent';
 import { getPointsInSpec, canLearnTalent, SORT_TALENTS_DESC, getUnmetRequirements } from '../lib/tree';
 import { talentsBySpec, specNames, talentsById } from '../data/talents'
 import { Arrow } from './Arrow'
 import { resetSpec } from '../store/calculator/actions'
 import { connect } from 'react-redux';
+
 import { Controller, Tooltip, Trigger } from './Tooltip'
+import { Talent } from './Talent';
 
 interface Props {
   specId: number
