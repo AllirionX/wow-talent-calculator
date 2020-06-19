@@ -1,7 +1,8 @@
-import './Tooltip.scss'
 import React from 'react'
 import classNames from 'classnames'
+
 import { Icon } from '../Icon'
+import './Tooltip.scss'
 
 export interface Props {
   title?: string
