@@ -601,13 +601,13 @@
   },
   "10511": {
     "name": "Duelliste (rang1)",
-    "icon": "icon_1051",
+    "icon": "inv_sword_27",
     "rank": 1,
     "description": "Augmente toutes les compétences d'armes du Guerrier de 3pts et permet a ses attaques d'ignorer 3% de l'armure de sa cible"
   },
   "10512": {
     "name": "Duelliste (rang2)",
-    "icon": "inv_sword_27",
+    "icon": "icon_1051",
     "rank": 2,
     "description": "Augmente toutes les compétences d'armes du Guerrier de 6pts et permet a ses attaques d'ignorer 6% de l'armure de sa cible"
   },
