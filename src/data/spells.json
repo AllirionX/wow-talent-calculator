@@ -7201,7 +7201,7 @@
   },
   "41001": {
     "name": "Suriner Amélioré (rang1)",
-    "icon": "icon_4100",
+    "icon": "ability_gouge",
     "rank": 1,
     "description": "Augmente la durée de la technique Suriner de 0,5sec"
   },
