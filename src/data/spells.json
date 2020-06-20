@@ -4411,7 +4411,7 @@
   },
   "30031": {
     "name": "Ressuciter le Familier Amélioré (rang1)",
-    "icon": "ability_hunter_bestsoothe",
+    "icon": "ability_hunter_beastsoothe",
     "rank": 1,
     "description": "Diminue le coût en mana de la technique Ressuciter le Familier de 20%, réduit son temps d'incantation de 3sec et augmente le montant de vie rendu au Familier de 15%"
   },
@@ -4681,7 +4681,7 @@
   },
   "30301": {
     "name": "Férocité Bestiale (rang1)",
-    "icon": "inv_misc_monsterclaw",
+    "icon": "inv_misc_monsterclaw_04",
     "rank": 1,
     "description": "Augmente les chances de critiques du Familier de 5% et celle du Chasseur de 1%"
   },
@@ -5011,7 +5011,7 @@
   },
   "30621": {
     "name": "Inséparables Compagnons",
-    "icon": "spell_nature_mirroirimage",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère des effets affectant le mouvement"
   },
