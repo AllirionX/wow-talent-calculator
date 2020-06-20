@@ -8640,22 +8640,22 @@
     "description": "Description for Specialisation:42 Row:6 Column:2 Rank:5. Use icon icon_4262.jpg"
   },
   "50001": {
-    "name": "Specialisation:50 Row:0 Column:0 Rank:1",
-    "icon": "icon_5000",
+    "name": "Abolition (rang1)",
+    "icon": "spell_holy_pirify",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:0 Column:0 Rank:1. Use icon icon_5000.jpg"
+    "description": "Diminue le coût en mana des techniques Dissipation de la Magie, Abolir la Maladie et Guérison de la Maladie de 5%"
   },
   "50002": {
-    "name": "Specialisation:50 Row:0 Column:0 Rank:2",
+    "name": "Abolition (rang2)",
     "icon": "icon_5000",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:0 Column:0 Rank:2. Use icon icon_5000.jpg"
+    "description": "Diminue le coût en mana des techniques Dissipation de la Magie, Abolir la Maladie et Guérison de la Maladie de 10%"
   },
   "50003": {
-    "name": "Specialisation:50 Row:0 Column:0 Rank:3",
+    "name": "Abolition (rang3)",
     "icon": "icon_5000",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:0 Column:0 Rank:3. Use icon icon_5000.jpg"
+    "description": "Diminue le coût en mana des techniques Dissipation de la Magie, Abolir la Maladie et Guérison de la Maladie de 15%"
   },
   "50004": {
     "name": "Specialisation:50 Row:0 Column:0 Rank:4",
@@ -8670,16 +8670,16 @@
     "description": "Description for Specialisation:50 Row:0 Column:0 Rank:5. Use icon icon_5000.jpg"
   },
   "50011": {
-    "name": "Specialisation:50 Row:0 Column:1 Rank:1",
-    "icon": "icon_5001",
+    "name": "Robustesse Améliorée (rang1)",
+    "icon": "spell_holy_wordfortitude",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:0 Column:1 Rank:1. Use icon icon_5001.jpg"
+    "description": "Augmente l'efficacté des techniques Mot de Robustesse et Prière de Robustesse de 15%"
   },
   "50012": {
-    "name": "Specialisation:50 Row:0 Column:1 Rank:2",
+    "name": "Robustesse Améliorée (rang2)",
     "icon": "icon_5001",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:0 Column:1 Rank:2. Use icon icon_5001.jpg"
+    "description": "Augmente l'efficacté des techniques Mot de Robustesse et Prière de Robustesse de 15%"
   },
   "50013": {
     "name": "Specialisation:50 Row:0 Column:1 Rank:3",
@@ -8700,22 +8700,22 @@
     "description": "Description for Specialisation:50 Row:0 Column:1 Rank:5. Use icon icon_5001.jpg"
   },
   "50021": {
-    "name": "Specialisation:50 Row:0 Column:2 Rank:1",
-    "icon": "icon_5002",
+    "name": "Bouclier Amélioré (rang1)",
+    "icon": "spell_holy_powerwordshield",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:0 Column:2 Rank:1. Use icon icon_5002.jpg"
+    "description": "Augmente le montant de dégat absorbé par la technique Mot de Pouvoir Bouclier de 5%"
   },
   "50022": {
-    "name": "Specialisation:50 Row:0 Column:2 Rank:2",
+    "name": "Bouclier Amélioré (rang2)",
     "icon": "icon_5002",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:0 Column:2 Rank:2. Use icon icon_5002.jpg"
+    "description": "Augmente le montant de dégat absorbé par la technique Mot de Pouvoir Bouclier de 10%"
   },
   "50023": {
-    "name": "Specialisation:50 Row:0 Column:2 Rank:3",
+    "name": "Bouclier Amélioré (rang3)",
     "icon": "icon_5002",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:0 Column:2 Rank:3. Use icon icon_5002.jpg"
+    "description": "Augmente le montant de dégat absorbé par la technique Mot de Pouvoir Bouclier de 15%"
   },
   "50024": {
     "name": "Specialisation:50 Row:0 Column:2 Rank:4",
@@ -8730,16 +8730,16 @@
     "description": "Description for Specialisation:50 Row:0 Column:2 Rank:5. Use icon icon_5002.jpg"
   },
   "50031": {
-    "name": "Specialisation:50 Row:0 Column:3 Rank:1",
-    "icon": "icon_5003",
+    "name": "Inspiration (rang1)",
+    "icon": "spell_holy_layonhands",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:0 Column:3 Rank:1. Use icon icon_5003.jpg"
+    "description": "Lorsque le Prêtre obtient un critique sur un soin, il buff la cible durant 15sec ce qui réduit les dégats subit de 3%"
   },
   "50032": {
-    "name": "Specialisation:50 Row:0 Column:3 Rank:2",
+    "name": "Inspiration (rang2)",
     "icon": "icon_5003",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:0 Column:3 Rank:2. Use icon icon_5003.jpg"
+    "description": "Lorsque le Prêtre obtient un critique sur un soin, il buff la cible durant 15sec ce qui réduit les dégats subit de 6%"
   },
   "50033": {
     "name": "Specialisation:50 Row:0 Column:3 Rank:3",
@@ -8760,22 +8760,22 @@
     "description": "Description for Specialisation:50 Row:0 Column:3 Rank:5. Use icon icon_5003.jpg"
   },
   "50101": {
-    "name": "Specialisation:50 Row:1 Column:0 Rank:1",
-    "icon": "icon_5010",
+    "name": "Spécialisation Baguette (rang1)",
+    "icon": "inv_wand_01",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:1 Column:0 Rank:1. Use icon icon_5010.jpg"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 10% et diminue également la menace qu'il génère avec du même montant"
   },
   "50102": {
-    "name": "Specialisation:50 Row:1 Column:0 Rank:2",
+    "name": "Spécialisation Baguette (rang2)",
     "icon": "icon_5010",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:1 Column:0 Rank:2. Use icon icon_5010.jpg"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 20% et diminue également la menace qu'il génère avec du même montant"
   },
   "50103": {
-    "name": "Specialisation:50 Row:1 Column:0 Rank:3",
+    "name": "Spécialisation Baguette (rang3)",
     "icon": "icon_5010",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:1 Column:0 Rank:3. Use icon icon_5010.jpg"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 30% et diminue également la menace qu'il génère avec du même montant"
   },
   "50104": {
     "name": "Specialisation:50 Row:1 Column:0 Rank:4",
@@ -8790,16 +8790,16 @@
     "description": "Description for Specialisation:50 Row:1 Column:0 Rank:5. Use icon icon_5010.jpg"
   },
   "50111": {
-    "name": "Specialisation:50 Row:1 Column:1 Rank:1",
-    "icon": "icon_5011",
+    "name": "Résolution Silencieuse (rang1)",
+    "icon": "spell_nature_manaregentotem",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:1 Column:1 Rank:1. Use icon icon_5011.jpg"
+    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 10%"
   },
   "50112": {
-    "name": "Specialisation:50 Row:1 Column:1 Rank:2",
+    "name": "Résolution Silencieuse (rang2)",
     "icon": "icon_5011",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:1 Column:1 Rank:2. Use icon icon_5011.jpg"
+    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 10%"
   },
   "50113": {
     "name": "Specialisation:50 Row:1 Column:1 Rank:3",
@@ -8820,22 +8820,22 @@
     "description": "Description for Specialisation:50 Row:1 Column:1 Rank:5. Use icon icon_5011.jpg"
   },
   "50121": {
-    "name": "Specialisation:50 Row:1 Column:2 Rank:1",
-    "icon": "icon_5012",
+    "name": "Volonté Inflexible (rang1)",
+    "icon": "spell_magic_magearmor",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:1 Column:2 Rank:1. Use icon icon_5012.jpg"
+    "description": "Diminue la durée des effets de Peur, Contrôle Mental et d'Etourdissement sur le Prêtre de 5%"
   },
   "50122": {
-    "name": "Specialisation:50 Row:1 Column:2 Rank:2",
+    "name": "Volonté Inflexible (rang2)",
     "icon": "icon_5012",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:1 Column:2 Rank:2. Use icon icon_5012.jpg"
+    "description": "Diminue la durée des effets de Peur, Contrôle Mental et d'Etourdissement sur le Prêtre de 10%"
   },
   "50123": {
-    "name": "Specialisation:50 Row:1 Column:2 Rank:3",
+    "name": "Volonté Inflexible (rang3)",
     "icon": "icon_5012",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:1 Column:2 Rank:3. Use icon icon_5012.jpg"
+    "description": "Diminue la durée des effets de Peur, Contrôle Mental et d'Etourdissement sur le Prêtre de 15%"
   },
   "50124": {
     "name": "Specialisation:50 Row:1 Column:2 Rank:4",
@@ -8850,16 +8850,16 @@
     "description": "Description for Specialisation:50 Row:1 Column:2 Rank:5. Use icon icon_5012.jpg"
   },
   "50131": {
-    "name": "Specialisation:50 Row:1 Column:3 Rank:1",
-    "icon": "icon_5013",
+    "name": "Apaisement (rang1)",
+    "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:1 Column:3 Rank:1. Use icon icon_5013.jpg"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 10% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre diminue les dégats qu'inflige la cible de 3%"
   },
   "50132": {
-    "name": "Specialisation:50 Row:1 Column:3 Rank:2",
+    "name": "Apaisement (rang2)",
     "icon": "icon_5013",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:1 Column:3 Rank:2. Use icon icon_5013.jpg"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 20% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre diminue les dégats qu'inflige la cible de 6%"
   },
   "50133": {
     "name": "Specialisation:50 Row:1 Column:3 Rank:3",
@@ -8880,22 +8880,22 @@
     "description": "Description for Specialisation:50 Row:1 Column:3 Rank:5. Use icon icon_5013.jpg"
   },
   "50201": {
-    "name": "Specialisation:50 Row:2 Column:0 Rank:1",
-    "icon": "icon_5020",
+    "name": "Méditation (rang1)",
+    "icon": "spell_nature_sleep",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:2 Column:0 Rank:1. Use icon icon_5020.jpg"
+    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
   },
   "50202": {
-    "name": "Specialisation:50 Row:2 Column:0 Rank:2",
+    "name": "Méditation (rang2)",
     "icon": "icon_5020",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:2 Column:0 Rank:2. Use icon icon_5020.jpg"
+    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
   },
   "50203": {
-    "name": "Specialisation:50 Row:2 Column:0 Rank:3",
+    "name": "Méditation (rang3)",
     "icon": "icon_5020",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:2 Column:0 Rank:3. Use icon icon_5020.jpg"
+    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
   },
   "50204": {
     "name": "Specialisation:50 Row:2 Column:0 Rank:4",
@@ -8910,10 +8910,10 @@
     "description": "Description for Specialisation:50 Row:2 Column:0 Rank:5. Use icon icon_5020.jpg"
   },
   "50211": {
-    "name": "Specialisation:50 Row:2 Column:1 Rank:1",
-    "icon": "icon_5021",
+    "name": "Gardien de Peur",
+    "icon": "spell_holy_excorcism",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:2 Column:1 Rank:1. Use icon icon_5021.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, coûte 100pts de mana, 40yards de portée, Le Prêtre lance une amélioration de 2min30 de durée qui immunise la cible au prochain effet de Peur qu'elle subit"
   },
   "50212": {
     "name": "Specialisation:50 Row:2 Column:1 Rank:2",
@@ -8940,10 +8940,10 @@
     "description": "Description for Specialisation:50 Row:2 Column:1 Rank:5. Use icon icon_5021.jpg"
   },
   "50221": {
-    "name": "Specialisation:50 Row:2 Column:2 Rank:1",
-    "icon": "icon_5022",
+    "name": "Focalisation Améliorée",
+    "icon": "spell_frost_windwalkon",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:2 Column:2 Rank:1. Use icon icon_5022.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Donne une amélioration au Prêtre qui lui donne 100% d'anti interruption et de chance de critique sur sa prochaine technique, et la rend gratuite en mana"
   },
   "50222": {
     "name": "Specialisation:50 Row:2 Column:2 Rank:2",
@@ -8970,16 +8970,16 @@
     "description": "Description for Specialisation:50 Row:2 Column:2 Rank:5. Use icon icon_5022.jpg"
   },
   "50231": {
-    "name": "Specialisation:50 Row:2 Column:3 Rank:1",
-    "icon": "icon_5023",
+    "name": "Martyre (rang1)",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:2 Column:3 Rank:1. Use icon icon_5023.jpg"
+    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 3sec qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
   },
   "50232": {
-    "name": "Specialisation:50 Row:2 Column:3 Rank:2",
+    "name": "Martyre (rang2)",
     "icon": "icon_5023",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:2 Column:3 Rank:2. Use icon icon_5023.jpg"
+    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 6sec qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
   },
   "50233": {
     "name": "Specialisation:50 Row:2 Column:3 Rank:3",
@@ -9000,22 +9000,22 @@
     "description": "Description for Specialisation:50 Row:2 Column:3 Rank:5. Use icon icon_5023.jpg"
   },
   "50301": {
-    "name": "Specialisation:50 Row:3 Column:0 Rank:1",
-    "icon": "icon_5030",
+    "name": "Feu Intérieur Amélioré (rang1)",
+    "icon": "spell_holy_innerfire",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:3 Column:0 Rank:1. Use icon icon_5030.jpg"
+    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 10% et augmente son nombre de charges de 5"
   },
   "50302": {
-    "name": "Specialisation:50 Row:3 Column:0 Rank:2",
+    "name": "Feu Intérieur Amélioré (rang2)",
     "icon": "icon_5030",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:3 Column:0 Rank:2. Use icon icon_5030.jpg"
+    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 10% et augmente son nombre de charges de 10"
   },
   "50303": {
-    "name": "Specialisation:50 Row:3 Column:0 Rank:3",
+    "name": "Feu Intérieur Amélioré (rang3)",
     "icon": "icon_5030",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:3 Column:0 Rank:3. Use icon icon_5030.jpg"
+    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 10% et augmente son nombre de charges de 15"
   },
   "50304": {
     "name": "Specialisation:50 Row:3 Column:0 Rank:4",
