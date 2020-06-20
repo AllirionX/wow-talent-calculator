@@ -4321,7 +4321,7 @@
   },
   "30001": {
     "name": "Peau Cicatrisée (rang1)",
-    "icon": "icon_3000",
+    "icon": "ability_ghoulfrenzy",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
   },
@@ -4351,7 +4351,7 @@
   },
   "30011": {
     "name": "Complicité (rang1)",
-    "icon": "icon_3001",
+    "icon": "ability_eyeoftheowl",
     "rank": 1,
     "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 2min"
   },
@@ -4381,7 +4381,7 @@
   },
   "30021": {
     "name": "Entraînement (rang1)",
-    "icon": "icon_3002",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
     "description": "Augmente les Points de Vie du Familier de 5% et celle du Chasseur de 1%"
   },
@@ -4411,7 +4411,7 @@
   },
   "30031": {
     "name": "Ressuciter le Familier Amélioré (rang1)",
-    "icon": "icon_3003",
+    "icon": "ability_hunter_bestsoothe",
     "rank": 1,
     "description": "Diminue le coût en mana de la technique Ressuciter le Familier de 20%, réduit son temps d'incantation de 3sec et augmente le montant de vie rendu au Familier de 15%"
   },
@@ -4441,7 +4441,7 @@
   },
   "30101": {
     "name": "Précision Bestiale (rang1)",
-    "icon": "icon_3010",
+    "icon": "ability_druid_bash",
     "rank": 1,
     "description": "Augmente les chances de Toucher du Familier de 3% et celle du Chasseur de 1%"
   },
@@ -4471,7 +4471,7 @@
   },
   "30111": {
     "name": "Bestialité Naturelle (rang1)",
-    "icon": "icon_3011",
+    "icon": "spell_nature_regeneration",
     "rank": 1,
     "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10% et le coût en Focalisation de toutes techniques du Familier de 1pts"
   },
@@ -4501,7 +4501,7 @@
   },
   "30121": {
     "name": "Peau Epaisse (rang1)",
-    "icon": "icon_3012",
+    "icon": "inv_misc_pelt_bear_03",
     "rank": 1,
     "description": "Diminue les dégats subit par le Familier de 5% et ceux du Chasseur de 2%"
   },
@@ -4531,7 +4531,7 @@
   },
   "30131": {
     "name": "Bête des Aspects (rang1)",
-    "icon": "icon_3013",
+    "icon": "ability_hunter_snipershot",
     "rank": 1,
     "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%, de plus en plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
   },
@@ -4561,21 +4561,21 @@
   },
   "30201": {
     "name": "Aspects Améliorés (rang1)",
-    "icon": "icon_3020",
+    "icon": "ability_mount_jungletiger",
     "rank": 1,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 5%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 2%"
   },
   "30202": {
     "name": "Aspects Améliorés (rang2)",
     "icon": "icon_3020",
     "rank": 2,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 10%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 4%"
   },
   "30203": {
     "name": "Aspects Améliorés (rang3)",
     "icon": "icon_3020",
     "rank": 3,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 15%"
+    "description": "Augmente les effets des différentes techniques d'Aspect de 6%"
   },
   "30204": {
     "name": "Specialisation:30 Row:2 Column:0 Rank:4",
@@ -4591,7 +4591,7 @@
   },
   "30211": {
     "name": "Double Aspect",
-    "icon": "icon_3021",
+    "icon": "spell_nature_forceofnature",
     "rank": 1,
     "description": "Permet au Chasseur d'être sous l'effet de 2 techniques d'Aspect simultanément au lieu d'une seule"
   },
@@ -4621,7 +4621,7 @@
   },
   "30221": {
     "name": "Ordre de Tuer",
-    "icon": "icon_3022",
+    "icon": "ability_warrior_warcry",
     "rank": 1,
     "description": "Technique a activer, instantanée, 45yards de portée, coûte 75pts de mana, 10sec de temps de rechargement, se déclanche après que le Chasseur est infligé un coup critique ou lorsqu'une cible est inférieur a 20% de vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
   },
@@ -4651,7 +4651,7 @@
   },
   "30231": {
     "name": "Rapidité Bestiale (rang1)",
-    "icon": "icon_3023",
+    "icon": "ability_druid_dash",
     "rank": 1,
     "description": "Augmente la vitesse de déplacement du Familier de 15% et celle du Chasseur de 8%"
   },
@@ -4681,7 +4681,7 @@
   },
   "30301": {
     "name": "Férocité Bestiale (rang1)",
-    "icon": "icon_3030",
+    "icon": "inv_misc_monsterclaw",
     "rank": 1,
     "description": "Augmente les chances de critiques du Familier de 5% et celle du Chasseur de 1%"
   },
@@ -4711,7 +4711,7 @@
   },
   "30311": {
     "name": "Réceptif aux Caresses (rang1)",
-    "icon": "icon_3031",
+    "icon": "ability_hunter_mendpet",
     "rank": 1,
     "description": "Augmente la portée des techniques Soin du Familier et Guérison du Familier de 10yards, et diminue également leur coût en mana de 15%, de plus augmente de 10% le montant des soins reçu par votre Familier"
   },
@@ -4741,7 +4741,7 @@
   },
   "30321": {
     "name": "Anticipation Bestiale (rang1)",
-    "icon": "icon_3032",
+    "icon": "ability_hunter_aspectofthemonkey",
     "rank": 1,
     "description": "Augmente les chances d'Esquiver de votre Familier de 3% ainsi que celles du Chasseur de 1%"
   },
@@ -4771,7 +4771,7 @@
   },
   "30331": {
     "name": "Fureur Bestiale (rang1)",
-    "icon": "icon_3033",
+    "icon": "ability_bullrush",
     "rank": 1,
     "description": "Augmente les dégats infligés par le Familier de 10% et ceux du Chasseur de 1%"
   },
@@ -4801,7 +4801,7 @@
   },
   "30401": {
     "name": "Lien Spirituel (rang1)",
-    "icon": "icon_3040",
+    "icon": "ability_druid_demoralizingroar",
     "rank": 1,
     "description": "Lorsque le Familier est actif, le Chasseur et son Familier gagne une amélioration qui rend 1% de vie toutes les 5sec a chacun, et augmente les dégats de chacun de 1%"
   },
@@ -4831,7 +4831,7 @@
   },
   "30411": {
     "name": "Guérison du Familier",
-    "icon": "icon_3041",
+    "icon": "spell_nature_healingtouch",
     "rank": 1,
     "description": "Technique a activer, instantanée, 20yards de portée, coûte 400pts de mana, Procure une amélioration sur le Familier qui le soigne de 125pts de vie toutes les 2sec pendant 12sec et qui dissipe 1 affaiblissement sur le Familier a chaque tick"
   },
@@ -4861,7 +4861,7 @@
   },
   "30421": {
     "name": "Intimidation",
-    "icon": "icon_3042",
+    "icon": "ability_devour",
     "rank": 1,
     "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur ordonne a son Familier d'attaquer la cible et procure a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et d'étourdir durant 3sec la cible"
   },
@@ -4891,7 +4891,7 @@
   },
   "30431": {
     "name": "Maître des Bêtes (rang1)",
-    "icon": "icon_3043",
+    "icon": "ability_druid_enrage",
     "rank": 1,
     "description": "Diminue le temps d'incantation de la technique Effrayer une Bête de 50%, augmente également sa portée de 5yards, diminue également le temps de rechargement de cette technique ainsi que la technique Tir Tranquilisant de 25%"
   },
@@ -4921,7 +4921,7 @@
   },
   "30511": {
     "name": "Discipline du Familier (rang1)",
-    "icon": "icon_3051",
+    "icon": "spell_nature_abolishmagic",
     "rank": 1,
     "description": "Augmente le montant de Focalisation régénéré par le Familier de 50% et lui donne +2pts de Talents"
   },
@@ -4951,7 +4951,7 @@
   },
   "30521": {
     "name": "Frénésie Bestiale (rang1)",
-    "icon": "icon_3052",
+    "icon": "inv_misc_monsterclaw_03",
     "rank": 1,
     "description": "Lorsque le Familier obtient un effet critique, il gagne une amélioration ainsi que le Chasseur, leur taille est augmentée ainsi que leur vitesse d'attaque au corps a corps et a distance de 10% durant 8sec"
   },
@@ -4981,7 +4981,7 @@
   },
   "30611": {
     "name": "Bête Intérieure",
-    "icon": "icon_3061",
+    "icon": "classic_ability_druid_demoralizingroar",
     "rank": 1,
     "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de rechargement, coûte 200pts de mana, Permet au Chasseur et son Familier d'échanger instantanément leur position"
   },
@@ -5011,7 +5011,7 @@
   },
   "30621": {
     "name": "Inséparables Compagnons",
-    "icon": "icon_3062",
+    "icon": "spell_nature_mirroirimage",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère des effets affectant le mouvement"
   },
