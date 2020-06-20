@@ -6660,19 +6660,19 @@
     "description": "Description for Specialisation:40 Row:1 Column:1 Rank:5. Use icon icon_4011.jpg"
   },
   "40121": {
-    "name": "Amocheur (rang1)",
+    "name": "Acheveur (rang1)",
     "icon": "inv_sword_48",
     "rank": 1,
     "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 5%"
   },
   "40122": {
-    "name": "Amocheur (rang2)",
+    "name": "Acheveur (rang2)",
     "icon": "icon_4012",
     "rank": 2,
     "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 10%"
   },
   "40123": {
-    "name": "Amocheur (rang3)",
+    "name": "Acheveur (rang3)",
     "icon": "icon_4012",
     "rank": 3,
     "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 15%"
@@ -7173,7 +7173,7 @@
     "name": "Pas dans l'Ombre",
     "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 8-25yards de portée, 45sec de temps de rechargement, utilisable uniquement hors combat, Permet au Voleur de se téléporter instantanément dans le dos d'une cible et de gagner une amélioration qui augmente sa vitesse de déplacement de 70% durant 3sec"
+    "description": "Technique a activer, instantanée, 8-25yards de portée, 45sec de temps de rechargement, utilisable uniquement hors combat, Permet au Voleur de se téléporter instantanément dans le dos d'une cible ennemie comme alliée et de gagner une amélioration qui augmente sa vitesse de déplacement de 70% durant 3sec"
   },
   "40622": {
     "name": "Specialisation:40 Row:6 Column:2 Rank:2",
