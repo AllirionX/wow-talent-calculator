@@ -8641,7 +8641,7 @@
   },
   "50001": {
     "name": "Abolition (rang1)",
-    "icon": "spell_holy_pirify",
+    "icon": "spell_holy_purify",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques Dissipation de la Magie, Abolir la Maladie et Guérison de la Maladie de 5%"
   },
@@ -9030,16 +9030,16 @@
     "description": "Description for Specialisation:50 Row:3 Column:0 Rank:5. Use icon icon_5030.jpg"
   },
   "50311": {
-    "name": "Specialisation:50 Row:3 Column:1 Rank:1",
-    "icon": "icon_5031",
+    "name": "Sagacité (rang1)",
+    "icon": "ability_hibernation",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:3 Column:1 Rank:1. Use icon icon_5031.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Prêtre de 5%"
   },
   "50312": {
-    "name": "Specialisation:50 Row:3 Column:1 Rank:2",
+    "name": "Sagacité (rang2)",
     "icon": "icon_5031",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:3 Column:1 Rank:2. Use icon icon_5031.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Prêtre de 10%"
   },
   "50313": {
     "name": "Specialisation:50 Row:3 Column:1 Rank:3",
@@ -9060,22 +9060,22 @@
     "description": "Description for Specialisation:50 Row:3 Column:1 Rank:5. Use icon icon_5031.jpg"
   },
   "50321": {
-    "name": "Specialisation:50 Row:3 Column:2 Rank:1",
-    "icon": "icon_5032",
+    "name": "Puissance Focalisée (rang1)",
+    "icon": "spell_holy_excorcism_01",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:3 Column:2 Rank:1. Use icon icon_5032.jpg"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 33% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
   "50322": {
-    "name": "Specialisation:50 Row:3 Column:2 Rank:2",
+    "name": "Puissance Focalisée (rang2)",
     "icon": "icon_5032",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:3 Column:2 Rank:2. Use icon icon_5032.jpg"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
   "50323": {
-    "name": "Specialisation:50 Row:3 Column:2 Rank:3",
+    "name": "Puissance Focalisée (rang3)",
     "icon": "icon_5032",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:3 Column:2 Rank:3. Use icon icon_5032.jpg"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 100% et donne 100% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
   "50324": {
     "name": "Specialisation:50 Row:3 Column:2 Rank:4",
@@ -9090,16 +9090,16 @@
     "description": "Description for Specialisation:50 Row:3 Column:2 Rank:5. Use icon icon_5032.jpg"
   },
   "50331": {
-    "name": "Specialisation:50 Row:3 Column:3 Rank:1",
-    "icon": "icon_5033",
+    "name": "Evangélisme (rang1)",
+    "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:3 Column:3 Rank:1. Use icon icon_5033.jpg"
+    "description": "Augmente la portée de toutes les techniques de Discipline de 5yards et augmente la durée des améliorations Robustesse de 50%"
   },
   "50332": {
-    "name": "Specialisation:50 Row:3 Column:3 Rank:2",
+    "name": "Evangélisme (rang2)",
     "icon": "icon_5033",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:3 Column:3 Rank:2. Use icon icon_5033.jpg"
+    "description": "Augmente la portée de toutes les techniques de Discipline de 10yards et augmente la durée des améliorations Robustesse de 100%"
   },
   "50333": {
     "name": "Specialisation:50 Row:3 Column:3 Rank:3",
@@ -9120,22 +9120,22 @@
     "description": "Description for Specialisation:50 Row:3 Column:3 Rank:5. Use icon icon_5033.jpg"
   },
   "50401": {
-    "name": "Specialisation:50 Row:4 Column:0 Rank:1",
-    "icon": "icon_5040",
+    "name": "Force de Volontée (rang1)",
+    "icon": "spell_nature_slowingtotem",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:4 Column:0 Rank:1. Use icon icon_5040.jpg"
+    "description": "Augmente les dégats, les soins et les chances de critiques du Prêtre de 2%"
   },
   "50402": {
-    "name": "Specialisation:50 Row:4 Column:0 Rank:2",
+    "name": "Force de Volontée (rang2)",
     "icon": "icon_5040",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:4 Column:0 Rank:2. Use icon icon_5040.jpg"
+    "description": "Augmente les dégats, les soins et les chances de critiques du Prêtre de 4%"
   },
   "50403": {
-    "name": "Specialisation:50 Row:4 Column:0 Rank:3",
+    "name": "Force de Volontée (rang3)",
     "icon": "icon_5040",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:4 Column:0 Rank:3. Use icon icon_5040.jpg"
+    "description": "Augmente les dégats, les soins et les chances de critiques du Prêtre de 6%"
   },
   "50404": {
     "name": "Specialisation:50 Row:4 Column:0 Rank:4",
@@ -9150,10 +9150,10 @@
     "description": "Description for Specialisation:50 Row:4 Column:0 Rank:5. Use icon icon_5040.jpg"
   },
   "50411": {
-    "name": "Specialisation:50 Row:4 Column:1 Rank:1",
-    "icon": "icon_5041",
+    "name": "Concentration",
+    "icon": "spell_holy_healingfocus",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:4 Column:1 Rank:1. Use icon icon_5041.jpg"
+    "description": "Diminue la durée des effets de Silence sur le Prêtre de 30% et diminue les dégats subits durant ces effets de 15%"
   },
   "50412": {
     "name": "Specialisation:50 Row:4 Column:1 Rank:2",
@@ -9180,10 +9180,10 @@
     "description": "Description for Specialisation:50 Row:4 Column:1 Rank:5. Use icon icon_5041.jpg"
   },
   "50421": {
-    "name": "Specialisation:50 Row:4 Column:2 Rank:1",
-    "icon": "icon_5042",
+    "name": "Infusion de Puissance",
+    "icon": "spell_holy_powerinfusion",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:4 Column:2 Rank:1. Use icon icon_5042.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 200pts de mana, 30yards de portée, le Prêtre donne une amélioration a sa cible qui augmente le montant des soins et des dégats de la cible de 20% et diminue le coût en mana de toutes ses techniques de 20% durant 15sec"
   },
   "50422": {
     "name": "Specialisation:50 Row:4 Column:2 Rank:2",
@@ -9210,16 +9210,16 @@
     "description": "Description for Specialisation:50 Row:4 Column:2 Rank:5. Use icon icon_5042.jpg"
   },
   "50431": {
-    "name": "Specialisation:50 Row:4 Column:3 Rank:1",
-    "icon": "icon_5043",
+    "name": "Force Mentale (rang1)",
+    "icon": "spell_nature_enchantarmor",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:4 Column:3 Rank:1. Use icon icon_5043.jpg"
+    "description": "Augmente les Points de mana du Prêtre de 5%"
   },
   "50432": {
-    "name": "Specialisation:50 Row:4 Column:3 Rank:2",
+    "name": "Force Mentale (rang2)",
     "icon": "icon_5043",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:4 Column:3 Rank:2. Use icon icon_5043.jpg"
+    "description": "Augmente les Points de mana du Prêtre de 10%"
   },
   "50433": {
     "name": "Specialisation:50 Row:4 Column:3 Rank:3",
@@ -9240,16 +9240,16 @@
     "description": "Description for Specialisation:50 Row:4 Column:3 Rank:5. Use icon icon_5043.jpg"
   },
   "50511": {
-    "name": "Specialisation:50 Row:5 Column:1 Rank:1",
-    "icon": "icon_5051",
+    "name": "Spécialisation Mot de Bouclier (rang1)",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:5 Column:1 Rank:1. Use icon icon_5051.jpg"
+    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 20%, ainsi que son temps de rechargement de 2sec, et diminue la durée de l'affaiblissement Âme Affaiblit que pose la technique de 2sec"
   },
   "50512": {
-    "name": "Specialisation:50 Row:5 Column:1 Rank:2",
+    "name": "Spécialisation Mot de Bouclier (rang2)",
     "icon": "icon_5051",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:5 Column:1 Rank:2. Use icon icon_5051.jpg"
+    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 40%, ainsi que son temps de rechargement de 4sec, et diminue la durée de l'affaiblissement Âme Affaiblit que pose la technique de 4sec"
   },
   "50513": {
     "name": "Specialisation:50 Row:5 Column:1 Rank:3",
@@ -9270,22 +9270,22 @@
     "description": "Description for Specialisation:50 Row:5 Column:1 Rank:5. Use icon icon_5051.jpg"
   },
   "50521": {
-    "name": "Specialisation:50 Row:5 Column:2 Rank:1",
+    "name": "Résilience Bénie (rang1)",
     "icon": "icon_5052",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:5 Column:2 Rank:1. Use icon icon_5052.jpg"
+    "description": "Convertit 10% de l'Endurance du Prêtre en Bonus sort"
   },
   "50522": {
-    "name": "Specialisation:50 Row:5 Column:2 Rank:2",
+    "name": "Résilience Bénie (rang2)",
     "icon": "icon_5052",
     "rank": 2,
-    "description": "Description for Specialisation:50 Row:5 Column:2 Rank:2. Use icon icon_5052.jpg"
+    "description": "Convertit 20% de l'Endurance du Prêtre en Bonus sort"
   },
   "50523": {
-    "name": "Specialisation:50 Row:5 Column:2 Rank:3",
+    "name": "Résilience Bénie (rang3)",
     "icon": "icon_5052",
     "rank": 3,
-    "description": "Description for Specialisation:50 Row:5 Column:2 Rank:3. Use icon icon_5052.jpg"
+    "description": "Convertit 30% de l'Endurance du Prêtre en Bonus sort"
   },
   "50524": {
     "name": "Specialisation:50 Row:5 Column:2 Rank:4",
@@ -9300,10 +9300,10 @@
     "description": "Description for Specialisation:50 Row:5 Column:2 Rank:5. Use icon icon_5052.jpg"
   },
   "50611": {
-    "name": "Specialisation:50 Row:6 Column:1 Rank:1",
-    "icon": "icon_5061",
+    "name": "Supression de la Douleur",
+    "icon": "spell_fire_incinerate",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:6 Column:1 Rank:1. Use icon icon_5061.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, 30yards de portée, coûte 200pts de mana, Pose une amélioration sur la cible du Prêtre qui diminue les dégats subit de 75% durant 6sec et rend insensible aux effets de dissipation offensive durant la durée de l'effet"
   },
   "50612": {
     "name": "Specialisation:50 Row:6 Column:1 Rank:2",
@@ -9330,10 +9330,10 @@
     "description": "Description for Specialisation:50 Row:6 Column:1 Rank:5. Use icon icon_5061.jpg"
   },
   "50621": {
-    "name": "Specialisation:50 Row:6 Column:2 Rank:1",
-    "icon": "icon_5062",
+    "name": "Réaction",
+    "icon": "spell_nature_lightningshield",
     "rank": 1,
-    "description": "Description for Specialisation:50 Row:6 Column:2 Rank:1. Use icon icon_5062.jpg"
+    "description": "Technique a activer, instantanée, 30yards de portée, coûte 300pts de mana, Pose une amélioration d'Orbe sur la cible du Prêtre de 3 charges, chaque charge est consommée lorsque le bénéficiaire subit une attaque en mélée ou a distance, soigne la cible de 360points de vie, inflige également 90pts de dégats d'Ombre a l'attaquant et si c'est possible brûle 180pts de mana également"
   },
   "50622": {
     "name": "Specialisation:50 Row:6 Column:2 Rank:2",
