@@ -33,13 +33,13 @@
     "name": "Charge améliorée (rang1)",
     "icon": "ability_warrior_charge",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Charge de 25% et augmente la quantité de Rage génèré par la technique de 3pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 5sec et augmente la quantité de Rage génèré par la technique de 3pts"
   },
   "10012": {
     "name": "Charge améliorée (rang2)",
     "icon": "icon_1001",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Charge de 50% et augmente la quantité de Rage génèré par la technique de 6pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 10sec et augmente la quantité de Rage génèré par la technique de 6pts"
   },
   "10013": {
     "name": "Specialisation:10 Row:0 Column:1 Rank:3",
@@ -333,13 +333,13 @@
     "name": "Heurtoir Amélioré (rang1)",
     "icon": "spell_holy_eyeforaneye",
     "rank": 1,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 1sec et diminue son coût en Rage de 2pts"
   },
   "10232": {
     "name": "Heurtoir Amélioré (rang2)",
     "icon": "icon_1023",
     "rank": 2,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 1sec"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 2sec et diminue son coût en Rage de 5pts"
   },
   "10233": {
     "name": "Specialisation:10 Row:2 Column:3 Rank:3",
@@ -843,19 +843,19 @@
     "name": "Enchaînement Amélioré (rang1)",
     "icon": "ability_warrior_cleave",
     "rank": 1,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 40%"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 40% et permet de toucher 1 cible suplémentaire"
   },
   "11102": {
     "name": "Enchaînement Amélioré (rang2)",
     "icon": "icon_1110",
     "rank": 2,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 80%"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 80% et permet de toucher 2 cibles suplémentaires"
   },
   "11103": {
     "name": "Enchaînement Amélioré (rang3)",
     "icon": "icon_1110",
     "rank": 3,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 120%"
+    "description": "Augmente les dégats infligés par la technique Enchaînement de 120% et permet de toucher 3 cibles suplémentaires"
   },
   "11104": {
     "name": "Specialisation:11 Row:1 Column:0 Rank:4",
@@ -993,7 +993,7 @@
     "name": "Hurlement Perçant",
     "icon": "spell_shadow_deathscream",
     "rank": 1,
-    "description": "Technique a activer, instantané, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans les 10yards et réduit leur vitesse de déplacement de 50% durant 6sec"
+    "description": "Technique a activer, instantané, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans les 10yards et ralentit leur vitesse de déplacement de 50% durant 6sec"
   },
   "11212": {
     "name": "Specialisation:11 Row:2 Column:1 Rank:2",
@@ -1143,19 +1143,19 @@
     "name": "Enragé (rang1)",
     "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 10% durant 12sec ou 12 charges"
   },
   "11322": {
     "name": "Enragé (rang2)",
     "icon": "icon_1132",
     "rank": 2,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 20% durant 12sec ou 12 charges"
   },
   "11323": {
     "name": "Enragé (rang3)",
     "icon": "icon_1132",
     "rank": 3,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 30% durant 12sec ou 12 charges"
   },
   "11324": {
     "name": "Specialisation:11 Row:3 Column:2 Rank:4",
@@ -1260,7 +1260,7 @@
     "description": "Description for Specialisation:11 Row:4 Column:1 Rank:5. Use icon icon_1141.jpg"
   },
   "11421": {
-    "name": "Maîtrise de la Rage",
+    "name": "Maîtrise des Rages",
     "icon": "spell_holy_blessingofstamina",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Rage Berserker, Rage Sanguinaire, Témérité et Souhait Mortel de 33%"
@@ -1293,13 +1293,13 @@
     "name": "Tourbillon Amélioré (rang1)",
     "icon": "ability_whirlwind",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Tourbillon de 10%"
+    "description": "Diminue le temps de rechargement de la technique Tourbillon de 1sec"
   },
   "11432": {
     "name": "Tourbillon Amélioré (rang2)",
     "icon": "icon_1143",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Tourbillon de 20%"
+    "description": "Diminue le temps de rechargement de la technique Tourbillon de 2sec"
   },
   "11433": {
     "name": "Specialisation:11 Row:4 Column:3 Rank:3",
@@ -1893,13 +1893,13 @@
     "name": "Protecteur (rang1)",
     "icon": "spell_holy_powerwordshield",
     "rank": 1,
-    "description": "Réduit le temps de rechargement de la technique Intervention de 25% et son cout en Rage de 50%"
+    "description": "Réduit le temps de rechargement de la technique Intervention de 5sec et son cout en Rage de 50%"
   },
   "12332": {
     "name": "Protecteur (rang2)",
     "icon": "icon_1233",
     "rank": 2,
-    "description": "Réduit le temps de rechargement de la technique Intervention de 50% et son cout en Rage de 100%"
+    "description": "Réduit le temps de rechargement de la technique Intervention de 10sec et son cout en Rage de 100%"
   },
   "12333": {
     "name": "Specialisation:12 Row:3 Column:3 Rank:3",
@@ -2013,13 +2013,13 @@
     "name": "Coup de Bouclier Amélioré (rang1)",
     "icon": "ability_warrior_shieldbash",
     "rank": 1,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hébêter la cible durant 1,5sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et ralentit de 50% la cible durant 1,5sec"
   },
   "12432": {
     "name": "Coup de Bouclier Amélioré (rang2)",
     "icon": "icon_1243",
     "rank": 2,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et d'Hébêter la cible durant 3sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et ralentit de 50% la cible durant 3sec"
   },
   "12433": {
     "name": "Specialisation:12 Row:4 Column:3 Rank:3",
@@ -2073,13 +2073,13 @@
     "name": "Expert au Bouclier (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Lorsqu'il combat avec une arme a une main et un bouclier, le Guerrier augmente son Expertise de 2% et augmente la menace qu'il génère de 5%"
+    "description": "Lorsqu'il combat avec une Arme a une main et un Bouclier, le Guerrier augmente son Expertise de 2% et augmente la menace qu'il génère de 5%"
   },
   "12522": {
     "name": "Expert au Bouclier (rang2)",
     "icon": "icon_1252",
     "rank": 2,
-    "description": "Lorsqu'il combat avec une arme a une main et un bouclier, le Guerrier augmente son Expertise de 4% et augmente la menace qu'il génère de 10%"
+    "description": "Lorsqu'il combat avec une Arme a une main et un Bouclier, le Guerrier augmente son Expertise de 4% et augmente la menace qu'il génère de 10%"
   },
   "12523": {
     "name": "Expert au Bouclier (rang3)",
@@ -5521,7 +5521,7 @@
   },
   "31401": {
     "name": "Barrage (rang1)",
-    "icon": "ability_upgravemoonglave",
+    "icon": "ability_upgravemoonglaive",
     "rank": 1,
     "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 5% et diminue le coût en mana de ces 2 techniques du même montant"
   },
@@ -5581,7 +5581,7 @@
   },
   "31421": {
     "name": "Salve Améliorée",
-    "icon": "ability_markmanship",
+    "icon": "ability_marksmanship",
     "rank": 1,
     "description": "Supprime l'effet de Canalisation de la technique Salve et réduit la menace qu'elle génère de 100% et réduit son temps de rechargement de 50%"
   },
@@ -5761,7 +5761,7 @@
   },
   "32001": {
     "name": "Poids de la Maille (rang1)",
-    "icon": "icon_3200",
+    "icon": "inv_relics_idolofrevujenation",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Vie"
   },
@@ -5791,7 +5791,7 @@
   },
   "32011": {
     "name": "Maîtrise des Pièges (rang1)",
-    "icon": "icon_3201",
+    "icon": "spell_nature_timestop",
     "rank": 1,
     "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de 5 rangs le niveau de camouflage des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
   },
@@ -5821,7 +5821,7 @@
   },
   "32021": {
     "name": "Traqueur (rang1)",
-    "icon": "icon_3202",
+    "icon": "spell_holy_prayerofhealing",
     "rank": 1,
     "description": "Augmente les dégats infligés et les dégats des critiques de 2% envers les cibles dont la technique de Pistage du Chasseur est active"
   },
@@ -5851,7 +5851,7 @@
   },
   "32031": {
     "name": "Tacticien (rang1)",
-    "icon": "icon_3203",
+    "icon": "ability_rogue_feigndeath",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Feindre la Mort et Désengagement de 2sec ainsi que leur coût en mana de 50% et réduit les chances des cibles de résiste a la technique Feindre la Mort de 5%"
   },
@@ -5881,7 +5881,7 @@
   },
   "32101": {
     "name": "Déviation (rang1)",
-    "icon": "icon_3210",
+    "icon": "ability_parry",
     "rank": 1,
     "description": "Augmente les chances de Parade du Chasseur de 2%"
   },
@@ -5911,7 +5911,7 @@
   },
   "32111": {
     "name": "Fusée Eclairante Améliorée (rang1)",
-    "icon": "icon_3211",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 25% ainsi que son coût en mana de 50%"
   },
@@ -5941,7 +5941,7 @@
   },
   "32121": {
     "name": "Dards Améliorés (rang1)",
-    "icon": "icon_3212",
+    "icon": "ability_hunter_quickshot",
     "rank": 1,
     "description": "Augmente la durée des différentes techniques de Morsure de 1sec et diminue également leur coût en mana de 5%"
   },
@@ -5971,7 +5971,7 @@
   },
   "32131": {
     "name": "Frappes Sauvages (rang1)",
-    "icon": "icon_3213",
+    "icon": "ability_racial_bloodrage",
     "rank": 1,
     "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 10% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
   },
@@ -6001,7 +6001,7 @@
   },
   "32201": {
     "name": "Pièges Améliorés (rang1)",
-    "icon": "icon_3220",
+    "icon": "spell_frost_freezingbreath",
     "rank": 1,
     "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 10%"
   },
@@ -6031,7 +6031,7 @@
   },
   "32211": {
     "name": "Aspect de la Vipère",
-    "icon": "icon_3221",
+    "icon": "spell_holy_sealofwisdom",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte pts de mana, Nouvel Aspect qui permet a chaque attaque du Chasseur en mélée ou a distance de rendre 3% des dégats infligés en mana"
   },
@@ -6061,7 +6061,7 @@
   },
   "32221": {
     "name": "Dissuasion",
-    "icon": "icon_3222",
+    "icon": "ability_whirlwind",
     "rank": 1,
     "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Augmente les chances d'Esquive et de Parade du Chasseur de 25% durant 10sec et permet d'absorber complètement la prochaine technique a distance qui touche le Chasseur"
   },
@@ -6091,7 +6091,7 @@
   },
   "32231": {
     "name": "Survivant (rang1)",
-    "icon": "icon_3223",
+    "icon": "spell_shadow_twilight",
     "rank": 1,
     "description": "Augmente l'Endurance du Chasseur de 5% et diminue la durée des effets de Désarmement sur le Chasseur de 25%"
   },
@@ -6121,7 +6121,7 @@
   },
   "32301": {
     "name": "Coup d'Oeil (rang1)",
-    "icon": "icon_3230",
+    "icon": "ability_hunter_eyeoftheowl",
     "rank": 1,
     "description": "Augmente les chances de Toucher du Chasseur de 2%"
   },
@@ -6151,7 +6151,7 @@
   },
   "32311": {
     "name": "Frisson de la Chasse (rang1)",
-    "icon": "icon_3231",
+    "icon": "inv_misc_head_dragon_black",
     "rank": 1,
     "description": "Convertit 15% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
@@ -6181,7 +6181,7 @@
   },
   "32321": {
     "name": "Pied Sûr (rang1)",
-    "icon": "icon_3232",
+    "icon": "ability_kick",
     "rank": 1,
     "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10% et augmente l'Armure du Chasseur de 4%"
   },
@@ -6211,7 +6211,7 @@
   },
   "32331": {
     "name": "Coupure d'Ailes Améliorée (rang1)",
-    "icon": "icon_3233",
+    "icon": "ability_rogue_trip",
     "rank": 1,
     "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 25% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec"
   },
@@ -6241,7 +6241,7 @@
   },
   "32401": {
     "name": "Instinct de Tueur (rang1)",
-    "icon": "icon_3240",
+    "icon": "spell_holy_blessingofstamina",
     "rank": 1,
     "description": "Augmente les chances de critique du Chasseur de 2%"
   },
@@ -6271,7 +6271,7 @@
   },
   "32411": {
     "name": "Piège Serpent",
-    "icon": "icon_3241",
+    "icon": "ability_poisons",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 305pts de Mana, 15sec de temps de rechargement, lié avec les autres Pièges, utilisable uniquement hors combat, Nouveau Piège qui fait apparaitre plusieurs serpent qui empoisonne les cibles proches"
   },
@@ -6301,7 +6301,7 @@
   },
   "32421": {
     "name": "Désengagement",
-    "icon": "icon_3242",
+    "icon": "ability_rogue_feint",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30sec de temps de rechargement, utilisable uniquement en combat, Permet au Chasseur d'effectuer un saut en arrière de 15yards"
   },
@@ -6331,7 +6331,7 @@
   },
   "32431": {
     "name": "Pièges Astucieux (rang1)",
-    "icon": "icon_3243",
+    "icon": "ability_ensnare",
     "rank": 1,
     "description": "Lorsqu'une technique de Piège du Chasseur se déclanche, il pose un affaiblissement supplémentaire qui immobilise durant 2sec"
   },
@@ -6361,7 +6361,7 @@
   },
   "32511": {
     "name": "Expérience du Combat (rang1)",
-    "icon": "icon_3251",
+    "icon": "spell_nature_stranglevines",
     "rank": 1,
     "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 3%"
   },
@@ -6391,7 +6391,7 @@
   },
   "32521": {
     "name": "Réflexes Eclairs (rang1)",
-    "icon": "icon_3252",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Augmente l'Agilité du Chasseur de 5%"
   },
@@ -6421,7 +6421,7 @@
   },
   "32611": {
     "name": "Morsure de la Wyverne",
-    "icon": "icon_3261",
+    "icon": "inv_spear_02",
     "rank": 1,
     "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable uniquement hors combat, 8-35yards de portée, coûte 115pts de mana, Nouvelle Morsure qui a pour effet de plonger la cible dans un effet de Sommeil durant 10sec contre un Joueur, 1min contre un PNJ, le moindre dégat dissipe l'effet, si la technique est dissipé par un joueur, c'est le joueur qui dissipe l'effet qui subit alors l'effet"
   },
@@ -6451,7 +6451,7 @@
   },
   "32621": {
     "name": "Promptitude",
-    "icon": "icon_3262",
+    "icon": "spell_nature_spiritarmor",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de recharge, gratuite en mana, met instantanément fin a tous les temps de rechargement des techniques du Chasseur"
   },
