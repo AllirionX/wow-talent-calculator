@@ -7351,7 +7351,7 @@
   },
   "41111": {
     "name": "Pirouette (rang1)",
-    "icon": "ability_whirldwind",
+    "icon": "ability_whirlwind",
     "rank": 1,
     "description": "Diminue la durée des effets de Désarmement sur le Voleur de 25%"
   },
@@ -7651,7 +7651,7 @@
   },
   "41331": {
     "name": "Spécialisation Ambidextrie (rang1)",
-    "icon": "aility_dualwield",
+    "icon": "ability_dualwield",
     "rank": 1,
     "description": "Augmente les dégats infligés avec la main gauche du Voleur de 25%"
   },
@@ -7891,7 +7891,7 @@
   },
   "41621": {
     "name": "Course",
-    "icon": "aility_druid_dash",
+    "icon": "ability_druid_dash",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet au Voleur de poser une Amélioration au sol, qui lorsqu'elle est prise en clickant dessus, donne un Sprint au joueur durant 10sec, dure 10sec ou 5 charges"
   },
@@ -7921,7 +7921,7 @@
   },
   "42001": {
     "name": "Maître des Illusions (rang1)",
-    "icon": "icon_4200",
+    "icon": "spell_shadow_charm",
     "rank": 1,
     "description": "Augmente le niveau de Camouflage du Voleur de +2 rangs"
   },
@@ -7951,7 +7951,7 @@
   },
   "42011": {
     "name": "Insaisissable (rang1)",
-    "icon": "icon_4201",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Disparition et Cécité de 1min"
   },
@@ -7981,7 +7981,7 @@
   },
   "42021": {
     "name": "Dissimulation (rang1)",
-    "icon": "icon_4202",
+    "icon": "ability_stealth",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Camouflage de 2sec et augmente la vitesse du Voleur lorsqu'il est sous Camouflage de 5%"
   },
@@ -8011,7 +8011,7 @@
   },
   "42031": {
     "name": "Assommer Amélioré (rang1)",
-    "icon": "icon_4203",
+    "icon": "ability_sap",
     "rank": 1,
     "description": "Donne 50% de chance au Voleur de rester en Camouflage lorsqu'il utilise la technique Assommer"
   },
@@ -8041,7 +8041,7 @@
   },
   "42101": {
     "name": "Deja plus Là (rang1)",
-    "icon": "icon_4210",
+    "icon": "spell_shadow_twilight",
     "rank": 1,
     "description": "Diminue les dégats subit par les effets de zone de 5% et augmente la vitesse de déplacement durant l'effet de la technique vanish de 10%"
   },
@@ -8077,7 +8077,7 @@
   },
   "42112": {
     "name": "Feinte Améliorée (rang1)",
-    "icon": "icon_4211",
+    "icon": "ability_rogue_feint",
     "rank": 2,
     "description": "Diminue le coût en Energie de la technique Feinte de 20pts et augmente son efficacité de 20%"
   },
@@ -8101,7 +8101,7 @@
   },
   "42121": {
     "name": "Initiative (rang1)",
-    "icon": "icon_4212",
+    "icon": "spell_shadow_fumble",
     "rank": 1,
     "description": "Donne 33% de chance au Voleur de bénéficier d'un Point de Combo supplémentaire lorsqu'il utilise une technique qui le fait sortir du Camouflage"
   },
@@ -8131,7 +8131,7 @@
   },
   "42131": {
     "name": "Embuscade Améliorée (rang1)",
-    "icon": "icon_4213",
+    "icon": "ability_rogue_ambush",
     "rank": 1,
     "description": "Augmente les chances de critiques avec la technique Embuscade de 25%"
   },
@@ -8161,7 +8161,7 @@
   },
   "42201": {
     "name": "Meurtrier (rang1)",
-    "icon": "icon_4220",
+    "icon": "inv_weapon_crossbow_11",
     "rank": 1,
     "description": "Augmente la Puissance d'Attaque du Voleur de 5%"
   },
@@ -8191,7 +8191,7 @@
   },
   "42211": {
     "name": "Frappe Fantômatique",
-    "icon": "icon_4221",
+    "icon": "spell_shadow_curse",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 35pts d'Energie, 6sec de temps de rechargement, 0-5yards de portée, génère 1pts de Combo, Attaque la cible et lui inflige 125% de la plage de dégats de l'Arme en main droite, et procure une amélioration au Voleur de 6sec qui lui donne 100% de chance d'Esquive sur la prochaine attaque subit"
   },
@@ -8221,7 +8221,7 @@
   },
   "42221": {
     "name": "Frappes Implacables",
-    "icon": "icon_4222",
+    "icon": "ability_warrior_decisivestrike",
     "rank": 1,
     "description": "Lorsque le Voleur utilise un Coup de Grâce, rend 5pts d'Energie par Point de Combo utilisé"
   },
@@ -8251,7 +8251,7 @@
   },
   "42231": {
     "name": "Cambrioleur (rang1)",
-    "icon": "icon_4223",
+    "icon": "spell_nature_eyeofthestorm",
     "rank": 1,
     "description": "Diminue le temps d'incantation des techniques Désarmement de Piège et Crochetage de 40% et diminue le temps de rechargement de la technique Distraction de 25%"
   },
@@ -8281,7 +8281,7 @@
   },
   "42301": {
     "name": "Hémoglobine (rang1)",
-    "icon": "icon_4230",
+    "icon": "ability_druid_disembowel",
     "rank": 1,
     "description": "Augmente la durée des techniques Garrot et Rupture de 2sec"
   },
@@ -8311,7 +8311,7 @@
   },
   "42311": {
     "name": "Coups Fourrés (rang1)",
-    "icon": "icon_4231",
+    "icon": "spell_shadow_summonsuccubus",
     "rank": 1,
     "description": "Diminue le coût en Energie des techniques qui font sortir du Camouflage de 10pts"
   },
@@ -8341,7 +8341,7 @@
   },
   "42321": {
     "name": "Lames Dentelées (rang1)",
-    "icon": "icon_4232",
+    "icon": "inv_sword_17",
     "rank": 1,
     "description": "Permet aux attaques du Voleur d'ignorer 3% de l'Armure de la cible et augmente les dégats infligés par les techniques de Saignement du Voleur de 10%"
   },
@@ -8371,7 +8371,7 @@
   },
   "42331": {
     "name": "Coup Tordu (rang1)",
-    "icon": "icon_4233",
+    "icon": "ability_marksmanship",
     "rank": 1,
     "description": "Diminue le coût en Energie des techniques Assommer, Cécité et Distraction de 25%"
   },
@@ -8401,7 +8401,7 @@
   },
   "42401": {
     "name": "Préparatifs (rang1)",
-    "icon": "icon_4240",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
     "description": "Lorsque le Voleur Esquive une attaque qui le vise il a 33% de chance de générer 1pts de Combo sur sa cible avec 1sec de temps de rechargement"
   },
@@ -8431,7 +8431,7 @@
   },
   "42411": {
     "name": "Préparation",
-    "icon": "icon_4241",
+    "icon": "spell_shadow_antishadow",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de rechargement, Met instantanément fin a tous les temps de rechargement des techniques du Voleur"
   },
@@ -8461,9 +8461,9 @@
   },
   "42421": {
     "name": "Hémorragie",
-    "icon": "icon_4242",
+    "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 35pts d'Energie, génère 1pts de Combo, 0-5yards de portée, requiert une armée de mélée, Attaque la cible et pose un affaiblissement sur la cible qui dure 15sec ou 30 charges qui augmente toutes les sources de dégats sur la cible de +7"
+    "description": "Technique a activer, instantanée, coûte 35pts d'Energie, génère 1pts de Combo, 0-5yards de portée, requiert une armée de mélée, Attaque la cible et pose un affaiblissement sur la cible qui dure 15sec ou 30 charges qui augmente toutes les sources de dégats physique sur la cible de +7"
   },
   "42422": {
     "name": "Specialisation:42 Row:4 Column:2 Rank:2",
@@ -8491,7 +8491,7 @@
   },
   "42431": {
     "name": "Sens Amplifiés (rang1)",
-    "icon": "icon_4243",
+    "icon": "ability_ambush",
     "rank": 1,
     "description": "Augmente la Détection du Camouflage du Voleur de +5 rangs et augmente ses chances d'Esquiver de 2%"
   },
@@ -8521,7 +8521,7 @@
   },
   "42511": {
     "name": "Enveloppé par les Ombres (rang1)",
-    "icon": "icon_4251",
+    "icon": "spell_shadow_gathershadows",
     "rank": 1,
     "description": "Augmente la Résistance a l'Ombre du Voleur de 15pts, et permet a la technique Feinte du Voleur de donner une amélioration qui lui donne 50% de chance d'Esquiver la prochaine attaque dans les 7sec"
   },
@@ -8551,7 +8551,7 @@
   },
   "42521": {
     "name": "Appel Sinitre (rang1)",
-    "icon": "icon_4252",
+    "icon": "spell_nature_sentinal",
     "rank": 1,
     "description": "Augmente l'Agilité du Voleur de 5%"
   },
@@ -8581,7 +8581,7 @@
   },
   "42611": {
     "name": "Préméditation",
-    "icon": "icon_4261",
+    "icon": "spell_shadow_possession",
     "rank": 1,
     "description": "Technique a activer, instantanée, 20sec de temps de recharge, 20yards de portée, permet d'appliquer 2pts de Combo sur une cible durant maximum 20sec"
   },
@@ -8611,7 +8611,7 @@
   },
   "42621": {
     "name": "Pas de Témoin",
-    "icon": "icon_4262",
+    "icon": "ability_hibernation",
     "rank": 1,
     "description": "Lorsque le Voleur obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur, il gagne une amélioration de 6sec qui rend l'utilisation de la prochaine Disparition gratuite en temps de rechargement et en composant"
   },
