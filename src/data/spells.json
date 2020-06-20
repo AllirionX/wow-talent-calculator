@@ -5041,7 +5041,7 @@
   },
   "31001": {
     "name": "Maille étincellante (rang1)",
-    "icon": "icon_3100",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de mana"
   },
@@ -5071,7 +5071,7 @@
   },
   "31011": {
     "name": "Focus (rang1)",
-    "icon": "icon_3101",
+    "icon": "spell_nature_purge",
     "rank": 1,
     "description": "Octroie 50% d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Flèche Multiple, Salve et Visée"
   },
@@ -5101,7 +5101,7 @@
   },
   "31021": {
     "name": "Oeil du Faucon (rang1)",
-    "icon": "icon_3102",
+    "icon": "ability_townwatch",
     "rank": 1,
     "description": "Augmente la portée de tir du Chasseur de 2yards"
   },
@@ -5131,7 +5131,7 @@
   },
   "31031": {
     "name": "Efficacité (rang1)",
-    "icon": "icon_3103",
+    "icon": "spell_frost_wizardmark",
     "rank": 1,
     "description": "Diminue le coût en mana de toutes les techniques de Tir et de Morsure de 5%"
   },
@@ -5161,7 +5161,7 @@
   },
   "31101": {
     "name": "Marque du Chasseur Améliorée (rang1)",
-    "icon": "icon_3110",
+    "icon": "ability_hunter_snipershot",
     "rank": 1,
     "description": "Augmente le montant de Puissance d'Attaque a distance procuré par la technique Marque du Chasseur de 5% et réduit sont coût en mana de 33%"
   },
@@ -5191,7 +5191,7 @@
   },
   "31111": {
     "name": "A la Gorge (rang1)",
-    "icon": "icon_3111",
+    "icon": "ability_druid_ferociousbite",
     "rank": 1,
     "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 15pts de Focalisation a son Familier"
   },
@@ -5221,7 +5221,7 @@
   },
   "31121": {
     "name": "Coup Fatal (rang1)",
-    "icon": "icon_3112",
+    "icon": "ability_searingarrow",
     "rank": 1,
     "description": "Augmente les chances de critiques a distance du Chasseur de 2%"
   },
@@ -5251,7 +5251,7 @@
   },
   "31131": {
     "name": "Trait de Choc Amélioré (rang1)",
-    "icon": "icon_3113",
+    "icon": "spell_frost_stun",
     "rank": 1,
     "description": "Diminue le coût en mana de la technique Trait de Choc de 20% et augmente sa durée de 1sec"
   },
@@ -5281,7 +5281,7 @@
   },
   "31201": {
     "name": "Aspect du Faucon Amélioré (rang1)",
-    "icon": "icon_3120",
+    "icon": "spell_nature_ravenform",
     "rank": 1,
     "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un bonus de vitesse d'attaque a distance de 5%"
   },
@@ -5311,9 +5311,9 @@
   },
   "31211": {
     "name": "Visée",
-    "icon": "icon_3121",
+    "icon": "inv_spear_07",
     "rank": 1,
-    "description": "Technique a activer, 3sec de temps d'incantation, coût 67pts de mana, 10sec de temps de rechargement et partage ce temps avec la technique Tir des Arcanes, 8-35yards de portée, inflige un dégat a distance avec un bonus de +600 et réduit les soins sur la cible de 50% durant 10sec"
+    "description": "Technique a activer, 3sec de temps d'incantation, coût 67pts de mana, 10sec de temps de rechargement et partage ce temps avec la technique Tir des Arcanes, 8-35yards de portée, inflige un dégat a distance avec un bonus de +600"
   },
   "31212": {
     "name": "Specialisation:31 Row:2 Column:1 Rank:2",
@@ -5341,7 +5341,7 @@
   },
   "31221": {
     "name": "Tir Tranquilisant",
-    "icon": "icon_3122",
+    "icon": "spell_nature_faeriefire",
     "rank": 1,
     "description": "Technique a activer, instantanée, 0-35yards de portée, 20sec de temps de rechargement, coût 120pts de mana, retire instantanément les effets de Rage sur la cible PNJ ou Joueur"
   },
@@ -5371,7 +5371,7 @@
   },
   "31231": {
     "name": "Tir Rapide Amélioré (Rang1)",
-    "icon": "icon_3123",
+    "icon": "class_hunter",
     "rank": 1,
     "description": "Diminue le temps de recharge de la technique Tir Rapide de 1min et augmente sa durée de 3sec"
   },
@@ -5401,7 +5401,7 @@
   },
   "31301": {
     "name": "Morsures Améliorées (rang1)",
-    "icon": "icon_3130",
+    "icon": "ability_hunter_quickshot",
     "rank": 1,
     "description": "Augmente le montant des effets des différentes techniques de Morsure de 2%"
   },
@@ -5431,7 +5431,7 @@
   },
   "31311": {
     "name": "Astucieux (rang1)",
-    "icon": "icon_3131",
+    "icon": "ability_hunter_criticalshot",
     "rank": 1,
     "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 50% du dégats de la technique a la cible, Morsure de la Vipère dissipé rend 50% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 5sec, Trait de Choc dissipé applique un effet d'Etourdissement de 1,5sec sur la cible"
   },
@@ -5461,7 +5461,7 @@
   },
   "31321": {
     "name": "Coup Mortel (rang1)",
-    "icon": "icon_3132",
+    "icon": "ability_piercedamage",
     "rank": 1,
     "description": "Augmente les dégats infligés par les techniques a distance critiques de 10%"
   },
@@ -5491,7 +5491,7 @@
   },
   "31331": {
     "name": "Tueur Rapide (rang1)",
-    "icon": "icon_3133",
+    "icon": "ability_fiegndead",
     "rank": 1,
     "description": "Lorsque le Chasseur obtient un Coup Fatal sur un ennemi qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 30sec"
   },
@@ -5521,7 +5521,7 @@
   },
   "31401": {
     "name": "Barrage (rang1)",
-    "icon": "icon_3140",
+    "icon": "ability_upgravemoonglave",
     "rank": 1,
     "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 5% et diminue le coût en mana de ces 2 techniques du même montant"
   },
@@ -5551,7 +5551,7 @@
   },
   "31411": {
     "name": "Flèche de Dispersion",
-    "icon": "icon_3141",
+    "icon": "ability_golemstormbolt",
     "rank": 1,
     "description": "Technique a activer, instantanée, 0-15yards de portée, coûte 60pts de mana, 30sec de temps de rechargement, inflige 50% des dégats de l'arme a distance du Chasseur et provoque un effet de Désorientation sur la cible durant 4sec, le moindre dégats dissipe l'effet"
   },
@@ -5581,7 +5581,7 @@
   },
   "31421": {
     "name": "Salve Améliorée",
-    "icon": "icon_3142",
+    "icon": "ability_markmanship",
     "rank": 1,
     "description": "Supprime l'effet de Canalisation de la technique Salve et réduit la menace qu'elle génère de 100% et réduit son temps de rechargement de 50%"
   },
@@ -5611,7 +5611,7 @@
   },
   "31431": {
     "name": "Tir des Arcanes Améliorés (rang1)",
-    "icon": "icon_3143",
+    "icon": "ability_impalingbolt",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et son coût en mana de 20%"
   },
@@ -5641,7 +5641,7 @@
   },
   "31511": {
     "name": "Menaçant (rang1)",
-    "icon": "icon_3151",
+    "icon": "spell_arcane_blink",
     "rank": 1,
     "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 25% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 50%"
   },
@@ -5671,7 +5671,7 @@
   },
   "31521": {
     "name": "Spécialisation Armes a Distance (rang1)",
-    "icon": "icon_3152",
+    "icon": "inv_weapon_rifle_06",
     "rank": 1,
     "description": "Augmente les compétences d'armes a distance du Chasseur de +2pts et ses attaques a distance ignorent 2% de l'Armure de sa cible"
   },
@@ -5701,7 +5701,7 @@
   },
   "31611": {
     "name": "Aura de Précision",
-    "icon": "icon_3161",
+    "icon": "ability_trueshot",
     "rank": 1,
     "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, Aura qui affecte tous les joueurs dans les 45yards de portée et augmente leur Puissance d'Attaque au corps a corps et a distance de +100pts"
   },
@@ -5731,7 +5731,7 @@
   },
   "31621": {
     "name": "Flèche Baillon",
-    "icon": "icon_3162",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
     "description": "Technique a activer, instantanée, 20sec de temps de rechargement, 8-35yards de portée, coûte 202pts de mana, Pose un affaiblissement sur la cible qui la silence durant 3sec"
   },
