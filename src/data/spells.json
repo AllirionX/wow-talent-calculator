@@ -6481,7 +6481,7 @@
   },
   "40001": {
     "name": "Eviscération Améliorée (rang1)",
-    "icon": "icon_4000",
+    "icon": "ability_rogue_eviscerate",
     "rank": 1,
     "description": "Augmente les dégats infligés avec la technique Eviscération de 5%"
   },
@@ -6511,7 +6511,7 @@
   },
   "40011": {
     "name": "Attaque Impitoyable (rang1)",
-    "icon": "icon_4001",
+    "icon": "ability_fiegndead",
     "rank": 1,
     "description": "Lorsque le Voleur obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur il gagne une amélioration qui augmente les chances de critiques de 20% sur sa prochaine technique dans les 30sec"
   },
@@ -6541,7 +6541,7 @@
   },
   "40021": {
     "name": "Malice (rang1)",
-    "icon": "icon_4002",
+    "icon": "ability_racial_bloodrage",
     "rank": 1,
     "description": "Augmente les chances de critiques du Voleur de 2%"
   },
@@ -6571,7 +6571,7 @@
   },
   "40031": {
     "name": "Opportunité (rang1)",
-    "icon": "icon_4003",
+    "icon": "ability_warrior_warcry",
     "rank": 1,
     "description": "Augmente les dégats infligés par les techniques nécessitant d'être de dos de 10%"
   },
@@ -6601,7 +6601,7 @@
   },
   "40101": {
     "name": "Anesthésie Nerveuse (rang1)",
-    "icon": "icon_4010",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
     "description": "Diminue les dégats subit par le Voleur de 2% et réduit la menace généré par le Voleur de 5%"
   },
@@ -6631,7 +6631,7 @@
   },
   "40111": {
     "name": "Meurtre (rang1)",
-    "icon": "icon_4011",
+    "icon": "spell_shadow_deathscream",
     "rank": 1,
     "description": "Le Voleur inflige +5% de dégats durant 6ec lorsqu'il sort du Camouflage"
   },
@@ -6661,7 +6661,7 @@
   },
   "40121": {
     "name": "Amocheur (rang1)",
-    "icon": "icon_4012",
+    "icon": "inv_sword_48",
     "rank": 1,
     "description": "Augmente les dégats infligés sur les cibles ayant moins de 20% de leur total de vie de 5%"
   },
@@ -6691,7 +6691,7 @@
   },
   "40131": {
     "name": "Vocation Sournoise (rang1)",
-    "icon": "icon_4013",
+    "icon": "spell_frost_stun",
     "rank": 1,
     "description": "Les techniques qui nécessitent d'être de dos hébêtent la cible durant 2sec et la technique Garrot silence la cible pour la même durée"
   },
@@ -6721,7 +6721,7 @@
   },
   "40201": {
     "name": "Mortalité (rang1)",
-    "icon": "icon_4020",
+    "icon": "ability_criticalstrike",
     "rank": 1,
     "description": "Augmente les dégats des critiques des techniques du Voleur de 10%"
   },
@@ -6751,7 +6751,7 @@
   },
   "40211": {
     "name": "Némésis",
-    "icon": "icon_4021",
+    "icon": "ability_druid_disembowel",
     "rank": 1,
     "description": "Le Voleur obtient 20% de chance par Point de Combo de regagner 1 Point de Combo lorsqu'il utilise un Coup de Grâce"
   },
@@ -6781,7 +6781,7 @@
   },
   "40221": {
     "name": "Vigueur",
-    "icon": "icon_4022",
+    "icon": "spell_nature_earthbindtotem",
     "rank": 1,
     "description": "Augmente le maximum de la Barre d'Energie du Voleur de +10pts"
   },
@@ -6811,7 +6811,7 @@
   },
   "40231": {
     "name": "Exploser l'Armure Amélioré (rang1)",
-    "icon": "icon_4023",
+    "icon": "ability_warrior_riposte",
     "rank": 1,
     "description": "Diminue le coût en Energie de la technique Exploser l'Armure de 10pts et augmente l'efficacité de la technique de 25%"
   },
@@ -6841,7 +6841,7 @@
   },
   "40301": {
     "name": "Attaque Sournoise Améliorée (rang1)",
-    "icon": "icon_4030",
+    "icon": "ability_backstab",
     "rank": 1,
     "description": "Augmente les chances de critiques avec la technique Attaque Sournoise de 10%"
   },
@@ -6871,7 +6871,7 @@
   },
   "40311": {
     "name": "Poisons Améliorés (rang1)",
-    "icon": "icon_4031",
+    "icon": "ability_poisons",
     "rank": 1,
     "description": "Augmente les chances du Voleur d'appliquer un Poison sur la cible de 5% et la durée des poisons de 25%"
   },
@@ -6901,7 +6901,7 @@
   },
   "40321": {
     "name": "Pied Léger (rang1)",
-    "icon": "icon_4032",
+    "icon": "ability_kick",
     "rank": 1,
     "description": "Augmente la vitesse de déplacement du Voleur de 5% et diminue la durée des effets affectant le mouvement sur le Voleur de 10%"
   },
@@ -6931,7 +6931,7 @@
   },
   "40331": {
     "name": "Poisons Abominables (rang1)",
-    "icon": "icon_4033",
+    "icon": "ability_rogue_feigndeath",
     "rank": 1,
     "description": "Augmente les effets des différents Poisons de 10%"
   },
@@ -6961,7 +6961,7 @@
   },
   "40401": {
     "name": "Perfidie (rang1)",
-    "icon": "icon_4040",
+    "icon": "ability_rogue_kidneyshot",
     "rank": 1,
     "description": "Augmente les dégats qu'inflige le Voleur sur une cible sous l'effet d'un Etourdissement ou d'une Stupéfaction de 3%"
   },
@@ -6991,7 +6991,7 @@
   },
   "40411": {
     "name": "Sang Froid",
-    "icon": "icon_4041",
+    "icon": "spell_ice_lament",
     "rank": 1,
     "description": "Technique a activer, instantanée, gratuite en Energie, 1min de temps de rechargement, Donne a votre prochaine technique 100% de chance d'obtenir un effet critique"
   },
@@ -7021,7 +7021,7 @@
   },
   "40421": {
     "name": "Maître Empoisonneur",
-    "icon": "icon_4042",
+    "icon": "inv_spear_02",
     "rank": 1,
     "description": "Permet au Voleur d'appliquer un Poison de son choix sur son Arme a distance, et applique également l'affaiblissement de Poison Affaiblissant II a chaque fois qu'un autre Poison du Voleur est appliqué sur une cible"
   },
@@ -7051,15 +7051,15 @@
   },
   "40431": {
     "name": "Rétablissement Rapide (rang1)",
-    "icon": "icon_4043",
+    "icon": "spell_shadow_fumble",
     "rank": 1,
-    "description": "Augmente le montant de soin reçu par le Voleur de 5% et diminue le coût en Energie de toutes les techniques du Voleur de 3pts"
+    "description": "Augmente le montant de soin reçu par le Voleur de 4% et diminue le coût en Energie de toutes les techniques du Voleur de 3pts"
   },
   "40432": {
     "name": "Rétablissement Rapide (rang2)",
     "icon": "icon_4043",
     "rank": 2,
-    "description": "Augmente le montant de soin reçu par le Voleur de 10% et diminue le coût en Energie de toutes les techniques du Voleur de 6pts"
+    "description": "Augmente le montant de soin reçu par le Voleur de 8% et diminue le coût en Energie de toutes les techniques du Voleur de 6pts"
   },
   "40433": {
     "name": "Specialisation:40 Row:4 Column:3 Rank:3",
@@ -7081,7 +7081,7 @@
   },
   "40511": {
     "name": "Scelle le Destin (rang1)",
-    "icon": "icon_4051",
+    "icon": "spell_shadow_chilltouch",
     "rank": 1,
     "description": "Toutes les techniques du Voleur qui génèrent un Point de Combo, ont 50% de chance de recevoir un Point de Combo supplémentaire lorsqu'elles obtiennent un effet critique"
   },
@@ -7111,7 +7111,7 @@
   },
   "40521": {
     "name": "Exploiter les faiblesses (rang1)",
-    "icon": "icon_4052",
+    "icon": "ability_warrior_sunder",
     "rank": 1,
     "description": "A chaque fois que le Voleur obtient un coup critique sur une attaque ou une technique, il gagne instantanément 2pts d'Energie et une amélioration de 6sec qui augmente les dégats qu'il inflige de 2%"
   },
@@ -7141,9 +7141,9 @@
   },
   "40611": {
     "name": "Mutiler",
-    "icon": "icon_4061",
+    "icon": "spell_holy_blessingofstrength",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 45pts d'Energie, génère 2pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont augmenté de 50% si la cible est sous l'effet d'un poison"
+    "description": "Technique a activer, instantanée, coûte 45pts d'Energie, génère 1pts de Combo, 0-5yards de portée, utilisable uniquement avec 2 dagues d'équipé, Fais instantanément frapper le Voleur avec ses 2 dagues, les dégats sont augmenté de 50% si la cible est sous l'effet d'un poison"
   },
   "40612": {
     "name": "Specialisation:40 Row:6 Column:1 Rank:2",
@@ -7171,7 +7171,7 @@
   },
   "40621": {
     "name": "Pas dans l'Ombre",
-    "icon": "icon_4062",
+    "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
     "description": "Technique a activer, instantanée, 8-25yards de portée, 45sec de temps de rechargement, utilisable uniquement hors combat, Permet au Voleur de se téléporter instantanément dans le dos d'une cible et de gagner une amélioration qui augmente sa vitesse de déplacement de 70% durant 3sec"
   },
