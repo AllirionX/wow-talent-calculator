@@ -5521,7 +5521,7 @@
   },
   "31401": {
     "name": "Barrage (rang1)",
-    "icon": "ability_upgravemoonglaive",
+    "icon": "ability_upgrademoonglaive",
     "rank": 1,
     "description": "Augmente les dégats infligés avec les techniques Flèche Multiple et Salve de 5% et diminue le coût en mana de ces 2 techniques du même montant"
   },
@@ -5761,7 +5761,7 @@
   },
   "32001": {
     "name": "Poids de la Maille (rang1)",
-    "icon": "inv_relics_idolofrevujenation",
+    "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
     "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Vie"
   },
@@ -6121,7 +6121,7 @@
   },
   "32301": {
     "name": "Coup d'Oeil (rang1)",
-    "icon": "ability_hunter_eyeoftheowl",
+    "icon": "ability_eyeoftheowl",
     "rank": 1,
     "description": "Augmente les chances de Toucher du Chasseur de 2%"
   },
