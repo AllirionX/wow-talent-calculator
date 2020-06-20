@@ -8071,13 +8071,13 @@
   },
   "42111": {
     "name": "Feinte Améliorée (rang1)",
-    "icon": "icon_4211",
+    "icon": "ability_rogue_feint",
     "rank": 1,
     "description": "Diminue le coût en Energie de la technique Feinte de 10pts et augmente son efficacité de 10%"
   },
   "42112": {
-    "name": "Feinte Améliorée (rang1)",
-    "icon": "ability_rogue_feint",
+    "name": "Feinte Améliorée (rang2)",
+    "icon": "icon_4211",
     "rank": 2,
     "description": "Diminue le coût en Energie de la technique Feinte de 20pts et augmente son efficacité de 20%"
   },
