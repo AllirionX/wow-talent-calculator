@@ -7231,7 +7231,7 @@
   },
   "41011": {
     "name": "Attaque Pernicieuse Amélioré (rang1)",
-    "icon": "icon_4101",
+    "icon": "spell_shadow_ritualofsacrifice",
     "rank": 1,
     "description": "Diminue le coût en Energie de la technique Attaque Pernicieuse et Kriss de 3pts"
   },
@@ -7261,7 +7261,7 @@
   },
   "41021": {
     "name": "Débiter Amélioré (rang1)",
-    "icon": "icon_4102",
+    "icon": "ability_rogue_slicedice",
     "rank": 1,
     "description": "Augmente la durée de la technique Débiter du Voleur de 15%"
   },
@@ -7291,7 +7291,7 @@
   },
   "41031": {
     "name": "Rigueur (rang1)",
-    "icon": "icon_4103",
+    "icon": "spell_shadow_shadowward",
     "rank": 1,
     "description": "Diminue le temps de rechargement des techniques Evasion et Sprint du Voleur de 1min"
   },
@@ -7321,7 +7321,7 @@
   },
   "41101": {
     "name": "Anticipation (rang1)",
-    "icon": "icon_4110",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Augmente les chances d'Esquiver du Voleur de 2%"
   },
@@ -7351,7 +7351,7 @@
   },
   "41111": {
     "name": "Pirouette (rang1)",
-    "icon": "icon_4111",
+    "icon": "ability_whirldwind",
     "rank": 1,
     "description": "Diminue la durée des effets de Désarmement sur le Voleur de 25%"
   },
@@ -7381,7 +7381,7 @@
   },
   "41121": {
     "name": "Précision (rang1)",
-    "icon": "icon_4112",
+    "icon": "ability_marksmanship",
     "rank": 1,
     "description": "Augmente les chances de Toucher du Voleur de 2%"
   },
@@ -7411,7 +7411,7 @@
   },
   "41131": {
     "name": "Détournement d'Attention (rang1)",
-    "icon": "icon_4113",
+    "icon": "ability_rogue_feint",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Feinte de 2sec et lorsqu'il est sous son effet il gagne une amélioration qui diminue les dégats qu'il reçoit de 2%"
   },
@@ -7441,7 +7441,7 @@
   },
   "41201": {
     "name": "Déviation (rang1)",
-    "icon": "icon_4120",
+    "icon": "ability_parry",
     "rank": 1,
     "description": "Augmente les chances de Parade du Voleur de 2%"
   },
@@ -7471,7 +7471,7 @@
   },
   "41211": {
     "name": "Démentellement",
-    "icon": "icon_4121",
+    "icon": "ability_warrior_disarm",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 25pts d'Energie, 1min de temps de rechargement, Retire toutes les Armes équipé par la cible du Voleur durant 10sec"
   },
@@ -7501,7 +7501,7 @@
   },
   "41221": {
     "name": "Sprint Amélioré",
-    "icon": "icon_4122",
+    "icon": "ability_rogue_sprint",
     "rank": 1,
     "description": "Permet a la technique Sprint du Voleur, qu'en plus de ces effet, libère le Voleur des effets affectant le mouvement et lui permet d'obtenir la capacité de marcher sur l'eau durant sa durée"
   },
@@ -7531,7 +7531,7 @@
   },
   "41231": {
     "name": "Vitalité (rang1)",
-    "icon": "icon_4123",
+    "icon": "ability_warrior_revenge",
     "rank": 1,
     "description": "Augmente l'Endurance du Voleur de 5%"
   },
@@ -7561,7 +7561,7 @@
   },
   "41301": {
     "name": "Spécialisation Armes de Jets (rang1)",
-    "icon": "icon_4130",
+    "icon": "inv_weapon_shortblade_05",
     "rank": 1,
     "description": "Augmente la portée des Armes de Jet de 2yards et les dégats qu'elles infligent de 10%, de plus les projectiles hébêtent la cible durant 0,5sec"
   },
@@ -7591,7 +7591,7 @@
   },
   "41311": {
     "name": "Coup de Pied Amélioré (rang1)",
-    "icon": "icon_4131",
+    "icon": "ability_kick",
     "rank": 1,
     "description": "Augmente les dégats infligés par la technique Coup de Pied de 150% et permet a la technique de silence la cible durant 1sec"
   },
@@ -7621,7 +7621,7 @@
   },
   "41321": {
     "name": "Agression (rang1)",
-    "icon": "icon_4132",
+    "icon": "ability_racial_avatar",
     "rank": 1,
     "description": "Augmente les dégats infligés par le Voleur de 2%"
   },
@@ -7651,7 +7651,7 @@
   },
   "41331": {
     "name": "Spécialisation Ambidextrie (rang1)",
-    "icon": "icon_4133",
+    "icon": "aility_dualwield",
     "rank": 1,
     "description": "Augmente les dégats infligés avec la main gauche du Voleur de 25%"
   },
@@ -7681,7 +7681,7 @@
   },
   "41401": {
     "name": "Trancher (rang1)",
-    "icon": "icon_4140",
+    "icon": "spell_holy_healingfocus",
     "rank": 1,
     "description": "Lorsque le Voleur utilise un Coup de Grâce, il a 100% de chance de lancer également la technique Débiter avec 1pts de Combo"
   },
@@ -7711,7 +7711,7 @@
   },
   "41411": {
     "name": "Déluge de Lames",
-    "icon": "icon_4141",
+    "icon": "spell_holy_retributionaura",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 25pts d'Energie, 2min de temps de rechargement, Augmente la vitesse d'attaque du Voleur de 20% et permet a ses attaques de toucher également la cible la plus proche durant 15sec"
   },
@@ -7741,7 +7741,7 @@
   },
   "41421": {
     "name": "Trompeur",
-    "icon": "icon_4142",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
     "description": "Permet aux différents Coup de Grâce du Voleur d'avoir 100% de chance que la cible ne puisse pas les Esquiver ni Parer, et applique une amélioration au Voleur avec un temps de rechargement de 1min qui absorbe le dégats qui est censé tuer le Voleur"
   },
@@ -7771,7 +7771,7 @@
   },
   "41431": {
     "name": "Nerfs d'Acier (rang1)",
-    "icon": "icon_4143",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
     "description": "Réduit les dégats subit par le Voleur de 10% lorsqu'il est sous l'effet de Peur ou d'Etourdissement"
   },
@@ -7801,7 +7801,7 @@
   },
   "41511": {
     "name": "Expert en Armes (rang1)",
-    "icon": "icon_4151",
+    "icon": "spell_holy_blessingofstrength",
     "rank": 1,
     "description": "Augmente les compétences d'Armes du Voleur de 3pts et ses attaques ignorent 3% de l'Armure de la cible"
   },
@@ -7831,7 +7831,7 @@
   },
   "41521": {
     "name": "Spécialisation d'Armes (rang1)",
-    "icon": "icon_4152",
+    "icon": "class_rogue",
     "rank": 1,
     "description": "Augmente les chances de critiques du Voleur de 2% et sa vitesse d'attaque de 5%"
   },
@@ -7861,7 +7861,7 @@
   },
   "41611": {
     "name": "Poussée d'Adrénaline",
-    "icon": "icon_4161",
+    "icon": "spell_shadow_shadowworddominate",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet a l'Energie du Voleur de se régénéré 100% plus vite durant 15sec"
   },
@@ -7891,7 +7891,7 @@
   },
   "41621": {
     "name": "Course",
-    "icon": "icon_4162",
+    "icon": "aility_druid_dash",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet au Voleur de poser une Amélioration au sol, qui lorsqu'elle est prise en clickant dessus, donne un Sprint au joueur durant 10sec, dure 10sec ou 5 charges"
   },
