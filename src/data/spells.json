@@ -10323,19 +10323,19 @@
     "name": "Attaque Mentale Améliorée (rang1)",
     "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 1sec et augmente les chances de critiques de 2%"
+    "description": "Diminue le temps de rechargement des techniques Attaque Mentale et Etreinte Vampirique de 1sec et augmente les chances de critiques de la technique Attaque Mentale 2%"
   },
   "52202": {
     "name": "Attaque Mentale Améliorée (rang2)",
     "icon": "icon_5220",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 2sec et augmente les chances de critiques de 4%"
+    "description": "Diminue le temps de rechargement des techniques Attaque Mentale et Etreinte Vampirique de 2sec et augmente les chances de critiques de la technique Attaque Mentale de 4%"
   },
   "52203": {
     "name": "Attaque Mentale Améliorée (rang3)",
     "icon": "icon_5220",
     "rank": 3,
-    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 3sec et augmente les chances de critiques de 6%"
+    "description": "Diminue le temps de rechargement des techniques Attaque Mentale et Etreinte Vampirique de 3sec et augmente les chances de critiques de la technique Attaque Mentale de 6%"
   },
   "52204": {
     "name": "Specialisation:52 Row:2 Column:0 Rank:4",
@@ -10441,7 +10441,7 @@
   },
   "52301": {
     "name": "Oubli Amélioré (rang1)",
-    "icon": "icon_5230",
+    "icon": "spell_ magic_lesserinvisibilty",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Oubli de 2sec et son coût en mana de 33% et réduit les dégats que subit le Prêtre durant la durée de son effet de 2% et augmente son effet de 5%"
   },
@@ -10560,22 +10560,22 @@
     "description": "Description for Specialisation:52 Row:3 Column:3 Rank:5. Use icon icon_5233.jpg"
   },
   "52401": {
-    "name": "Specialisation:52 Row:4 Column:0 Rank:1",
-    "icon": "icon_5240",
+    "name": "Résistance a l'Ombre (rang1)",
+    "icon": "spell_nature_moonglow",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:4 Column:0 Rank:1. Use icon icon_5240.jpg"
+    "description": "Diminue la Résistance a l'Ombre des cibles du Prêtre de 5pts et augmente la Résistance a l'Ombre du Prêtre de 20pts"
   },
   "52402": {
-    "name": "Specialisation:52 Row:4 Column:0 Rank:2",
+    "name": "Résistance a l'Ombre (rang2)",
     "icon": "icon_5240",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:4 Column:0 Rank:2. Use icon icon_5240.jpg"
+    "description": "Diminue la Résistance a l'Ombre des cibles du Prêtre de 10pts et augmente la Résistance a l'Ombre du Prêtre de 40pts"
   },
   "52403": {
-    "name": "Specialisation:52 Row:4 Column:0 Rank:3",
+    "name": "Résistance a l'Ombre (rang3)",
     "icon": "icon_5240",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:4 Column:0 Rank:3. Use icon icon_5240.jpg"
+    "description": "Diminue la Résistance a l'Ombre des cibles du Prêtre de 15pts et augmente la Résistance a l'Ombre du Prêtre de 60pts"
   },
   "52404": {
     "name": "Specialisation:52 Row:4 Column:0 Rank:4",
@@ -10590,10 +10590,10 @@
     "description": "Description for Specialisation:52 Row:4 Column:0 Rank:5. Use icon icon_5240.jpg"
   },
   "52411": {
-    "name": "Specialisation:52 Row:4 Column:1 Rank:1",
-    "icon": "icon_5241",
+    "name": "Silence de l'Ombre",
+    "icon": "spell_shadow_impphaseshift",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:4 Column:1 Rank:1. Use icon icon_5241.jpg"
+    "description": "Technique a activer, instantanée, coûte 225pts de mana, 20yards de portée, 45sec de temps de rechargement, Pose un affaiblissement qui Silence la cible durant 5sec"
   },
   "52412": {
     "name": "Specialisation:52 Row:4 Column:1 Rank:2",
@@ -10620,10 +10620,10 @@
     "description": "Description for Specialisation:52 Row:4 Column:1 Rank:5. Use icon icon_5241.jpg"
   },
   "52421": {
-    "name": "Specialisation:52 Row:4 Column:2 Rank:1",
-    "icon": "icon_5242",
+    "name": "Etreinte Vampirique",
+    "icon": "spell_shadow_unsummonbuilding",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:4 Column:2 Rank:1. Use icon icon_5242.jpg"
+    "description": "Technique a activer, instantanée, coûte 40pts de mana, 30yards de portée, 10sec de temps de rechargement, Pose un affaiblissement sur la cible de 60sec qui soigne le Prêtre et tous les membres de sont groupe de 20% des dégats d'Ombre infligé sur la cible par le Prêtre"
   },
   "52422": {
     "name": "Specialisation:52 Row:4 Column:2 Rank:2",
@@ -10650,16 +10650,16 @@
     "description": "Description for Specialisation:52 Row:4 Column:2 Rank:5. Use icon icon_5242.jpg"
   },
   "52431": {
-    "name": "Specialisation:52 Row:4 Column:3 Rank:1",
-    "icon": "icon_5243",
+    "name": "Touché Vampirique (rang1)",
+    "icon": "spell_shadow_improvedvampiricembrace",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:4 Column:3 Rank:1. Use icon icon_5243.jpg"
+    "description": "Augmente l'effet de la technique Etreinte Vampirique de 5% et permet a 5% du montant de vie rendu par la technique d'être rendu en Point de mana au Prêtre uniquement également"
   },
   "52432": {
-    "name": "Specialisation:52 Row:4 Column:3 Rank:2",
+    "name": "Touché Vampirique (rang2)",
     "icon": "icon_5243",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:4 Column:3 Rank:2. Use icon icon_5243.jpg"
+    "description": "Augmente l'effet de la technique Etreinte Vampirique de 10% et permet a 10% du montant de vie rendu par la technique d'être rendu en Point de mana au Prêtre uniquement également"
   },
   "52433": {
     "name": "Specialisation:52 Row:4 Column:3 Rank:3",
@@ -10680,16 +10680,16 @@
     "description": "Description for Specialisation:52 Row:4 Column:3 Rank:5. Use icon icon_5243.jpg"
   },
   "52511": {
-    "name": "Specialisation:52 Row:5 Column:1 Rank:1",
-    "icon": "icon_5251",
+    "name": "Ténèbres (rang1)",
+    "icon": "spell_shadow_twilight",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:5 Column:1 Rank:1. Use icon icon_5251.jpg"
+    "description": "Augmente les dégats des techniques d'Ombre du Prêtre de 5%"
   },
   "52512": {
-    "name": "Specialisation:52 Row:5 Column:1 Rank:2",
+    "name": "Ténèbres (rang2)",
     "icon": "icon_5251",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:5 Column:1 Rank:2. Use icon icon_5251.jpg"
+    "description": "Augmente les dégats des techniques d'Ombre du Prêtre de 10%"
   },
   "52513": {
     "name": "Specialisation:52 Row:5 Column:1 Rank:3",
@@ -10710,22 +10710,22 @@
     "description": "Description for Specialisation:52 Row:5 Column:1 Rank:5. Use icon icon_5251.jpg"
   },
   "52521": {
-    "name": "Specialisation:52 Row:5 Column:2 Rank:1",
-    "icon": "icon_5252",
+    "name": "Obscurité (rang1)",
+    "icon": "spell_shadow_shadowbolt",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:5 Column:2 Rank:1. Use icon icon_5252.jpg"
+    "description": "Convertit 10% de l'Intelligence du Prêtre en Bonus sort"
   },
   "52522": {
-    "name": "Specialisation:52 Row:5 Column:2 Rank:2",
+    "name": "Obscurité (rang2)",
     "icon": "icon_5252",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:5 Column:2 Rank:2. Use icon icon_5252.jpg"
+    "description": "Convertit 20% de l'Intelligence du Prêtre en Bonus sort"
   },
   "52523": {
-    "name": "Specialisation:52 Row:5 Column:2 Rank:3",
+    "name": "Obscurité (rang3)",
     "icon": "icon_5252",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:5 Column:2 Rank:3. Use icon icon_5252.jpg"
+    "description": "Convertit 30% de l'Intelligence du Prêtre en Bonus sort"
   },
   "52524": {
     "name": "Specialisation:52 Row:5 Column:2 Rank:4",
@@ -10740,10 +10740,10 @@
     "description": "Description for Specialisation:52 Row:5 Column:2 Rank:5. Use icon icon_5252.jpg"
   },
   "52611": {
-    "name": "Specialisation:52 Row:6 Column:1 Rank:1",
+    "name": "Forme d'Ombre",
     "icon": "icon_5261",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:6 Column:1 Rank:1. Use icon icon_5261.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, hors temps de rechargement global, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme."
   },
   "52612": {
     "name": "Specialisation:52 Row:6 Column:1 Rank:2",
@@ -10770,10 +10770,10 @@
     "description": "Description for Specialisation:52 Row:6 Column:1 Rank:5. Use icon icon_5261.jpg"
   },
   "52621": {
-    "name": "Specialisation:52 Row:6 Column:2 Rank:1",
-    "icon": "icon_5262",
+    "name": "Toucher de Faiblesse",
+    "icon": "spell_shadow_ritualofsacrifice",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:6 Column:2 Rank:1. Use icon icon_5262.jpg"
+    "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui donne 100% de chance d'Etourdissement au prochain sort d'Ombre lancé par le Prêtre sur la cible et pose ensuite un affaiblissement qui diminue les dégats de la cible de 20pts pendant 1min"
   },
   "52622": {
     "name": "Specialisation:52 Row:6 Column:2 Rank:2",
