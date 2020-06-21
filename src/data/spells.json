@@ -9271,7 +9271,7 @@
   },
   "50521": {
     "name": "Résilience Bénie (rang1)",
-    "icon": "spell_holy_divinesprit",
+    "icon": "spell_holy_divinespirit",
     "rank": 1,
     "description": "Convertit 10% de l'Endurance du Prêtre en Bonus sort"
   },
