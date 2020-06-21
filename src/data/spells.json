@@ -9360,22 +9360,22 @@
     "description": "Description for Specialisation:50 Row:6 Column:2 Rank:5. Use icon icon_5062.jpg"
   },
   "51001": {
-    "name": "Specialisation:51 Row:0 Column:0 Rank:1",
-    "icon": "icon_5100",
+    "name": "Rénovation Améliorée (rang1)",
+    "icon": "spell_holy_renew",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:0 Column:0 Rank:1. Use icon icon_5100.jpg"
+    "description": "Augmente le montant des soins de la technique Rénovation de 5% et augmente les dégats effectués sur une cible affecté par la technique Flamme Sacrée de 2%"
   },
   "51002": {
-    "name": "Specialisation:51 Row:0 Column:0 Rank:2",
+    "name": "Rénovation Améliorée (rang2)",
     "icon": "icon_5100",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:0 Column:0 Rank:2. Use icon icon_5100.jpg"
+    "description": "Augmente le montant des soins de la technique Rénovation de 10% et augmente les dégats effectués sur une cible affecté par la technique Flamme Sacrée de 4%"
   },
   "51003": {
-    "name": "Specialisation:51 Row:0 Column:0 Rank:3",
+    "name": "Rénovation Améliorée (rang3)",
     "icon": "icon_5100",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:0 Column:0 Rank:3. Use icon icon_5100.jpg"
+    "description": "Augmente le montant des soins de la technique Rénovation de 15% et augmente les dégats effectués sur une cible affecté par la technique Flamme Sacrée de 6%"
   },
   "51004": {
     "name": "Specialisation:51 Row:0 Column:0 Rank:4",
@@ -9390,16 +9390,16 @@
     "description": "Description for Specialisation:51 Row:0 Column:0 Rank:5. Use icon icon_5100.jpg"
   },
   "51011": {
-    "name": "Specialisation:51 Row:0 Column:1 Rank:1",
-    "icon": "icon_5101",
+    "name": "Focalisation du Sacré (rang1)",
+    "icon": "spell_holy_healingfocus",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:0 Column:1 Rank:1. Use icon icon_5101.jpg"
+    "description": "Donne 35% de chance d'anti interruption au Prêtre sur tout les incantations de sorts du Sacré"
   },
   "51012": {
-    "name": "Specialisation:51 Row:0 Column:1 Rank:2",
+    "name": "Focalisation du Sacré (rang2)",
     "icon": "icon_5101",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:0 Column:1 Rank:2. Use icon icon_5101.jpg"
+    "description": "Donne 70% de chance d'anti interruption au Prêtre sur tout les incantations de sorts du Sacré"
   },
   "51013": {
     "name": "Specialisation:51 Row:0 Column:1 Rank:3",
@@ -9420,22 +9420,22 @@
     "description": "Description for Specialisation:51 Row:0 Column:1 Rank:5. Use icon icon_5101.jpg"
   },
   "51021": {
-    "name": "Specialisation:51 Row:0 Column:2 Rank:1",
-    "icon": "icon_5102",
+    "name": "Spécialisation du Sacré (rang1)",
+    "icon": "spell_holy_sealofsalvation",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:0 Column:2 Rank:1. Use icon icon_5102.jpg"
+    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 2%"
   },
   "51022": {
-    "name": "Specialisation:51 Row:0 Column:2 Rank:2",
+    "name": "Spécialisation du Sacré (rang2)",
     "icon": "icon_5102",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:0 Column:2 Rank:2. Use icon icon_5102.jpg"
+    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 4%"
   },
   "51023": {
-    "name": "Specialisation:51 Row:0 Column:2 Rank:3",
+    "name": "Spécialisation du Sacré (rang3)",
     "icon": "icon_5102",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:0 Column:2 Rank:3. Use icon icon_5102.jpg"
+    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 6%"
   },
   "51024": {
     "name": "Specialisation:51 Row:0 Column:2 Rank:4",
@@ -9450,16 +9450,16 @@
     "description": "Description for Specialisation:51 Row:0 Column:2 Rank:5. Use icon icon_5102.jpg"
   },
   "51031": {
-    "name": "Specialisation:51 Row:0 Column:3 Rank:1",
-    "icon": "icon_5103",
+    "name": "Touché par la Grâce (rang1)",
+    "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:0 Column:3 Rank:1. Use icon icon_5103.jpg"
+    "description": "Augmente les chances de Toucher du Prêtre de 2% et les soins qu'il reçoit de 3%"
   },
   "51032": {
-    "name": "Specialisation:51 Row:0 Column:3 Rank:2",
+    "name": "Touché par la Grâce (rang2)",
     "icon": "icon_5103",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:0 Column:3 Rank:2. Use icon icon_5103.jpg"
+    "description": "Augmente les chances de Toucher du Prêtre de 4% et les soins qu'il reçoit de 6%"
   },
   "51033": {
     "name": "Specialisation:51 Row:0 Column:3 Rank:3",
@@ -9480,22 +9480,22 @@
     "description": "Description for Specialisation:51 Row:0 Column:3 Rank:5. Use icon icon_5103.jpg"
   },
   "51101": {
-    "name": "Specialisation:51 Row:1 Column:0 Rank:1",
-    "icon": "icon_5110",
+    "name": "Lueur (rang1)",
+    "icon": "spell_nature_moonglow",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:1 Column:0 Rank:1. Use icon icon_5110.jpg"
+    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 5% et donne au Prêtre +5pts de mp5"
   },
   "51102": {
-    "name": "Specialisation:51 Row:1 Column:0 Rank:2",
+    "name": "Lueur (rang2)",
     "icon": "icon_5110",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:1 Column:0 Rank:2. Use icon icon_5110.jpg"
+    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 10% et donne au Prêtre +10pts de mp5"
   },
   "51103": {
-    "name": "Specialisation:51 Row:1 Column:0 Rank:3",
+    "name": "Lueur (rang3)",
     "icon": "icon_5110",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:1 Column:0 Rank:3. Use icon icon_5110.jpg"
+    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 15% et donne au Prêtre +15pts de mp5"
   },
   "51104": {
     "name": "Specialisation:51 Row:1 Column:0 Rank:4",
@@ -9510,16 +9510,16 @@
     "description": "Description for Specialisation:51 Row:1 Column:0 Rank:5. Use icon icon_5110.jpg"
   },
   "51111": {
-    "name": "Specialisation:51 Row:1 Column:1 Rank:1",
-    "icon": "icon_5111",
+    "name": "Fureur Divine (rang1)",
+    "icon": "spell_holy_sealofwrath",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:1 Column:1 Rank:1. Use icon icon_5111.jpg"
+    "description": "Diminue le temps d'incantation de toutes les technique du Sacré du Prêtre sauf Soin Rapide et Résurection et 0,25sec"
   },
   "51112": {
-    "name": "Specialisation:51 Row:1 Column:1 Rank:2",
+    "name": "Fureur Divine (rang2)",
     "icon": "icon_5111",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:1 Column:1 Rank:2. Use icon icon_5111.jpg"
+    "description": "Diminue le temps d'incantation de toutes les technique du Sacré du Prêtre sauf Soin Rapide et Résurection et 0,5sec"
   },
   "51113": {
     "name": "Specialisation:51 Row:1 Column:1 Rank:3",
@@ -9540,22 +9540,22 @@
     "description": "Description for Specialisation:51 Row:1 Column:1 Rank:5. Use icon icon_5111.jpg"
   },
   "51121": {
-    "name": "Specialisation:51 Row:1 Column:2 Rank:1",
-    "icon": "icon_5112",
+    "name": "Amélioration du Sacré (rang1)",
+    "icon": "spell_holy_heal",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:1 Column:2 Rank:1. Use icon icon_5112.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 5%"
   },
   "51122": {
-    "name": "Specialisation:51 Row:1 Column:2 Rank:2",
+    "name": "Amélioration du Sacré (rang2)",
     "icon": "icon_5112",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:1 Column:2 Rank:2. Use icon icon_5112.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 10%"
   },
   "51123": {
-    "name": "Specialisation:51 Row:1 Column:2 Rank:3",
+    "name": "Amélioration du Sacré (rang3)",
     "icon": "icon_5112",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:1 Column:2 Rank:3. Use icon icon_5112.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 15%"
   },
   "51124": {
     "name": "Specialisation:51 Row:1 Column:2 Rank:4",
@@ -9570,16 +9570,16 @@
     "description": "Description for Specialisation:51 Row:1 Column:2 Rank:5. Use icon icon_5112.jpg"
   },
   "51131": {
-    "name": "Specialisation:51 Row:1 Column:3 Rank:1",
-    "icon": "icon_5113",
+    "name": "Soin Rapide Amélioré (rang1)",
+    "icon": "spell_nature_whispheal",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:1 Column:3 Rank:1. Use icon icon_5113.jpg"
+    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 5% et augmente les dégats effectués sur les cibles ayant moins de 20% de leur total de vie du même montant"
   },
   "51132": {
-    "name": "Specialisation:51 Row:1 Column:3 Rank:2",
+    "name": "Soin Rapide Amélioré (rang2)",
     "icon": "icon_5113",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:1 Column:3 Rank:2. Use icon icon_5113.jpg"
+    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 10% et augmente les dégats effectués sur les cibles ayant moins de 20% de leur total de vie du même montant"
   },
   "51133": {
     "name": "Specialisation:51 Row:1 Column:3 Rank:3",
@@ -9600,22 +9600,22 @@
     "description": "Description for Specialisation:51 Row:1 Column:3 Rank:5. Use icon icon_5113.jpg"
   },
   "51201": {
-    "name": "Specialisation:51 Row:2 Column:0 Rank:1",
-    "icon": "icon_5120",
+    "name": "Rétablissement Béni (rang1)",
+    "icon": "spell_holy_blessedrecovery",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:2 Column:0 Rank:1. Use icon icon_5120.jpg"
+    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 6% du montant en vie sur 6sec"
   },
   "51202": {
-    "name": "Specialisation:51 Row:2 Column:0 Rank:2",
+    "name": "Rétablissement Béni (rang2)",
     "icon": "icon_5120",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:2 Column:0 Rank:2. Use icon icon_5120.jpg"
+    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 12% du montant en vie sur 6sec"
   },
   "51203": {
-    "name": "Specialisation:51 Row:2 Column:0 Rank:3",
+    "name": "Rétablissement Béni (rang3)",
     "icon": "icon_5120",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:2 Column:0 Rank:3. Use icon icon_5120.jpg"
+    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 18% du montant en vie sur 6sec"
   },
   "51204": {
     "name": "Specialisation:51 Row:2 Column:0 Rank:4",
@@ -9630,10 +9630,10 @@
     "description": "Description for Specialisation:51 Row:2 Column:0 Rank:5. Use icon icon_5120.jpg"
   },
   "51211": {
-    "name": "Specialisation:51 Row:2 Column:1 Rank:1",
-    "icon": "icon_5121",
+    "name": "Nova Sacrée",
+    "icon": "spell_holy_holynova",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:2 Column:1 Rank:1. Use icon icon_5121.jpg"
+    "description": "Technique a activer, instantanée, coûte 185pts de mana, ne génère aucune menace, Provoque une zone d'effet de zone du Sacré de 10yards de portée, qui soigne les cibles alliés et inflige des dégats aux ennemis équivalent a 10% du bonus sort et soin du Prêtre"
   },
   "51212": {
     "name": "Specialisation:51 Row:2 Column:1 Rank:2",
@@ -9660,10 +9660,10 @@
     "description": "Description for Specialisation:51 Row:2 Column:1 Rank:5. Use icon icon_5121.jpg"
   },
   "51221": {
-    "name": "Specialisation:51 Row:2 Column:2 Rank:1",
-    "icon": "icon_5122",
+    "name": "Esprit Divin",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:2 Column:2 Rank:1. Use icon icon_5122.jpg"
+    "description": "Technique a activer, instantanée, coûte 970pts de mana, 30yards de portée, Lance une amélioration sur le groupe de la cible et augmente leur Esprit de 40 durant 30min"
   },
   "51222": {
     "name": "Specialisation:51 Row:2 Column:2 Rank:2",
@@ -9690,16 +9690,16 @@
     "description": "Description for Specialisation:51 Row:2 Column:2 Rank:5. Use icon icon_5122.jpg"
   },
   "51231": {
-    "name": "Specialisation:51 Row:2 Column:3 Rank:1",
-    "icon": "icon_5123",
+    "name": "Résurection Améliorée (rang1)",
+    "icon": "spell_holy_persuitofjustice",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:2 Column:3 Rank:1. Use icon icon_5123.jpg"
+    "description": "Diminue le coût en mana de la technique Résurrection de 20% ainsi que son temps d'incantation de 1sec et augmente le montant de vie et de mana rendu de 15%"
   },
   "51232": {
-    "name": "Specialisation:51 Row:2 Column:3 Rank:2",
+    "name": "Résurection Améliorée (rang2)",
     "icon": "icon_5123",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:2 Column:3 Rank:2. Use icon icon_5123.jpg"
+    "description": "Diminue le coût en mana de la technique Résurrection de 40% ainsi que son temps d'incantation de 2sec et augmente le montant de vie et de mana rendu de 30%"
   },
   "51233": {
     "name": "Specialisation:51 Row:2 Column:3 Rank:3",
@@ -9720,22 +9720,22 @@
     "description": "Description for Specialisation:51 Row:2 Column:3 Rank:5. Use icon icon_5123.jpg"
   },
   "51301": {
-    "name": "Specialisation:51 Row:3 Column:0 Rank:1",
-    "icon": "icon_5130",
+    "name": "Protection du Sacré (rang1)",
+    "icon": "spell_holy_spellwarding",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:3 Column:0 Rank:1. Use icon icon_5130.jpg"
+    "description": "Diminue tout les dégats subit par le Prêtre de 2%"
   },
   "51302": {
-    "name": "Specialisation:51 Row:3 Column:0 Rank:2",
+    "name": "Protection du Sacré (rang2)",
     "icon": "icon_5130",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:3 Column:0 Rank:2. Use icon icon_5130.jpg"
+    "description": "Diminue tout les dégats subit par le Prêtre de 4%"
   },
   "51303": {
-    "name": "Specialisation:51 Row:3 Column:0 Rank:3",
+    "name": "Protection du Sacré (rang3)",
     "icon": "icon_5130",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:3 Column:0 Rank:3. Use icon icon_5130.jpg"
+    "description": "Diminue tout les dégats subit par le Prêtre de 6%"
   },
   "51304": {
     "name": "Specialisation:51 Row:3 Column:0 Rank:4",
@@ -9750,16 +9750,16 @@
     "description": "Description for Specialisation:51 Row:3 Column:0 Rank:5. Use icon icon_5130.jpg"
   },
   "51311": {
-    "name": "Specialisation:51 Row:3 Column:1 Rank:1",
-    "icon": "icon_5131",
+    "name": "Allonge du Sacré (rang1)",
+    "icon": "spell_holy_purify",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:3 Column:1 Rank:1. Use icon icon_5131.jpg"
+    "description": "Augmente la portée des sorts du Sacré de 10% jusqu'a un maximum de 40yards et augmente la durée de la technique Esprit Divin de 50%"
   },
   "51312": {
-    "name": "Specialisation:51 Row:3 Column:1 Rank:2",
+    "name": "Allonge du Sacré (rang2)",
     "icon": "icon_5131",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:3 Column:1 Rank:2. Use icon icon_5131.jpg"
+    "description": "Augmente la portée des sorts du Sacré de 20% jusqu'a un maximum de 40yards et augmente la durée de la technique Esprit Divin de 100%"
   },
   "51313": {
     "name": "Specialisation:51 Row:3 Column:1 Rank:3",
@@ -9780,22 +9780,22 @@
     "description": "Description for Specialisation:51 Row:3 Column:1 Rank:5. Use icon icon_5131.jpg"
   },
   "51321": {
-    "name": "Specialisation:51 Row:3 Column:2 Rank:1",
-    "icon": "icon_5132",
+    "name": "Soigner les Maladies (rang1)",
+    "icon": "ability_rogue_feigndeath",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:3 Column:2 Rank:1. Use icon icon_5132.jpg"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 10%, augmente la durée de la technique Abolir la Maladie de 5sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 10% du bonus soin du Prêtre"
   },
   "51322": {
-    "name": "Specialisation:51 Row:3 Column:2 Rank:2",
+    "name": "Soigner les Maladies (rang2)",
     "icon": "icon_5132",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:3 Column:2 Rank:2. Use icon icon_5132.jpg"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 20%, augmente la durée de la technique Abolir la Maladie de 10sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 20% du bonus soin du Prêtre"
   },
   "51323": {
-    "name": "Specialisation:51 Row:3 Column:2 Rank:3",
+    "name": "Soigner les Maladies (rang3)",
     "icon": "icon_5132",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:3 Column:2 Rank:3. Use icon icon_5132.jpg"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 30%, augmente la durée de la technique Abolir la Maladie de 15sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 30% du bonus soin du Prêtre"
   },
   "51324": {
     "name": "Specialisation:51 Row:3 Column:2 Rank:4",
@@ -9810,16 +9810,16 @@
     "description": "Description for Specialisation:51 Row:3 Column:2 Rank:5. Use icon icon_5132.jpg"
   },
   "51331": {
-    "name": "Specialisation:51 Row:3 Column:3 Rank:1",
-    "icon": "icon_5133",
+    "name": "Lumière Incendiaire (rang1)",
+    "icon": "spell_holy_searinglightpriest",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:3 Column:3 Rank:1. Use icon icon_5133.jpg"
+    "description": "Augmente le montant des critiques obtenus avec toutes les techniques du Sacré de 10%"
   },
   "51332": {
-    "name": "Specialisation:51 Row:3 Column:3 Rank:2",
+    "name": "Lumière Incendiaire (rang2)",
     "icon": "icon_5133",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:3 Column:3 Rank:2. Use icon icon_5133.jpg"
+    "description": "Augmente le montant des critiques obtenus avec toutes les techniques du Sacré de 20%"
   },
   "51333": {
     "name": "Specialisation:51 Row:3 Column:3 Rank:3",
@@ -9840,22 +9840,22 @@
     "description": "Description for Specialisation:51 Row:3 Column:3 Rank:5. Use icon icon_5133.jpg"
   },
   "51401": {
-    "name": "Specialisation:51 Row:4 Column:0 Rank:1",
-    "icon": "icon_5140",
+    "name": "Résistance au Sacré (rang1)",
+    "icon": "spell_holy_holysmite",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:4 Column:0 Rank:1. Use icon icon_5140.jpg"
+    "description": "Diminue les Résistances au Sacré de vos cibles de 5pts et augmente votre Résistance au Sacré de 20pts"
   },
   "51402": {
-    "name": "Specialisation:51 Row:4 Column:0 Rank:2",
+    "name": "Résistance au Sacré (rang2)",
     "icon": "icon_5140",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:4 Column:0 Rank:2. Use icon icon_5140.jpg"
+    "description": "Diminue les Résistances au Sacré de vos cibles de 10pts et augmente votre Résistance au Sacré de 40pts"
   },
   "51403": {
-    "name": "Specialisation:51 Row:4 Column:0 Rank:3",
+    "name": "Résistance au Sacré (rang3)",
     "icon": "icon_5140",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:4 Column:0 Rank:3. Use icon icon_5140.jpg"
+    "description": "Diminue les Résistances au Sacré de vos cibles de 15pts et augmente votre Résistance au Sacré de 60pts"
   },
   "51404": {
     "name": "Specialisation:51 Row:4 Column:0 Rank:4",
@@ -9870,10 +9870,10 @@
     "description": "Description for Specialisation:51 Row:4 Column:0 Rank:5. Use icon icon_5140.jpg"
   },
   "51411": {
-    "name": "Specialisation:51 Row:4 Column:1 Rank:1",
-    "icon": "icon_5141",
+    "name": "Esprit de Rédemption",
+    "icon": "inv_enchant_essenceeternallarge",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:4 Column:1 Rank:1. Use icon icon_5141.jpg"
+    "description": "Lorsque le Prêtre meurt, il devient un Ange durant 10sec il ne peut plus se déplacer mais peut continuer a lancer des techniques du Sacré uniquement, ses sorts ne sont pas gratuit en mana et peuvent être interrompus"
   },
   "51412": {
     "name": "Specialisation:51 Row:4 Column:1 Rank:2",
@@ -9900,10 +9900,10 @@
     "description": "Description for Specialisation:51 Row:4 Column:1 Rank:5. Use icon icon_5141.jpg"
   },
   "51421": {
-    "name": "Specialisation:51 Row:4 Column:2 Rank:1",
-    "icon": "icon_5142",
+    "name": "Pénitence",
+    "icon": "spell_holy_searinglight",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:4 Column:2 Rank:1. Use icon icon_5142.jpg"
+    "description": "Technique a activer, instantanée, canalisation, coûte 320pts de mana, 12sec de temps de rechargement, 30yards de portée, La cible du Prêtre subit ou est soignée de 240pts instantanément puis toutes les secondes pendant 2sec"
   },
   "51422": {
     "name": "Specialisation:51 Row:4 Column:2 Rank:2",
@@ -9930,16 +9930,16 @@
     "description": "Description for Specialisation:51 Row:4 Column:2 Rank:5. Use icon icon_5142.jpg"
   },
   "51431": {
-    "name": "Specialisation:51 Row:4 Column:3 Rank:1",
-    "icon": "icon_5143",
+    "name": "Puissance du Sacré (rang1)",
+    "icon": "spell_holy_innerfire",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:4 Column:3 Rank:1. Use icon icon_5143.jpg"
+    "description": "Augmente le montant des sorts et des soins du Sacré du Prêtre de 5%"
   },
   "51432": {
-    "name": "Specialisation:51 Row:4 Column:3 Rank:2",
+    "name": "Puissance du Sacré (rang2)",
     "icon": "icon_5143",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:4 Column:3 Rank:2. Use icon icon_5143.jpg"
+    "description": "Augmente le montant des sorts et des soins du Sacré du Prêtre de 10%"
   },
   "51433": {
     "name": "Specialisation:51 Row:4 Column:3 Rank:3",
@@ -9960,16 +9960,16 @@
     "description": "Description for Specialisation:51 Row:4 Column:3 Rank:5. Use icon icon_5143.jpg"
   },
   "51511": {
-    "name": "Specialisation:51 Row:5 Column:1 Rank:1",
-    "icon": "icon_5151",
+    "name": "Prières Améliorées (rang1)",
+    "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:5 Column:1 Rank:1. Use icon icon_5151.jpg"
+    "description": "Diminue le temps d'incantation de la technique Prière de Soin de 0,25sec et le coût en mana de toutes les techniques de Prière de 25%"
   },
   "51512": {
-    "name": "Specialisation:51 Row:5 Column:1 Rank:2",
+    "name": "Prières Améliorées (rang2)",
     "icon": "icon_5151",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:5 Column:1 Rank:2. Use icon icon_5151.jpg"
+    "description": "Diminue le temps d'incantation de la technique Prière de Soin de 0,5sec et le coût en mana de toutes les techniques de Prière de 50%"
   },
   "51513": {
     "name": "Specialisation:51 Row:5 Column:1 Rank:3",
@@ -9990,22 +9990,22 @@
     "description": "Description for Specialisation:51 Row:5 Column:1 Rank:5. Use icon icon_5151.jpg"
   },
   "51521": {
-    "name": "Specialisation:51 Row:5 Column:2 Rank:1",
-    "icon": "icon_5152",
+    "name": "Guide Spirituel (rang1)",
+    "icon": "spell_holy_spiritualguidence",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:5 Column:2 Rank:1. Use icon icon_5152.jpg"
+    "description": "Convertit 10% de l'Esprit du Prêtre en Bonus sort"
   },
   "51522": {
-    "name": "Specialisation:51 Row:5 Column:2 Rank:2",
+    "name": "Guide Spirituel (rang2)",
     "icon": "icon_5152",
     "rank": 2,
-    "description": "Description for Specialisation:51 Row:5 Column:2 Rank:2. Use icon icon_5152.jpg"
+    "description": "Convertit 20% de l'Esprit du Prêtre en Bonus sort"
   },
   "51523": {
-    "name": "Specialisation:51 Row:5 Column:2 Rank:3",
+    "name": "Guide Spirituel (rang3)",
     "icon": "icon_5152",
     "rank": 3,
-    "description": "Description for Specialisation:51 Row:5 Column:2 Rank:3. Use icon icon_5152.jpg"
+    "description": "Convertit 30% de l'Esprit du Prêtre en Bonus sort"
   },
   "51524": {
     "name": "Specialisation:51 Row:5 Column:2 Rank:4",
@@ -10020,10 +10020,10 @@
     "description": "Description for Specialisation:51 Row:5 Column:2 Rank:5. Use icon icon_5152.jpg"
   },
   "51611": {
-    "name": "Specialisation:51 Row:6 Column:1 Rank:1",
-    "icon": "icon_5161",
+    "name": "Prière du Désespoir",
+    "icon": "spell_holy_holybolt",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:6 Column:1 Rank:1. Use icon icon_5161.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 140pts de mana, Soigne instantanément le Prêtre de 1400pts de Vie"
   },
   "51612": {
     "name": "Specialisation:51 Row:6 Column:1 Rank:2",
@@ -10050,10 +10050,10 @@
     "description": "Description for Specialisation:51 Row:6 Column:1 Rank:5. Use icon icon_5161.jpg"
   },
   "51621": {
-    "name": "Specialisation:51 Row:6 Column:2 Rank:1",
-    "icon": "icon_5162",
+    "name": "Puit de Jouvence",
+    "icon": "spell_holy_summonlightwell",
     "rank": 1,
-    "description": "Description for Specialisation:51 Row:6 Column:2 Rank:1. Use icon icon_5162.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une amélioration de 10sec ou 5 charges qui, lorsque le joueur qui click dessus, lui rend 100% de sa vie et de sa mana en 10sec"
   },
   "51622": {
     "name": "Specialisation:51 Row:6 Column:2 Rank:2",
