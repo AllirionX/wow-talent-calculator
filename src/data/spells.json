@@ -10383,7 +10383,7 @@
     "name": "Fouet Mental",
     "icon": "spell_shadow_siphonmana",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 205pts de mana, 2Oyards de portée, canalisation qui inflige 426pts de dégats d'Ombre a la cible en 3sec et réduit sa vitesse de déplacement de 50% durant la durée de l'effet"
+    "description": "Technique a activer, instantanée, coûte 205pts de mana, 20yards de portée, canalisation qui inflige 426pts de dégats d'Ombre a la cible en 3sec et réduit sa vitesse de déplacement de 50% durant la durée de l'effet"
   },
   "52222": {
     "name": "Specialisation:52 Row:2 Column:2 Rank:2",
@@ -10773,7 +10773,7 @@
     "name": "Toucher de Faiblesse",
     "icon": "spell_shadow_gathershadows",
     "rank": 1,
-    "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui donne 100% de chance d'Etourdissement au prochain sort d'Ombre lancé par le Prêtre sur la cible et pose ensuite un affaiblissement qui diminue les dégats de la cible de 20pts pendant 1min"
+    "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui inflige 64pts de dégats d'Ombre a l'a prochaine cible qui l'attaque en mélée ou a distance et donne 100% de chance d'Etourdissement au prochain sort d'Ombre lancé par le Prêtre sur la cible et pose ensuite un affaiblissement qui diminue les dégats de la cible de 20pts pendant 1min"
   },
   "52622": {
     "name": "Specialisation:52 Row:6 Column:2 Rank:2",
