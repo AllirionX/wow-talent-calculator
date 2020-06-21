@@ -10261,7 +10261,7 @@
   },
   "52121": {
     "name": "Résilience a l'Ombre (rang1)",
-    "icon": "spell_shadow_summonvoidwalker",
+    "icon": "spell_shadow_antishadow",
     "rank": 1,
     "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 5% et augmente l'effet de la technique Protection contre l'Ombre de 5pts"
   },
@@ -10441,7 +10441,7 @@
   },
   "52301": {
     "name": "Oubli Amélioré (rang1)",
-    "icon": "spell_ magic_lesserinvisibilty",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Oubli de 2sec et son coût en mana de 33% et réduit les dégats que subit le Prêtre durant la durée de son effet de 2% et augmente son effet de 5%"
   },
@@ -10741,7 +10741,7 @@
   },
   "52611": {
     "name": "Forme d'Ombre",
-    "icon": "icon_5261",
+    "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
     "description": "Technique a activer, instantanée, gratuite en mana, hors temps de rechargement global, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme."
   },
@@ -10771,7 +10771,7 @@
   },
   "52621": {
     "name": "Toucher de Faiblesse",
-    "icon": "spell_shadow_ritualofsacrifice",
+    "icon": "spell_shadow_gathershadows",
     "rank": 1,
     "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui donne 100% de chance d'Etourdissement au prochain sort d'Ombre lancé par le Prêtre sur la cible et pose ensuite un affaiblissement qui diminue les dégats de la cible de 20pts pendant 1min"
   },
