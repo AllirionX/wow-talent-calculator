@@ -8641,7 +8641,7 @@
   },
   "50001": {
     "name": "Abolition (rang1)",
-    "icon": "spell_holy_purify",
+    "icon": "spell_holy_dispelmagic",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques Dissipation de la Magie, Abolir la Maladie et Guérison de la Maladie de 5%"
   },
@@ -8679,7 +8679,7 @@
     "name": "Robustesse Améliorée (rang2)",
     "icon": "icon_5001",
     "rank": 2,
-    "description": "Augmente l'efficacté des techniques Mot de Robustesse et Prière de Robustesse de 15%"
+    "description": "Augmente l'efficacté des techniques Mot de Robustesse et Prière de Robustesse de 30%"
   },
   "50013": {
     "name": "Specialisation:50 Row:0 Column:1 Rank:3",
@@ -8733,13 +8733,13 @@
     "name": "Inspiration (rang1)",
     "icon": "spell_holy_layonhands",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un critique sur un soin, il buff la cible durant 15sec ce qui réduit les dégats subit de 3%"
+    "description": "Lorsque le Prêtre obtient un critique avec une de ses techniques de Soin, il pose une amélioration sur la cible durant 15sec qui réduit les dégats subit de 3%"
   },
   "50032": {
     "name": "Inspiration (rang2)",
     "icon": "icon_5003",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un critique sur un soin, il buff la cible durant 15sec ce qui réduit les dégats subit de 6%"
+    "description": "Lorsque le Prêtre obtient un critique avec une de ses techniques de Soin, il pse une amélioration sur la cible durant 15sec qui réduit les dégats subit de 6%"
   },
   "50033": {
     "name": "Specialisation:50 Row:0 Column:3 Rank:3",
@@ -8799,7 +8799,7 @@
     "name": "Résolution Silencieuse (rang2)",
     "icon": "icon_5011",
     "rank": 2,
-    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 10%"
+    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 20%"
   },
   "50113": {
     "name": "Specialisation:50 Row:1 Column:1 Rank:3",
@@ -8853,13 +8853,13 @@
     "name": "Apaisement (rang1)",
     "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 10% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre diminue les dégats qu'inflige la cible de 3%"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 10% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 3%"
   },
   "50132": {
     "name": "Apaisement (rang2)",
     "icon": "icon_5013",
     "rank": 2,
-    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 20% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre diminue les dégats qu'inflige la cible de 6%"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 20% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 6%"
   },
   "50133": {
     "name": "Specialisation:50 Row:1 Column:3 Rank:3",
@@ -8883,19 +8883,19 @@
     "name": "Méditation (rang1)",
     "icon": "spell_nature_sleep",
     "rank": 1,
-    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
+    "description": "Permet a 5% de la régénération de l'Esprit du Prêtre d'être toujours active"
   },
   "50202": {
     "name": "Méditation (rang2)",
     "icon": "icon_5020",
     "rank": 2,
-    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
+    "description": "Permet a 10% de la régénération de l'Esprit du Prêtre d'être toujours active"
   },
   "50203": {
     "name": "Méditation (rang3)",
     "icon": "icon_5020",
     "rank": 3,
-    "description": "Permet a 5% de la régénération du Prêtre d'être toujours active"
+    "description": "Permet a 15% de la régénération de l'Esprit du Prêtre d'être toujours active"
   },
   "50204": {
     "name": "Specialisation:50 Row:2 Column:0 Rank:4",
@@ -8913,7 +8913,7 @@
     "name": "Gardien de Peur",
     "icon": "spell_holy_excorcism",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, coûte 100pts de mana, 40yards de portée, Le Prêtre lance une amélioration de 2min30 de durée qui immunise la cible au prochain effet de Peur qu'elle subit"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, coûte 100pts de mana, 30yards de portée, Le Prêtre lance une amélioration de 2min30 de durée qui immunise la cible au prochain effet de Peur qu'elle subit"
   },
   "50212": {
     "name": "Specialisation:50 Row:2 Column:1 Rank:2",
@@ -8943,7 +8943,7 @@
     "name": "Focalisation Améliorée",
     "icon": "spell_frost_windwalkon",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Donne une amélioration au Prêtre qui lui donne 100% d'anti interruption et de chance de critique sur sa prochaine technique, et la rend gratuite en mana"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Donne une amélioration au Prêtre qui donne a sa prochaine technique de sort 100% de chance de critique et 100% de chance d'anti interruption en plus de diminuer le coût en mana de 100%"
   },
   "50222": {
     "name": "Specialisation:50 Row:2 Column:2 Rank:2",
@@ -9009,13 +9009,13 @@
     "name": "Feu Intérieur Amélioré (rang2)",
     "icon": "icon_5030",
     "rank": 2,
-    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 10% et augmente son nombre de charges de 10"
+    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 20% et augmente son nombre de charges de 10"
   },
   "50303": {
     "name": "Feu Intérieur Amélioré (rang3)",
     "icon": "icon_5030",
     "rank": 3,
-    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 10% et augmente son nombre de charges de 15"
+    "description": "Augmente le bonus d'Armure que fournit au Prêtre la technique Feu Intérieur de 30% et augmente son nombre de charges de 15"
   },
   "50304": {
     "name": "Specialisation:50 Row:3 Column:0 Rank:4",
@@ -9061,7 +9061,7 @@
   },
   "50321": {
     "name": "Puissance Focalisée (rang1)",
-    "icon": "spell_holy_excorcism_01",
+    "icon": "spell_shadow_manaburn",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 33% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
@@ -9069,13 +9069,13 @@
     "name": "Puissance Focalisée (rang2)",
     "icon": "icon_5032",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
   "50323": {
     "name": "Puissance Focalisée (rang3)",
     "icon": "icon_5032",
     "rank": 3,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 100% et donne 100% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 100% et donne 100% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
   },
   "50324": {
     "name": "Specialisation:50 Row:3 Column:2 Rank:4",
@@ -9183,7 +9183,7 @@
     "name": "Infusion de Puissance",
     "icon": "spell_holy_powerinfusion",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 200pts de mana, 30yards de portée, le Prêtre donne une amélioration a sa cible qui augmente le montant des soins et des dégats de la cible de 20% et diminue le coût en mana de toutes ses techniques de 20% durant 15sec"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 200pts de mana, 30yards de portée, le Prêtre pose une amélioration sur sa cible de 15sec qui augmente le montant des soins et des dégats de la cible de 20% et diminue le coût en mana de toutes ses techniques de 20%"
   },
   "50422": {
     "name": "Specialisation:50 Row:4 Column:2 Rank:2",
@@ -9213,13 +9213,13 @@
     "name": "Force Mentale (rang1)",
     "icon": "spell_nature_enchantarmor",
     "rank": 1,
-    "description": "Augmente les Points de mana du Prêtre de 5%"
+    "description": "Augmente le total des Points de mana du Prêtre de 5%"
   },
   "50432": {
     "name": "Force Mentale (rang2)",
     "icon": "icon_5043",
     "rank": 2,
-    "description": "Augmente les Points de mana du Prêtre de 10%"
+    "description": "Augmente le total des Points de mana du Prêtre de 10%"
   },
   "50433": {
     "name": "Specialisation:50 Row:4 Column:3 Rank:3",
@@ -9243,13 +9243,13 @@
     "name": "Spécialisation Mot de Bouclier (rang1)",
     "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 20%, ainsi que son temps de rechargement de 2sec, et diminue la durée de l'affaiblissement Âme Affaiblit que pose la technique de 2sec"
+    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 20%, ainsi que son temps de rechargement de 2sec, et diminue également la durée de l'affaiblissement Âme Affaiblit que pose la technique de la même durée"
   },
   "50512": {
     "name": "Spécialisation Mot de Bouclier (rang2)",
     "icon": "icon_5051",
     "rank": 2,
-    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 40%, ainsi que son temps de rechargement de 4sec, et diminue la durée de l'affaiblissement Âme Affaiblit que pose la technique de 4sec"
+    "description": "Diminue le coût en mana de la technique Mot de Pouvoir Bouclier du Prêtre de 40%, ainsi que son temps de rechargement de 4sec, et diminue agalement la durée de l'affaiblissement Âme Affaiblit que pose la technique de la même durée"
   },
   "50513": {
     "name": "Specialisation:50 Row:5 Column:1 Rank:3",
@@ -9271,7 +9271,7 @@
   },
   "50521": {
     "name": "Résilience Bénie (rang1)",
-    "icon": "icon_5052",
+    "icon": "spell_holy_divinesprit",
     "rank": 1,
     "description": "Convertit 10% de l'Endurance du Prêtre en Bonus sort"
   },
@@ -9300,7 +9300,7 @@
     "description": "Description for Specialisation:50 Row:5 Column:2 Rank:5. Use icon icon_5052.jpg"
   },
   "50611": {
-    "name": "Supression de la Douleur",
+    "name": "Suppression de la Douleur",
     "icon": "spell_fire_incinerate",
     "rank": 1,
     "description": "Technique a activer, instantanée, 3min de temps de rechargement, 30yards de portée, coûte 200pts de mana, Pose une amélioration sur la cible du Prêtre qui diminue les dégats subit de 75% durant 6sec et rend insensible aux effets de dissipation offensive durant la durée de l'effet"
@@ -9333,7 +9333,7 @@
     "name": "Réaction",
     "icon": "spell_nature_lightningshield",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30yards de portée, coûte 300pts de mana, Pose une amélioration d'Orbe sur la cible du Prêtre de 3 charges, chaque charge est consommée lorsque le bénéficiaire subit une attaque en mélée ou a distance, soigne la cible de 360points de vie, inflige également 90pts de dégats d'Ombre a l'attaquant et si c'est possible brûle 180pts de mana également"
+    "description": "Technique a activer, instantanée, 30yards de portée, coûte 300pts de mana, Pose une amélioration sur la cible du Prêtre de 3 charges, une Orbe est consommée a chaque fois que le bénéficiaire subit une attaque en mélée ou a distance, cela soigne la cible de 360points de vie et inflige également 90pts de dégats d'Ombre a l'attaquant et si c'est possible lui brûle 180pts de mana également"
   },
   "50622": {
     "name": "Specialisation:50 Row:6 Column:2 Rank:2",
