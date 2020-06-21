@@ -9091,7 +9091,7 @@
   },
   "50331": {
     "name": "Evangélisme (rang1)",
-    "icon": "spell_holy_prayerofhealing02",
+    "icon": "spell_holy_mindvision",
     "rank": 1,
     "description": "Augmente la portée de toutes les techniques de Discipline de 5yards et augmente la durée des améliorations Robustesse de 50%"
   },
