@@ -10080,22 +10080,22 @@
     "description": "Description for Specialisation:51 Row:6 Column:2 Rank:5. Use icon icon_5162.jpg"
   },
   "52001": {
-    "name": "Specialisation:52 Row:0 Column:0 Rank:1",
-    "icon": "icon_5200",
+    "name": "Attrait pour l'Ombre (rang1)",
+    "icon": "inv_misc_head_dragon_black",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:0 Column:0 Rank:1. Use icon icon_5200.jpg"
+    "description": "Augmente l'Intelligence du Prêtre de 5%"
   },
   "52002": {
-    "name": "Specialisation:52 Row:0 Column:0 Rank:2",
+    "name": "Attrait pour l'Ombre (rang2)",
     "icon": "icon_5200",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:0 Column:0 Rank:2. Use icon icon_5200.jpg"
+    "description": "Augmente l'Intelligence du Prêtre de 10%"
   },
   "52003": {
-    "name": "Specialisation:52 Row:0 Column:0 Rank:3",
+    "name": "Attrait pour l'Ombre (rang3)",
     "icon": "icon_5200",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:0 Column:0 Rank:3. Use icon icon_5200.jpg"
+    "description": "Augmente l'Intelligence du Prêtre de 15%"
   },
   "52004": {
     "name": "Specialisation:52 Row:0 Column:0 Rank:4",
@@ -10110,16 +10110,16 @@
     "description": "Description for Specialisation:52 Row:0 Column:0 Rank:5. Use icon icon_5200.jpg"
   },
   "52011": {
-    "name": "Specialisation:52 Row:0 Column:1 Rank:1",
-    "icon": "icon_5201",
+    "name": "Connexion Spirituelle (rang1)",
+    "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:0 Column:1 Rank:1. Use icon icon_5201.jpg"
+    "description": "Lorsque vous obtenez un Coup Fatal sur une cible vous rapportant de l'Expérience ou de l'Honneur, ou si la cible était sous l'effet de la technique Etreinte Vampirique au moment de mourir ou si vous obtenez un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 15sec et lui permet a 50% de sa régénération d'Esprit d'être toujours active"
   },
   "52012": {
-    "name": "Specialisation:52 Row:0 Column:1 Rank:2",
+    "name": "Connexion Spirituelle (rang2)",
     "icon": "icon_5201",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:0 Column:1 Rank:2. Use icon icon_5201.jpg"
+    "description": "Lorsque vous obtenez un Coup Fatal sur une cible vous rapportant de l'Expérience ou de l'Honneur, ou si la cible était sous l'effet de la technique Etreinte Vampirique au moment de mourir ou si vous obtenez un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 15sec et lui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52013": {
     "name": "Specialisation:52 Row:0 Column:1 Rank:3",
@@ -10140,22 +10140,22 @@
     "description": "Description for Specialisation:52 Row:0 Column:1 Rank:5. Use icon icon_5201.jpg"
   },
   "52021": {
-    "name": "Specialisation:52 Row:0 Column:2 Rank:1",
-    "icon": "icon_5202",
+    "name": "Etendue de l'Ombre (rang1)",
+    "icon": "spell_shadow_shadowwordpain",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:0 Column:2 Rank:1. Use icon icon_5202.jpg"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 2sec et celle de la technique Rénovation de 1sec"
   },
   "52022": {
-    "name": "Specialisation:52 Row:0 Column:2 Rank:2",
+    "name": "Etendue de l'Ombre (rangé)",
     "icon": "icon_5202",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:0 Column:2 Rank:2. Use icon icon_5202.jpg"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 4sec et celle de la technique Rénovation de 2sec"
   },
   "52023": {
-    "name": "Specialisation:52 Row:0 Column:2 Rank:3",
+    "name": "Etendue de l'Ombre (rang3)",
     "icon": "icon_5202",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:0 Column:2 Rank:3. Use icon icon_5202.jpg"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 6sec et celle de la technique Rénovation de 3sec"
   },
   "52024": {
     "name": "Specialisation:52 Row:0 Column:2 Rank:4",
@@ -10170,16 +10170,16 @@
     "description": "Description for Specialisation:52 Row:0 Column:2 Rank:5. Use icon icon_5202.jpg"
   },
   "52031": {
-    "name": "Specialisation:52 Row:0 Column:3 Rank:1",
-    "icon": "icon_5203",
+    "name": "Aveuglement (rang1)",
+    "icon": "spell_shadow_burningspirit",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:0 Column:3 Rank:1. Use icon icon_5203.jpg"
+    "description": "Augmente les chances de Toucher du Prêtre de 3% et réduit la pénalité de la technique Contrôle Mental de 50%"
   },
   "52032": {
-    "name": "Specialisation:52 Row:0 Column:3 Rank:2",
+    "name": "Aveuglement (rang2)",
     "icon": "icon_5203",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:0 Column:3 Rank:2. Use icon icon_5203.jpg"
+    "description": "Augmente les chances de Toucher du Prêtre de 6% et réduit la pénalité de la technique Contrôle Mental de 100%"
   },
   "52033": {
     "name": "Specialisation:52 Row:0 Column:3 Rank:3",
@@ -10200,22 +10200,22 @@
     "description": "Description for Specialisation:52 Row:0 Column:3 Rank:5. Use icon icon_5203.jpg"
   },
   "52101": {
-    "name": "Specialisation:52 Row:1 Column:0 Rank:1",
-    "icon": "icon_5210",
+    "name": "Subtilitée de l'Ombre (rang1)",
+    "icon": "spell_shadow_shadowward",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:1 Column:0 Rank:1. Use icon icon_5210.jpg"
+    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 5% et lui ajoute 5pts de mp5"
   },
   "52102": {
-    "name": "Specialisation:52 Row:1 Column:0 Rank:2",
+    "name": "Subtilitée de l'Ombre (rang2)",
     "icon": "icon_5210",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:1 Column:0 Rank:2. Use icon icon_5210.jpg"
+    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 10% et lui ajoute 10pts de mp5"
   },
   "52103": {
-    "name": "Specialisation:52 Row:1 Column:0 Rank:3",
+    "name": "Subtilitée de l'Ombre (rang3)",
     "icon": "icon_5210",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:1 Column:0 Rank:3. Use icon icon_5210.jpg"
+    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 15% et lui ajoute 15pts de mp5"
   },
   "52104": {
     "name": "Specialisation:52 Row:1 Column:0 Rank:4",
@@ -10230,16 +10230,16 @@
     "description": "Description for Specialisation:52 Row:1 Column:0 Rank:5. Use icon icon_5210.jpg"
   },
   "52111": {
-    "name": "Specialisation:52 Row:1 Column:1 Rank:1",
-    "icon": "icon_5211",
+    "name": "Focalisation de l'Ombre (rang1)",
+    "icon": "spell_shadow_scourgebuild",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:1 Column:1 Rank:1. Use icon icon_5211.jpg"
+    "description": "Donne 35% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
   },
   "52112": {
-    "name": "Specialisation:52 Row:1 Column:1 Rank:2",
+    "name": "Focalisation de l'Ombre (rang2)",
     "icon": "icon_5211",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:1 Column:1 Rank:2. Use icon icon_5211.jpg"
+    "description": "Donne 70% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
   },
   "52113": {
     "name": "Specialisation:52 Row:1 Column:1 Rank:3",
@@ -10260,22 +10260,22 @@
     "description": "Description for Specialisation:52 Row:1 Column:1 Rank:5. Use icon icon_5211.jpg"
   },
   "52121": {
-    "name": "Specialisation:52 Row:1 Column:2 Rank:1",
-    "icon": "icon_5212",
+    "name": "Résilience a l'Ombre (rang1)",
+    "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:1 Column:2 Rank:1. Use icon icon_5212.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 5% et augmente l'effet de la technique Protection contre l'Ombre de 5pts"
   },
   "52122": {
-    "name": "Specialisation:52 Row:1 Column:2 Rank:2",
+    "name": "Résilience a l'Ombre (rang2)",
     "icon": "icon_5212",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:1 Column:2 Rank:2. Use icon icon_5212.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 10% et augmente l'effet de la technique Protection contre l'Ombre de 10pts"
   },
   "52123": {
-    "name": "Specialisation:52 Row:1 Column:2 Rank:3",
+    "name": "Résilience a l'Ombre (rang3)",
     "icon": "icon_5212",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:1 Column:2 Rank:3. Use icon icon_5212.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 15% et augmente l'effet de la technique Protection contre l'Ombre de 15pts"
   },
   "52124": {
     "name": "Specialisation:52 Row:1 Column:2 Rank:4",
@@ -10290,16 +10290,16 @@
     "description": "Description for Specialisation:52 Row:1 Column:2 Rank:5. Use icon icon_5212.jpg"
   },
   "52131": {
-    "name": "Specialisation:52 Row:1 Column:3 Rank:1",
-    "icon": "icon_5213",
+    "name": "Misère (rang1)",
+    "icon": "spell_shadow_charm",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:1 Column:3 Rank:1. Use icon icon_5213.jpg"
+    "description": "Lorsqu'un affaiblissement posé par le Prêtre est dissipé, 15% du coût en mana de la technique est rendue au Prêtre et permet a la technique Apaisement de diminuer la portée des attaques a distance de la cible de 3yards"
   },
   "52132": {
-    "name": "Specialisation:52 Row:1 Column:3 Rank:2",
+    "name": "Misère (rang2)",
     "icon": "icon_5213",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:1 Column:3 Rank:2. Use icon icon_5213.jpg"
+    "description": "Lorsqu'un affaiblissement posé par le Prêtre est dissipé, 30% du coût en mana de la technique est rendue au Prêtre et permet a la technique Apaisement de diminuer la portée des attaques a distance de la cible de 6yards"
   },
   "52133": {
     "name": "Specialisation:52 Row:1 Column:3 Rank:3",
@@ -10320,22 +10320,22 @@
     "description": "Description for Specialisation:52 Row:1 Column:3 Rank:5. Use icon icon_5213.jpg"
   },
   "52201": {
-    "name": "Specialisation:52 Row:2 Column:0 Rank:1",
-    "icon": "icon_5220",
+    "name": "Attaque Mentale Améliorée (rang1)",
+    "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:2 Column:0 Rank:1. Use icon icon_5220.jpg"
+    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 1sec et augmente les chances de critiques de 2%"
   },
   "52202": {
-    "name": "Specialisation:52 Row:2 Column:0 Rank:2",
+    "name": "Attaque Mentale Améliorée (rang2)",
     "icon": "icon_5220",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:2 Column:0 Rank:2. Use icon icon_5220.jpg"
+    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 2sec et augmente les chances de critiques de 4%"
   },
   "52203": {
-    "name": "Specialisation:52 Row:2 Column:0 Rank:3",
+    "name": "Attaque Mentale Améliorée (rang3)",
     "icon": "icon_5220",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:2 Column:0 Rank:3. Use icon icon_5220.jpg"
+    "description": "Diminue le temps de rechargement de la technique Attaque Mentale de 3sec et augmente les chances de critiques de 6%"
   },
   "52204": {
     "name": "Specialisation:52 Row:2 Column:0 Rank:4",
@@ -10350,10 +10350,10 @@
     "description": "Description for Specialisation:52 Row:2 Column:0 Rank:5. Use icon icon_5220.jpg"
   },
   "52211": {
-    "name": "Specialisation:52 Row:2 Column:1 Rank:1",
-    "icon": "icon_5221",
+    "name": "Peste Dévorante",
+    "icon": "spell_shadow_grimward",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:2 Column:1 Rank:1. Use icon icon_5221.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 985pts de mana, 30yards de portée, Pose un affaiblissement de maladie sur la cible de 24sec, qui inflige 904pts de dégats d'Ombre et soigne le Prêtre du même montant"
   },
   "52212": {
     "name": "Specialisation:52 Row:2 Column:1 Rank:2",
@@ -10380,10 +10380,10 @@
     "description": "Description for Specialisation:52 Row:2 Column:1 Rank:5. Use icon icon_5221.jpg"
   },
   "52221": {
-    "name": "Specialisation:52 Row:2 Column:2 Rank:1",
-    "icon": "icon_5222",
+    "name": "Fouet Mental",
+    "icon": "spell_shadow_siphonmana",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:2 Column:2 Rank:1. Use icon icon_5222.jpg"
+    "description": "Technique a activer, instantanée, coûte 205pts de mana, 2Oyards de portée, canalisation qui inflige 426pts de dégats d'Ombre a la cible en 3sec et réduit sa vitesse de déplacement de 50% durant la durée de l'effet"
   },
   "52222": {
     "name": "Specialisation:52 Row:2 Column:2 Rank:2",
@@ -10410,16 +10410,16 @@
     "description": "Description for Specialisation:52 Row:2 Column:2 Rank:5. Use icon icon_5222.jpg"
   },
   "52231": {
-    "name": "Specialisation:52 Row:2 Column:3 Rank:1",
-    "icon": "icon_5223",
+    "name": "Cri Psychique Amélioré (rang1)",
+    "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:2 Column:3 Rank:1. Use icon icon_5223.jpg"
+    "description": "Diminue le temps de rechargement de la technique de 2sec et augmente sa durée de 1sec"
   },
   "52232": {
-    "name": "Specialisation:52 Row:2 Column:3 Rank:2",
+    "name": "Cri Psychique Amélioré (rang2)",
     "icon": "icon_5223",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:2 Column:3 Rank:2. Use icon icon_5223.jpg"
+    "description": "Diminue le temps de rechargement de la technique de 4sec et augmente sa durée de 2sec"
   },
   "52233": {
     "name": "Specialisation:52 Row:2 Column:3 Rank:3",
@@ -10440,22 +10440,22 @@
     "description": "Description for Specialisation:52 Row:2 Column:3 Rank:5. Use icon icon_5223.jpg"
   },
   "52301": {
-    "name": "Specialisation:52 Row:3 Column:0 Rank:1",
+    "name": "Oubli Amélioré (rang1)",
     "icon": "icon_5230",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:3 Column:0 Rank:1. Use icon icon_5230.jpg"
+    "description": "Diminue le temps de rechargement de la technique Oubli de 2sec et son coût en mana de 33% et réduit les dégats que subit le Prêtre durant la durée de son effet de 2% et augmente son effet de 5%"
   },
   "52302": {
-    "name": "Specialisation:52 Row:3 Column:0 Rank:2",
+    "name": "Oubli Amélioré (rang2)",
     "icon": "icon_5230",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:3 Column:0 Rank:2. Use icon icon_5230.jpg"
+    "description": "Diminue le temps de rechargement de la technique Oubli de 4sec et son coût en mana de 66% et réduit les dégats que subit le Prêtre durant la durée de son effet de 4% et augmente son effet de 10%"
   },
   "52303": {
-    "name": "Specialisation:52 Row:3 Column:0 Rank:3",
+    "name": "Oubli Amélioré (rang3)",
     "icon": "icon_5230",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:3 Column:0 Rank:3. Use icon icon_5230.jpg"
+    "description": "Diminue le temps de rechargement de la technique Oubli de 6sec et son coût en mana de 100% et réduit les dégats que subit le Prêtre durant la durée de son effet de 6% et augmente son effet de 15%"
   },
   "52304": {
     "name": "Specialisation:52 Row:3 Column:0 Rank:4",
@@ -10470,16 +10470,16 @@
     "description": "Description for Specialisation:52 Row:3 Column:0 Rank:5. Use icon icon_5230.jpg"
   },
   "52311": {
-    "name": "Specialisation:52 Row:3 Column:1 Rank:1",
-    "icon": "icon_5231",
+    "name": "Cri Tue Brûle (rang1)",
+    "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:3 Column:1 Rank:1. Use icon icon_5231.jpg"
+    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement les cibles durant 3sec, a la technique Fouet Mental de diminuer les soins reçu par la cible de 10%, et a la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la technique Brûlure de Mana de 0,25sec"
   },
   "52312": {
-    "name": "Specialisation:52 Row:3 Column:1 Rank:2",
+    "name": "Cri Tue Brûle (rang2)",
     "icon": "icon_5231",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:3 Column:1 Rank:2. Use icon icon_5231.jpg"
+    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement les cibles durant 6sec, a la technique Fouet Mental de diminuer les soins reçu par la cible de 20%, et a la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la technique Brûlure de Mana de 0,5sec"
   },
   "52313": {
     "name": "Specialisation:52 Row:3 Column:1 Rank:3",
@@ -10500,22 +10500,22 @@
     "description": "Description for Specialisation:52 Row:3 Column:1 Rank:5. Use icon icon_5231.jpg"
   },
   "52321": {
-    "name": "Specialisation:52 Row:3 Column:2 Rank:1",
-    "icon": "icon_5232",
+    "name": "Tissage de l'Ombre (rang1)",
+    "icon": "spell_shadow_blackplague",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:3 Column:2 Rank:1. Use icon icon_5232.jpg"
+    "description": "Les techniques d'Ombre du Prêtre pose également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 1% stackable 5fois"
   },
   "52322": {
-    "name": "Specialisation:52 Row:3 Column:2 Rank:2",
+    "name": "Tissage de l'Ombre (rang2)",
     "icon": "icon_5232",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:3 Column:2 Rank:2. Use icon icon_5232.jpg"
+    "description": "Les techniques d'Ombre du Prêtre pose également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 2% stackable 5fois"
   },
   "52323": {
-    "name": "Specialisation:52 Row:3 Column:2 Rank:3",
+    "name": "Tissage de l'Ombre (rang3)",
     "icon": "icon_5232",
     "rank": 3,
-    "description": "Description for Specialisation:52 Row:3 Column:2 Rank:3. Use icon icon_5232.jpg"
+    "description": "Les techniques d'Ombre du Prêtre pose également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 3% stackable 5fois"
   },
   "52324": {
     "name": "Specialisation:52 Row:3 Column:2 Rank:4",
@@ -10530,16 +10530,16 @@
     "description": "Description for Specialisation:52 Row:3 Column:2 Rank:5. Use icon icon_5232.jpg"
   },
   "52331": {
-    "name": "Specialisation:52 Row:3 Column:3 Rank:1",
-    "icon": "icon_5233",
+    "name": "Allonge de l'Ombre (rang1)",
+    "icon": "spell_shadow_chilltouch",
     "rank": 1,
-    "description": "Description for Specialisation:52 Row:3 Column:3 Rank:1. Use icon icon_5233.jpg"
+    "description": "Augmente la portée des techniques d'Ombre de 10% et augmente la durée de la technique Protection contre l'Ombre de 50%"
   },
   "52332": {
-    "name": "Specialisation:52 Row:3 Column:3 Rank:2",
+    "name": "Allonge de l'Ombre (rang2)",
     "icon": "icon_5233",
     "rank": 2,
-    "description": "Description for Specialisation:52 Row:3 Column:3 Rank:2. Use icon icon_5233.jpg"
+    "description": "Augmente la portée des techniques d'Ombre de 20% et augmente la durée de la technique Protection contre l'Ombre de 100%"
   },
   "52333": {
     "name": "Specialisation:52 Row:3 Column:3 Rank:3",
