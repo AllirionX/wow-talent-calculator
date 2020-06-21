@@ -9570,16 +9570,16 @@
     "description": "Description for Specialisation:51 Row:1 Column:2 Rank:5. Use icon icon_5112.jpg"
   },
   "51131": {
-    "name": "Soin Rapide Amélioré (rang1)",
-    "icon": "spell_nature_whispheal",
+    "name": "Rapidité Améliorée (rang1)",
+    "icon": "spell_nature_wispheal",
     "rank": 1,
-    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 5% et augmente les dégats effectués sur les cibles ayant moins de 20% de leur total de vie du même montant"
+    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 5% et augmente les chances de critiquer du Prêtre avec ses techniques offensives du Sacré sur les cibles ayant moins de 20% de leur total de vie du même montant"
   },
   "51132": {
-    "name": "Soin Rapide Amélioré (rang2)",
+    "name": "Rapidité Améliorée (rang2)",
     "icon": "icon_5113",
     "rank": 2,
-    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 10% et augmente les dégats effectués sur les cibles ayant moins de 20% de leur total de vie du même montant"
+    "description": "Augmente les chances de critiques de la technique sur les cibles ayant moins de 20% de leur total de vie de 10% et augmente les chances de critiquer du Prêtre avec ses techniques offensives du Sacré sur les cibles ayant moins de 20% de leur total de vie du même montant"
   },
   "51133": {
     "name": "Specialisation:51 Row:1 Column:3 Rank:3",
@@ -9603,19 +9603,19 @@
     "name": "Rétablissement Béni (rang1)",
     "icon": "spell_holy_blessedrecovery",
     "rank": 1,
-    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 6% du montant en vie sur 6sec"
+    "description": "Lorsque le Prêtre subit ou inflige un critique, il gagne une amélioration qui le soigne de 6% du montant en 6sec"
   },
   "51202": {
     "name": "Rétablissement Béni (rang2)",
     "icon": "icon_5120",
     "rank": 2,
-    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 12% du montant en vie sur 6sec"
+    "description": "Lorsque le Prêtre subit ou inflige un critique, il gagne une amélioration qui le soigne de 12% du montant en 6sec"
   },
   "51203": {
     "name": "Rétablissement Béni (rang3)",
     "icon": "icon_5120",
     "rank": 3,
-    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui lui rend 18% du montant en vie sur 6sec"
+    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui le soigne de 18% du montant en 6sec"
   },
   "51204": {
     "name": "Specialisation:51 Row:2 Column:0 Rank:4",
@@ -9663,7 +9663,7 @@
     "name": "Esprit Divin",
     "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 970pts de mana, 30yards de portée, Lance une amélioration sur le groupe de la cible et augmente leur Esprit de 40 durant 30min"
+    "description": "Technique a activer, instantanée, coûte 970pts de mana, 30yards de portée, Lance une amélioration sur la cible qui augmente l'Esprit de 40 durant 30min"
   },
   "51222": {
     "name": "Specialisation:51 Row:2 Column:2 Rank:2",
@@ -9783,19 +9783,19 @@
     "name": "Soigner les Maladies (rang1)",
     "icon": "ability_rogue_feigndeath",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 10%, augmente la durée de la technique Abolir la Maladie de 5sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 10% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 10%, augmente la durée de la technique Abolir la Maladie de 5sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 10% du bonus soin du Prêtre"
   },
   "51322": {
     "name": "Soigner les Maladies (rang2)",
     "icon": "icon_5132",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 20%, augmente la durée de la technique Abolir la Maladie de 10sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 20% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 20%, augmente la durée de la technique Abolir la Maladie de 10sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 20% du bonus soin du Prêtre"
   },
   "51323": {
     "name": "Soigner les Maladies (rang3)",
     "icon": "icon_5132",
     "rank": 3,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 30%, augmente la durée de la technique Abolir la Maladie de 15sec et Permet a la technique Guérison de la Maladie de soigner la cible a chaque tick qui dissipe un affaiblissement de 30% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 30%, augmente la durée de la technique Abolir la Maladie de 15sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 30% du bonus soin du Prêtre"
   },
   "51324": {
     "name": "Specialisation:51 Row:3 Column:2 Rank:4",
@@ -9903,7 +9903,7 @@
     "name": "Pénitence",
     "icon": "spell_holy_searinglight",
     "rank": 1,
-    "description": "Technique a activer, instantanée, canalisation, coûte 320pts de mana, 12sec de temps de rechargement, 30yards de portée, La cible du Prêtre subit ou est soignée de 240pts instantanément puis toutes les secondes pendant 2sec"
+    "description": "Technique a activer, instantanée, canalisation, coûte 320pts de mana, 12sec de temps de rechargement, 30yards de portée, La cible du Prêtre subit ou est soignée de 120pts instantanément puis toutes les secondes pendant 2sec"
   },
   "51422": {
     "name": "Specialisation:51 Row:4 Column:2 Rank:2",
@@ -10023,7 +10023,7 @@
     "name": "Prière du Désespoir",
     "icon": "spell_holy_holybolt",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 140pts de mana, Soigne instantanément le Prêtre de 1400pts de Vie"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 140pts de mana, Soigne la cible du Prêtre de 1400pts de Vie"
   },
   "51612": {
     "name": "Specialisation:51 Row:6 Column:1 Rank:2",
@@ -10050,10 +10050,10 @@
     "description": "Description for Specialisation:51 Row:6 Column:1 Rank:5. Use icon icon_5161.jpg"
   },
   "51621": {
-    "name": "Puit de Jouvence",
+    "name": "Puit de Lumière",
     "icon": "spell_holy_summonlightwell",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une amélioration de 10sec ou 5 charges qui, lorsque le joueur qui click dessus, lui rend 100% de sa vie et de sa mana en 10sec"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une amélioration de 10sec ou 5 charges qui, lorsqu'un joueur click dessus, lui rend 100% de sa vie et de sa mana en 10sec"
   },
   "51622": {
     "name": "Specialisation:51 Row:6 Column:2 Rank:2",
