@@ -2493,13 +2493,13 @@
     "name": "Rédemption Améliorée (rang1)",
     "icon": "spell_holy_blessedrecovery",
     "rank": 1,
-    "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que le temps d'incantation de la technique de 1sec et augmente le montant de vie et de mana rendue a la cible de 15%"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que le temps d'incantation de la technique de 1sec et augmente le montant de vie et de mana rendue par la technique et quand le Paladin revient a la vie  a la cible de 15%"
   },
   "20232": {
     "name": "Rédemption Améliorée (rang2)",
     "icon": "icon_2023",
     "rank": 2,
-    "description": "Diminue le coût en mana de la Technique Rédemption de 40%, ainsi que le temps d'incantation de la technique de 2sec et augmente le montant de vie et de mana rendue a la cible de 30%"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 40%, ainsi que le temps d'incantation de la technique de 2sec et augmente le montant de vie et de mana rendue par la technique et quand le Paladin revient a la vie  a la cible de 30%"
   },
   "20233": {
     "name": "Specialisation:20 Row:2 Column:3 Rank:3",
@@ -9363,19 +9363,19 @@
     "name": "Rénovation Améliorée (rang1)",
     "icon": "spell_holy_renew",
     "rank": 1,
-    "description": "Augmente le montant des soins de la technique Rénovation de 5% et augmente les dégats effectués par le Prêtre sur une cible affectée par la technique Flamme Sacrée de 2%"
+    "description": "Augmente le montant des soins de la technique Rénovation de 5% et augmente les dégats sur la durée de la technique Flamme Sacré du même montant"
   },
   "51002": {
     "name": "Rénovation Améliorée (rang2)",
     "icon": "icon_5100",
     "rank": 2,
-    "description": "Augmente le montant des soins de la technique Rénovation de 10% et augmente les dégats effectués par le Prêtre sur une cible affectée par la technique Flamme Sacrée de 4%"
+    "description": "Augmente le montant des soins de la technique Rénovation de 10% et augmente les dégats sur la durée de la technique Flamme Sacré du même montant"
   },
   "51003": {
     "name": "Rénovation Améliorée (rang3)",
     "icon": "icon_5100",
     "rank": 3,
-    "description": "Augmente le montant des soins de la technique Rénovation de 15% et augmente les dégats effectués par le Prêtre sur une cible affectée par la technique Flamme Sacrée de 6%"
+    "description": "Augmente le montant des soins de la technique Rénovation de 15% et augmente les dégats sur la durée de la technique Flamme Sacré du même montant"
   },
   "51004": {
     "name": "Specialisation:51 Row:0 Column:0 Rank:4",
@@ -9690,16 +9690,16 @@
     "description": "Description for Specialisation:51 Row:2 Column:2 Rank:5. Use icon icon_5122.jpg"
   },
   "51231": {
-    "name": "Résurection Améliorée (rang1)",
+    "name": "Résurrection Améliorée (rang1)",
     "icon": "spell_holy_persuitofjustice",
     "rank": 1,
-    "description": "Diminue le coût en mana de la technique Résurrection de 20% ainsi que son temps d'incantation de 1sec et augmente le montant de vie et de mana rendu de 15%"
+    "description": "Diminue le coût en mana de la technique Résurrection de 20% ainsi que son temps d'incantation de 1sec et augmente le montant de vie et de mana rendu par la technique et quand le Prêtre revient a la vie de 15%"
   },
   "51232": {
-    "name": "Résurection Améliorée (rang2)",
+    "name": "Résurrection Améliorée (rang2)",
     "icon": "icon_5123",
     "rank": 2,
-    "description": "Diminue le coût en mana de la technique Résurrection de 40% ainsi que son temps d'incantation de 2sec et augmente le montant de vie et de mana rendu de 30%"
+    "description": "Diminue le coût en mana de la technique Résurrection de 40% ainsi que son temps d'incantation de 2sec et augmente le montant de vie et de mana rendu par la technique et quand le Prêtre revient a la vie de 30%"
   },
   "51233": {
     "name": "Specialisation:51 Row:2 Column:3 Rank:3",
@@ -9840,22 +9840,22 @@
     "description": "Description for Specialisation:51 Row:3 Column:3 Rank:5. Use icon icon_5133.jpg"
   },
   "51401": {
-    "name": "Soigner la Maladie (rang1)",
+    "name": "Purifier le Mal (rang1)",
     "icon": "ability_rogue_feigndeath",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 10%, augmente la durée de la technique Abolir la Maladie de 5sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 10% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 10%, augmente la durée de la technique Abolir la Maladie de 5sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 10% du bonus soin du Prêtre, pour finir augmente les dégats infligés par le Prêtre sur une cible affecté par Flamme Sacré de 2%"
   },
   "51402": {
-    "name": "Soigner la Maladie (rang2)",
+    "name": "Purifier le Mal (rang2)",
     "icon": "icon_5140",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 20%, augmente la durée de la technique Abolir la Maladie de 10sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 20% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 20%, augmente la durée de la technique Abolir la Maladie de 10sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 20% du bonus soin du Prêtre, pour finir augmente les dégats infligés par le Prêtre sur une cible affecté par Flamme Sacré de 4%"
   },
   "51403": {
-    "name": "Soigner la Maladie (rang3)",
+    "name": "Purifier le Mal (rang3)",
     "icon": "icon_5140",
     "rank": 3,
-    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 30%, augmente la durée de la technique Abolir la Maladie de 15sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 30% du bonus soin du Prêtre"
+    "description": "Diminue le coût en mana des techniques Abolir la Maladie et Guérison de la Maladie de 30%, augmente la durée de la technique Abolir la Maladie de 15sec et permet a toutes les techniques de Dissipation de soigner a chaque fois qu'elles dissipent un affaiblissement de 30% du bonus soin du Prêtre, pour finir augmente les dégats infligés par le Prêtre sur une cible affecté par Flamme Sacré de 6%"
   },
   "51404": {
     "name": "Specialisation:51 Row:4 Column:0 Rank:4",
@@ -10263,19 +10263,19 @@
     "name": "Etendue de l'Ombre (rang1)",
     "icon": "spell_shadow_shadowwordpain",
     "rank": 1,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 2sec et la durée de la technique Rénovation de 1sec"
+    "description": "Augmente la durée des techniques Mot de l'Ombre et Flamme Sacré de 2sec et la durée de le technique Rénovation de 1sec"
   },
   "52122": {
     "name": "Etendue de l'Ombre (rang2)",
     "icon": "icon_5212",
     "rank": 2,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 4sec et la durée de la technique Rénovation de 2sec"
+    "description": "Augmente la durée des technique Mot de l'Ombre et Flamme Sacré de 4sec et la durée de le technique Rénovation de 2sec"
   },
   "52123": {
     "name": "Etendue de l'Ombre (rang3)",
     "icon": "icon_5212",
     "rank": 3,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 6sec et la durée de la technique Rénovation de 3sec"
+    "description": "Augmente la durée des techniques Mot de l'Ombre et Flamme Sacré de 6sec et la durée de le technique Rénovation de 3sec"
   },
   "52124": {
     "name": "Specialisation:52 Row:1 Column:2 Rank:4",
@@ -10743,7 +10743,7 @@
     "name": "Forme d'Ombre",
     "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, hors temps de rechargement global, utilisable même sous contrôle, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme, Pour finir, le Prêtre n'apparait plus sur aucun Pistage sous cette Forme."
+    "description": "Technique a activer, instantanée, coûte 150pts de mana, hors temps de rechargement global, utilisable même sous contrôle, 3sec de temps de rechargement, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme, Pour finir, le Prêtre n'apparait plus sur aucun Pistage sous cette Forme."
   },
   "52612": {
     "name": "Specialisation:52 Row:6 Column:1 Rank:2",
