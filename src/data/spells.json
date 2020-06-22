@@ -8733,13 +8733,13 @@
     "name": "Inspiration (rang1)",
     "icon": "spell_holy_layonhands",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 15sec qui réduit les dégats subit de 3%"
+    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 6sec qui réduit les dégats subit de 6%"
   },
   "50032": {
     "name": "Inspiration (rang2)",
     "icon": "icon_5003",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 15sec qui réduit les dégats subit de 6%"
+    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 12sec qui réduit les dégats subit de 6%"
   },
   "50033": {
     "name": "Specialisation:50 Row:0 Column:3 Rank:3",
@@ -8763,19 +8763,19 @@
     "name": "Spécialisation Baguette (rang1)",
     "icon": "inv_wand_01",
     "rank": 1,
-    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 10% et diminue également la menace qu'il génère avec du même montant"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 10% et diminue également la menace qu'il génère avec du même montant et augmente la portée de +2yards"
   },
   "50102": {
     "name": "Spécialisation Baguette (rang2)",
     "icon": "icon_5010",
     "rank": 2,
-    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 20% et diminue également la menace qu'il génère avec du même montant"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 20% et diminue également la menace qu'il génère avec du même montant et augmente la portée de +4yards"
   },
   "50103": {
     "name": "Spécialisation Baguette (rang3)",
     "icon": "icon_5010",
     "rank": 3,
-    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 30% et diminue également la menace qu'il génère avec du même montant"
+    "description": "Augmente les dégats du Prêtre lorsqu'il utilise une Baguette de 30% et diminue également la menace qu'il génère avec du même montant et augmente la portée de +6yards"
   },
   "50104": {
     "name": "Specialisation:50 Row:1 Column:0 Rank:4",
@@ -8793,13 +8793,13 @@
     "name": "Résolution Silencieuse (rang1)",
     "icon": "spell_nature_manaregentotem",
     "rank": 1,
-    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 10%"
+    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 10% et donne au Prêtre +5pts de mp5"
   },
   "50112": {
     "name": "Résolution Silencieuse (rang2)",
     "icon": "icon_5011",
     "rank": 2,
-    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 20%"
+    "description": "Diminue la menace généré par la Prêtre avec toutes ses techniques de 20% et donne au Prêtre +10pts de mp5"
   },
   "50113": {
     "name": "Specialisation:50 Row:1 Column:1 Rank:3",
@@ -8913,7 +8913,7 @@
     "name": "Gardien de Peur",
     "icon": "spell_holy_excorcism",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, coûte 100pts de mana, 30yards de portée, Le Prêtre lance une amélioration de 2min30 de durée qui immunise la cible au prochain effet de Peur qu'elle subit"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, utilisable même sous contrôle, coûte 100pts de mana, 30yards de portée, Le Prêtre lance une amélioration de 2min30 de durée qui immunise la cible au prochain effet de Peur qu'elle subit"
   },
   "50212": {
     "name": "Specialisation:50 Row:2 Column:1 Rank:2",
@@ -8973,13 +8973,13 @@
     "name": "Martyre (rang1)",
     "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 3sec qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
+    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 3sec qui est impossible a dissipé qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
   },
   "50232": {
     "name": "Martyre (rang2)",
     "icon": "icon_5023",
     "rank": 2,
-    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 6sec qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
+    "description": "Lorsque le Prêtre subit un coup critique, il gagne une amélioration de 6sec qui est impossible a dissipé qui donne 100% de chance d'anti interruption et qui diminue les dégats subit de 10%"
   },
   "50233": {
     "name": "Specialisation:50 Row:2 Column:3 Rank:3",
@@ -9063,19 +9063,19 @@
     "name": "Puissance Focalisée (rang1)",
     "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 33% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 33% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
   },
   "50322": {
     "name": "Puissance Focalisée (rang2)",
     "icon": "icon_5032",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
   },
   "50323": {
     "name": "Puissance Focalisée (rang3)",
     "icon": "icon_5032",
     "rank": 3,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 100% et donne 100% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Controle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 100% et donne 100% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
   },
   "50324": {
     "name": "Specialisation:50 Row:3 Column:2 Rank:4",
@@ -9183,7 +9183,7 @@
     "name": "Infusion de Puissance",
     "icon": "spell_holy_powerinfusion",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 200pts de mana, 30yards de portée, le Prêtre pose une amélioration sur sa cible de 15sec qui augmente le montant des soins et des dégats de la cible de 20% et diminue le coût en mana de toutes ses techniques de 20%"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 200pts de mana, 30yards de portée, le Prêtre pose une amélioration sur sa cible de 20sec qui augmente le montant des soins et des dégats de la cible de 20% et diminue le coût en mana de toutes ses techniques de 20%"
   },
   "50422": {
     "name": "Specialisation:50 Row:4 Column:2 Rank:2",
@@ -9303,7 +9303,7 @@
     "name": "Suppression de la Douleur",
     "icon": "spell_fire_incinerate",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, 30yards de portée, coûte 200pts de mana, Pose une amélioration sur la cible du Prêtre qui diminue les dégats subit de 75% durant 6sec et rend insensible aux effets de dissipation offensive durant la durée de l'effet"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, 30yards de portée, coûte 200pts de mana, utilisable même sous contrôle, Pose une amélioration sur la cible du Prêtre qui diminue les dégats subit de 75% durant 6sec et rend insensible aux effets de dissipation offensive durant la durée de l'effet"
   },
   "50612": {
     "name": "Specialisation:50 Row:6 Column:1 Rank:2",
@@ -9423,19 +9423,19 @@
     "name": "Spécialisation du Sacré (rang1)",
     "icon": "spell_holy_sealofsalvation",
     "rank": 1,
-    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 2%"
+    "description": "Augmente les chances de critiques du Prêtre de 2%"
   },
   "51022": {
     "name": "Spécialisation du Sacré (rang2)",
     "icon": "icon_5102",
     "rank": 2,
-    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 4%"
+    "description": "Augmente les chances de critiques du Prêtre de 4%"
   },
   "51023": {
     "name": "Spécialisation du Sacré (rang3)",
     "icon": "icon_5102",
     "rank": 3,
-    "description": "Augmente les chances de critiques avec les sorts du Sacré du Prêtre de 6%"
+    "description": "Augmente les chances de critiques du Prêtre de 6%"
   },
   "51024": {
     "name": "Specialisation:51 Row:0 Column:2 Rank:4",
@@ -9453,13 +9453,13 @@
     "name": "Touché par la Grâce (rang1)",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Augmente les chances de Toucher du Prêtre de 2% et les soins qu'il reçoit de 3%"
+    "description": "Augmente les chances de Toucher du Prêtre de 2% et les soins qu'il reçoit de 4%"
   },
   "51032": {
     "name": "Touché par la Grâce (rang2)",
     "icon": "icon_5103",
     "rank": 2,
-    "description": "Augmente les chances de Toucher du Prêtre de 4% et les soins qu'il reçoit de 6%"
+    "description": "Augmente les chances de Toucher du Prêtre de 4% et les soins qu'il reçoit de 8%"
   },
   "51033": {
     "name": "Specialisation:51 Row:0 Column:3 Rank:3",
@@ -9483,19 +9483,19 @@
     "name": "Lueur (rang1)",
     "icon": "spell_nature_moonglow",
     "rank": 1,
-    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 5% et donne au Prêtre +5pts de mp5"
+    "description": "Diminue la menace généré de 5% et donne au Prêtre +5pts de mp5"
   },
   "51102": {
     "name": "Lueur (rang2)",
     "icon": "icon_5110",
     "rank": 2,
-    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 10% et donne au Prêtre +10pts de mp5"
+    "description": "Diminue la menace généré de 10% et donne au Prêtre +10pts de mp5"
   },
   "51103": {
     "name": "Lueur (rang3)",
     "icon": "icon_5110",
     "rank": 3,
-    "description": "Diminue la menace généré par les techniques de sorts du Sacré de 15% et donne au Prêtre +15pts de mp5"
+    "description": "Diminue la menace généré de 15% et donne au Prêtre +15pts de mp5"
   },
   "51104": {
     "name": "Specialisation:51 Row:1 Column:0 Rank:4",
@@ -9543,19 +9543,19 @@
     "name": "Amélioration du Sacré (rang1)",
     "icon": "spell_holy_heal",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 5%"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 5%"
   },
   "51122": {
     "name": "Amélioration du Sacré (rang2)",
     "icon": "icon_5112",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 10%"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 10%"
   },
   "51123": {
     "name": "Amélioration du Sacré (rang3)",
     "icon": "icon_5112",
     "rank": 3,
-    "description": "Diminue le coût en mana de toutes les techniques du Sacré de 15%"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 15%"
   },
   "51124": {
     "name": "Specialisation:51 Row:1 Column:2 Rank:4",
@@ -9603,19 +9603,19 @@
     "name": "Rétablissement Béni (rang1)",
     "icon": "spell_holy_blessedrecovery",
     "rank": 1,
-    "description": "Lorsque le Prêtre subit ou inflige un critique, il gagne une amélioration qui le soigne de 6% du montant en 6sec"
+    "description": "Lorsque le Prêtre subit un critique ou inflige un critique, il gagne une amélioration qui le soigne de 6% du montant en 6sec"
   },
   "51202": {
     "name": "Rétablissement Béni (rang2)",
     "icon": "icon_5120",
     "rank": 2,
-    "description": "Lorsque le Prêtre subit ou inflige un critique, il gagne une amélioration qui le soigne de 12% du montant en 6sec"
+    "description": "Lorsque le Prêtre subit un critique ou inflige un critique, il gagne une amélioration qui le soigne de 12% du montant en 6sec"
   },
   "51203": {
     "name": "Rétablissement Béni (rang3)",
     "icon": "icon_5120",
     "rank": 3,
-    "description": "Lorsque le Prêtre subit ou infligé un critique, il gagne une amélioration qui le soigne de 18% du montant en 6sec"
+    "description": "Lorsque le Prêtre subit un critique ou inflige un critique, il gagne une amélioration qui le soigne de 18% du montant en 6sec"
   },
   "51204": {
     "name": "Specialisation:51 Row:2 Column:0 Rank:4",
@@ -9813,13 +9813,13 @@
     "name": "Lumière Incendiaire (rang1)",
     "icon": "spell_holy_searinglightpriest",
     "rank": 1,
-    "description": "Augmente le montant des critiques obtenus avec toutes les techniques du Sacré de 10%"
+    "description": "Augmente le montant des critiques obtenus avec toutes les techniques de Soin et les techniques Offensives de 10%"
   },
   "51332": {
     "name": "Lumière Incendiaire (rang2)",
     "icon": "icon_5133",
     "rank": 2,
-    "description": "Augmente le montant des critiques obtenus avec toutes les techniques du Sacré de 20%"
+    "description": "Augmente le montant des critiques obtenus avec toutes les techniques de Soin et les techniques Offensives de 20%"
   },
   "51333": {
     "name": "Specialisation:51 Row:3 Column:3 Rank:3",
@@ -9873,7 +9873,7 @@
     "name": "Esprit de Rédemption",
     "icon": "inv_enchant_essenceeternallarge",
     "rank": 1,
-    "description": "Lorsque le Prêtre meurt, il devient un Ange durant 10sec il ne peut plus se déplacer mais peut continuer a lancer des techniques du Sacré uniquement, ses sorts ne sont pas gratuit en mana et peuvent être interrompus"
+    "description": "Le Prêtre voit son Esprit augmenté de 5% et lorsqu'il meurt, il devient un Ange durant 10sec il ne peut plus se déplacer mais peut continuer a lancer des techniques du Sacré uniquement, ses sorts ne sont pas gratuit en mana et peuvent être interrompus"
   },
   "51412": {
     "name": "Specialisation:51 Row:4 Column:1 Rank:2",
@@ -9933,13 +9933,13 @@
     "name": "Puissance du Sacré (rang1)",
     "icon": "spell_holy_innerfire",
     "rank": 1,
-    "description": "Augmente le montant des sorts et des soins du Sacré du Prêtre de 5%"
+    "description": "Augmente le montant des sorts et des soins du Prêtre de 5%"
   },
   "51432": {
     "name": "Puissance du Sacré (rang2)",
     "icon": "icon_5143",
     "rank": 2,
-    "description": "Augmente le montant des sorts et des soins du Sacré du Prêtre de 10%"
+    "description": "Augmente le montant des sorts et des soins du Prêtre de 10%"
   },
   "51433": {
     "name": "Specialisation:51 Row:4 Column:3 Rank:3",
@@ -10023,7 +10023,7 @@
     "name": "Prière du Désespoir",
     "icon": "spell_holy_holybolt",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 140pts de mana, Soigne la cible du Prêtre de 1400pts de Vie"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, coûte 140pts de mana, utilisable même sous contrôle sur lui même, Soigne la cible du Prêtre de 1400pts de Vie"
   },
   "51612": {
     "name": "Specialisation:51 Row:6 Column:1 Rank:2",
@@ -10053,7 +10053,7 @@
     "name": "Puit de Lumière",
     "icon": "spell_holy_summonlightwell",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une amélioration de 10sec ou 5 charges qui, lorsqu'un joueur click dessus, lui rend 100% de sa vie et de sa mana en 10sec, pose un affaiblissement qui empêche le Joueur de rebénéfier du même effet durant 15sec et le moindre dégat subit interrompt l'effet"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une amélioration de 10sec ou 5 charges qui, lorsqu'un joueur passe dessus, lui rend 100% de sa vie et de sa mana en 10sec, pose un affaiblissement qui empêche le Joueur de bénéficier du même effet durant 15sec et le moindre dégat subit interrompt l'effet"
   },
   "51622": {
     "name": "Specialisation:51 Row:6 Column:2 Rank:2",
@@ -10113,13 +10113,13 @@
     "name": "Connexion Spirituelle (rang1)",
     "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 6sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 6sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52012": {
     "name": "Connexion Spirituelle (rang2)",
     "icon": "icon_5201",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52013": {
     "name": "Specialisation:52 Row:0 Column:1 Rank:3",
@@ -10203,19 +10203,19 @@
     "name": "Subtilité de l'Ombre (rang1)",
     "icon": "spell_shadow_shadowward",
     "rank": 1,
-    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 5% et donne au Prêtre +5pts de mp5"
+    "description": "Diminue la menace généré par le Prêtre de 5% et donne au Prêtre +5pts de mp5"
   },
   "52102": {
     "name": "Subtilité de l'Ombre (rang2)",
     "icon": "icon_5210",
     "rank": 2,
-    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 10% et donne au Prêtre +10pts de mp5"
+    "description": "Diminue la menace généré par le Prêtre de 10% et donne au Prêtre +10pts de mp5"
   },
   "52103": {
     "name": "Subtilité de l'Ombre (rang3)",
     "icon": "icon_5210",
     "rank": 3,
-    "description": "Diminue la menace généré par les techniques d'Ombre du Prêtre de 15% et donne au Prêtre +15pts de mp5"
+    "description": "Diminue la menace généré par le Prêtre de 15% et donne au Prêtre +15pts de mp5"
   },
   "52104": {
     "name": "Specialisation:52 Row:1 Column:0 Rank:4",
@@ -10263,19 +10263,19 @@
     "name": "Etendue de l'Ombre (rang1)",
     "icon": "spell_shadow_shadowwordpain",
     "rank": 1,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 2sec et celle de la technique Rénovation de 1sec"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 2sec et la durée de la technique Rénovation de 1sec"
   },
   "52122": {
     "name": "Etendue de l'Ombre (rang2)",
     "icon": "icon_5212",
     "rank": 2,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 4sec et celle de la technique Rénovation de 2sec"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 4sec et la durée de la technique Rénovation de 2sec"
   },
   "52123": {
     "name": "Etendue de l'Ombre (rang3)",
     "icon": "icon_5212",
     "rank": 3,
-    "description": "Augmente la durée de la technique Mot de l'Ombre de 6sec et celle de la technique Rénovation de 3sec"
+    "description": "Augmente la durée de la technique Mot de l'Ombre de 6sec et la durée de la technique Rénovation de 3sec"
   },
   "52124": {
     "name": "Specialisation:52 Row:1 Column:2 Rank:4",
@@ -10443,19 +10443,19 @@
     "name": "Résilience de l'Ombre (rang1)",
     "icon": "spell_shadow_antishadow",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 5% et augmente l'effet de la technique Protection contre l'Ombre de 5pts"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 5% et augmente l'effet de la technique Protection contre l'Ombre de 5pts"
   },
   "52302": {
     "name": "Résilience de l'Ombre (rang2)",
     "icon": "icon_5230",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 10% et augmente l'effet de la technique Protection contre l'Ombre de 10pts"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 10% et augmente l'effet de la technique Protection contre l'Ombre de 10pts"
   },
   "52303": {
     "name": "Résilience de l'Ombre (rang3)",
     "icon": "icon_5230",
     "rank": 3,
-    "description": "Diminue le coût en mana de toutes les techniques d'Ombre du Prêtre de 15% et augmente l'effet de la technique Protection contre l'Ombre de 15pts"
+    "description": "Diminue le coût en mana de toutes les techniques du Prêtre de 15% et augmente l'effet de la technique Protection contre l'Ombre de 15pts"
   },
   "52304": {
     "name": "Specialisation:52 Row:3 Column:0 Rank:4",
@@ -10473,13 +10473,13 @@
     "name": "Cri Tue Brûle (rang1)",
     "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement sur les cibles durant 3sec, permet également a la technique Fouet Mental de diminuer les soins reçu par la cible de 10% durant son effet, et permet également a chaque incantation réussit de la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la prochaine technique Brûlure de Mana de 0,25sec"
+    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement sur les cibles durant 3sec, permet également a la technique Fouet Mental de diminuer les soins reçu par la cible de 10% durant son effet, pour finir permet également a chaque incantation réussit de la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la prochaine technique Brûlure de Mana de 0,25sec"
   },
   "52312": {
     "name": "Cri Tue Brûle (rang2)",
     "icon": "icon_5231",
     "rank": 2,
-    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement sur les cibles durant 6sec, permet également a la technique Fouet Mental de diminuer les soins reçu par la cible de 20% durant son effet, et permet également a chaque incantation réussit de la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la prochaine technique Brûlure de Mana de 0,5sec"
+    "description": "Permet a la technique Cri Psychique de provoquer un effet de Désarmement sur les cibles durant 6sec, permet également a la technique Fouet Mental de diminuer les soins reçu par la cible de 20% durant son effet, pour finir permet également a chaque incantation réussit de la technique Brûlure de Mana de donner une amélioration au Prêtre de 15sec qui diminue le temps d'incantation de la prochaine technique Brûlure de Mana de 0,5sec"
   },
   "52313": {
     "name": "Specialisation:52 Row:3 Column:1 Rank:3",
@@ -10623,7 +10623,7 @@
     "name": "Etreinte Vampirique",
     "icon": "spell_shadow_unsummonbuilding",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 40pts de mana, 30yards de portée, 6sec de temps de rechargement, Pose un affaiblissement sur une seule cible a la fois de 60sec qui soigne le Prêtre et tous les membres de son groupe de 20% des dégats d'Ombre infligés par le Prêtre sur la cible"
+    "description": "Technique a activer, instantanée, coûte 40pts de mana, 30yards de portée, 6sec de temps de rechargement, Pose un affaiblissement de Malédiction sur une seule cible a la fois de 60sec qui soigne le Prêtre et tous les membres de son groupe de 20% des dégats d'Ombre infligés par le Prêtre sur la cible"
   },
   "52422": {
     "name": "Specialisation:52 Row:4 Column:2 Rank:2",
@@ -10683,13 +10683,13 @@
     "name": "Ténèbres (rang1)",
     "icon": "spell_shadow_twilight",
     "rank": 1,
-    "description": "Augmente les dégats des techniques d'Ombre du Prêtre de 5%"
+    "description": "Augmente les dégats du Prêtre de 5%"
   },
   "52512": {
     "name": "Ténèbres (rang2)",
     "icon": "icon_5251",
     "rank": 2,
-    "description": "Augmente les dégats des techniques d'Ombre du Prêtre de 10%"
+    "description": "Augmente les dégats du Prêtre de 10%"
   },
   "52513": {
     "name": "Specialisation:52 Row:5 Column:1 Rank:3",
@@ -10743,7 +10743,7 @@
     "name": "Forme d'Ombre",
     "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, hors temps de rechargement global, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme, Pour finir, le Prêtre n'apparait plus sur aucun Pistage sous cette Forme."
+    "description": "Technique a activer, instantanée, gratuite en mana, hors temps de rechargement global, utilisable même sous contrôle, Dans cette Forme le Prêtre réduit tous les dégats qu'il subit de 15% et réduit le coût en mana de toutes les techniques d'Ombre de 15%, il gagne +15pts de Résistance a l'Ombre et augmente les dégats d'Ombre qu'il inflige de 15%, mais il ne peut pas utiliser de technique du Sacré dans cette Forme, Pour finir, le Prêtre n'apparait plus sur aucun Pistage sous cette Forme."
   },
   "52612": {
     "name": "Specialisation:52 Row:6 Column:1 Rank:2",
@@ -10773,7 +10773,7 @@
     "name": "Toucher de Faiblesse",
     "icon": "spell_shadow_gathershadows",
     "rank": 1,
-    "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui inflige 64pts de dégats d'Ombre a la prochaine cible qui l'attaque en mélée ou a distance et donne 100% de chance d'Etourdissement au prochain sort d'Ombre lancé par le Prêtre sur la cible, pose ensuite sur la cible un affaiblissement qui diminue les dégats effectués par la cible de 20pts pendant 1min"
+    "description": "Technique a activer, instantanée, utilisable même sous contrôle, 1min de temps de rechargement, coûte 195pts de mana, Pose une amélioration sur le Prêtre durant 6sec qui inflige 64pts de dégats d'Ombre a la prochaine cible qui l'attaque en mélée ou a distance et donne 100% de chance d'Etourdissement sur la cible durant 3sec au prochain sort d'Ombre lancé par le Prêtre sur la cible, pose ensuite un affaiblissement sur la cible qui diminue les dégats effectués par la cible de 20pts pendant 1min"
   },
   "52622": {
     "name": "Specialisation:52 Row:6 Column:2 Rank:2",
