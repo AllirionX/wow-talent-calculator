@@ -11491,7 +11491,7 @@
   },
   "60621": {
     "name": "Totem de Colère",
-    "icon": "spell_nature_reincarnation",
+    "icon": "spell_fire_incinerate",
     "rank": 1,
     "description": "Lorsqu'un Totem de Feu du Chaman est actif, il donne une amélioration a tout les joueurs dans le groupe du Chaman dans les 30yards qui augmente leur chance de critique avec les sorts de 5%"
   },
@@ -11701,7 +11701,7 @@
   },
   "61121": {
     "name": "Force Ancestrale (rang1)",
-    "icon": "ability_hunter_swiftstrike",
+    "icon": "inv_axe_10",
     "rank": 1,
     "description": "Augmente la Force du Chaman de 5%"
   },
@@ -11793,7 +11793,7 @@
     "name": "Furie des Vents",
     "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem Furie des Vents et Enchantement Furie des Vents : Totem Furie des Vents : Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats. Enchante d'Arme Furie des Vents : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et lui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
+    "description": "Donne accès au Chaman a 2 techniques : Totem Furie des Vents et Enchantement Furie des Vents : Totem Furie des Vents : Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats. Enchantement d'Arme Furie des Vents : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et lui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
   },
   "61212": {
     "name": "Specialisation:61 Row:2 Column:1 Rank:2",
@@ -11823,7 +11823,7 @@
     "name": "Maîtrise des Armes",
     "icon": "ability_parry",
     "rank": 1,
-    "description": "Donne au Chaman la capacacité Parade et lui donne +6% de Parade, lui permet également d'équiper une Hache a 2 mains, Mace a 2 mains et d'être ambidextre, il peut alors utiliser 2 Enchantements d'Armes même ils doivent obligatoirement être différent, le niveau de compétence d'Armes est Sauvegardé en cas de Respécialisation"
+    "description": "Donne au Chaman la capacité Parade et lui donne +6% de Parade, lui permet également d'équiper une Hache a 2 mains, Mace a 2 mains et d'être ambidextre, il peut alors utiliser 2 Enchantements d'Armes même s'ils doivent obligatoirement être différent, les différents niveaux de compétence d'Armes du Chaman sont Sauvegardés en cas de Respécialisation"
   },
   "61222": {
     "name": "Specialisation:61 Row:2 Column:2 Rank:2",
@@ -12033,7 +12033,7 @@
     "name": "Maëlstrom",
     "icon": "spell_nature_eyeofthestorm",
     "rank": 1,
-    "description": "Permet aux attaques en mélée du Chaman réussies de donner une amélioration au Chaman qui se stack jusqu'a 5fois, et qui diminue le temps d'incantation de la prochaine technique Chaine d'Eclair ou Salve du Soin du Chaman de 20% durant 30sec"
+    "description": "Permet aux attaques en mélée du Chaman réussies de donner une amélioration au Chaman qui se stack jusqu'a 5fois, et qui diminue le temps d'incantation de la prochaine technique Chaine d'Eclair ou Salve de Guérison du Chaman de 20% durant 30sec"
   },
   "61412": {
     "name": "Specialisation:61 Row:4 Column:1 Rank:2",
@@ -12061,9 +12061,9 @@
   },
   "61421": {
     "name": "Rage Chamanique",
-    "icon": "spell_shadow_deathpact",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, utilisable même sous contrôle, Rage qui transforme le Chaman en Worgen durant 10sec, durant l'effet il gagne 100% de chance d'anti interruption sur ses incantations, il subit 20% de dégats en moins, il inflige 20% de dégats en plus, et 20% des dégats qu'il inflige le soigne et lui sont rendu en mana également"
+    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, utilisable même sous contrôle, Rage qui transforme le Chaman en Worgen durant 10sec, durant l'effet il gagne 100% de chance d'anti interruption sur ses incantations, +20% de vitesse de déplacement, il subit 20% de dégats en moins, il inflige 20% de dégats en plus, et 20% des dégats qu'il inflige lui sont rendu en vie et en mana également"
   },
   "61422": {
     "name": "Specialisation:61 Row:4 Column:2 Rank:2",
@@ -12091,7 +12091,7 @@
   },
   "61431": {
     "name": "Expert en Armes (rang1)",
-    "icon": "inv_axe_10",
+    "icon": "ability_hunter_swiftstrike",
     "rank": 1,
     "description": "Augmente les compétences d'Armes du Chaman de +3pts et augmente les dégats qu'il inflige en mélée de 5%"
   },
@@ -12183,7 +12183,7 @@
     "name": "Frappe Tempête",
     "icon": "spell_holy_sealofmight",
     "rank": 1,
-    "description": "technique a activer, instantanée, 0-5yards de portée, coûte 210pts de mana, 6sec de temps de rechargement, frappe instantanément la cible avec toutes les Armes du Chaman, lui redonne également 2% de sa mana et pose un affaiblissement de 12sec sur la cible avec 2 charges qui augmente les 2 prochains dégats Elémentaire sur la cible de 20%"
+    "description": "technique a activer, instantanée, 0-5yards de portée, coûte 210pts de mana, 6sec de temps de rechargement, frappe instantanément la cible avec toutes les Armes du Chaman, lui redonne également 2% de sa mana et pose un affaiblissement de 12sec sur la cible avec 2 charges qui augmente les 2 prochains dégats de Nature sur la cible de 20%"
   },
   "61612": {
     "name": "Specialisation:61 Row:6 Column:1 Rank:2",
