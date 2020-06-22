@@ -8733,13 +8733,13 @@
     "name": "Inspiration (rang1)",
     "icon": "spell_holy_layonhands",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 6sec qui réduit les dégats subit de 6%"
+    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 6sec qui réduit les dégats subit de 6%, lorsqu'il obtient un critique sur une technique offensives il obtient cette amélioration sur lui"
   },
   "50032": {
     "name": "Inspiration (rang2)",
     "icon": "icon_5003",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 12sec qui réduit les dégats subit de 6%"
+    "description": "Lorsque le Prêtre obtient un critique sur une technique de Soin, il pose une amélioration sur la cible durant 12sec qui réduit les dégats subit de 6%, lorsqu'il obtient un critique sur une technique offensives il obtient cette amélioration sur lui"
   },
   "50033": {
     "name": "Specialisation:50 Row:0 Column:3 Rank:3",
@@ -8853,13 +8853,13 @@
     "name": "Apaisement (rang1)",
     "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 10% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 3%"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 10% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 3% en plus d'augmenter ses effets et sa durée de 10%"
   },
   "50132": {
     "name": "Apaisement (rang2)",
     "icon": "icon_5013",
     "rank": 2,
-    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 20% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 6%"
+    "description": "Lorsqu'une des améliorations du Prêtre est dissipé, rend 20% du coût en mana de la technique au Prêtre, et permet a la technique Apaisement du Prêtre de diminuer les dégats qu'inflige la cible de 6% en plus d'augmenter ses effets et sa durée de 20%"
   },
   "50133": {
     "name": "Specialisation:50 Row:1 Column:3 Rank:3",
@@ -9063,13 +9063,13 @@
     "name": "Puissance Focalisée (rang1)",
     "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 33% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Supression de la Douleur et Réaction de 33% et donne 35% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
   },
   "50322": {
     "name": "Puissance Focalisée (rang2)",
     "icon": "icon_5032",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 66% et donne 66% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
+    "description": "Diminue le coût en mana des techniques Lévitation, Vision Télépathique, Apaisement, Gardien de Peur, Infusion de Puissance, Suppression de la Douleur et Réaction de 66% et donne 70% de chance d'anti interruption sur les techniques Brûlure de Mana, Entrave et Contrôle Mental"
   },
   "50323": {
     "name": "Puissance Focalisée (rang3)",
@@ -10110,16 +10110,16 @@
     "description": "Description for Specialisation:52 Row:0 Column:0 Rank:5. Use icon icon_5200.jpg"
   },
   "52011": {
-    "name": "Connexion Spirituelle (rang1)",
-    "icon": "spell_shadow_requiem",
+    "name": "Oubli Amélioré (rang1)",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 6sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Augmente l'effet de la technique Oubli et diminue le temps de rechargement de 10% et son coût en mana de 50% et réduit les dégats que subit le Prêtre durant la durée de son effet de 3%"
   },
   "52012": {
-    "name": "Connexion Spirituelle (rang2)",
+    "name": "Oubli Amélioré (rang2)",
     "icon": "icon_5201",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Augmente l'effet de la technique Oubli et diminue le temps de rechargement de 20% et son coût en mana de 100% et réduit les dégats que subit le Prêtre durant la durée de son effet de 6%"
   },
   "52013": {
     "name": "Specialisation:52 Row:0 Column:1 Rank:3",
@@ -10140,22 +10140,22 @@
     "description": "Description for Specialisation:52 Row:0 Column:1 Rank:5. Use icon icon_5201.jpg"
   },
   "52021": {
-    "name": "Oubli Amélioré (rang1)",
-    "icon": "spell_magic_lesserinvisibilty",
+    "name": "Connexion Spirituelle (rang1)",
+    "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Augmente l'effet de la technique Oubli de 5% et diminue le temps de rechargement de 2sec et son coût en mana de 33% et réduit les dégats que subit le Prêtre durant la durée de son effet de 2%"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 4sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52022": {
-    "name": "Oubli Amélioré (rang2)",
+    "name": "Connexion Spirituelle (rang2)",
     "icon": "icon_5202",
     "rank": 2,
-    "description": "Augmente l'effet de la technique Oubli de 10% et diminue le temps de rechargement de 4sec et son coût en mana de 66% et réduit les dégats que subit le Prêtre durant la durée de son effet de 4%"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 8sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52023": {
-    "name": "Oubli Amélioré (rang3)",
+    "name": "Connexion Spirituelle (rang3)",
     "icon": "icon_5202",
     "rank": 3,
-    "description": "Augmente l'effet de la technique Oubli de 15% et diminue le temps de rechargement de 6sec et son coût en mana de 100% et réduit les dégats que subit le Prêtre durant la durée de son effet de 6%"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52024": {
     "name": "Specialisation:52 Row:0 Column:2 Rank:4",
@@ -10563,19 +10563,19 @@
     "name": "Tissage de l'Ombre (rang1)",
     "icon": "spell_shadow_blackplague",
     "rank": 1,
-    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 1% stackable 5fois"
+    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 5% stackable 1fois"
   },
   "52402": {
     "name": "Tissage de l'Ombre (rang2)",
     "icon": "icon_5240",
     "rank": 2,
-    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 2% stackable 5fois"
+    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 5% stackable 2fois"
   },
   "52403": {
     "name": "Tissage de l'Ombre (rang3)",
     "icon": "icon_5240",
     "rank": 3,
-    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 3% stackable 5fois"
+    "description": "Les techniques d'Ombre du Prêtre posent également un affaiblissement de 15sec, qui augmente les dégats d'Ombre sur la cible de 5% stackable 3fois"
   },
   "52404": {
     "name": "Specialisation:52 Row:4 Column:0 Rank:4",
