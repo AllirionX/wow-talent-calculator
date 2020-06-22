@@ -10893,13 +10893,13 @@
     "name": "Convection (rang1)",
     "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Diminue le coût en mana des sorts Elémentaires de 5%"
+    "description": "Diminue le coût en mana des sorts Elémentaire du Chaman de 5%"
   },
   "60032": {
     "name": "Convection (rang2)",
     "icon": "icon_6003",
     "rank": 2,
-    "description": "Diminue le coût en mana des sorts Elémentaires de 10%"
+    "description": "Diminue le coût en mana des sorts Elémentaire du Chaman de 10%"
   },
   "60033": {
     "name": "Specialisation:60 Row:0 Column:3 Rank:3",
@@ -11103,7 +11103,7 @@
     "name": "Langue de Feu",
     "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu : Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. Enchantement Langue de Feu : Technique a activer, instantanée, coûte 155pts de mana, Enchante l'Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
+    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu : Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. Enchantement Langue de Feu : Technique a activer, instantanée, coûte 155pts de mana, Enchante l'Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
   },
   "60222": {
     "name": "Specialisation:60 Row:2 Column:2 Rank:2",
@@ -11133,13 +11133,13 @@
     "name": "Réverbération (rang1)",
     "icon": "spell_frost_frostward",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques d'Horions de 0,5sec"
+    "description": "Diminue le temps de rechargement des techniques d'Horions du Chaman de 0,5sec"
   },
   "60232": {
     "name": "Réverbération (rang2)",
     "icon": "icon_6023",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques d'Horions de 1sec"
+    "description": "Diminue le temps de rechargement des techniques d'Horions du Chaman de 1sec"
   },
   "60233": {
     "name": "Specialisation:60 Row:2 Column:3 Rank:3",
@@ -11163,19 +11163,19 @@
     "name": "Nova de Feu Amélioré (rang1)",
     "icon": "spell_fire_sealoffire",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 1sec et provoque un effet de ralentissement sur les cibles de 50% pendant 2sec"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu du Chaman de 1sec et provoque un effet de ralentissement sur les cibles de 50% pendant 2sec"
   },
   "60302": {
     "name": "Nova de Feu Amélioré (rang2)",
     "icon": "icon_6030",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 2sec et provoque un effet de ralentissement sur les cibles de 50% pendant 4sec"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu du Chaman de 2sec et provoque un effet de ralentissement sur les cibles de 50% pendant 4sec"
   },
   "60303": {
     "name": "Nova de Feu Amélioré (rang3)",
     "icon": "icon_6030",
     "rank": 3,
-    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 3sec et provoque un effet de Ralentissement sur les cibles de 50% pendant 6sec"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu du Chaman de 3sec et provoque un effet de Ralentissement sur les cibles de 50% pendant 6sec"
   },
   "60304": {
     "name": "Specialisation:60 Row:3 Column:0 Rank:4",
@@ -11341,7 +11341,7 @@
   },
   "60421": {
     "name": "Maîtrise du Feu",
-    "icon": "icon_6042",
+    "icon": "spell_fire_flameshock",
     "rank": 1,
     "description": "Diminue le coût en mana de toutes les techniques de Feu du Chaman de 50%, de plus lorsqu'une cible est sous l'effet de la technique Horion de Feu, tous les dégats de Feu infligés a cette cible ont 100% de chance de critique"
   },
@@ -11401,15 +11401,15 @@
   },
   "60511": {
     "name": "Maîtrise de la Foudre (rang1)",
-    "icon": "spell_lightning_lightningbolt",
+    "icon": "spell_lightning_lightningbolt01",
     "rank": 1,
-    "description": "Diminue le temps d'incantation des techniques Eclair et Chaine d'Eclair de 0,5sec"
+    "description": "Diminue le temps d'incantation des techniques Eclair et Chaine d'Eclair du Chaman de 0,5sec"
   },
   "60512": {
     "name": "Maîtrise de la Foudre (rang2)",
     "icon": "icon_6051",
     "rank": 2,
-    "description": "Diminue le temps d'incantation des techniques Eclair et Chaine d'Eclair de 1sec"
+    "description": "Diminue le temps d'incantation des techniques Eclair et Chaine d'Eclair du Chaman de 1sec"
   },
   "60513": {
     "name": "Specialisation:60 Row:5 Column:1 Rank:3",
@@ -11491,9 +11491,9 @@
   },
   "60621": {
     "name": "Totem de Colère",
-    "icon": "icon_6062",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Lorsqu'un Totem de Feu du Chaman est actif, il donne une amélioration a tout le groupe du Chaman qui augmente leur chance de critique avec les sorts de 5%"
+    "description": "Lorsqu'un Totem de Feu du Chaman est actif, il donne une amélioration a tout les joueurs dans le groupe du Chaman dans les 30yards qui augmente leur chance de critique avec les sorts de 5%"
   },
   "60622": {
     "name": "Specialisation:60 Row:6 Column:2 Rank:2",
