@@ -10800,22 +10800,22 @@
     "description": "Description for Specialisation:52 Row:6 Column:2 Rank:5. Use icon icon_5262.jpg"
   },
   "60001": {
-    "name": "Specialisation:60 Row:0 Column:0 Rank:1",
-    "icon": "icon_6000",
+    "name": "Maille Etincelante (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:0 Column:0 Rank:1. Use icon icon_6000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 1pts de Mana pour le Chaman"
   },
   "60002": {
-    "name": "Specialisation:60 Row:0 Column:0 Rank:2",
+    "name": "Maille Etincelante (rang2)",
     "icon": "icon_6000",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:0 Column:0 Rank:2. Use icon icon_6000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 2pts de Mana pour le Chaman"
   },
   "60003": {
-    "name": "Specialisation:60 Row:0 Column:0 Rank:3",
+    "name": "Maille Etincelante (rang3)",
     "icon": "icon_6000",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:0 Column:0 Rank:3. Use icon icon_6000.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 3pts de Mana pour le Chaman"
   },
   "60004": {
     "name": "Specialisation:60 Row:0 Column:0 Rank:4",
@@ -10830,16 +10830,16 @@
     "description": "Description for Specialisation:60 Row:0 Column:0 Rank:5. Use icon icon_6000.jpg"
   },
   "60011": {
-    "name": "Specialisation:60 Row:0 Column:1 Rank:1",
-    "icon": "icon_6001",
+    "name": "Commotion (rang1)",
+    "icon": "spell_fire_fireball",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:0 Column:1 Rank:1. Use icon icon_6001.jpg"
+    "description": "Augmente les dégats des sorts élémentaire du Chaman de 5%"
   },
   "60012": {
-    "name": "Specialisation:60 Row:0 Column:1 Rank:2",
+    "name": "Commotion (rang2)",
     "icon": "icon_6001",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:0 Column:1 Rank:2. Use icon icon_6001.jpg"
+    "description": "Augmente les dégats des sorts élémentaire du Chaman de 10%"
   },
   "60013": {
     "name": "Specialisation:60 Row:0 Column:1 Rank:3",
@@ -10860,22 +10860,22 @@
     "description": "Description for Specialisation:60 Row:0 Column:1 Rank:5. Use icon icon_6001.jpg"
   },
   "60021": {
-    "name": "Specialisation:60 Row:0 Column:2 Rank:1",
-    "icon": "icon_6002",
+    "name": "Protection des Eléments (rang1)",
+    "icon": "spell_nature_protectionformnature",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:0 Column:2 Rank:1. Use icon icon_6002.jpg"
+    "description": "Diminue les dégats subits par les sorts Elémentaires de 5%"
   },
   "60022": {
-    "name": "Specialisation:60 Row:0 Column:2 Rank:2",
+    "name": "Protection des Eléments (rang2)",
     "icon": "icon_6002",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:0 Column:2 Rank:2. Use icon icon_6002.jpg"
+    "description": "Diminue les dégats subits par les sorts Elémentaires de 10%"
   },
   "60023": {
-    "name": "Specialisation:60 Row:0 Column:2 Rank:3",
+    "name": "Protection des Eléments (rang3)",
     "icon": "icon_6002",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:0 Column:2 Rank:3. Use icon icon_6002.jpg"
+    "description": "Diminue les dégats subits par les sorts Elémentaires de 15%"
   },
   "60024": {
     "name": "Specialisation:60 Row:0 Column:2 Rank:4",
@@ -10890,16 +10890,16 @@
     "description": "Description for Specialisation:60 Row:0 Column:2 Rank:5. Use icon icon_6002.jpg"
   },
   "60031": {
-    "name": "Specialisation:60 Row:0 Column:3 Rank:1",
-    "icon": "icon_6003",
+    "name": "Convection (rang1)",
+    "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:0 Column:3 Rank:1. Use icon icon_6003.jpg"
+    "description": "Diminue le coût en mana des sorts Elémentaires de 5%"
   },
   "60032": {
-    "name": "Specialisation:60 Row:0 Column:3 Rank:2",
+    "name": "Convection (rang2)",
     "icon": "icon_6003",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:0 Column:3 Rank:2. Use icon icon_6003.jpg"
+    "description": "Diminue le coût en mana des sorts Elémentaires de 10%"
   },
   "60033": {
     "name": "Specialisation:60 Row:0 Column:3 Rank:3",
@@ -10920,22 +10920,22 @@
     "description": "Description for Specialisation:60 Row:0 Column:3 Rank:5. Use icon icon_6003.jpg"
   },
   "60101": {
-    "name": "Specialisation:60 Row:1 Column:0 Rank:1",
-    "icon": "icon_6010",
+    "name": "Intelligence Ancestrale (rang1)",
+    "icon": "spell_holy_magicalsentry",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:1 Column:0 Rank:1. Use icon icon_6010.jpg"
+    "description": "Augmente l'Intelligence du Chaman de 5%"
   },
   "60102": {
-    "name": "Specialisation:60 Row:1 Column:0 Rank:2",
+    "name": "Intelligence Ancestrale (rang2)",
     "icon": "icon_6010",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:1 Column:0 Rank:2. Use icon icon_6010.jpg"
+    "description": "Augmente l'Intelligence du Chaman de 10%"
   },
   "60103": {
-    "name": "Specialisation:60 Row:1 Column:0 Rank:3",
+    "name": "Intelligence Ancestrale (rang3)",
     "icon": "icon_6010",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:1 Column:0 Rank:3. Use icon icon_6010.jpg"
+    "description": "Augmente l'Intelligence du Chaman de 15%"
   },
   "60104": {
     "name": "Specialisation:60 Row:1 Column:0 Rank:4",
@@ -10950,16 +10950,16 @@
     "description": "Description for Specialisation:60 Row:1 Column:0 Rank:5. Use icon icon_6010.jpg"
   },
   "60111": {
-    "name": "Specialisation:60 Row:1 Column:1 Rank:1",
-    "icon": "icon_6011",
+    "name": "Horions Améliorés (rang1)",
+    "icon": "ispell_frost_windwalkon",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:1 Column:1 Rank:1. Use icon icon_6011.jpg"
+    "description": "Augmente la durée de la technique Horion de Glace de 1sec, la durée de la technique Horion de Feu de 3sec et la menace généré par la technique Horion de Terre de 10%"
   },
   "60112": {
-    "name": "Specialisation:60 Row:1 Column:1 Rank:2",
+    "name": "Horions Améliorés (rang2)",
     "icon": "icon_6011",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:1 Column:1 Rank:2. Use icon icon_6011.jpg"
+    "description": "Augmente la durée de la technique Horion de Glace de 2sec, la durée de la technique Horion de Feu de 6sec et la menace généré par la technique Horion de Terre de 20%"
   },
   "60113": {
     "name": "Specialisation:60 Row:1 Column:1 Rank:3",
@@ -10980,22 +10980,22 @@
     "description": "Description for Specialisation:60 Row:1 Column:1 Rank:5. Use icon icon_6011.jpg"
   },
   "60121": {
-    "name": "Specialisation:60 Row:1 Column:2 Rank:1",
-    "icon": "icon_6012",
+    "name": "Appel des Flammes (rang1)",
+    "icon": "spell_fire_immolation",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:1 Column:2 Rank:1. Use icon icon_6012.jpg"
+    "description": "Diminue la menace généré et augmente les dégats infligés par les sorts de Feu du Chaman de 5%"
   },
   "60122": {
-    "name": "Specialisation:60 Row:1 Column:2 Rank:2",
+    "name": "Appel des Flammes (rang2)",
     "icon": "icon_6012",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:1 Column:2 Rank:2. Use icon icon_6012.jpg"
+    "description": "Diminue la menace généré et augmente les dégats infligés par les sorts de Feu du Chaman de 10%"
   },
   "60123": {
-    "name": "Specialisation:60 Row:1 Column:2 Rank:3",
+    "name": "Appel des Flammes (rang3)",
     "icon": "icon_6012",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:1 Column:2 Rank:3. Use icon icon_6012.jpg"
+    "description": "Diminue la menace généré et augmente les dégats infligés par les sorts de Feu du Chaman de 15%"
   },
   "60124": {
     "name": "Specialisation:60 Row:1 Column:2 Rank:4",
@@ -11010,16 +11010,16 @@
     "description": "Description for Specialisation:60 Row:1 Column:2 Rank:5. Use icon icon_6012.jpg"
   },
   "60131": {
-    "name": "Specialisation:60 Row:1 Column:3 Rank:1",
-    "icon": "icon_6013",
+    "name": "Transfert Astral (rang1)",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:1 Column:3 Rank:1. Use icon icon_6013.jpg"
+    "description": "Diminue les dégats subit par le Chaman durant les effets de Peur et d'Etourdissement de 5%"
   },
   "60132": {
-    "name": "Specialisation:60 Row:1 Column:3 Rank:2",
+    "name": "Transfert Astral (rang2)",
     "icon": "icon_6013",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:1 Column:3 Rank:2. Use icon icon_6013.jpg"
+    "description": "Diminue les dégats subit par le Chaman durant les effets de Peur et d'Etourdissement de 10%"
   },
   "60133": {
     "name": "Specialisation:60 Row:1 Column:3 Rank:3",
@@ -11040,22 +11040,22 @@
     "description": "Description for Specialisation:60 Row:1 Column:3 Rank:5. Use icon icon_6013.jpg"
   },
   "60201": {
-    "name": "Specialisation:60 Row:2 Column:0 Rank:1",
-    "icon": "icon_6020",
+    "name": "Dévastation Elémentaire (rang1)",
+    "icon": "classic_spell_fire_elementaldevastation",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:2 Column:0 Rank:1. Use icon icon_6020.jpg"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 3%"
   },
   "60202": {
-    "name": "Specialisation:60 Row:2 Column:0 Rank:2",
+    "name": "Dévastation Elémentaire (rang2)",
     "icon": "icon_6020",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:2 Column:0 Rank:2. Use icon icon_6020.jpg"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 6%"
   },
   "60203": {
-    "name": "Specialisation:60 Row:2 Column:0 Rank:3",
+    "name": "Dévastation Elémentaire (rang3)",
     "icon": "icon_6020",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:2 Column:0 Rank:3. Use icon icon_6020.jpg"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 9%"
   },
   "60204": {
     "name": "Specialisation:60 Row:2 Column:0 Rank:4",
@@ -11070,10 +11070,10 @@
     "description": "Description for Specialisation:60 Row:2 Column:0 Rank:5. Use icon icon_6020.jpg"
   },
   "60211": {
-    "name": "Specialisation:60 Row:2 Column:1 Rank:1",
-    "icon": "icon_6021",
+    "name": "Focalisation Elémentaire",
+    "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:2 Column:1 Rank:1. Use icon icon_6021.jpg"
+    "description": "Lorsque le Chaman obtient un effet critique avec une technique de Soin, de Sort ou de Mélée, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Soin, de Sort ou de Mélée de 100% durant 15sec"
   },
   "60212": {
     "name": "Specialisation:60 Row:2 Column:1 Rank:2",
@@ -11100,10 +11100,10 @@
     "description": "Description for Specialisation:60 Row:2 Column:1 Rank:5. Use icon icon_6021.jpg"
   },
   "60221": {
-    "name": "Specialisation:60 Row:2 Column:2 Rank:1",
-    "icon": "icon_6022",
+    "name": "Langue de Feu",
+    "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:2 Column:2 Rank:1. Use icon icon_6022.jpg"
+    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu, le Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. L'Enchantement Langue de Feu : Technique a activer, instantanée, coûte 155pts de mana, Enchante l'Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
   },
   "60222": {
     "name": "Specialisation:60 Row:2 Column:2 Rank:2",
@@ -11130,16 +11130,16 @@
     "description": "Description for Specialisation:60 Row:2 Column:2 Rank:5. Use icon icon_6022.jpg"
   },
   "60231": {
-    "name": "Specialisation:60 Row:2 Column:3 Rank:1",
-    "icon": "icon_6023",
+    "name": "Réverbération (rang1)",
+    "icon": "spell_frost_frostward",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:2 Column:3 Rank:1. Use icon icon_6023.jpg"
+    "description": "Diminue le temps de rechargement des techniques d'Horions de 0,5sec"
   },
   "60232": {
-    "name": "Specialisation:60 Row:2 Column:3 Rank:2",
+    "name": "Réverbération (rang2)",
     "icon": "icon_6023",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:2 Column:3 Rank:2. Use icon icon_6023.jpg"
+    "description": "Diminue le temps de rechargement des techniques d'Horions de 1sec"
   },
   "60233": {
     "name": "Specialisation:60 Row:2 Column:3 Rank:3",
@@ -11160,22 +11160,22 @@
     "description": "Description for Specialisation:60 Row:2 Column:3 Rank:5. Use icon icon_6023.jpg"
   },
   "60301": {
-    "name": "Specialisation:60 Row:3 Column:0 Rank:1",
-    "icon": "icon_6030",
+    "name": "Nova de Feu Amélioré (rang1)",
+    "icon": "spell_fire_sealoffire",
     "rank": 1,
-    "description": "Description for Specialisation:60 Row:3 Column:0 Rank:1. Use icon icon_6030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 2sec et provoque un effet de ralentissement sur les cibles de 50% pendant 2sec"
   },
   "60302": {
-    "name": "Specialisation:60 Row:3 Column:0 Rank:2",
+    "name": "Nova de Feu Amélioré (rang2)",
     "icon": "icon_6030",
     "rank": 2,
-    "description": "Description for Specialisation:60 Row:3 Column:0 Rank:2. Use icon icon_6030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 4sec et provoque un effet de ralentissement sur les cibles de 50% pendant 4sec"
   },
   "60303": {
-    "name": "Specialisation:60 Row:3 Column:0 Rank:3",
+    "name": "Nova de Feu Amélioré (rang3)",
     "icon": "icon_6030",
     "rank": 3,
-    "description": "Description for Specialisation:60 Row:3 Column:0 Rank:3. Use icon icon_6030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Nova de Feu de 6sec et provoque un effet de ralentissement sur les cibles de 50% pendant 6sec"
   },
   "60304": {
     "name": "Specialisation:60 Row:3 Column:0 Rank:4",
