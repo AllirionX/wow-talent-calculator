@@ -10113,13 +10113,13 @@
     "name": "Connexion Spirituelle (rang1)",
     "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 15sec qui permet a 50% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 6sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52012": {
     "name": "Connexion Spirituelle (rang2)",
     "icon": "icon_5201",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 15sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique ou lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52013": {
     "name": "Specialisation:52 Row:0 Column:1 Rank:3",
@@ -10170,16 +10170,16 @@
     "description": "Description for Specialisation:52 Row:0 Column:2 Rank:5. Use icon icon_5202.jpg"
   },
   "52031": {
-    "name": "Aveuglement (rang1)",
-    "icon": "spell_shadow_burningspirit",
+    "name": "Focalisation de l'Ombre (rang1)",
+    "icon": "spell_shadow_scourgebuild",
     "rank": 1,
-    "description": "Augmente les chances de Toucher du Prêtre de 3% et réduit la pénalité de la technique Contrôle Mental de 50%"
+    "description": "Donne 35% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
   },
   "52032": {
-    "name": "Aveuglement (rang2)",
+    "name": "Focalisation de l'Ombre (rang2)",
     "icon": "icon_5203",
     "rank": 2,
-    "description": "Augmente les chances de Toucher du Prêtre de 6% et réduit la pénalité de la technique Contrôle Mental de 100%"
+    "description": "Donne 70% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
   },
   "52033": {
     "name": "Specialisation:52 Row:0 Column:3 Rank:3",
@@ -10230,16 +10230,16 @@
     "description": "Description for Specialisation:52 Row:1 Column:0 Rank:5. Use icon icon_5210.jpg"
   },
   "52111": {
-    "name": "Focalisation de l'Ombre (rang1)",
-    "icon": "spell_shadow_scourgebuild",
+    "name": "Aveuglement (rang1)",
+    "icon": "spell_shadow_burningspirit",
     "rank": 1,
-    "description": "Donne 35% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
+    "description": "Augmente les chances de Toucher du Prêtre de 3% et réduit la pénalité de la technique Contrôle Mental de 50%"
   },
   "52112": {
-    "name": "Focalisation de l'Ombre (rang2)",
+    "name": "Aveuglement (rang2)",
     "icon": "icon_5211",
     "rank": 2,
-    "description": "Donne 70% de chance d'anti interruption au Prêtre lorsqu'il incante des techniques d'Ombre"
+    "description": "Augmente les chances de Toucher du Prêtre de 6% et réduit la pénalité de la technique Contrôle Mental de 100%"
   },
   "52113": {
     "name": "Specialisation:52 Row:1 Column:1 Rank:3",
