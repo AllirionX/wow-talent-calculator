@@ -5043,19 +5043,19 @@
     "name": "Maille étincellante (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de mana"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de mana"
   },
   "31002": {
     "name": "Maille étincellante (rang2)",
     "icon": "icon_3100",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de mana"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +4pts de mana"
   },
   "31003": {
     "name": "Maille étincellante (rang3)",
     "icon": "icon_3100",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de mana"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +6pts de mana"
   },
   "31004": {
     "name": "Specialisation:31 Row:0 Column:0 Rank:4",
@@ -5763,19 +5763,19 @@
     "name": "Poids de la Maille (rang1)",
     "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Vie"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Vie"
   },
   "32002": {
     "name": "Poids de la Maille (rang2)",
     "icon": "icon_3200",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Vie"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +4pts de Vie"
   },
   "32003": {
     "name": "Poids de la Maille (rang3)",
     "icon": "icon_3200",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Vie"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +6pts de Vie"
   },
   "32004": {
     "name": "Specialisation:32 Row:0 Column:0 Rank:4",
@@ -10803,19 +10803,19 @@
     "name": "Maille Etincelante (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 1pts de Mana pour le Chaman"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 2pts de Mana pour le Chaman"
   },
   "60002": {
     "name": "Maille Etincelante (rang2)",
     "icon": "icon_6000",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 2pts de Mana pour le Chaman"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 3pts de Mana pour le Chaman"
   },
   "60003": {
     "name": "Maille Etincelante (rang3)",
     "icon": "icon_6000",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 3pts de Mana pour le Chaman"
+    "description": "Convertit chaque tranche de 50pts d'Armure en 6pts de Mana pour le Chaman"
   },
   "60004": {
     "name": "Specialisation:60 Row:0 Column:0 Rank:4",
@@ -11103,7 +11103,7 @@
     "name": "Langue de Feu",
     "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu : Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. Enchantement Langue de Feu : Technique a activer, instantanée, coûte 155pts de mana, Enchante l'Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
+    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu : Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. Enchantement Langue de Feu : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
   },
   "60222": {
     "name": "Specialisation:60 Row:2 Column:2 Rank:2",
@@ -11343,7 +11343,7 @@
     "name": "Maîtrise du Feu",
     "icon": "spell_fire_flameshock",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques de Feu du Chaman de 50%, de plus lorsqu'une cible est sous l'effet de la technique Horion de Feu, tous les dégats de Feu infligés a cette cible ont 100% de chance de critique"
+    "description": "Diminue le coût en mana de toutes les techniques de Feu du Chaman de 50%, de plus lorsqu'une cible est sous l'effet de la technique Horion de Feu, tous les dégats de Feu infligés a cette cible par le Chaman ont 100% de chance de critique"
   },
   "60422": {
     "name": "Specialisation:60 Row:4 Column:2 Rank:2",
@@ -11520,22 +11520,22 @@
     "description": "Description for Specialisation:60 Row:6 Column:2 Rank:5. Use icon icon_6062.jpg"
   },
   "61001": {
-    "name": "Specialisation:61 Row:0 Column:0 Rank:1",
-    "icon": "icon_6100",
+    "name": "Maille Tranchante (rang1)",
+    "icon": "ability_warrior_riposte",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:0 Column:0 Rank:1. Use icon icon_6100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +2pts de Puissance d'Attaque"
   },
   "61002": {
-    "name": "Specialisation:61 Row:0 Column:0 Rank:2",
+    "name": "Maille Tranchante (rang2)",
     "icon": "icon_6100",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:0 Column:0 Rank:2. Use icon icon_6100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +4pts de Puissance d'Attaque"
   },
   "61003": {
-    "name": "Specialisation:61 Row:0 Column:0 Rank:3",
+    "name": "Maille Tranchante (rang3)",
     "icon": "icon_6100",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:0 Column:0 Rank:3. Use icon icon_6100.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +6pts de Puissance d'Attaque"
   },
   "61004": {
     "name": "Specialisation:61 Row:0 Column:0 Rank:4",
@@ -11550,16 +11550,16 @@
     "description": "Description for Specialisation:61 Row:0 Column:0 Rank:5. Use icon icon_6100.jpg"
   },
   "61011": {
-    "name": "Specialisation:61 Row:0 Column:1 Rank:1",
-    "icon": "icon_6101",
+    "name": "Totem Gardien (rang1)",
+    "icon": "spell_nature_stoneskintotem",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:0 Column:1 Rank:1. Use icon icon_6101.jpg"
+    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 1sec, augmente la portée de la technique Totem de Lien Terrestre de 10%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 50%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 15%"
   },
   "61012": {
-    "name": "Specialisation:61 Row:0 Column:1 Rank:2",
+    "name": "Totem Gardien (rang2)",
     "icon": "icon_6101",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:0 Column:1 Rank:2. Use icon icon_6101.jpg"
+    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 2sec, augmente la portée de la technique Totem de Lien Terrestre de 20%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 100%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 30%"
   },
   "61013": {
     "name": "Specialisation:61 Row:0 Column:1 Rank:3",
@@ -11580,22 +11580,22 @@
     "description": "Description for Specialisation:61 Row:0 Column:1 Rank:5. Use icon icon_6101.jpg"
   },
   "61021": {
-    "name": "Specialisation:61 Row:0 Column:2 Rank:1",
-    "icon": "icon_6102",
+    "name": "Spécialisation Bouclier (rang1)",
+    "icon": "inv_shield_06",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:0 Column:2 Rank:1. Use icon icon_6102.jpg"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 2%"
   },
   "61022": {
-    "name": "Specialisation:61 Row:0 Column:2 Rank:2",
+    "name": "Spécialisation Bouclier (rang2)",
     "icon": "icon_6102",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:0 Column:2 Rank:2. Use icon icon_6102.jpg"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 4%"
   },
   "61023": {
-    "name": "Specialisation:61 Row:0 Column:2 Rank:3",
+    "name": "Spécialisation Bouclier (rang3)",
     "icon": "icon_6102",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:0 Column:2 Rank:3. Use icon icon_6102.jpg"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 6%"
   },
   "61024": {
     "name": "Specialisation:61 Row:0 Column:2 Rank:4",
@@ -11610,16 +11610,16 @@
     "description": "Description for Specialisation:61 Row:0 Column:2 Rank:5. Use icon icon_6102.jpg"
   },
   "61031": {
-    "name": "Specialisation:61 Row:0 Column:3 Rank:1",
-    "icon": "icon_6103",
+    "name": "Rage Enchaînée (rang1)",
+    "icon": "ability_warrior_disarm",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:0 Column:3 Rank:1. Use icon icon_6103.jpg"
+    "description": "Diminue la durée des effets de Désarmement sur le Chaman de 25%"
   },
   "61032": {
-    "name": "Specialisation:61 Row:0 Column:3 Rank:2",
+    "name": "Rage Enchaînée (rang2)",
     "icon": "icon_6103",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:0 Column:3 Rank:2. Use icon icon_6103.jpg"
+    "description": "Diminue la durée des effets de Désarmement sur le Chaman de 50%"
   },
   "61033": {
     "name": "Specialisation:61 Row:0 Column:3 Rank:3",
@@ -11640,22 +11640,22 @@
     "description": "Description for Specialisation:61 Row:0 Column:3 Rank:5. Use icon icon_6103.jpg"
   },
   "61101": {
-    "name": "Specialisation:61 Row:1 Column:0 Rank:1",
-    "icon": "icon_6110",
+    "name": "Totems Améliorés (rang1)",
+    "icon": "spell_nature_earthbindtotem",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:1 Column:0 Rank:1. Use icon icon_6110.jpg"
+    "description": "Augmente les effets des Totems du Chaman de 10%"
   },
   "61102": {
-    "name": "Specialisation:61 Row:1 Column:0 Rank:2",
+    "name": "Totems Améliorés (rang2)",
     "icon": "icon_6110",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:1 Column:0 Rank:2. Use icon icon_6110.jpg"
+    "description": "Augmente les effets des Totems du Chaman de 20%"
   },
   "61103": {
-    "name": "Specialisation:61 Row:1 Column:0 Rank:3",
+    "name": "Totems Améliorés (rang3)",
     "icon": "icon_6110",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:1 Column:0 Rank:3. Use icon icon_6110.jpg"
+    "description": "Augmente les effets des Totems du Chaman de 30%"
   },
   "61104": {
     "name": "Specialisation:61 Row:1 Column:0 Rank:4",
@@ -11670,16 +11670,16 @@
     "description": "Description for Specialisation:61 Row:1 Column:0 Rank:5. Use icon icon_6110.jpg"
   },
   "61111": {
-    "name": "Specialisation:61 Row:1 Column:1 Rank:1",
-    "icon": "icon_6111",
+    "name": "Loup Fantôme Amélioré (rang1)",
+    "icon": "spell_nature_spiritwolf",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:1 Column:1 Rank:1. Use icon icon_6111.jpg"
+    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 1sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +5% lorsqu'il est sous cette Forme et cela même en combat"
   },
   "61112": {
-    "name": "Specialisation:61 Row:1 Column:1 Rank:2",
+    "name": "Loup Fantôme Amélioré (rang2)",
     "icon": "icon_6111",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:1 Column:1 Rank:2. Use icon icon_6111.jpg"
+    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 2sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +10% lorsqu'il est sous cette Forme et cela même en combat"
   },
   "61113": {
     "name": "Specialisation:61 Row:1 Column:1 Rank:3",
@@ -11700,22 +11700,22 @@
     "description": "Description for Specialisation:61 Row:1 Column:1 Rank:5. Use icon icon_6111.jpg"
   },
   "61121": {
-    "name": "Specialisation:61 Row:1 Column:2 Rank:1",
-    "icon": "icon_6112",
+    "name": "Force Ancestrale (rang1)",
+    "icon": "ability_hunter_swiftstrike",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:1 Column:2 Rank:1. Use icon icon_6112.jpg"
+    "description": "Augmente la Force du Chaman de 5%"
   },
   "61122": {
-    "name": "Specialisation:61 Row:1 Column:2 Rank:2",
+    "name": "Force Ancestrale (rang2)",
     "icon": "icon_6112",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:1 Column:2 Rank:2. Use icon icon_6112.jpg"
+    "description": "Augmente la Force du Chaman de 10%"
   },
   "61123": {
-    "name": "Specialisation:61 Row:1 Column:2 Rank:3",
+    "name": "Force Ancestrale (rang3)",
     "icon": "icon_6112",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:1 Column:2 Rank:3. Use icon icon_6112.jpg"
+    "description": "Augmente la Force du Chaman de 15%"
   },
   "61124": {
     "name": "Specialisation:61 Row:1 Column:2 Rank:4",
@@ -11730,16 +11730,16 @@
     "description": "Description for Specialisation:61 Row:1 Column:2 Rank:5. Use icon icon_6112.jpg"
   },
   "61131": {
-    "name": "Specialisation:61 Row:1 Column:3 Rank:1",
-    "icon": "icon_6113",
+    "name": "Blocage Amélioré (rang1)",
+    "icon": "inv_shield_05",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:1 Column:3 Rank:1. Use icon icon_6113.jpg"
+    "description": "Augmente le montant de Blocage du Chaman de 15% et lorsqu'il bloque il regen 1% de sa mana, avec 1sec de temps de rechargement"
   },
   "61132": {
-    "name": "Specialisation:61 Row:1 Column:3 Rank:2",
+    "name": "Blocage Amélioré (rang2)",
     "icon": "icon_6113",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:1 Column:3 Rank:2. Use icon icon_6113.jpg"
+    "description": "Augmente le montant de Blocage du Chaman de 30% et lorsqu'il bloque il regen 2% de sa mana, avec 1sec de temps de rechargement"
   },
   "61133": {
     "name": "Specialisation:61 Row:1 Column:3 Rank:3",
@@ -11760,22 +11760,22 @@
     "description": "Description for Specialisation:61 Row:1 Column:3 Rank:5. Use icon icon_6113.jpg"
   },
   "61201": {
-    "name": "Specialisation:61 Row:2 Column:0 Rank:1",
-    "icon": "icon_6120",
+    "name": "Anticipation (rang1)",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:2 Column:0 Rank:1. Use icon icon_6120.jpg"
+    "description": "Augmente les chances d'Esquiver du Chaman de 2%"
   },
   "61202": {
-    "name": "Specialisation:61 Row:2 Column:0 Rank:2",
+    "name": "Anticipation (rang2)",
     "icon": "icon_6120",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:2 Column:0 Rank:2. Use icon icon_6120.jpg"
+    "description": "Augmente les chances d'Esquiver du Chaman de 4%"
   },
   "61203": {
-    "name": "Specialisation:61 Row:2 Column:0 Rank:3",
+    "name": "Anticipation (rang3)",
     "icon": "icon_6120",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:2 Column:0 Rank:3. Use icon icon_6120.jpg"
+    "description": "Augmente les chances d'Esquiver du Chaman de 6%"
   },
   "61204": {
     "name": "Specialisation:61 Row:2 Column:0 Rank:4",
@@ -11790,10 +11790,10 @@
     "description": "Description for Specialisation:61 Row:2 Column:0 Rank:5. Use icon icon_6120.jpg"
   },
   "61211": {
-    "name": "Specialisation:61 Row:2 Column:1 Rank:1",
-    "icon": "icon_6121",
+    "name": "Furie des Vents",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:2 Column:1 Rank:1. Use icon icon_6121.jpg"
+    "description": "Donne accès au Chaman a 2 techniques : Totem Furie des Vents et Enchantement Furie des Vents : Totem Furie des Vents : Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats. Enchante d'Arme Furie des Vents : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et lui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
   },
   "61212": {
     "name": "Specialisation:61 Row:2 Column:1 Rank:2",
@@ -11820,10 +11820,10 @@
     "description": "Description for Specialisation:61 Row:2 Column:1 Rank:5. Use icon icon_6121.jpg"
   },
   "61221": {
-    "name": "Specialisation:61 Row:2 Column:2 Rank:1",
-    "icon": "icon_6122",
+    "name": "Maîtrise des Armes",
+    "icon": "ability_parry",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:2 Column:2 Rank:1. Use icon icon_6122.jpg"
+    "description": "Donne au Chaman la capacacité Parade et lui donne +6% de Parade, lui permet également d'équiper une Hache a 2 mains, Mace a 2 mains et d'être ambidextre, il peut alors utiliser 2 Enchantements d'Armes même ils doivent obligatoirement être différent, le niveau de compétence d'Armes est Sauvegardé en cas de Respécialisation"
   },
   "61222": {
     "name": "Specialisation:61 Row:2 Column:2 Rank:2",
@@ -11850,16 +11850,16 @@
     "description": "Description for Specialisation:61 Row:2 Column:2 Rank:5. Use icon icon_6122.jpg"
   },
   "61231": {
-    "name": "Specialisation:61 Row:2 Column:3 Rank:1",
-    "icon": "icon_6123",
+    "name": "Charges Améliorés (rang1)",
+    "icon": "spell_nature_lightningshield",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:2 Column:3 Rank:1. Use icon icon_6123.jpg"
+    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 1"
   },
   "61232": {
-    "name": "Specialisation:61 Row:2 Column:3 Rank:2",
+    "name": "Charges Améliorés (rang2)",
     "icon": "icon_6123",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:2 Column:3 Rank:2. Use icon icon_6123.jpg"
+    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 2"
   },
   "61233": {
     "name": "Specialisation:61 Row:2 Column:3 Rank:3",
@@ -11880,22 +11880,22 @@
     "description": "Description for Specialisation:61 Row:2 Column:3 Rank:5. Use icon icon_6123.jpg"
   },
   "61301": {
-    "name": "Specialisation:61 Row:3 Column:0 Rank:1",
-    "icon": "icon_6130",
+    "name": "Résistance (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:3 Column:0 Rank:1. Use icon icon_6130.jpg"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 10% et augmente son Armure de 4%"
   },
   "61302": {
-    "name": "Specialisation:61 Row:3 Column:0 Rank:2",
+    "name": "Résistance (rang2)",
     "icon": "icon_6130",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:3 Column:0 Rank:2. Use icon icon_6130.jpg"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 20% et augmente son Armure de 8%"
   },
   "61303": {
-    "name": "Specialisation:61 Row:3 Column:0 Rank:3",
+    "name": "Résistance (rang3)",
     "icon": "icon_6130",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:3 Column:0 Rank:3. Use icon icon_6130.jpg"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 30% et augmente son Armure de 12%"
   },
   "61304": {
     "name": "Specialisation:61 Row:3 Column:0 Rank:4",
@@ -11910,16 +11910,16 @@
     "description": "Description for Specialisation:61 Row:3 Column:0 Rank:5. Use icon icon_6130.jpg"
   },
   "61311": {
-    "name": "Specialisation:61 Row:3 Column:1 Rank:1",
-    "icon": "icon_6131",
+    "name": "Enchantement d'Armes Améliorés (rang1)",
+    "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:3 Column:1 Rank:1. Use icon icon_6131.jpg"
+    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 15%"
   },
   "61312": {
-    "name": "Specialisation:61 Row:3 Column:1 Rank:2",
+    "name": "Enchantement d'Armes Améliorés (rang2)",
     "icon": "icon_6131",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:3 Column:1 Rank:2. Use icon icon_6131.jpg"
+    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 30%"
   },
   "61313": {
     "name": "Specialisation:61 Row:3 Column:1 Rank:3",
@@ -11940,22 +11940,22 @@
     "description": "Description for Specialisation:61 Row:3 Column:1 Rank:5. Use icon icon_6131.jpg"
   },
   "61321": {
-    "name": "Specialisation:61 Row:3 Column:2 Rank:1",
-    "icon": "icon_6132",
+    "name": "Frappes Foudoyantes (rang1)",
+    "icon": "ability_thunderbolt",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:3 Column:2 Rank:1. Use icon icon_6132.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "61322": {
-    "name": "Specialisation:61 Row:3 Column:2 Rank:2",
+    "name": "Frappes Foudoyantes (rang2)",
     "icon": "icon_6132",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:3 Column:2 Rank:2. Use icon icon_6132.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "61323": {
-    "name": "Specialisation:61 Row:3 Column:2 Rank:3",
+    "name": "Frappes Foudoyantes (rang3)",
     "icon": "icon_6132",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:3 Column:2 Rank:3. Use icon icon_6132.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "61324": {
     "name": "Specialisation:61 Row:3 Column:2 Rank:4",
@@ -11970,16 +11970,16 @@
     "description": "Description for Specialisation:61 Row:3 Column:2 Rank:5. Use icon icon_6132.jpg"
   },
   "61331": {
-    "name": "Specialisation:61 Row:3 Column:3 Rank:1",
-    "icon": "icon_6133",
+    "name": "Rapidité Mentale (rang1)",
+    "icon": "spell_nature_sleep",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:3 Column:3 Rank:1. Use icon icon_6133.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 20%"
   },
   "61332": {
-    "name": "Specialisation:61 Row:3 Column:3 Rank:2",
+    "name": "Rapidité Mentale (rang2)",
     "icon": "icon_6133",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:3 Column:3 Rank:2. Use icon icon_6133.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 40%"
   },
   "61333": {
     "name": "Specialisation:61 Row:3 Column:3 Rank:3",
@@ -12000,22 +12000,22 @@
     "description": "Description for Specialisation:61 Row:3 Column:3 Rank:5. Use icon icon_6133.jpg"
   },
   "61401": {
-    "name": "Specialisation:61 Row:4 Column:0 Rank:1",
-    "icon": "icon_6140",
+    "name": "Précision (rang1)",
+    "icon": "inv_axe_06",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:4 Column:0 Rank:1. Use icon icon_6140.jpg"
+    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 5% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 2%"
   },
   "61402": {
-    "name": "Specialisation:61 Row:4 Column:0 Rank:2",
+    "name": "Précision (rang2)",
     "icon": "icon_6140",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:4 Column:0 Rank:2. Use icon icon_6140.jpg"
+    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 10% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 4%"
   },
   "61403": {
-    "name": "Specialisation:61 Row:4 Column:0 Rank:3",
+    "name": "Précision (rang3)",
     "icon": "icon_6140",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:4 Column:0 Rank:3. Use icon icon_6140.jpg"
+    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 15% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 6%"
   },
   "61404": {
     "name": "Specialisation:61 Row:4 Column:0 Rank:4",
@@ -12030,10 +12030,10 @@
     "description": "Description for Specialisation:61 Row:4 Column:0 Rank:5. Use icon icon_6140.jpg"
   },
   "61411": {
-    "name": "Specialisation:61 Row:4 Column:1 Rank:1",
-    "icon": "icon_6141",
+    "name": "Maëlstrom",
+    "icon": "spell_nature_eyeofthestorm",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:4 Column:1 Rank:1. Use icon icon_6141.jpg"
+    "description": "Permet aux attaques en mélée du Chaman réussies de donner une amélioration au Chaman qui se stack jusqu'a 5fois, et qui diminue le temps d'incantation de la prochaine technique Chaine d'Eclair ou Salve du Soin du Chaman de 20% durant 30sec"
   },
   "61412": {
     "name": "Specialisation:61 Row:4 Column:1 Rank:2",
@@ -12060,10 +12060,10 @@
     "description": "Description for Specialisation:61 Row:4 Column:1 Rank:5. Use icon icon_6141.jpg"
   },
   "61421": {
-    "name": "Specialisation:61 Row:4 Column:2 Rank:1",
-    "icon": "icon_6142",
+    "name": "Rage Chamanique",
+    "icon": "spell_shadow_deathpact",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:4 Column:2 Rank:1. Use icon icon_6142.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, utilisable même sous contrôle, Rage qui transforme le Chaman en Worgen durant 10sec, durant l'effet il gagne 100% de chance d'anti interruption sur ses incantations, il subit 20% de dégats en moins, il inflige 20% de dégats en plus, et 20% des dégats qu'il inflige le soigne et lui sont rendu en mana également"
   },
   "61422": {
     "name": "Specialisation:61 Row:4 Column:2 Rank:2",
@@ -12090,16 +12090,16 @@
     "description": "Description for Specialisation:61 Row:4 Column:2 Rank:5. Use icon icon_6142.jpg"
   },
   "61431": {
-    "name": "Specialisation:61 Row:4 Column:3 Rank:1",
-    "icon": "icon_6143",
+    "name": "Expert en Armes (rang1)",
+    "icon": "inv_axe_10",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:4 Column:3 Rank:1. Use icon icon_6143.jpg"
+    "description": "Augmente les compétences d'Armes du Chaman de +3pts et augmente les dégats qu'il inflige en mélée de 5%"
   },
   "61432": {
-    "name": "Specialisation:61 Row:4 Column:3 Rank:2",
+    "name": "Expert en Armes (rang2)",
     "icon": "icon_6143",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:4 Column:3 Rank:2. Use icon icon_6143.jpg"
+    "description": "Augmente les compétences d'Armes du Chaman de +6pts et augmente les dégats qu'il inflige en mélée de 10%"
   },
   "61433": {
     "name": "Specialisation:61 Row:4 Column:3 Rank:3",
@@ -12120,16 +12120,16 @@
     "description": "Description for Specialisation:61 Row:4 Column:3 Rank:5. Use icon icon_6143.jpg"
   },
   "61511": {
-    "name": "Specialisation:61 Row:5 Column:1 Rank:1",
-    "icon": "icon_6151",
+    "name": "Rafale (rang1)",
+    "icon": "ability_ghoulfrenzy",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:5 Column:1 Rank:1. Use icon icon_6151.jpg"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration qui augmente sa vitesse d'attaque en mélée de 15% durant 12sec ou 3 charges"
   },
   "61512": {
-    "name": "Specialisation:61 Row:5 Column:1 Rank:2",
+    "name": "Rafale (rang2)",
     "icon": "icon_6151",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:5 Column:1 Rank:2. Use icon icon_6151.jpg"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration qui augmente sa vitesse d'attaque en mélée de 30% durant 12sec ou 3 charges"
   },
   "61513": {
     "name": "Specialisation:61 Row:5 Column:1 Rank:3",
@@ -12150,22 +12150,22 @@
     "description": "Description for Specialisation:61 Row:5 Column:1 Rank:5. Use icon icon_6151.jpg"
   },
   "61521": {
-    "name": "Specialisation:61 Row:5 Column:2 Rank:1",
-    "icon": "icon_6152",
+    "name": "Courroux Naturel (rang1)",
+    "icon": "spell_nature_undyingstrength",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:5 Column:2 Rank:1. Use icon icon_6152.jpg"
+    "description": "Convertit 10% de la Force du Chaman en Bonus sort"
   },
   "61522": {
-    "name": "Specialisation:61 Row:5 Column:2 Rank:2",
+    "name": "Courroux Naturel (rang2)",
     "icon": "icon_6152",
     "rank": 2,
-    "description": "Description for Specialisation:61 Row:5 Column:2 Rank:2. Use icon icon_6152.jpg"
+    "description": "Convertit 20% de la Force du Chaman en Bonus sort"
   },
   "61523": {
-    "name": "Specialisation:61 Row:5 Column:2 Rank:3",
+    "name": "Courroux Naturel (rang3)",
     "icon": "icon_6152",
     "rank": 3,
-    "description": "Description for Specialisation:61 Row:5 Column:2 Rank:3. Use icon icon_6152.jpg"
+    "description": "Convertit 30% de la Force du Chaman en Bonus sort"
   },
   "61524": {
     "name": "Specialisation:61 Row:5 Column:2 Rank:4",
@@ -12180,10 +12180,10 @@
     "description": "Description for Specialisation:61 Row:5 Column:2 Rank:5. Use icon icon_6152.jpg"
   },
   "61611": {
-    "name": "Specialisation:61 Row:6 Column:1 Rank:1",
-    "icon": "icon_6161",
+    "name": "Frappe Tempête",
+    "icon": "spell_holy_sealofmight",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:6 Column:1 Rank:1. Use icon icon_6161.jpg"
+    "description": "technique a activer, instantanée, 0-5yards de portée, coûte 210pts de mana, 6sec de temps de rechargement, frappe instantanément la cible avec toutes les Armes du Chaman, lui redonne également 2% de sa mana et pose un affaiblissement de 12sec sur la cible avec 2 charges qui augmente les 2 prochains dégats Elémentaire sur la cible de 20%"
   },
   "61612": {
     "name": "Specialisation:61 Row:6 Column:1 Rank:2",
@@ -12210,10 +12210,10 @@
     "description": "Description for Specialisation:61 Row:6 Column:1 Rank:5. Use icon icon_6161.jpg"
   },
   "61621": {
-    "name": "Specialisation:61 Row:6 Column:2 Rank:1",
-    "icon": "icon_6162",
+    "name": "Bloodlust",
+    "icon": "spell_nature_bloodlust",
     "rank": 1,
-    "description": "Description for Specialisation:61 Row:6 Column:2 Rank:1. Use icon icon_6162.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une icone durant 10sec ou 5 charges qui, lorsqu'un joueur passe dessus lui donne une amélioration de 30sec qui augmente les dégats infligés de 30% mais subit également 30% de dégats supplémentaire, pose également un affaiblissement de 15sec qui empêche le joueur de rebénéficier de l'effet"
   },
   "61622": {
     "name": "Specialisation:61 Row:6 Column:2 Rank:2",
