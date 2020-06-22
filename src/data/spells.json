@@ -4323,19 +4323,19 @@
     "name": "Peau Cicatrisée (rang1)",
     "icon": "ability_ghoulfrenzy",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +1pts de Puissance d'Attaque en mélée et a distance pour le Chasseur et son Familier également"
   },
   "30002": {
     "name": "Peau Cicatrisée (rang2)",
     "icon": "icon_3000",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Puissance d'Attaque en mélée et a distance pour le Chasseur et son Familier également"
   },
   "30003": {
     "name": "Peau Cicatrisée (rang3)",
     "icon": "icon_3000",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Puissance d'Attaque (corps à corps et distance) pour le Chasseur et son Familier également"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +3pts de Puissance d'Attaque en mélée et a distance pour le Chasseur et son Familier également"
   },
   "30004": {
     "name": "Specialisation:30 Row:0 Column:0 Rank:4",
@@ -4353,13 +4353,13 @@
     "name": "Complicité (rang1)",
     "icon": "ability_eyeoftheowl",
     "rank": 1,
-    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 2min"
+    "description": "Donne 35% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 50% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 2min"
   },
   "30012": {
     "name": "Complicité (rang2)",
     "icon": "icon_3001",
     "rank": 2,
-    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, Oeil de la Bête et Oeil de l'Aigle et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 100% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 4min"
+    "description": "Donne 70% de chance d'anti interruption au Chasseur lorsqu'il utilise les techniques Soin du Familier, Effrayer une Bête, Ressuciter le Familier, Dompter une Bête, et diminue le temps d'incantation des techniques Renvoi du Familier et Oeil de la Bête de 100% et augmente la durée de la technique Oeil de la Bête et Oeil de l'Aigle de 4min"
   },
   "30013": {
     "name": "Specialisation:30 Row:0 Column:1 Rank:3",
@@ -4473,13 +4473,13 @@
     "name": "Bestialité Naturelle (rang1)",
     "icon": "spell_nature_regeneration",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10% et le coût en Focalisation de toutes techniques du Familier de 1pts"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 10% ainsi que le coût en Focalisation de toutes les techniques du Familier de 1pts"
   },
   "30112": {
     "name": "Bestialité Naturelle (rang2)",
     "icon": "icon_3011",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 20% et le coût en Focalisation de toutes techniques du Familier de 2pts"
+    "description": "Diminue le coût en mana de toutes les techniques de l'onglet Maîtrise des Bêtes du Chasseur de 20% ainsi que le coût en Focalisation de toutes les techniques du Familier de 2pts"
   },
   "30113": {
     "name": "Specialisation:30 Row:1 Column:1 Rank:3",
@@ -4503,19 +4503,19 @@
     "name": "Peau Epaisse (rang1)",
     "icon": "inv_misc_pelt_bear_03",
     "rank": 1,
-    "description": "Diminue les dégats subit par le Familier de 5% et ceux du Chasseur de 2%"
+    "description": "Diminue les dégats subit par le Familier de 5% et ceux par le Chasseur de 2%"
   },
   "30122": {
     "name": "Peau Epaisse (rang2)",
     "icon": "icon_3012",
     "rank": 2,
-    "description": "Diminue les dégats subit par le Familier de 10% et ceux du Chasseur de 4%"
+    "description": "Diminue les dégats subit par le Familier de 10% et ceux par le Chasseur de 4%"
   },
   "30123": {
     "name": "Peau Epaisse (rang3)",
     "icon": "icon_3012",
     "rank": 3,
-    "description": "Diminue les dégats subit par le Familier de 15% et ceux du Chasseur de 6%"
+    "description": "Diminue les dégats subit par le Familier de 15% et ceux par le Chasseur de 6%"
   },
   "30124": {
     "name": "Specialisation:30 Row:1 Column:2 Rank:4",
@@ -4533,13 +4533,13 @@
     "name": "Bête des Aspects (rang1)",
     "icon": "ability_hunter_snipershot",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%, de plus en plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 50%, et en plus de ces effets la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 50% sur le Chasseur"
   },
   "30132": {
     "name": "Bête des Aspects (rang2)",
     "icon": "icon_3013",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 100%, de plus en plus de ces effets, la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 100% sur le Chasseur"
+    "description": "Diminue le coût en mana de toutes les techniques d'Aspect de 100%, et en plus de ces effets la technique Aspect de la Bête réduit la durée des techniques Lucioles et Marque du Chasseur de 100% sur le Chasseur"
   },
   "30133": {
     "name": "Specialisation:30 Row:1 Column:3 Rank:3",
@@ -4563,19 +4563,19 @@
     "name": "Aspects Améliorés (rang1)",
     "icon": "ability_mount_jungletiger",
     "rank": 1,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 2%"
+    "description": "Augmente les effets des techniques d'Aspect de 2%"
   },
   "30202": {
     "name": "Aspects Améliorés (rang2)",
     "icon": "icon_3020",
     "rank": 2,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 4%"
+    "description": "Augmente les effets des techniques d'Aspect de 4%"
   },
   "30203": {
     "name": "Aspects Améliorés (rang3)",
     "icon": "icon_3020",
     "rank": 3,
-    "description": "Augmente les effets des différentes techniques d'Aspect de 6%"
+    "description": "Augmente les effets des techniques d'Aspect de 6%"
   },
   "30204": {
     "name": "Specialisation:30 Row:2 Column:0 Rank:4",
@@ -4593,7 +4593,7 @@
     "name": "Double Aspect",
     "icon": "spell_nature_forceofnature",
     "rank": 1,
-    "description": "Permet au Chasseur d'être sous l'effet de 2 techniques d'Aspect simultanément au lieu d'une seule"
+    "description": "Permet au Chasseur d'être sous l'effet de 2 techniques d'Aspect simultanément"
   },
   "30212": {
     "name": "Specialisation:30 Row:2 Column:1 Rank:2",
@@ -4623,7 +4623,7 @@
     "name": "Ordre de Tuer",
     "icon": "ability_warrior_warcry",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 45yards de portée, coûte 75pts de mana, 10sec de temps de rechargement, se déclanche après que le Chasseur est infligé un coup critique ou lorsqu'une cible est inférieur a 20% de vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
+    "description": "Technique a activer, instantanée, 45yards de portée, coûte 75pts de mana, 10sec de temps de rechargement, se déclanche après que le Chasseur est infligé un coup critique ou lorsqu'une cible est inférieure a 20% de vie, Ordonne au Familier d'attaquer la cible et lui inflige 63pts de dégats"
   },
   "30222": {
     "name": "Specialisation:30 Row:2 Column:2 Rank:2",
@@ -4863,7 +4863,7 @@
     "name": "Intimidation",
     "icon": "ability_devour",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur ordonne a son Familier d'attaquer la cible et procure a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et d'étourdir durant 3sec la cible"
+    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de recharge, Le Chasseur ordonne a son Familier d'attaquer la cible et permet a la prochaine attaque réussie du Familier dans les 10sec de généré un haut niveau de menace et provoquer un effet d'Etourdissement de 3sec sur la cible"
   },
   "30422": {
     "name": "Specialisation:30 Row:4 Column:2 Rank:2",
@@ -5013,7 +5013,7 @@
     "name": "Inséparables Compagnons",
     "icon": "spell_nature_mirrorimage",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère des effets affectant le mouvement"
+    "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère lui ainsi que le Chasseur des effets affectant le mouvement"
   },
   "30622": {
     "name": "Specialisation:30 Row:6 Column:2 Rank:2",
@@ -5343,7 +5343,7 @@
     "name": "Tir Tranquilisant",
     "icon": "spell_nature_faeriefire",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 0-35yards de portée, 20sec de temps de rechargement, coût 120pts de mana, retire instantanément les effets de Rage sur la cible PNJ ou Joueur"
+    "description": "Technique a activer, instantanée, 0-35yards de portée, 20sec de temps de rechargement, coût 120pts de mana, retire instantanément les effets de Rage sur lune cible PNJ ou Joueur"
   },
   "31222": {
     "name": "Specialisation:31 Row:2 Column:2 Rank:2",
@@ -5403,19 +5403,19 @@
     "name": "Morsures Améliorées (rang1)",
     "icon": "ability_hunter_quickshot",
     "rank": 1,
-    "description": "Augmente le montant des effets des différentes techniques de Morsure de 2%"
+    "description": "Augmente les effets des techniques de Morsure de 2%"
   },
   "31302": {
     "name": "Morsures Améliorées (rang2)",
     "icon": "icon_3130",
     "rank": 2,
-    "description": "Augmente le montant des effets des différentes techniques de Morsure de 4%"
+    "description": "Augmente les effets des techniques de Morsure de 4%"
   },
   "31303": {
     "name": "Morsures Améliorées (rang3)",
     "icon": "icon_3130",
     "rank": 3,
-    "description": "Augmente le montant des effets des différentes techniques de Morsure de 6%"
+    "description": "Augmente les effets des techniques de Morsure de 6%"
   },
   "31304": {
     "name": "Specialisation:31 Row:3 Column:0 Rank:4",
@@ -5442,7 +5442,7 @@
     "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 100% du dégats de la technique a la cible, Morsure de la Vipère dissipé rend 100% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 10sec, Trait de Choc dissipé applique un effet d'Etourdissement de 3sec sur la cible"
   },
   "31313": {
-    "name": "Astucieux (rang3)",
+    "name": "Specialisation:31 Row:3 Column:1 Rank:3",
     "icon": "icon_3131",
     "rank": 3,
     "description": "Description for Specialisation:31 Row:3 Column:1 Rank:3. Use icon icon_3131.jpg"
@@ -5493,13 +5493,13 @@
     "name": "Tueur Rapide (rang1)",
     "icon": "ability_fiegndead",
     "rank": 1,
-    "description": "Lorsque le Chasseur obtient un Coup Fatal sur un ennemi qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 30sec"
+    "description": "Lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 30sec"
   },
   "31332": {
     "name": "Tueur Rapide (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": "Lorsque le Chasseur obtient un Coup Fatal sur un ennemi qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 40% durant 30sec"
+    "description": "Lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 40% durant 30sec"
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
@@ -5553,7 +5553,7 @@
     "name": "Flèche de Dispersion",
     "icon": "ability_golemstormbolt",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 0-15yards de portée, coûte 60pts de mana, 30sec de temps de rechargement, inflige 50% des dégats de l'arme a distance du Chasseur et provoque un effet de Désorientation sur la cible durant 4sec, le moindre dégats dissipe l'effet"
+    "description": "Technique a activer, instantanée, 0-15yards de portée, coûte 60pts de mana, 30sec de temps de rechargement, inflige 50% des dégats de l'Arme a distance du Chasseur et provoque un effet de Désorientation sur la cible durant 4sec, le moindre dégats dissipe l'effet"
   },
   "31412": {
     "name": "Specialisation:31 Row:4 Column:1 Rank:2",
@@ -5703,7 +5703,7 @@
     "name": "Aura de Précision",
     "icon": "ability_trueshot",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, Aura qui affecte tous les joueurs dans les 45yards de portée et augmente leur Puissance d'Attaque au corps a corps et a distance de +100pts"
+    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, Aura qui affecte tous les joueurs du groupe du Chasseur dans les 45yards de portée et augmente leur Puissance d'Attaque au corps a corps et a distance de +100pts"
   },
   "31612": {
     "name": "Specialisation:31 Row:6 Column:1 Rank:2",
@@ -5733,7 +5733,7 @@
     "name": "Flèche Baillon",
     "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 20sec de temps de rechargement, 8-35yards de portée, coûte 202pts de mana, Pose un affaiblissement sur la cible qui la silence durant 3sec"
+    "description": "Technique a activer, instantanée, 20sec de temps de rechargement, coûte 202pts de mana, Permet au prochain Tir du Chasseur de poser un affaiblissement sur la cible qui la silence durant 3sec"
   },
   "31622": {
     "name": "Specialisation:31 Row:6 Column:2 Rank:2",
@@ -5943,19 +5943,19 @@
     "name": "Dards Améliorés (rang1)",
     "icon": "ability_hunter_quickshot",
     "rank": 1,
-    "description": "Augmente la durée des différentes techniques de Morsure de 1sec et diminue également leur coût en mana de 5%"
+    "description": "Augmente la durée des techniques de Morsure de 1sec et diminue également leur coût en mana de 5%"
   },
   "32122": {
     "name": "Dards Améliorés (rang2)",
     "icon": "icon_3212",
     "rank": 2,
-    "description": "Augmente la durée des différentes techniques de Morsure de 2sec et diminue également leur coût en mana de 10%"
+    "description": "Augmente la durée des techniques de Morsure de 2sec et diminue également leur coût en mana de 10%"
   },
   "32123": {
     "name": "Dards Améliorés (rang3)",
     "icon": "icon_3212",
     "rank": 3,
-    "description": "Augmente la durée des différentes techniques de Morsure de 3sec et diminue également leur coût en mana de 15%"
+    "description": "Augmente la durée des techniques de Morsure de 3sec et diminue également leur coût en mana de 15%"
   },
   "32124": {
     "name": "Specialisation:32 Row:1 Column:2 Rank:4",
@@ -6003,19 +6003,19 @@
     "name": "Pièges Améliorés (rang1)",
     "icon": "spell_frost_freezingbreath",
     "rank": 1,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 10%"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe, ainsi que la durée des techniques de Piège et les dégats infligés par les techniques de Piège ainsi que le nombre de Serpents de 10%"
   },
   "32202": {
     "name": "Pièges Améliorés (rang2)",
     "icon": "icon_3220",
     "rank": 2,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 20%"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe, ainsi que la durée des techniques de Piège et les dégats infligés par les techniques de Piège ainsi que le nombre de Serpents de 20%"
   },
   "32203": {
     "name": "Pièges Améliorés (rang3)",
     "icon": "icon_3220",
     "rank": 3,
-    "description": "Augmente la durée avant qu'un Piège se dissipe, ainsi que la durée des différentes techniques de Piège de Froid et les dégats infligés par les techniques de Piège de Feu ainsi que le nombre de serpents du Piège Serpent de 30%"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe, ainsi que la durée des techniques de Piège et les dégats infligés par les techniques de Piège ainsi que le nombre de Serpents de 30%"
   },
   "32204": {
     "name": "Specialisation:32 Row:2 Column:0 Rank:4",
@@ -6033,7 +6033,7 @@
     "name": "Aspect de la Vipère",
     "icon": "spell_holy_sealofwisdom",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte pts de mana, Nouvel Aspect qui permet a chaque attaque du Chasseur en mélée ou a distance de rendre 3% des dégats infligés en mana"
+    "description": "Technique a activer, instantanée, coûte pts de mana, Nouvel Aspect qui permet a chaque attaque en mélée ou a distance de rendre 3% des dégats infligés en Point de mana au Chasseur"
   },
   "32212": {
     "name": "Specialisation:32 Row:2 Column:1 Rank:2",
@@ -6213,13 +6213,13 @@
     "name": "Coupure d'Ailes Améliorée (rang1)",
     "icon": "ability_rogue_trip",
     "rank": 1,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 25% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 15% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec"
   },
   "32332": {
     "name": "Coupure d'Ailes Améliorée (rang2)",
     "icon": "icon_3233",
     "rank": 2,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 50% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes de 30% et augmente les dégats infligés par la technique du même montant, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec"
   },
   "32333": {
     "name": "Specialisation:32 Row:3 Column:3 Rank:3",
@@ -6273,7 +6273,7 @@
     "name": "Piège Serpent",
     "icon": "ability_poisons",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 305pts de Mana, 15sec de temps de rechargement, lié avec les autres Pièges, utilisable uniquement hors combat, Nouveau Piège qui fait apparaitre plusieurs serpent qui empoisonne les cibles proches"
+    "description": "Technique a activer, instantanée, coûte 305pts de Mana, 15sec de temps de rechargement, lié avec les autres Pièges, utilisable uniquement hors combat, Nouveau Piège qui fait apparaitre plusieurs Serpents qui empoisonnent les cibles les plus proches durant 15sec"
   },
   "32412": {
     "name": "Specialisation:32 Row:4 Column:1 Rank:2",
@@ -6333,13 +6333,13 @@
     "name": "Pièges Astucieux (rang1)",
     "icon": "ability_ensnare",
     "rank": 1,
-    "description": "Lorsqu'une technique de Piège du Chasseur se déclanche, il pose un affaiblissement supplémentaire qui immobilise durant 2sec"
+    "description": "Lorsqu'une technique de Piège du Chasseur se déclenche, il pose un affaiblissement supplémentaire qui immobilise durant 2sec"
   },
   "32432": {
     "name": "Pièges Astucieux (rang2)",
     "icon": "icon_3243",
     "rank": 2,
-    "description": "Lorsqu'une technique de Piège du Chasseur se déclanche, il pose un affaiblissement supplémentaire qui immobilise durant 4sec"
+    "description": "Lorsqu'une technique de Piège du Chasseur se déclenche, il pose un affaiblissement supplémentaire qui immobilise durant 4sec"
   },
   "32433": {
     "name": "Specialisation:32 Row:4 Column:3 Rank:3",
