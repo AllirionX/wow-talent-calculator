@@ -12240,19 +12240,19 @@
     "description": "Description for Specialisation:61 Row:6 Column:2 Rank:5. Use icon icon_6162.jpg"
   },
   "62001": {
-    "name": "Specialisation:62 Row:0 Column:0 Rank:1",
-    "icon": "icon_6200",
+    "name": "Poids de la Maille (rang1)",
+    "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
     "description": "Description for Specialisation:62 Row:0 Column:0 Rank:1. Use icon icon_6200.jpg"
   },
   "62002": {
-    "name": "Specialisation:62 Row:0 Column:0 Rank:2",
+    "name": "Poids de la Maille (rang2)",
     "icon": "icon_6200",
     "rank": 2,
     "description": "Description for Specialisation:62 Row:0 Column:0 Rank:2. Use icon icon_6200.jpg"
   },
   "62003": {
-    "name": "Specialisation:62 Row:0 Column:0 Rank:3",
+    "name": "Poids de la Maille (rang3)",
     "icon": "icon_6200",
     "rank": 3,
     "description": "Description for Specialisation:62 Row:0 Column:0 Rank:3. Use icon icon_6200.jpg"
@@ -12270,16 +12270,16 @@
     "description": "Description for Specialisation:62 Row:0 Column:0 Rank:5. Use icon icon_6200.jpg"
   },
   "62011": {
-    "name": "Specialisation:62 Row:0 Column:1 Rank:1",
-    "icon": "icon_6201",
+    "name": "Vague de Soin Améliorée (rang1)",
+    "icon": "spell_nature_magicimmunity",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:0 Column:1 Rank:1. Use icon icon_6201.jpg"
+    "description": "Diminue le temps d'incantation de la technique Vague de Soin du Chaman de 0,5sec"
   },
   "62012": {
-    "name": "Specialisation:62 Row:0 Column:1 Rank:2",
+    "name": "Vague de Soin Améliorée (rang2)",
     "icon": "icon_6201",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:0 Column:1 Rank:2. Use icon icon_6201.jpg"
+    "description": "Diminue le temps d'incantation de la technique Vague de Soin du Chaman de 1sec"
   },
   "62013": {
     "name": "Specialisation:62 Row:0 Column:1 Rank:3",
@@ -12300,22 +12300,22 @@
     "description": "Description for Specialisation:62 Row:0 Column:1 Rank:5. Use icon icon_6201.jpg"
   },
   "62021": {
-    "name": "Specialisation:62 Row:0 Column:2 Rank:1",
-    "icon": "icon_6202",
+    "name": "Focalisation Totémique (rang1)",
+    "icon": "spell_nature_moonglow",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:0 Column:2 Rank:1. Use icon icon_6202.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques de Totem de 10%"
   },
   "62022": {
-    "name": "Specialisation:62 Row:0 Column:2 Rank:2",
+    "name": "Focalisation Totémique (rang2)",
     "icon": "icon_6202",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:0 Column:2 Rank:2. Use icon icon_6202.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques de Totem de 20%"
   },
   "62023": {
-    "name": "Specialisation:62 Row:0 Column:2 Rank:3",
+    "name": "Focalisation Totémique (rang3)",
     "icon": "icon_6202",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:0 Column:2 Rank:3. Use icon icon_6202.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques de Totem de 30%"
   },
   "62024": {
     "name": "Specialisation:62 Row:0 Column:2 Rank:4",
@@ -12330,19 +12330,19 @@
     "description": "Description for Specialisation:62 Row:0 Column:2 Rank:5. Use icon icon_6202.jpg"
   },
   "62031": {
-    "name": "Specialisation:62 Row:0 Column:3 Rank:1",
-    "icon": "icon_6203",
+    "name": "Focalisation des Soins (rang1)",
+    "icon": "spell_nature_healingwavelesser",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:0 Column:3 Rank:1. Use icon icon_6203.jpg"
+    "description": "Donne au Chaman 35% de chance d'anti interruption lorsqu'il incante des techniques de Soin"
   },
   "62032": {
-    "name": "Specialisation:62 Row:0 Column:3 Rank:2",
+    "name": "Focalisation des Soins (rang2)",
     "icon": "icon_6203",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:0 Column:3 Rank:2. Use icon icon_6203.jpg"
+    "description": "Donne au Chaman 70% de chance d'anti interruption lorsqu'il incante des techniques de Soin"
   },
   "62033": {
-    "name": "Specialisation:62 Row:0 Column:3 Rank:3",
+    "name": "Focalisation des Soins (rang3)",
     "icon": "icon_6203",
     "rank": 3,
     "description": "Description for Specialisation:62 Row:0 Column:3 Rank:3. Use icon icon_6203.jpg"
@@ -12360,22 +12360,22 @@
     "description": "Description for Specialisation:62 Row:0 Column:3 Rank:5. Use icon icon_6203.jpg"
   },
   "62101": {
-    "name": "Specialisation:62 Row:1 Column:0 Rank:1",
-    "icon": "icon_6210",
+    "name": "Endurance Ancestrale (rang1)",
+    "icon": "spell_nature_spiritarmor",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:1 Column:0 Rank:1. Use icon icon_6210.jpg"
+    "description": "Augmente l'Endurance du Chaman de 5%"
   },
   "62102": {
-    "name": "Specialisation:62 Row:1 Column:0 Rank:2",
+    "name": "Endurance Ancestrale (rang1)",
     "icon": "icon_6210",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:1 Column:0 Rank:2. Use icon icon_6210.jpg"
+    "description": "Augmente l'Endurance du Chaman de 10%"
   },
   "62103": {
-    "name": "Specialisation:62 Row:1 Column:0 Rank:3",
+    "name": "Endurance Ancestrale (rang1)",
     "icon": "icon_6210",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:1 Column:0 Rank:3. Use icon icon_6210.jpg"
+    "description": "Augmente l'Endurance du Chaman de 15%"
   },
   "62104": {
     "name": "Specialisation:62 Row:1 Column:0 Rank:4",
@@ -12390,16 +12390,16 @@
     "description": "Description for Specialisation:62 Row:1 Column:0 Rank:5. Use icon icon_6210.jpg"
   },
   "62111": {
-    "name": "Specialisation:62 Row:1 Column:1 Rank:1",
-    "icon": "icon_6211",
+    "name": "Guérison des Anciens (rang1)",
+    "icon": "spell_nature_undyingstrength",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:1 Column:1 Rank:1. Use icon icon_6211.jpg"
+    "description": "Lorsque le Chaman obtient un effet critique avec une technique de Soin, il pose une amélioration sur la cible de 6sec qui réduit les dégats subit de 6%, s'il obtient un effet critique sur une technique Offensive, alors il obtient cette amélioration sur lui"
   },
   "62112": {
-    "name": "Specialisation:62 Row:1 Column:1 Rank:2",
+    "name": "Guérison des Anciens (rang2)",
     "icon": "icon_6211",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:1 Column:1 Rank:2. Use icon icon_6211.jpg"
+    "description": "Lorsque le Chaman obtient un effet critique avec une technique de Soin, il pose une amélioration sur la cible de 12sec qui réduit les dégats subit de 6%, s'il obtient un effet critique sur une technique Offensive, alors il obtient cette amélioration sur lui"
   },
   "62113": {
     "name": "Specialisation:62 Row:1 Column:1 Rank:3",
@@ -12420,22 +12420,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:1 Rank:5. Use icon icon_6211.jpg"
   },
   "62121": {
-    "name": "Specialisation:62 Row:1 Column:2 Rank:1",
-    "icon": "icon_6212",
+    "name": "Grâce Guérisseuse (rang1)",
+    "icon": "spell_nature_healingtouch",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:1 Column:2 Rank:1. Use icon icon_6212.jpg"
+    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
   },
   "62122": {
-    "name": "Specialisation:62 Row:1 Column:2 Rank:2",
+    "name": "Grâce Guérisseuse (rang2)",
     "icon": "icon_6212",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:1 Column:2 Rank:2. Use icon icon_6212.jpg"
+    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
   },
   "62123": {
-    "name": "Specialisation:62 Row:1 Column:2 Rank:3",
+    "name": "Grâce Guérisseuse (rang3)",
     "icon": "icon_6212",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:1 Column:2 Rank:3. Use icon icon_6212.jpg"
+    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
   },
   "62124": {
     "name": "Specialisation:62 Row:1 Column:2 Rank:4",
@@ -12450,16 +12450,16 @@
     "description": "Description for Specialisation:62 Row:1 Column:2 Rank:5. Use icon icon_6212.jpg"
   },
   "62131": {
-    "name": "Specialisation:62 Row:1 Column:3 Rank:1",
-    "icon": "icon_6213",
+    "name": "Réincarnation Améliorée (rang1)",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:1 Column:3 Rank:1. Use icon icon_6213.jpg"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 15min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 15%"
   },
   "62132": {
-    "name": "Specialisation:62 Row:1 Column:3 Rank:2",
+    "name": "Réincarnation Améliorée (rang2)",
     "icon": "icon_6213",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:1 Column:3 Rank:2. Use icon icon_6213.jpg"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 30min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 30%"
   },
   "62133": {
     "name": "Specialisation:62 Row:1 Column:3 Rank:3",
@@ -12480,22 +12480,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:3 Rank:5. Use icon icon_6213.jpg"
   },
   "62201": {
-    "name": "Specialisation:62 Row:2 Column:0 Rank:1",
-    "icon": "icon_6220",
+    "name": "Soutien de la Nature (rang1)",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:2 Column:0 Rank:1. Use icon icon_6220.jpg"
+    "description": "Augmente les chances de Toucher du Chaman de 2%"
   },
   "62202": {
-    "name": "Specialisation:62 Row:2 Column:0 Rank:2",
+    "name": "Soutien de la Nature (rang2)",
     "icon": "icon_6220",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:2 Column:0 Rank:2. Use icon icon_6220.jpg"
+    "description": "Augmente les chances de Toucher du Chaman de 4%"
   },
   "62203": {
-    "name": "Specialisation:62 Row:2 Column:0 Rank:3",
+    "name": "Soutien de la Nature (rang3)",
     "icon": "icon_6220",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:2 Column:0 Rank:3. Use icon icon_6220.jpg"
+    "description": "Augmente les chances de Toucher du Chaman de 6%"
   },
   "62204": {
     "name": "Specialisation:62 Row:2 Column:0 Rank:4",
@@ -12510,10 +12510,10 @@
     "description": "Description for Specialisation:62 Row:2 Column:0 Rank:5. Use icon icon_6220.jpg"
   },
   "62211": {
-    "name": "Specialisation:62 Row:2 Column:1 Rank:1",
-    "icon": "icon_6221",
+    "name": "Maîtrise Totémique",
+    "icon": "spell_nature_nullward",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:2 Column:1 Rank:1. Use icon icon_6221.jpg"
+    "description": "Augmente la portée des techniques de Totem qui affectent les alliés jusqu'a 30yards, et permet a toutes les techniques de Totem d'avoir un temps de rechargement global de 1sec au lieu de 1,5sec et débloque la Technique Champ de Totem Ancestral : Technique a activer, instantanée, coûte en mana variable, utilisable uniquement hors combat, Permet au Chaman de poser jusqu'a 4 Totems de son choix en même temps"
   },
   "62212": {
     "name": "Specialisation:62 Row:2 Column:1 Rank:2",
@@ -12540,10 +12540,10 @@
     "description": "Description for Specialisation:62 Row:2 Column:1 Rank:5. Use icon icon_6221.jpg"
   },
   "62221": {
-    "name": "Specialisation:62 Row:2 Column:2 Rank:1",
-    "icon": "icon_6222",
+    "name": "Vagues",
+    "icon": "spell_nature_resistnature",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:2 Column:2 Rank:1. Use icon icon_6222.jpg"
+    "description": "Donne accès au Chaman a 2 techniques : Totem de Vagues et Enchantement de Vagues : Totem de Vagues : Technique a activer, instantanée, coûte 20pts de mana, 3min de temps de rechargement, Pose un Totem d'Eau avec 5pts de vie au pied du Chaman très voyant, qui dure 12sec et rend 10% de Vie et de Mana toutes les 2sec a tous les joueurs dans le groupe du Chaman dans les 30yards. Enchantement de Vagues : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min qui augmente le Bonus soin du Chaman de 70pts et qui permet a chacun de ses soins de lancer une amélioration qui soigne la cible de 79pts de vie toutes les 3sec pendant 12sec, de plus, si une technique de Soin obtient un effet critique, une Orbe de la technique Bouclier d'Eau est consommée"
   },
   "62222": {
     "name": "Specialisation:62 Row:2 Column:2 Rank:2",
@@ -12570,16 +12570,16 @@
     "description": "Description for Specialisation:62 Row:2 Column:2 Rank:5. Use icon icon_6222.jpg"
   },
   "62231": {
-    "name": "Specialisation:62 Row:2 Column:3 Rank:1",
-    "icon": "icon_6223",
+    "name": "Esprit Ancestral Amélioré (rang1)",
+    "icon": "spell_nature_natureswrath",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:2 Column:3 Rank:1. Use icon icon_6223.jpg"
+    "description": "Diminue le coût en mana de la technique Esprit Ancestral du Chaman de 20% ainsi que son temps d'incantation de 1sec, et augmente le montant de vie et de mana rendu par la technique ainsi que lorsque le Chaman revient a la vie de 15%"
   },
   "62232": {
-    "name": "Specialisation:62 Row:2 Column:3 Rank:2",
+    "name": "Esprit Ancestral Amélioré (rang2)",
     "icon": "icon_6223",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:2 Column:3 Rank:2. Use icon icon_6223.jpg"
+    "description": "Diminue le coût en mana de la technique Esprit Ancestral du Chaman de 40% ainsi que son temps d'incantation de 2sec, et augmente le montant de vie et de mana rendu par la technique ainsi que lorsque le Chaman revient a la vie de 30%"
   },
   "62233": {
     "name": "Specialisation:62 Row:2 Column:3 Rank:3",
@@ -12600,22 +12600,22 @@
     "description": "Description for Specialisation:62 Row:2 Column:3 Rank:5. Use icon icon_6223.jpg"
   },
   "62301": {
-    "name": "Specialisation:62 Row:3 Column:0 Rank:1",
-    "icon": "icon_6230",
+    "name": "Totems Durables (rang1)",
+    "icon": "spell_nature_stoneskintotem",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:3 Column:0 Rank:1. Use icon icon_6230.jpg"
+    "description": "Augmente la durée des Totems affectant les alliés de 1min et augmente leur Point de Vie de 10pts et rendent 10% de leur coût en mana s'ils sont détruit"
   },
   "62302": {
-    "name": "Specialisation:62 Row:3 Column:0 Rank:2",
+    "name": "Totems Durables (rang2)",
     "icon": "icon_6230",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:3 Column:0 Rank:2. Use icon icon_6230.jpg"
+    "description": "Augmente la durée des Totems affectant les alliés de 2min et augmente leur Point de Vie de 20pts et rendent 20% de leur coût en mana s'ils sont détruit"
   },
   "62303": {
-    "name": "Specialisation:62 Row:3 Column:0 Rank:3",
+    "name": "Totems Durables (rang3)",
     "icon": "icon_6230",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:3 Column:0 Rank:3. Use icon icon_6230.jpg"
+    "description": "Augmente la durée des Totems affectant les alliés de 3min et augmente leur Point de Vie de 30pts et rendent 30% de leur coût en mana s'ils sont détruit"
   },
   "62304": {
     "name": "Specialisation:62 Row:3 Column:0 Rank:4",
@@ -12630,16 +12630,16 @@
     "description": "Description for Specialisation:62 Row:3 Column:0 Rank:5. Use icon icon_6230.jpg"
   },
   "62311": {
-    "name": "Specialisation:62 Row:3 Column:1 Rank:1",
-    "icon": "icon_6231",
+    "name": "Sagesse Ancestrale (rang1)",
+    "icon": "spell_nature_manaregentotem",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:3 Column:1 Rank:1. Use icon icon_6231.jpg"
+    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 50% et augmente leur effet de 10%"
   },
   "62312": {
-    "name": "Specialisation:62 Row:3 Column:1 Rank:2",
+    "name": "Sagesse Ancestrale (rang2)",
     "icon": "icon_6231",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:3 Column:1 Rank:2. Use icon icon_6231.jpg"
+    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 100% et augmente leur effet de 20%"
   },
   "62313": {
     "name": "Specialisation:62 Row:3 Column:1 Rank:3",
@@ -12660,22 +12660,22 @@
     "description": "Description for Specialisation:62 Row:3 Column:1 Rank:5. Use icon icon_6231.jpg"
   },
   "62321": {
-    "name": "Specialisation:62 Row:3 Column:2 Rank:1",
-    "icon": "icon_6232",
+    "name": "Maîtrise des Flots (rang1)",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:3 Column:2 Rank:1. Use icon icon_6232.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "62322": {
-    "name": "Specialisation:62 Row:3 Column:2 Rank:2",
+    "name": "Maîtrise des Flots (rang2)",
     "icon": "icon_6232",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:3 Column:2 Rank:2. Use icon icon_6232.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "62323": {
-    "name": "Specialisation:62 Row:3 Column:2 Rank:3",
+    "name": "Maîtrise des Flots (rang3)",
     "icon": "icon_6232",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:3 Column:2 Rank:3. Use icon icon_6232.jpg"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "62324": {
     "name": "Specialisation:62 Row:3 Column:2 Rank:4",
@@ -12690,16 +12690,16 @@
     "description": "Description for Specialisation:62 Row:3 Column:2 Rank:5. Use icon icon_6232.jpg"
   },
   "62331": {
-    "name": "Specialisation:62 Row:3 Column:3 Rank:1",
-    "icon": "icon_6233",
+    "name": "Salve de Guérison Améliorée (rang1)",
+    "icon": "spell_nature_healingwavegreater",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:3 Column:3 Rank:1. Use icon icon_6233.jpg"
+    "description": "Augmente les soins prodigué par la technique Salve de Guérison de 10% et diminue son coût en mana du même montant"
   },
   "62332": {
-    "name": "Specialisation:62 Row:3 Column:3 Rank:2",
+    "name": "Salve de Guérison Améliorée (rang2)",
     "icon": "icon_6233",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:3 Column:3 Rank:2. Use icon icon_6233.jpg"
+    "description": "Augmente les soins prodigué par la technique Salve de Guérison de 20% et diminue son coût en mana du même montant"
   },
   "62333": {
     "name": "Specialisation:62 Row:3 Column:3 Rank:3",
@@ -12720,22 +12720,22 @@
     "description": "Description for Specialisation:62 Row:3 Column:3 Rank:5. Use icon icon_6233.jpg"
   },
   "62401": {
-    "name": "Specialisation:62 Row:4 Column:0 Rank:1",
-    "icon": "icon_6240",
+    "name": "Flots de Soins (rang1)",
+    "icon": "classic_spell_nature_healingway",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:4 Column:0 Rank:1. Use icon icon_6240.jpg"
+    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 1fois"
   },
   "62402": {
-    "name": "Specialisation:62 Row:4 Column:0 Rank:2",
+    "name": "Flots de Soins (rang2)",
     "icon": "icon_6240",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:4 Column:0 Rank:2. Use icon icon_6240.jpg"
+    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 2fois"
   },
   "62403": {
-    "name": "Specialisation:62 Row:4 Column:0 Rank:3",
+    "name": "Flots de Soins (rang3)",
     "icon": "icon_6240",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:4 Column:0 Rank:3. Use icon icon_6240.jpg"
+    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 3fois"
   },
   "62404": {
     "name": "Specialisation:62 Row:4 Column:0 Rank:4",
@@ -12750,10 +12750,10 @@
     "description": "Description for Specialisation:62 Row:4 Column:0 Rank:5. Use icon icon_6240.jpg"
   },
   "62411": {
-    "name": "Specialisation:62 Row:4 Column:1 Rank:1",
-    "icon": "icon_6241",
+    "name": "Rapidité de la Nature",
+    "icon": "spell_nature_ravenform",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:4 Column:1 Rank:1. Use icon icon_6241.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Réduit le temps d'incantation de la prochaine technique de Nature du Chaman inférieure a 10sec de 100%"
   },
   "62412": {
     "name": "Specialisation:62 Row:4 Column:1 Rank:2",
@@ -12780,10 +12780,10 @@
     "description": "Description for Specialisation:62 Row:4 Column:1 Rank:5. Use icon icon_6241.jpg"
   },
   "62421": {
-    "name": "Specialisation:62 Row:4 Column:2 Rank:1",
-    "icon": "icon_6242",
+    "name": "Concentration",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:4 Column:2 Rank:1. Use icon icon_6242.jpg"
+    "description": "Diminue la durée des effets de Silence sur le Chaman de 30% et réduit les dégats qu'il subit durant ces effets de 15%"
   },
   "62422": {
     "name": "Specialisation:62 Row:4 Column:2 Rank:2",
@@ -12810,16 +12810,16 @@
     "description": "Description for Specialisation:62 Row:4 Column:2 Rank:5. Use icon icon_6242.jpg"
   },
   "62431": {
-    "name": "Specialisation:62 Row:4 Column:3 Rank:1",
-    "icon": "icon_6243",
+    "name": "Gardien de la Nature (rang1)",
+    "icon": "spell_nature_healingway",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:4 Column:3 Rank:1. Use icon icon_6243.jpg"
+    "description": "Lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10% génère 10% de menace en moins, et augmente les chances de critique et les soins qu'il effectue et reçoit de 10% sur les cibles ayant moins de 10% de vie"
   },
   "62432": {
-    "name": "Specialisation:62 Row:4 Column:3 Rank:2",
+    "name": "Gardien de la Nature (rang2)",
     "icon": "icon_6243",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:4 Column:3 Rank:2. Use icon icon_6243.jpg"
+    "description": "Lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20% génère 20% de menace en moins, et augmente les chances de critique et les soins qu'il effectue et reçoit de 20% sur les cibles ayant moins de 20% de vie"
   },
   "62433": {
     "name": "Specialisation:62 Row:4 Column:3 Rank:3",
@@ -12840,16 +12840,16 @@
     "description": "Description for Specialisation:62 Row:4 Column:3 Rank:5. Use icon icon_6243.jpg"
   },
   "62511": {
-    "name": "Specialisation:62 Row:5 Column:1 Rank:1",
-    "icon": "icon_6251",
+    "name": "Purification (rang1)",
+    "icon": "spell_frost_wizardmark",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:5 Column:1 Rank:1. Use icon icon_6251.jpg"
+    "description": "Augmente les Soins du Chaman de 5%"
   },
   "62512": {
-    "name": "Specialisation:62 Row:5 Column:1 Rank:2",
+    "name": "Purification (rang2)",
     "icon": "icon_6251",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:5 Column:1 Rank:2. Use icon icon_6251.jpg"
+    "description": "Augmente les Soins du Chaman de 10%"
   },
   "62513": {
     "name": "Specialisation:62 Row:5 Column:1 Rank:3",
@@ -12870,22 +12870,22 @@
     "description": "Description for Specialisation:62 Row:5 Column:1 Rank:5. Use icon icon_6251.jpg"
   },
   "62521": {
-    "name": "Specialisation:62 Row:5 Column:2 Rank:1",
-    "icon": "icon_6252",
+    "name": "Bénie par la Nature (rang1)",
+    "icon": "spell_nature_naturetouchgrow",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:5 Column:2 Rank:1. Use icon icon_6252.jpg"
+    "description": "Convertit 10% de l'Endurance du Chaman en Bonus sort"
   },
   "62522": {
-    "name": "Specialisation:62 Row:5 Column:2 Rank:2",
+    "name": "Bénie par la Nature (rang2)",
     "icon": "icon_6252",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:5 Column:2 Rank:2. Use icon icon_6252.jpg"
+    "description": "Convertit 20% de l'Endurance du Chaman en Bonus sort"
   },
   "62523": {
-    "name": "Specialisation:62 Row:5 Column:2 Rank:3",
+    "name": "Bénie par la Nature (rang3)",
     "icon": "icon_6252",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:5 Column:2 Rank:3. Use icon icon_6252.jpg"
+    "description": "Convertit 30% de l'Endurance du Chaman en Bonus sort"
   },
   "62524": {
     "name": "Specialisation:62 Row:5 Column:2 Rank:4",
@@ -12900,10 +12900,10 @@
     "description": "Description for Specialisation:62 Row:5 Column:2 Rank:5. Use icon icon_6252.jpg"
   },
   "62611": {
-    "name": "Specialisation:62 Row:6 Column:1 Rank:1",
-    "icon": "icon_6261",
+    "name": "Bouclier d'Eau",
+    "icon": "spell_frost_wisp",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:6 Column:1 Rank:1. Use icon icon_6261.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, Pose une amélioration sur le Chaman avec 3 charges ou 10min, lui procure un bonus de 38pts de mp5 et lorsqu'il subit une attaque en mélée ou a distance, une Orbe est consommé avec un temps de rechargement de 1sec, et lui rend 150pts de Mana"
   },
   "62612": {
     "name": "Specialisation:62 Row:6 Column:1 Rank:2",
@@ -12930,10 +12930,10 @@
     "description": "Description for Specialisation:62 Row:6 Column:1 Rank:5. Use icon icon_6261.jpg"
   },
   "62621": {
-    "name": "Specialisation:62 Row:6 Column:2 Rank:1",
-    "icon": "icon_6262",
+    "name": "Abolition",
+    "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:6 Column:2 Rank:1. Use icon icon_6262.jpg"
+    "description": "Permet aux techniques Guérison et Totem de Purification de gagner 1 charge supplémentaire et de pouvoir dissiper un effet de Malédiction"
   },
   "62622": {
     "name": "Specialisation:62 Row:6 Column:2 Rank:2",
