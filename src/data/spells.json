@@ -12243,19 +12243,19 @@
     "name": "Poids de la Maille (rang1)",
     "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Description for Specialisation:62 Row:0 Column:0 Rank:1. Use icon icon_6200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +2pts de Vie"
   },
   "62002": {
     "name": "Poids de la Maille (rang2)",
     "icon": "icon_6200",
     "rank": 2,
-    "description": "Description for Specialisation:62 Row:0 Column:0 Rank:2. Use icon icon_6200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +4pts de Vie"
   },
   "62003": {
     "name": "Poids de la Maille (rang3)",
     "icon": "icon_6200",
     "rank": 3,
-    "description": "Description for Specialisation:62 Row:0 Column:0 Rank:3. Use icon icon_6200.jpg"
+    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +6pts de Vie"
   },
   "62004": {
     "name": "Specialisation:62 Row:0 Column:0 Rank:4",
@@ -12366,13 +12366,13 @@
     "description": "Augmente l'Endurance du Chaman de 5%"
   },
   "62102": {
-    "name": "Endurance Ancestrale (rang1)",
+    "name": "Endurance Ancestrale (rang2)",
     "icon": "icon_6210",
     "rank": 2,
     "description": "Augmente l'Endurance du Chaman de 10%"
   },
   "62103": {
-    "name": "Endurance Ancestrale (rang1)",
+    "name": "Endurance Ancestrale (rang3)",
     "icon": "icon_6210",
     "rank": 3,
     "description": "Augmente l'Endurance du Chaman de 15%"
@@ -12453,13 +12453,13 @@
     "name": "Réincarnation Améliorée (rang1)",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 15min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 15%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 10min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 10%"
   },
   "62132": {
     "name": "Réincarnation Améliorée (rang2)",
     "icon": "icon_6213",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 30min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 30%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 20min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 20%"
   },
   "62133": {
     "name": "Specialisation:62 Row:1 Column:3 Rank:3",
@@ -12813,13 +12813,13 @@
     "name": "Gardien de la Nature (rang1)",
     "icon": "spell_nature_healingway",
     "rank": 1,
-    "description": "Lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10% génère 10% de menace en moins, et augmente les chances de critique et les soins qu'il effectue et reçoit de 10% sur les cibles ayant moins de 10% de vie"
+    "description": "Augmente de 10% les chances de critique du Chaman et le montant des soins qu'il effectue sur les cibles ayant moins de 10% de vie, de plus lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10% et génére 10% de menace en moins"
   },
   "62432": {
     "name": "Gardien de la Nature (rang2)",
     "icon": "icon_6243",
     "rank": 2,
-    "description": "Lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20% génère 20% de menace en moins, et augmente les chances de critique et les soins qu'il effectue et reçoit de 20% sur les cibles ayant moins de 20% de vie"
+    "description": "Augmente de 20% les chances de critique du Chaman et le montant des soins qu'il effectue sur les cibles ayant moins de 20% de vie, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20% et génére 20% de menace en moins"
   },
   "62433": {
     "name": "Specialisation:62 Row:4 Column:3 Rank:3",
@@ -12933,7 +12933,7 @@
     "name": "Abolition",
     "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Permet aux techniques Guérison et Totem de Purification de gagner 1 charge supplémentaire et de pouvoir dissiper un effet de Malédiction"
+    "description": "Permet aux techniques Guérison et Totem de Purification du Chaman de gagner 1 charge supplémentaire et de pouvoir en plus de leur effet dissiper un effet de Malédiction"
   },
   "62622": {
     "name": "Specialisation:62 Row:6 Column:2 Rank:2",
