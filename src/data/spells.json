@@ -11103,7 +11103,7 @@
     "name": "Totem Langue de Feu",
     "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure +62 Bonus Sort ainsi qu'un dégat supplémentaire de 34pts de dégats de feu lorsqu'ils attaquent une cible en mélée"
+    "description": "Technique a activer, instantanée, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme en Main Droite des joueurs du groupe du Chaman dans les 30yards et leur procure +62 Bonus Sort ainsi qu'un dégat supplémentaire de 34pts de dégats de feu lorsqu'ils attaquent une cible en mélée"
   },
   "60222": {
     "name": "Specialisation:60 Row:2 Column:2 Rank:2",
@@ -11793,7 +11793,7 @@
     "name": "Totem Furie des Vents",
     "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chacune de leur attaques en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
+    "description": "Technique a activer, instantanée, coûte 275pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en Main Droite de tous les joueurs du groupe du Chaman dans les 30yards et qui donne +140 Puissance d'Attaque a Distance et permet a chacune de leur attaques en mélées de générer une attaque supplémentaire avec un malus de 80% de dégats"
   },
   "61212": {
     "name": "Specialisation:61 Row:2 Column:1 Rank:2",
@@ -12390,13 +12390,13 @@
     "description": "Description for Specialisation:62 Row:1 Column:0 Rank:5. Use icon icon_6210.jpg"
   },
   "62111": {
-    "name": "Guérison des Anciens (rang1)",
+    "name": "Protection des Anciens (rang1)",
     "icon": "spell_nature_undyingstrength",
     "rank": 1,
     "description": "Lorsque le Chaman obtient un effet critique avec une technique de Soin, il pose une amélioration sur la cible de 6sec qui réduit les dégats subit de 6%, s'il obtient un effet critique sur une technique Offensive, alors il obtient cette amélioration sur lui"
   },
   "62112": {
-    "name": "Guérison des Anciens (rang2)",
+    "name": "Protection des Anciens (rang2)",
     "icon": "icon_6211",
     "rank": 2,
     "description": "Lorsque le Chaman obtient un effet critique avec une technique de Soin, il pose une amélioration sur la cible de 12sec qui réduit les dégats subit de 6%, s'il obtient un effet critique sur une technique Offensive, alors il obtient cette amélioration sur lui"
@@ -12541,7 +12541,7 @@
   },
   "62221": {
     "name": "Totem de Vagues",
-    "icon": "spell_nature_resistnature",
+    "icon": "spell_frost_summonwaterelemental",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 20pts de mana, 3min de temps de rechargement, Pose un Totem d'Eau avec 5pts de vie au pied du Chaman très voyant, qui dure 12sec et rend 10% de Vie et de Mana toutes les 2sec a tous les joueurs dans le groupe du Chaman dans les 30yards"
   },
