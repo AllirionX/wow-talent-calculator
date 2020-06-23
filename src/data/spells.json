@@ -11100,10 +11100,10 @@
     "description": "Description for Specialisation:60 Row:2 Column:1 Rank:5. Use icon icon_6021.jpg"
   },
   "60221": {
-    "name": "Langue de Feu",
+    "name": "Totem Langue de Feu",
     "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem Langue de Feu et Enchantement Langue de Feu : Totem Langue de Feu : Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure un dégat supplémentaire de 34pts de dégats de feu lorsqu'il attaque une cible en mélée et leur procure un bonus de 62pts de Bonus sort. Enchantement Langue de Feu : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et procure a ses attaques en mélées 68pts de dégats supplémentaire de feu et procure un bonus de 120pts de Bonus sort au Chaman"
+    "description": "Technique a activer, instantanée, Totem de Feu, coûte 275pts de mana, Pose un Totem de Feu avec 5pts de Vie au pied du Chaman durant 2min qui enchante l'Arme main droite des joueurs du groupe du Chaman dans les 30yards et leur procure +62 Bonus Sort ainsi qu'un dégat supplémentaire de 34pts de dégats de feu lorsqu'ils attaquent une cible en mélée"
   },
   "60222": {
     "name": "Specialisation:60 Row:2 Column:2 Rank:2",
@@ -11790,10 +11790,10 @@
     "description": "Description for Specialisation:61 Row:2 Column:0 Rank:5. Use icon icon_6120.jpg"
   },
   "61211": {
-    "name": "Furie des Vents",
+    "name": "Totem Furie des Vents",
     "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem Furie des Vents et Enchantement Furie des Vents : Totem Furie des Vents : Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats. Enchantement d'Arme Furie des Vents : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min et lui permet a chaque attaque en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
+    "description": "Technique a activer, instantanée, coûte 255pts de mana, Pose un Totem d'Air avec 5pts de Vie au pied du Chaman durant 2min, qui enchante l'Arme en main droite de tous les joueurs du groupe du Chaman dans les 30yards et qui permet a chacune de leur attaques en mélée de gagner une attaque supplémentaire avec un malus de 80% de dégats"
   },
   "61212": {
     "name": "Specialisation:61 Row:2 Column:1 Rank:2",
@@ -12063,7 +12063,7 @@
     "name": "Rage Chamanique",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, utilisable même sous contrôle, Rage qui transforme le Chaman en Worgen durant 10sec, durant l'effet il gagne 100% de chance d'anti interruption sur ses incantations, +20% de vitesse de déplacement, il subit 20% de dégats en moins, il inflige 20% de dégats en plus, et 20% des dégats qu'il inflige lui sont rendu en vie et en mana également"
+    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, utilisable même sous contrôle, Rage qui transforme le Chaman en Worgen durant 10sec, durant l'effet il gagne 100% de chance d'anti interruption sur ses incantations, +20% de vitesse de déplacement, il subit 20% de dégats en moins, et 20% des dégats qu'il inflige lui sont rendu en vie et en mana également"
   },
   "61422": {
     "name": "Specialisation:61 Row:4 Column:2 Rank:2",
@@ -12513,7 +12513,7 @@
     "name": "Maîtrise Totémique",
     "icon": "spell_nature_nullward",
     "rank": 1,
-    "description": "Augmente la portée des techniques de Totem qui affectent les alliés jusqu'a 30yards, et permet a toutes les techniques de Totem d'avoir un temps de rechargement global de 1sec au lieu de 1,5sec et débloque la Technique Champ de Totem Ancestral : Technique a activer, instantanée, coûte en mana variable, utilisable uniquement hors combat, Permet au Chaman de poser jusqu'a 4 Totems de son choix en même temps"
+    "description": "Technique a activer, instantanée, utilisable uniquement hors combat, Permet au Chaman de poser jusqu'a 4 Totems de son choix en même temps"
   },
   "62212": {
     "name": "Specialisation:62 Row:2 Column:1 Rank:2",
@@ -12540,10 +12540,10 @@
     "description": "Description for Specialisation:62 Row:2 Column:1 Rank:5. Use icon icon_6221.jpg"
   },
   "62221": {
-    "name": "Vagues",
+    "name": "Totem de Vagues",
     "icon": "spell_nature_resistnature",
     "rank": 1,
-    "description": "Donne accès au Chaman a 2 techniques : Totem de Vagues et Enchantement de Vagues : Totem de Vagues : Technique a activer, instantanée, coûte 20pts de mana, 3min de temps de rechargement, Pose un Totem d'Eau avec 5pts de vie au pied du Chaman très voyant, qui dure 12sec et rend 10% de Vie et de Mana toutes les 2sec a tous les joueurs dans le groupe du Chaman dans les 30yards. Enchantement de Vagues : Technique a activer, instantanée, gratuite en mana, Enchante une Arme du Chaman durant 5min qui augmente le Bonus soin du Chaman de 70pts et qui permet a chacun de ses soins de lancer une amélioration qui soigne la cible de 79pts de vie toutes les 3sec pendant 12sec, de plus, si une technique de Soin obtient un effet critique, une Orbe de la technique Bouclier d'Eau est consommée"
+    "description": "Technique a activer, instantanée, coûte 20pts de mana, 3min de temps de rechargement, Pose un Totem d'Eau avec 5pts de vie au pied du Chaman très voyant, qui dure 12sec et rend 10% de Vie et de Mana toutes les 2sec a tous les joueurs dans le groupe du Chaman dans les 30yards"
   },
   "62222": {
     "name": "Specialisation:62 Row:2 Column:2 Rank:2",
