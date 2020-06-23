@@ -12420,22 +12420,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:1 Rank:5. Use icon icon_6211.jpg"
   },
   "62121": {
-    "name": "Grâce Guérisseuse (rang1)",
-    "icon": "spell_nature_healingtouch",
+    "name": "Focalisation des Flots (rang1)",
+    "icon": "spell_frost_manarecharge",
     "rank": 1,
-    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 5%"
   },
   "62122": {
-    "name": "Grâce Guérisseuse (rang2)",
+    "name": "Focalisation des Flots (rang2)",
     "icon": "icon_6212",
     "rank": 2,
-    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 10%"
   },
   "62123": {
-    "name": "Grâce Guérisseuse (rang3)",
+    "name": "Focalisation des Flots (rang3)",
     "icon": "icon_6212",
     "rank": 3,
-    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 15%"
   },
   "62124": {
     "name": "Specialisation:62 Row:1 Column:2 Rank:4",
@@ -12480,22 +12480,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:3 Rank:5. Use icon icon_6213.jpg"
   },
   "62201": {
-    "name": "Soutien de la Nature (rang1)",
-    "icon": "spell_frost_stun",
+    "name": "Maîtrise des Flots (rang1)",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Augmente les chances de Toucher du Chaman de 2%"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "62202": {
-    "name": "Soutien de la Nature (rang2)",
+    "name": "Maîtrise des Flots (rang2)",
     "icon": "icon_6220",
     "rank": 2,
-    "description": "Augmente les chances de Toucher du Chaman de 4%"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "62203": {
-    "name": "Soutien de la Nature (rang3)",
+    "name": "Maîtrise des Flots (rang3)",
     "icon": "icon_6220",
     "rank": 3,
-    "description": "Augmente les chances de Toucher du Chaman de 6%"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "62204": {
     "name": "Specialisation:62 Row:2 Column:0 Rank:4",
@@ -12600,22 +12600,22 @@
     "description": "Description for Specialisation:62 Row:2 Column:3 Rank:5. Use icon icon_6223.jpg"
   },
   "62301": {
-    "name": "Totems Durables (rang1)",
-    "icon": "spell_nature_stoneskintotem",
+    "name": "Soutien de la Nature (rang1)",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Augmente la durée des Totems affectant les alliés de 1min et augmente leur Point de Vie de 10pts et rendent 10% de leur coût en mana s'ils sont détruit"
+    "description": "Augmente les chances de Toucher du Chaman de 1% et diminue le coût en mana des techniques de Dissipation de 5% et lorsqu'une technique de Totem est détruite 10% du coût en mana du Totem est rendu au Chaman"
   },
   "62302": {
-    "name": "Totems Durables (rang2)",
+    "name": "Soutien de la Nature (rang2)",
     "icon": "icon_6230",
     "rank": 2,
-    "description": "Augmente la durée des Totems affectant les alliés de 2min et augmente leur Point de Vie de 20pts et rendent 20% de leur coût en mana s'ils sont détruit"
+    "description": "Augmente les chances de Toucher du Chaman de 2% et diminue le coût en mana des techniques de Dissipation de 10% et lorsqu'une technique de Totem est détruite 20% du coût en mana du Totem est rendu au Chaman"
   },
   "62303": {
-    "name": "Totems Durables (rang3)",
+    "name": "Soutien de la Nature (rang3)",
     "icon": "icon_6230",
     "rank": 3,
-    "description": "Augmente la durée des Totems affectant les alliés de 3min et augmente leur Point de Vie de 30pts et rendent 30% de leur coût en mana s'ils sont détruit"
+    "description": "Augmente les chances de Toucher du Chaman de 3% et diminue le coût en mana des techniques de Dissipation de 15% et lorsqu'une technique de Totem est détruite 30% du coût en mana du Totem est rendu au Chaman"
   },
   "62304": {
     "name": "Specialisation:62 Row:3 Column:0 Rank:4",
@@ -12660,22 +12660,22 @@
     "description": "Description for Specialisation:62 Row:3 Column:1 Rank:5. Use icon icon_6231.jpg"
   },
   "62321": {
-    "name": "Maîtrise des Flots (rang1)",
-    "icon": "spell_nature_tranquility",
+    "name": "Grâce Guérisseuse (rang1)",
+    "icon": "spell_nature_healingtouch",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Chaman de 2%"
+    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
   },
   "62322": {
-    "name": "Maîtrise des Flots (rang2)",
+    "name": "Grâce Guérisseuse (rang2)",
     "icon": "icon_6232",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Chaman de 4%"
+    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
   },
   "62323": {
-    "name": "Maîtrise des Flots (rang3)",
+    "name": "Grâce Guérisseuse (rang3)",
     "icon": "icon_6232",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Chaman de 6%"
+    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
   },
   "62324": {
     "name": "Specialisation:62 Row:3 Column:2 Rank:4",
@@ -12723,19 +12723,19 @@
     "name": "Flots de Soins (rang1)",
     "icon": "classic_spell_nature_healingway",
     "rank": 1,
-    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 1fois"
+    "description": "Les Techniques Vague de Soin et Vague de Soin Inférieur du Chaman posent également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 1fois"
   },
   "62402": {
     "name": "Flots de Soins (rang2)",
     "icon": "icon_6240",
     "rank": 2,
-    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 2fois"
+    "description": "Les Techniques Vague de Soin et Vague de Soin Inférieur du Chaman posent également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 2fois"
   },
   "62403": {
     "name": "Flots de Soins (rang3)",
     "icon": "icon_6240",
     "rank": 3,
-    "description": "Les Techniques de Soin du Chaman pose également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 3fois"
+    "description": "Les Techniques Vague de Soin et Vague de Soin Inférieur du Chaman posent également sur la cible une amélioration qui dure 15sec et qui augmente les soins prodigués sur la cible de 5% stackable 3fois"
   },
   "62404": {
     "name": "Specialisation:62 Row:4 Column:0 Rank:4",
@@ -12810,16 +12810,16 @@
     "description": "Description for Specialisation:62 Row:4 Column:2 Rank:5. Use icon icon_6242.jpg"
   },
   "62431": {
-    "name": "Gardien de la Nature (rang1)",
+    "name": "Gardé par la Nature (rang1)",
     "icon": "spell_nature_healingway",
     "rank": 1,
-    "description": "Augmente de 10% les chances de critique du Chaman et le montant des soins qu'il effectue sur les cibles ayant moins de 10% de vie, de plus lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10% et génére 10% de menace en moins"
+    "description": "Lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10%, génére 10% de menace en moins et augmente les soins qu'il reçoit de 10%"
   },
   "62432": {
-    "name": "Gardien de la Nature (rang2)",
+    "name": "Gardé par la Nature (rang2)",
     "icon": "icon_6243",
     "rank": 2,
-    "description": "Augmente de 20% les chances de critique du Chaman et le montant des soins qu'il effectue sur les cibles ayant moins de 20% de vie, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20% et génére 20% de menace en moins"
+    "description": "Lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20%, génére 20% de menace en moins et augmente les soins qu'il reçoit de 20%"
   },
   "62433": {
     "name": "Specialisation:62 Row:4 Column:3 Rank:3",
@@ -12870,19 +12870,19 @@
     "description": "Description for Specialisation:62 Row:5 Column:1 Rank:5. Use icon icon_6251.jpg"
   },
   "62521": {
-    "name": "Bénie par la Nature (rang1)",
+    "name": "Bénédiction de la Nature (rang1)",
     "icon": "spell_nature_naturetouchgrow",
     "rank": 1,
     "description": "Convertit 10% de l'Endurance du Chaman en Bonus sort"
   },
   "62522": {
-    "name": "Bénie par la Nature (rang2)",
+    "name": "Bénédiction de la Nature (rang2)",
     "icon": "icon_6252",
     "rank": 2,
     "description": "Convertit 20% de l'Endurance du Chaman en Bonus sort"
   },
   "62523": {
-    "name": "Bénie par la Nature (rang3)",
+    "name": "Bénédiction de la Nature (rang3)",
     "icon": "icon_6252",
     "rank": 3,
     "description": "Convertit 30% de l'Endurance du Chaman en Bonus sort"
