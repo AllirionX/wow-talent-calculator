@@ -7893,7 +7893,7 @@
     "name": "Course",
     "icon": "ability_druid_dash",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet au Voleur de poser une Amélioration au sol, qui lorsqu'elle est prise en clickant dessus, donne un Sprint au joueur durant 10sec, dure 10sec ou 5 charges"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, Permet au Voleur de poser une Icône au sol de 10sec ou 5 charges, qui lorsqu'elle est prise en clickant dessus, donne un Sprint au joueur de +50% de vitesse durant 10sec"
   },
   "41622": {
     "name": "Specialisation:41 Row:6 Column:2 Rank:2",
@@ -10983,19 +10983,19 @@
     "name": "Protection des Eléments (rang1)",
     "icon": "spell_nature_protectionformnature",
     "rank": 1,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 20pts"
+    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 20pts et diminue les Résistances magiques des cibles du Chaman 5pts"
   },
   "60122": {
     "name": "Protection des Eléments (rang2)",
     "icon": "icon_6012",
     "rank": 2,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 40pts"
+    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 40pts et diminue les Résistances magiques des cibles du Chaman 10pts"
   },
   "60123": {
     "name": "Protection des Eléments (rang3)",
     "icon": "icon_6012",
     "rank": 3,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 60pts"
+    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 60pts et diminue les Résistances magiques des cibles du Chaman 15pts"
   },
   "60124": {
     "name": "Specialisation:60 Row:1 Column:2 Rank:4",
@@ -11343,7 +11343,7 @@
     "name": "Maîtrise du Feu",
     "icon": "spell_fire_flameshock",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques de Feu du Chaman de 50%, de plus lorsqu'une cible est sous l'effet de la technique Horion de Feu, tous les dégats de Feu infligés a cette cible par le Chaman ont 100% de chance de critique"
+    "description": "Diminue le coût en mana de toutes les techniques de Feu du Chaman de 50%, de plus lorsqu'une cible est sous l'effet de la technique Horion de Feu, tous les dégats de Feu infligés a cette cible par le Chaman sont augmentés de 50%"
   },
   "60422": {
     "name": "Specialisation:60 Row:4 Column:2 Rank:2",
@@ -12003,19 +12003,19 @@
     "name": "Précision (rang1)",
     "icon": "inv_axe_06",
     "rank": 1,
-    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 5% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 2%"
+    "description": "Diminue la menace généré par le Chaman de 5% et augmente ses chances de Toucher de 2%"
   },
   "61402": {
     "name": "Précision (rang2)",
     "icon": "icon_6140",
     "rank": 2,
-    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 10% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 4%"
+    "description": "Diminue la menace généré par le Chaman de 10% et augmente ses chances de Toucher de 4%"
   },
   "61403": {
     "name": "Précision (rang3)",
     "icon": "icon_6140",
     "rank": 3,
-    "description": "Diminue la menace généré par le Chaman lorsqu'il n'est pas affecté par la technique Croque Roc de 15% sinon il l'augmente du même montant, et augmente ses chances de Toucher de 6%"
+    "description": "Diminue la menace généré par le Chaman de 15% et augmente ses chances de Toucher de 6%"
   },
   "61404": {
     "name": "Specialisation:61 Row:4 Column:0 Rank:4",
@@ -12213,7 +12213,7 @@
     "name": "Bloodlust",
     "icon": "spell_nature_bloodlust",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une icone durant 10sec ou 5 charges qui, lorsqu'un joueur passe dessus lui donne une amélioration de 30sec qui augmente les dégats infligés de 30% mais subit également 30% de dégats supplémentaire, pose également un affaiblissement de 15sec qui empêche le joueur de rebénéficier de l'effet"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose au sol une icone durant 10sec ou 5 charges qui, lorsqu'un joueur click dessus lui donne une amélioration de 1min qui augmente les dégats infligés de 30% mais subit également 10% de dégats supplémentaire, pose également un affaiblissement de 15sec qui empêche le joueur de rebénéficier de l'effet"
   },
   "61622": {
     "name": "Specialisation:61 Row:6 Column:2 Rank:2",
