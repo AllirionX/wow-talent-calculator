@@ -5341,7 +5341,7 @@
   },
   "31221": {
     "name": "Détournement",
-    "icon": "ability_rogue_feigndeath",
+    "icon": "spell_shadow_fingerofdeath",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30sec de temps de rechargement, Pose une amélioration sur un allié dans les 35yards de portée durant 30sec, le prochain Tir du Chasseur redirige sa menace sur cette cible"
   },
@@ -5793,13 +5793,13 @@
     "name": "Maîtrise des Pièges (rang1)",
     "icon": "spell_nature_timestop",
     "rank": 1,
-    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de +5rangs le niveau de camouflage des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
+    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
   },
   "32012": {
     "name": "Maîtrise des Pièges (rang2)",
     "icon": "icon_3201",
     "rank": 2,
-    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et augmente de +10rangs le niveau de camouflage des différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
+    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
   },
   "32013": {
     "name": "Specialisation:32 Row:0 Column:1 Rank:3",
@@ -6213,13 +6213,13 @@
     "name": "Coupure d'Ailes Améliorée (rang1)",
     "icon": "ability_rogue_trip",
     "rank": 1,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 50%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 50%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec et ne peux ni être Parée, Equivée ou Bloquée"
   },
   "32332": {
     "name": "Coupure d'Ailes Améliorée (rang2)",
     "icon": "icon_3233",
     "rank": 2,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 100%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 100%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec et ne peux ni être Parée, Equivée ou Bloquée"
   },
   "32333": {
     "name": "Specialisation:32 Row:3 Column:3 Rank:3",
@@ -6333,13 +6333,13 @@
     "name": "Pièges Astucieux (rang1)",
     "icon": "ability_ensnare",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques de Piège du Chasseur de 2sec et lorsqu'un Piège s'active, en plus de ses effets il pose un affaiblissement supplémentaire qui immobilise la cible durant 2sec"
+    "description": "Diminue le temps de rechargement des techniques de Piège du Chasseur de 2sec et lorsqu'un Piège s'active, en plus de ses effets il pose un affaiblissement supplémentaire qui immobilise la cible durant 2sec et augmente de +5rangs le niveau de camouflage des différentes techniques de Piège du Chasseur"
   },
   "32432": {
     "name": "Pièges Astucieux (rang2)",
     "icon": "icon_3243",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques de Piège du Chasseur de 4sec et lorsqu'un Piège s'active, en plus de ses effets il pose un affaiblissement supplémentaire qui immobilise la cible durant 4sec"
+    "description": "Diminue le temps de rechargement des techniques de Piège du Chasseur de 4sec et lorsqu'un Piège s'active, en plus de ses effets il pose un affaiblissement supplémentaire qui immobilise la cible durant 4sec et augmente de +10rangs le niveau de camouflage des différentes techniques de Piège du Chasseur"
   },
   "32433": {
     "name": "Specialisation:32 Row:4 Column:3 Rank:3",
@@ -6423,7 +6423,7 @@
     "name": "Morsure de la Wyverne",
     "icon": "inv_spear_02",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable uniquement hors combat, 8-35yards de portée, coûte 115pts de mana, Nouvelle Morsure qui a pour effet de plonger la cible dans un effet de Sommeil durant 10sec contre un Joueur, 1min contre un PNJ, le moindre dégat dissipe l'effet, si la technique est dissipé par un joueur, c'est le joueur qui dissipe l'effet qui subit alors l'effet"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable uniquement hors combat, 8-35yards de portée, coûte 115pts de mana, Nouvelle Morsure qui a pour effet de plonger la cible dans un effet de Sommeil durant 10sec contre un Joueur, lorsque l'effet se termine inflige 600pts de dégats de nature, 1min contre un PNJ, le moindre dégat dissipe l'effet, si la technique est dissipé par un joueur, c'est le joueur qui dissipe l'effet qui subit alors l'effet"
   },
   "32612": {
     "name": "Specialisation:32 Row:6 Column:1 Rank:2",
