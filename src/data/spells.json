@@ -5040,22 +5040,22 @@
     "description": "Description for Specialisation:30 Row:6 Column:2 Rank:5. Use icon icon_3062.jpg"
   },
   "31001": {
-    "name": "Maille étincellante (rang1)",
-    "icon": "spell_arcane_arcaneresilience",
+    "name": "Marque du Chasseur Améliorée (rang1)",
+    "icon": "ability_hunter_snipershot",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de mana"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 33% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31002": {
-    "name": "Maille étincellante (rang2)",
+    "name": "Marque du Chasseur Améliorée (rang2)",
     "icon": "icon_3100",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +4pts de mana"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 66% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31003": {
-    "name": "Maille étincellante (rang3)",
+    "name": "Marque du Chasseur Améliorée (rang3)",
     "icon": "icon_3100",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +6pts de mana"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 100% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31004": {
     "name": "Specialisation:31 Row:0 Column:0 Rank:4",
@@ -5070,16 +5070,16 @@
     "description": "Description for Specialisation:31 Row:0 Column:0 Rank:5. Use icon icon_3100.jpg"
   },
   "31011": {
-    "name": "Focus (rang1)",
-    "icon": "spell_nature_purge",
+    "name": "Trait de Choc Amélioré (rang1)",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Octroie 35% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
+    "description": "Augmente la durée de la technique Trait de Choc de 1sec"
   },
   "31012": {
-    "name": "Focus (rang2)",
+    "name": "Trait de Choc Amélioré (rang2)",
     "icon": "icon_3101",
     "rank": 2,
-    "description": "Octroie 70% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
+    "description": "Augmente la durée de la technique Trait de Choc de 2sec"
   },
   "31013": {
     "name": "Specialisation:31 Row:0 Column:1 Rank:3",
@@ -5160,22 +5160,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:3 Rank:5. Use icon icon_3103.jpg"
   },
   "31101": {
-    "name": "Marque du Chasseur Améliorée (rang1)",
-    "icon": "ability_hunter_snipershot",
+    "name": "Minucieux (rang1)",
+    "icon": "spell_holy_magicalsentry",
     "rank": 1,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée de 33% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente l'Intelligence du Chasseur de 4%"
   },
   "31102": {
-    "name": "Marque du Chasseur Améliorée (rang2)",
+    "name": "Minucieux (rang2)",
     "icon": "icon_3110",
     "rank": 2,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée de 66% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente l'Intelligence du Chasseur de 8%"
   },
   "31103": {
-    "name": "Marque du Chasseur Améliorée (rang3)",
+    "name": "Minucieux (rang3)",
     "icon": "icon_3110",
     "rank": 3,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée de 100% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente l'Intelligence du Chasseur de 12%"
   },
   "31104": {
     "name": "Specialisation:31 Row:1 Column:0 Rank:4",
@@ -5250,16 +5250,16 @@
     "description": "Description for Specialisation:31 Row:1 Column:2 Rank:5. Use icon icon_3112.jpg"
   },
   "31131": {
-    "name": "Trait de Choc Amélioré (rang1)",
-    "icon": "spell_frost_stun",
+    "name": " Tueur Rapide (rang1)",
+    "icon": "ability_fiegndead",
     "rank": 1,
-    "description": "Augmente la durée de la technique Trait de Choc du Chasseur de 1sec"
+    "description": "Diminue le temps de recharge de la technique Tir Rapide de 1min et augmente sa durée de 3sec, de plus lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 25sec"
   },
   "31132": {
-    "name": "Trait de Choc Amélioré (rang2)",
+    "name": " Tueur Rapide (rang2)",
     "icon": "icon_3113",
     "rank": 2,
-    "description": "Augmente la durée de la technique Trait de Choc du Chasseur de 2sec"
+    "description": "Diminue le temps de recharge de la technique Tir Rapide de 2min et augmente sa durée de 6sec, de plus lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 40% durant 25sec"
   },
   "31133": {
     "name": "Specialisation:31 Row:1 Column:3 Rank:3",
@@ -5340,10 +5340,10 @@
     "description": "Description for Specialisation:31 Row:2 Column:1 Rank:5. Use icon icon_3121.jpg"
   },
   "31221": {
-    "name": "Tir Assuré Amélioré",
-    "icon": "spell_nature_faeriefire",
+    "name": "Détournement",
+    "icon": "ability_rogue_feigndeath",
     "rank": 1,
-    "description": "Diminue le temps d'incantation de la technique de 1sec"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, Pose une amélioration sur un allié dans les 35yards de portée durant 30sec, le prochain Tir du Chasseur redirige sa menace sur cette cible"
   },
   "31222": {
     "name": "Specialisation:31 Row:2 Column:2 Rank:2",
@@ -5370,16 +5370,16 @@
     "description": "Description for Specialisation:31 Row:2 Column:2 Rank:5. Use icon icon_3122.jpg"
   },
   "31231": {
-    "name": "Tir Rapide Amélioré (Rang1)",
+    "name": "Tir Assuré Amélioré (Rang1)",
     "icon": "class_hunter",
     "rank": 1,
-    "description": "Diminue le temps de recharge de la technique Tir Rapide de 1min et augmente sa durée de 3sec"
+    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 0,5sec"
   },
   "31232": {
-    "name": "Tir Rapide Amélioré (Rang2)",
+    "name": "Tir Assuré Amélioré (Rang2)",
     "icon": "icon_3123",
     "rank": 2,
-    "description": "Diminue le temps de recharge de la technique Tir Rapide de 2min et augmente sa durée de 6sec"
+    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 1sec"
   },
   "31233": {
     "name": "Specialisation:31 Row:2 Column:3 Rank:3",
@@ -5403,19 +5403,19 @@
     "name": "Morsures Améliorées (rang1)",
     "icon": "ability_hunter_quickshot",
     "rank": 1,
-    "description": "Augmente les effets des techniques de Morsure de 2%"
+    "description": "Diminue le coût en mana des techniques de Morsure de 2% et augmente leur durée de 2sec"
   },
   "31302": {
     "name": "Morsures Améliorées (rang2)",
     "icon": "icon_3130",
     "rank": 2,
-    "description": "Augmente les effets des techniques de Morsure de 4%"
+    "description": "Diminue le coût en mana des techniques de Morsure de 4% et augmente leur durée de 4sec"
   },
   "31303": {
     "name": "Morsures Améliorées (rang3)",
     "icon": "icon_3130",
     "rank": 3,
-    "description": "Augmente les effets des techniques de Morsure de 6%"
+    "description": "Diminue le coût en mana des techniques de Morsure de 6% et augmente leur durée de 6sec"
   },
   "31304": {
     "name": "Specialisation:31 Row:3 Column:0 Rank:4",
@@ -5490,16 +5490,16 @@
     "description": "Description for Specialisation:31 Row:3 Column:2 Rank:5. Use icon icon_3132.jpg"
   },
   "31331": {
-    "name": "Tueur Rapide (rang1)",
-    "icon": "ability_fiegndead",
+    "name": "Focus (rang1)",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 20% durant 20sec"
+    "description": "Octroie 35% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
   },
   "31332": {
-    "name": "Tueur Rapide (rang2)",
+    "name": "Focus (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": "Lorsque le Chasseur obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, il gagne une amélioration qui augmente les chances de critique de sa prochaine technique de 40% durant 20sec"
+    "description": "Octroie 70% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
@@ -5613,13 +5613,13 @@
     "name": "Tir des Arcanes Améliorés (rang1)",
     "icon": "ability_impalingbolt",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et augmente les dégats de 5%"
   },
   "31432": {
     "name": "Tir des Arcanes Améliorés (rang2)",
     "icon": "icon_3143",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et augmente les dégats de 10%"
   },
   "31433": {
     "name": "Specialisation:31 Row:4 Column:3 Rank:3",
@@ -5643,13 +5643,13 @@
     "name": "Sniper (rang1)",
     "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 5%, augmente également la menace généré par la technique Trait Provocateur de 10% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 50%"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 5%, augmente également la menace généré par la technique Trait Provocateur de 15% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 50%"
   },
   "31512": {
     "name": "Sniper (rang2)",
     "icon": "icon_3151",
     "rank": 2,
-    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 20% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 100%"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 30% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 100%"
   },
   "31513": {
     "name": "Specialisation:31 Row:5 Column:1 Rank:3",
@@ -5760,22 +5760,22 @@
     "description": "Description for Specialisation:31 Row:6 Column:2 Rank:5. Use icon icon_3162.jpg"
   },
   "32001": {
-    "name": "Poids de la Maille (rang1)",
+    "name": "Dards Améliorés (rang1)",
     "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +2pts de Vie"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 5% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 2%"
   },
   "32002": {
-    "name": "Poids de la Maille (rang2)",
+    "name": "Dards Améliorés (rang2)",
     "icon": "icon_3200",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +4pts de Vie"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 10% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 4%"
   },
   "32003": {
-    "name": "Poids de la Maille (rang3)",
+    "name": "Dards Améliorés (rang3)",
     "icon": "icon_3200",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chasseur en +6pts de Vie"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 15% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 6%"
   },
   "32004": {
     "name": "Specialisation:32 Row:0 Column:0 Rank:4",
@@ -5850,13 +5850,13 @@
     "description": "Description for Specialisation:32 Row:0 Column:2 Rank:5. Use icon icon_3202.jpg"
   },
   "32031": {
-    "name": "Tacticien (rang1)",
+    "name": "Instinct de Survie (rang1)",
     "icon": "ability_rogue_feigndeath",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Désengagement de 2sec et réduit les chances des cibles de résister a la technique Feindre la Mort de 2%"
   },
   "32032": {
-    "name": "Tacticien (rang2)",
+    "name": "Instinct de Survie (rang2)",
     "icon": "icon_3203",
     "rank": 2,
     "description": "Diminue le temps de rechargement de la technique Désengagement de 4sec et réduit les chances des cibles de résister a la technique Feindre la Mort de 4%"
