@@ -5100,22 +5100,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:1 Rank:5. Use icon icon_3101.jpg"
   },
   "31021": {
-    "name": "Oeil du Faucon (rang1)",
-    "icon": "ability_townwatch",
+    "name": "Coup Fatal (rang1)",
+    "icon": "ability_searingarrow",
     "rank": 1,
-    "description": "Augmente la portée de tir du Chasseur de 2yards"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 2%"
   },
   "31022": {
-    "name": "Oeil du Faucon (rang2)",
+    "name": "Coup Fatal (rang2)",
     "icon": "icon_3102",
     "rank": 2,
-    "description": "Augmente la portée de tir du Chasseur de 4yards"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 4%"
   },
   "31023": {
-    "name": "Oeil du Faucon (rang3)",
+    "name": "Coup Fatal (rang3)",
     "icon": "icon_3102",
     "rank": 3,
-    "description": "Augmente la portée de tir du Chasseur de 6yards"
+    "description": "Augmente les chances de critiques a distance du Chasseur de 6%"
   },
   "31024": {
     "name": "Specialisation:31 Row:0 Column:2 Rank:4",
@@ -5160,22 +5160,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:3 Rank:5. Use icon icon_3103.jpg"
   },
   "31101": {
-    "name": "Minucieux (rang1)",
-    "icon": "spell_holy_magicalsentry",
+    "name": "Morsures Viscieuses (rang1)",
+    "icon": "ability_hunter_criticalshot",
     "rank": 1,
-    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 1%"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 10% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 20% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 4sec"
   },
   "31102": {
-    "name": "Minucieux (rang2)",
+    "name": "Morsures Viscieuses (rang2)",
     "icon": "icon_3110",
     "rank": 2,
-    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 2%"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 20% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 40% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 8sec"
   },
   "31103": {
-    "name": "Minucieux (rang3)",
+    "name": "Morsures Viscieuses (rang3)",
     "icon": "icon_3110",
     "rank": 3,
-    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 3%"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 30% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 60% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 12sec"
   },
   "31104": {
     "name": "Specialisation:31 Row:1 Column:0 Rank:4",
@@ -5190,16 +5190,16 @@
     "description": "Description for Specialisation:31 Row:1 Column:0 Rank:5. Use icon icon_3110.jpg"
   },
   "31111": {
-    "name": "A la Gorge (rang1)",
-    "icon": "ability_druid_ferociousbite",
+    "name": "Morsures Améliorées (rang1)",
+    "icon": "ability_hunter_quickshot",
     "rank": 1,
-    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 15pts de Focalisation a son Familier"
+    "description": "Diminue le coût en mana des techniques de Morsure de 3% et augmente leur durée de 3sec"
   },
   "31112": {
-    "name": "A la Gorge (rang2)",
+    "name": "Morsures Améliorées (rang2)",
     "icon": "icon_3111",
     "rank": 2,
-    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 30pts de Focalisation a son Familier"
+    "description": "Diminue le coût en mana des techniques de Morsure de 6% et augmente leur durée de 6sec"
   },
   "31113": {
     "name": "Specialisation:31 Row:1 Column:1 Rank:3",
@@ -5220,22 +5220,22 @@
     "description": "Description for Specialisation:31 Row:1 Column:1 Rank:5. Use icon icon_3111.jpg"
   },
   "31121": {
-    "name": "Coup Fatal (rang1)",
-    "icon": "ability_searingarrow",
+    "name": "Aspect du Faucon Amélioré (rang1)",
+    "icon": "spell_nature_ravenform",
     "rank": 1,
-    "description": "Augmente les chances de critiques a distance du Chasseur de 2%"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 5%"
   },
   "31122": {
-    "name": "Coup Fatal (rang2)",
+    "name": "Aspect du Faucon Amélioré (rang2)",
     "icon": "icon_3112",
     "rank": 2,
-    "description": "Augmente les chances de critiques a distance du Chasseur de 4%"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 10%"
   },
   "31123": {
-    "name": "Coup Fatal (rang3)",
+    "name": "Aspect du Faucon Amélioré (rang3)",
     "icon": "icon_3112",
     "rank": 3,
-    "description": "Augmente les chances de critiques a distance du Chasseur de 6%"
+    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 15%"
   },
   "31124": {
     "name": "Specialisation:31 Row:1 Column:2 Rank:4",
@@ -5280,22 +5280,22 @@
     "description": "Description for Specialisation:31 Row:1 Column:3 Rank:5. Use icon icon_3113.jpg"
   },
   "31201": {
-    "name": "Aspect du Faucon Amélioré (rang1)",
-    "icon": "spell_nature_ravenform",
+    "name": "Coup Mortel (rang1)",
+    "icon": "ability_piercedamage",
     "rank": 1,
-    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 5%"
+    "description": "Augmente les dégats infligés par les techniques critiques du Chasseur de 10%"
   },
   "31202": {
-    "name": "Aspect du Faucon Amélioré (rang2)",
+    "name": "Coup Mortel (rang2)",
     "icon": "icon_3120",
     "rank": 2,
-    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 10%"
+    "description": "Augmente les dégats infligés par les techniques critiques du Chasseur de 20%"
   },
   "31203": {
-    "name": "Aspect du Faucon Amélioré (rang3)",
+    "name": "Coup Mortel (rang3)",
     "icon": "icon_3120",
     "rank": 3,
-    "description": "Lorsque le Chasseur est sous l'effet de la technique Aspect du Faucon, il gagne un Bonus de vitesse d'attaque a distance de 15%"
+    "description": "Augmente les dégats infligés par les techniques critiques du Chasseur de 30%"
   },
   "31204": {
     "name": "Specialisation:31 Row:2 Column:0 Rank:4",
@@ -5400,22 +5400,22 @@
     "description": "Description for Specialisation:31 Row:2 Column:3 Rank:5. Use icon icon_3123.jpg"
   },
   "31301": {
-    "name": "Morsures Viscieuses (rang1)",
-    "icon": "ability_hunter_criticalshot",
+    "name": "Minuscieux (rang1)",
+    "icon": "ability_eyeoftheowl",
     "rank": 1,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 10% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 20% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 3sec"
-  },
+    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 1%"
+   },
   "31302": {
-    "name": "Morsures Viscieuses (rang2)",
+    "name": "Minuscieux (rang2)",
     "icon": "icon_3130",
     "rank": 2,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 20% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 40% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 4sec"
+    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 2%"
   },
   "31303": {
-    "name": "Morsures Viscieuses (rang3)",
+    "name": "Minuscieux (rang3)",
     "icon": "icon_3130",
     "rank": 3,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 30% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 60% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 6sec"
+    "description": "Augmente l'Intelligence du Chasseur et ses chances de Toucher de 3%"
   },
   "31304": {
     "name": "Specialisation:31 Row:3 Column:0 Rank:4",
@@ -5430,16 +5430,16 @@
     "description": "Description for Specialisation:31 Row:3 Column:0 Rank:5. Use icon icon_3130.jpg"
   },
   "31311": {
-    "name": "Morsures Améliorées (rang1)",
-    "icon": "ability_hunter_quickshot",
+    "name": "A la Gorge (rang1)",
+    "icon": "ability_druid_ferociousbite",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques de Morsure de 3% et augmente leur durée de 3sec"
+    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 15pts de Focalisation a son Familier"
   },
   "31312": {
-    "name": "Morsures Améliorées (rang2)",
+    "name": "A la Gorge (rang2)",
     "icon": "icon_3131",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques de Morsure de 6% et augmente leur durée de 6sec"
+    "description": "Lorsque le Chasseur obtient un critique, cela donne instantanément 30pts de Focalisation a son Familier"
   },
   "31313": {
     "name": "Specialisation:31 Row:3 Column:1 Rank:3",
@@ -5460,22 +5460,22 @@
     "description": "Description for Specialisation:31 Row:3 Column:1 Rank:5. Use icon icon_3131.jpg"
   },
   "31321": {
-    "name": "Coup Mortel (rang1)",
-    "icon": "ability_piercedamage",
+    "name": "Oeil du Faucon (rang1)",
+    "icon": "ability_townwatch",
     "rank": 1,
-    "description": "Augmente les dégats infligés par les techniques a distance critiques de 10%"
+    "description": "Augmente la portée de tir du Chasseur de 2yards"
   },
   "31322": {
-    "name": "Coup Mortel (rang2)",
+    "name": "Oeil du Faucon (rang2)",
     "icon": "icon_3132",
     "rank": 2,
-    "description": "Augmente les dégats infligés par les techniques a distance critiques de 20%"
+    "description": "Augmente la portée de tir du Chasseur de 4yards"
   },
   "31323": {
-    "name": "Coup Mortel (rang3)",
+    "name": "Oeil du Faucon (rang3)",
     "icon": "icon_3132",
     "rank": 3,
-    "description": "Augmente les dégats infligés par les techniques a distance critiques de 30%"
+    "description": "Augmente la portée de tir du Chasseur de 6yards"
   },
   "31324": {
     "name": "Specialisation:31 Row:3 Column:2 Rank:4",
@@ -5490,16 +5490,16 @@
     "description": "Description for Specialisation:31 Row:3 Column:2 Rank:5. Use icon icon_3132.jpg"
   },
   "31331": {
-    "name": "Focus (rang1)",
-    "icon": "spell_nature_astralrecalgroup",
+    "name": "Tir des Arcanes Améliorés (rang1)",
+    "icon": "ability_impalingbolt",
     "rank": 1,
-    "description": "Octroie 35% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et augmente les chances de critique avec la technique de 5%"
   },
   "31332": {
-    "name": "Focus (rang2)",
+    "name": "Tir des Arcanes Améliorés (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": "Octroie 70% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
+    "description": ""
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
@@ -5610,16 +5610,16 @@
     "description": "Description for Specialisation:31 Row:4 Column:2 Rank:5. Use icon icon_3142.jpg"
   },
   "31431": {
-    "name": "Tir des Arcanes Améliorés (rang1)",
-    "icon": "ability_impalingbolt",
+    "name": "Focus (rang1)",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et augmente les chances de critique avec la technique de 5%"
+    "description": "Octroie 35% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
   },
   "31432": {
-    "name": "Tir des Arcanes Améliorés (rang2)",
+    "name": "Focus (rang2)",
     "icon": "icon_3143",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et augmente les chances de critique avec la technique de 10%"
+    "description": "Octroie 70% de chance d'anti interruption au Chasseur pendant l'incantation des techniques Tir Assuré, Tir Multiple, Visée et Salve"
   },
   "31433": {
     "name": "Specialisation:31 Row:4 Column:3 Rank:3",
@@ -5760,22 +5760,22 @@
     "description": "Description for Specialisation:31 Row:6 Column:2 Rank:5. Use icon icon_3162.jpg"
   },
   "32001": {
-    "name": "Pièges Améliorés (rang1)",
-    "icon": "spell_frost_freezingbreath",
+    "name": "Déviation (rang1)",
+    "icon": "ability_parry",
     "rank": 1,
-    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 10sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 10%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 10%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 2"
+    "description": "Augmente les chances de Parade du Chasseur de 2%"
   },
   "32002": {
-    "name": "Pièges Améliorés (rang2)",
+    "name": "Déviation (rang2)",
     "icon": "icon_3200",
     "rank": 2,
-    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 20sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 20%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 20%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 4"
+    "description": "Augmente les chances de Parade du Chasseur de 4%"
   },
   "32003": {
-    "name": "Pièges Améliorés (rang3)",
+    "name": "Déviation (rang3)",
     "icon": "icon_3200",
     "rank": 3,
-    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 30sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 30%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 30%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 6"
+    "description": "Augmente les chances de Parade du Chasseur de 6%"
   },
   "32004": {
     "name": "Specialisation:32 Row:0 Column:0 Rank:4",
@@ -5790,16 +5790,16 @@
     "description": "Description for Specialisation:32 Row:0 Column:0 Rank:5. Use icon icon_3200.jpg"
   },
   "32011": {
-    "name": "Maîtrise des Pièges (rang1)",
-    "icon": "spell_nature_timestop",
+    "name": "Frappes Sauvages (rang1)",
+    "icon": "ability_racial_bloodrage",
     "rank": 1,
-    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
+    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 10% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
   },
   "32012": {
-    "name": "Maîtrise des Pièges (rang2)",
+    "name": "Frappes Sauvages (rang2)",
     "icon": "icon_3201",
     "rank": 2,
-    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
+    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 20% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
   },
   "32013": {
     "name": "Specialisation:32 Row:0 Column:1 Rank:3",
@@ -5880,22 +5880,22 @@
     "description": "Description for Specialisation:32 Row:0 Column:3 Rank:5. Use icon icon_3203.jpg"
   },
   "32101": {
-    "name": "Déviation (rang1)",
-    "icon": "ability_parry",
+    "name": "Pied Sûr (rang1)",
+    "icon": "ability_kick",
     "rank": 1,
-    "description": "Augmente les chances de Parade du Chasseur de 2%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10% et augmente les chances de Toucher du Chasseur de 1%"
   },
   "32102": {
-    "name": "Déviation (rang2)",
+    "name": "Pied Sûr (rang2)",
     "icon": "icon_3210",
     "rank": 2,
-    "description": "Augmente les chances de Parade du Chasseur de 4%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 20% et augmente les chances de Toucher du Chasseur de 2%"
   },
   "32103": {
-    "name": "Déviation (rang3)",
+    "name": "Pied Sûr (rang3)",
     "icon": "icon_3210",
     "rank": 3,
-    "description": "Augmente les chances de Parade du Chasseur de 6%"
+    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 30% et augmente les chances de Toucher du Chasseur de 3%"
   },
   "32104": {
     "name": "Specialisation:32 Row:1 Column:0 Rank:4",
@@ -5910,16 +5910,16 @@
     "description": "Description for Specialisation:32 Row:1 Column:0 Rank:5. Use icon icon_3210.jpg"
   },
   "32111": {
-    "name": "Fusée Eclairante Améliorée (rang1)",
-    "icon": "spell_nature_astralrecalgroup",
+    "name": "Coupure d'Ailes Améliorée (rang1)",
+    "icon": "ability_rogue_trip",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 25%"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 40%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec et ne peux ni être Parée, Equivée ou Bloquée"
   },
   "32112": {
-    "name": "Fusée Eclairante Améliorée (rang2)",
+    "name": "Coupure d'Ailes Améliorée (rang2)",
     "icon": "icon_3211",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 50%"
+    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 80%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec et ne peux ni être Parée, Equivée ou Bloquée"
   },
   "32113": {
     "name": "Specialisation:32 Row:1 Column:1 Rank:3",
@@ -5940,22 +5940,22 @@
     "description": "Description for Specialisation:32 Row:1 Column:1 Rank:5. Use icon icon_3211.jpg"
   },
   "32121": {
-    "name": "Dards Améliorés (rang1)",
-    "icon": "ability_hunter_quickshot",
+    "name": "Coup d'Oeil (rang1)",
+    "icon": "ability_eyeoftheowl",
     "rank": 1,
-    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 5% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 2%"
+    "description": "Convertit 10% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32122": {
-    "name": "Dards Améliorés (rang2)",
+    "name": "Coup d'Oeil (rang2)",
     "icon": "icon_3212",
     "rank": 2,
-    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 10% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 4%"
+    "description": "Convertit 20% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32123": {
-    "name": "Dards Améliorés (rang3)",
+    "name": "Coup d'Oeil (rang3)",
     "icon": "icon_3212",
     "rank": 3,
-    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 15% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 6%"
+    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
   },
   "32124": {
     "name": "Specialisation:32 Row:1 Column:2 Rank:4",
@@ -5970,16 +5970,16 @@
     "description": "Description for Specialisation:32 Row:1 Column:2 Rank:5. Use icon icon_3212.jpg"
   },
   "32131": {
-    "name": "Frappes Sauvages (rang1)",
-    "icon": "ability_racial_bloodrage",
+    "name": "Experience du Combat (rang1)",
+    "icon": "spell_nature_stranglevines",
     "rank": 1,
-    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 10% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
+    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 3%"
   },
   "32132": {
-    "name": "Frappes Sauvages (rang2)",
+    "name": "Experience du Combat (rang2)",
     "icon": "icon_3213",
     "rank": 2,
-    "description": "Augmente les dégats des critiques infligés par les techniques en mélée du Chasseur de 20% et diminue le coût en mana de toutes les techniques de mélée du Chasseur du même montant"
+    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 6%"
   },
   "32133": {
     "name": "Specialisation:32 Row:1 Column:3 Rank:3",
@@ -6000,22 +6000,22 @@
     "description": "Description for Specialisation:32 Row:1 Column:3 Rank:5. Use icon icon_3213.jpg"
   },
   "32201": {
-    "name": "Ressource (rang1)",
-    "icon": "spell_holy_summonlightwell",
+    "name": "Dards Améliorés (rang1)",
+    "icon": "ability_hunter_quickshot",
     "rank": 1,
-    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 10% du coût en mana de cette technique lui est rendu"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 5% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 2%"
   },
   "32202": {
-    "name": "Ressource (rang2)",
+    "name": "Dards Améliorés (rang2)",
     "icon": "icon_3220",
     "rank": 2,
-    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 20% du coût en mana de cette technique lui est rendu"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 10% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 4%"
   },
   "32203": {
-    "name": "Ressource (rang3)",
+    "name": "Dards Améliorés (rang3)",
     "icon": "icon_3220",
     "rank": 3,
-    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 30% du coût en mana de cette technique lui est rendu"
+    "description": "Augmente les effets des techniques Morsure de Serpent, Morsure de la Vipère, Morsure de la Wyverne de 15% ainsi que la diminution de statistiques de la technique Morsure du Scorpide de 6%"
   },
   "32204": {
     "name": "Specialisation:32 Row:2 Column:0 Rank:4",
@@ -6120,22 +6120,22 @@
     "description": "Description for Specialisation:32 Row:2 Column:3 Rank:5. Use icon icon_3223.jpg"
   },
   "32301": {
-    "name": "Coup d'Oeil (rang1)",
-    "icon": "ability_eyeoftheowl",
+    "name": "Pièges Améliorés (rang1)",
+    "icon": "spell_frost_freezingbreath",
     "rank": 1,
-    "description": "Convertit 10% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 10sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 10%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 10%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 2"
   },
   "32302": {
-    "name": "Coup d'Oeil (rang2)",
+    "name": "Pièges Améliorés (rang2)",
     "icon": "icon_3230",
     "rank": 2,
-    "description": "Convertit 20% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 20sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 20%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 20%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 4"
   },
   "32303": {
-    "name": "Coup d'Oeil (rang3)",
+    "name": "Pièges Améliorés (rang3)",
     "icon": "icon_3230",
     "rank": 3,
-    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Augmente la durée avant qu'un Piège ne se dissipe de 30sec, ainsi que la durée des techniques Piège de Glace et Piège de Givre de 30%, ainsi que les dégats qu'infligent les techniques Pièges d'Immolation et Pièges Explosif de 30%, ainsi que le nombre de Serpents invoqués par la Technique Piège Serpent de 6"
   },
   "32304": {
     "name": "Specialisation:32 Row:3 Column:0 Rank:4",
@@ -6150,16 +6150,16 @@
     "description": "Description for Specialisation:32 Row:3 Column:0 Rank:5. Use icon icon_3230.jpg"
   },
   "32311": {
-    "name": "Expérience du Combat (rang1)",
-    "icon": "spell_nature_stranglevines",
+    "name": "Maîtrise des Pièges (rang1)",
+    "icon": "spell_nature_timestop",
     "rank": 1,
-    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 3%"
+    "description": "Diminue de 5% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 50%"
   },
   "32312": {
-    "name": "Expérience du Combat (rang2)",
+    "name": "Maîtrise des Pièges (rang2)",
     "icon": "icon_3231",
     "rank": 2,
-    "description": "Diminue les dégats subit par le Chasseur et augmente les dégats qu'il inflige de 6%"
+    "description": "Diminue de 10% les chances de résiste de la cible aux différentes techniques de Piège du Chasseur et réduit également leur coût en mana de 100%"
   },
   "32313": {
     "name": "Specialisation:32 Row:3 Column:1 Rank:3",
@@ -6180,22 +6180,22 @@
     "description": "Description for Specialisation:32 Row:3 Column:1 Rank:5. Use icon icon_3231.jpg"
   },
   "32321": {
-    "name": "Pied Sûr (rang1)",
-    "icon": "ability_kick",
+    "name": "Ressource (rang1)",
+    "icon": "spell_holy_summonlightwell",
     "rank": 1,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 10% et augmente les chances de Toucher du Chasseur de 1%"
+    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 10% du coût en mana de cette technique lui est rendu"
   },
   "32322": {
-    "name": "Pied Sûr (rang2)",
+    "name": "Ressource (rang2)",
     "icon": "icon_3232",
     "rank": 2,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 20% et augmente les chances de Toucher du Chasseur de 2%"
+    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 20% du coût en mana de cette technique lui est rendu"
   },
   "32323": {
-    "name": "Pied Sûr (rang3)",
+    "name": "Ressource (rang3)",
     "icon": "icon_3232",
     "rank": 3,
-    "description": "Diminue la durée des effets affectant le mouvement du Chasseur de 30% et augmente les chances de Toucher du Chasseur de 3%"
+    "description": "Lorsque le Chasseur obtient un coup critique avec une de ses techniques 30% du coût en mana de cette technique lui est rendu"
   },
   "32324": {
     "name": "Specialisation:32 Row:3 Column:2 Rank:4",
@@ -6210,16 +6210,16 @@
     "description": "Description for Specialisation:32 Row:3 Column:2 Rank:5. Use icon icon_3232.jpg"
   },
   "32331": {
-    "name": "Coupure d'Ailes Améliorée (rang1)",
-    "icon": "ability_rogue_trip",
+    "name": "Fusée Améliorée (rang1)",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 50%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 2sec et ne peux ni être Parée, Equivée ou Bloquée"
+    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 25%"
   },
   "32332": {
-    "name": "Coupure d'Ailes Améliorée (rang2)",
+    "name": "Fusée Améliorée (rang2)",
     "icon": "icon_3233",
     "rank": 2,
-    "description": "Diminue le coût en mana de la technique Coupure d'Ailes et augmente ses dégats de 100%, de plus lorsque le Chasseur est sous l'effet de Dissuasion sa prochaine technique Coupure d'Ailes immobilise durant 4sec et ne peux ni être Parée, Equivée ou Bloquée"
+    "description": "Diminue le temps de rechargement de la technique Fusée Eclairante de 50%"
   },
   "32333": {
     "name": "Specialisation:32 Row:3 Column:3 Rank:3",
@@ -10143,19 +10143,19 @@
     "name": "Connexion Spirituelle (rang1)",
     "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 4sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique, alors le Prêtre gagne une amélioration qui dure 2sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52022": {
     "name": "Connexion Spirituelle (rang2)",
     "icon": "icon_5202",
     "rank": 2,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 8sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique, alors le Prêtre gagne une amélioration qui dure 4sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52023": {
     "name": "Connexion Spirituelle (rang3)",
     "icon": "icon_5202",
     "rank": 3,
-    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique avec la technique Attaque Mentale, alors le Prêtre gagne une amélioration qui dure 12sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Lorsque le Prêtre obtient un Coup Fatal sur une cible qui lui rapporte de l'Expérience ou de l'Honneur, ou si la cible meurt sous l'effet de la technique Etreinte Vampirique et lorsqu'il obtient un effet critique, alors le Prêtre gagne une amélioration qui dure 6sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "52024": {
     "name": "Specialisation:52 Row:0 Column:2 Rank:4",
