@@ -4923,13 +4923,13 @@
     "name": "Discipline du Familier (rang1)",
     "icon": "spell_nature_abolishmagic",
     "rank": 1,
-    "description": "Augmente le montant de Focalisation régénéré par le Familier de 50% et lui donne +2pts de Talents"
+    "description": "Augmente le montant de Focalisation régénéré par le Familier de 50%"
   },
   "30512": {
     "name": "Discipline du Familier (rang2)",
     "icon": "icon_3051",
     "rank": 2,
-    "description": "Augmente le montant de Focalisation régénéré par le Familier de 100% et lui donne +4pts de Talents"
+    "description": "Augmente le montant de Focalisation régénéré par le Familier de 100%"
   },
   "30513": {
     "name": "Specialisation:30 Row:5 Column:1 Rank:3",
@@ -4983,7 +4983,7 @@
     "name": "Bête Intérieure",
     "icon": "classic_ability_druid_demoralizingroar",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de rechargement, coûte 200pts de mana, Permet au Chasseur et son Familier d'échanger instantanément leur position"
+    "description": "Technique a activer, instantanée, 45yards de portée, 1min de temps de rechargement, coûte 200pts de mana, Permet au Chasseur et son Familier d'échanger instantanément leur position, de plus donne +2pts de talent a son Familier"
   },
   "30612": {
     "name": "Specialisation:30 Row:6 Column:1 Rank:2",
@@ -5013,7 +5013,7 @@
     "name": "Inséparables Compagnons",
     "icon": "spell_nature_mirrorimage",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère lui ainsi que le Chasseur des effets affectant le mouvement"
+    "description": "Technique a activer, instantanée, 30sec de temps de recharge, 45yards de portée, Permet au Familier d'effectuer un bond sur le Chasseur qui le libère lui ainsi que le Chasseur des effets affectant le mouvement, de plus donne +2pts de talent a son Familier"
   },
   "30622": {
     "name": "Specialisation:30 Row:6 Column:2 Rank:2",
@@ -5373,13 +5373,13 @@
     "name": "Tir Assuré Amélioré (Rang1)",
     "icon": "class_hunter",
     "rank": 1,
-    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 0,5sec"
+    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 0,5sec et diminue son coût en mana de 5%"
   },
   "31232": {
     "name": "Tir Assuré Amélioré (Rang2)",
     "icon": "icon_3123",
     "rank": 2,
-    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 1sec"
+    "description": "Diminue le temps d'incantation de la technique Tir Assuré de 1sec et diminue son coût en mana de 10%"
   },
   "31233": {
     "name": "Specialisation:31 Row:2 Column:3 Rank:3",
@@ -5643,13 +5643,13 @@
     "name": "Sniper (rang1)",
     "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 5%, augmente également la menace généré par la technique Trait Provocateur de 15% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 50%"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 5%, augmente également la menace généré par la technique Trait Provocateur de 15% et diminue le coût en mana des techniques Trait Provocateur, Tir Tranquilisant et Détournement de 45%"
   },
   "31512": {
     "name": "Sniper (rang2)",
     "icon": "icon_3151",
     "rank": 2,
-    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 30% et diminue le coût en mana des techniques Trait Provocateur et Tir Tranquilisant de 100%"
+    "description": "Diminue la menace généré par les attaques a distance du Chasseur de 10%, augmente également la menace généré par la technique Trait Provocateur de 30% et diminue le coût en mana des techniques Trait Provocateur, Tir Tranquilisant et Détournement de 90%"
   },
   "31513": {
     "name": "Specialisation:31 Row:5 Column:1 Rank:3",
