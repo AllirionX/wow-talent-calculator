@@ -14163,19 +14163,19 @@
     "name": "Brûler au Dernier Degré (rang1)",
     "icon": "spell_shadow_deathpact",
     "rank": 1,
-    "description": "Diminue la Résistance Magique de la cible du Mage de 5pts et augmente la Résistance Feu du Mage de 20pts"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 5pts et augmente la Résistance Feu du Mage de 10pts"
   },
   "71402": {
     "name": "Brûler au Dernier Degré (rang2)",
     "icon": "icon_7140",
     "rank": 2,
-    "description": "Diminue la Résistance Feu de la cible du Mage de 10pts et augmente la Résistance Feu du Mage de 40pts"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 10pts et augmente la Résistance Feu du Mage de 20pts"
   },
   "71403": {
     "name": "Brûler au Dernier Degré (rang3)",
     "icon": "icon_7140",
     "rank": 3,
-    "description": "Diminue la Résistance Feu de la cible du Mage de 15pts et augmente la Résistance Feu du Mage de 60pts"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 15pts et augmente la Résistance Feu du Mage de 30pts"
   },
   "71404": {
     "name": "Specialisation:71 Row:4 Column:0 Rank:4",
@@ -14883,19 +14883,19 @@
     "name": "Froid Perçant (rang1)",
     "icon": "spell_arcane_starfire",
     "rank": 1,
-    "description": "Diminue les Résistances Magiques des cibles du Mage de 5pts et augmente sa Résistance Givre de 20pts"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 5pts et augmente sa Résistance Givre de 10pts"
   },
   "72402": {
     "name": "Froid Perçant (rang2)",
     "icon": "icon_7240",
     "rank": 2,
-    "description": "Diminue les Résistances Magiques des cibles du Mage de 10pts et augmente sa Résistance Givre de 40pts"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 10pts et augmente sa Résistance Givre de 20pts"
   },
   "72403": {
     "name": "Froid Perçant (rang3)",
     "icon": "icon_7240",
     "rank": 3,
-    "description": "Diminue les Résistances Magiques des cibles du Mage de 15pts et augmente sa Résistance Givre de 60pts"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 15pts et augmente sa Résistance Givre de 30pts"
   },
   "72404": {
     "name": "Specialisation:72 Row:4 Column:0 Rank:4",
