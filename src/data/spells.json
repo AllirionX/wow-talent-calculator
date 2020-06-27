@@ -12960,22 +12960,22 @@
     "description": "Description for Specialisation:62 Row:6 Column:2 Rank:5. Use icon icon_6262.jpg"
   },
   "70001": {
-    "name": "Specialisation:70 Row:0 Column:0 Rank:1",
-    "icon": "icon_7000",
+    "name": "Explosion des Arcanes Améliorée (rang1)",
+    "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:0 Column:0 Rank:1. Use icon icon_7000.jpg"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 2%"
   },
   "70002": {
-    "name": "Specialisation:70 Row:0 Column:0 Rank:2",
+    "name": "Explosion des Arcanes Améliorée (rang2)",
     "icon": "icon_7000",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:0 Column:0 Rank:2. Use icon icon_7000.jpg"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 4%"
   },
   "70003": {
-    "name": "Specialisation:70 Row:0 Column:0 Rank:3",
+    "name": "Explosion des Arcanes Améliorée (rang3)",
     "icon": "icon_7000",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:0 Column:0 Rank:3. Use icon icon_7000.jpg"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 6%"
   },
   "70004": {
     "name": "Specialisation:70 Row:0 Column:0 Rank:4",
@@ -12990,16 +12990,16 @@
     "description": "Description for Specialisation:70 Row:0 Column:0 Rank:5. Use icon icon_7000.jpg"
   },
   "70011": {
-    "name": "Specialisation:70 Row:0 Column:1 Rank:1",
-    "icon": "icon_7001",
+    "name": "Endurance des Arcanes (rang1)",
+    "icon": "spell_shadow_charm",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:0 Column:1 Rank:1. Use icon icon_7001.jpg"
+    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 5%"
   },
   "70012": {
-    "name": "Specialisation:70 Row:0 Column:1 Rank:2",
+    "name": "Endurance des Arcanes (rang2)",
     "icon": "icon_7001",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:0 Column:1 Rank:2. Use icon icon_7001.jpg"
+    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 10%"
   },
   "70013": {
     "name": "Specialisation:70 Row:0 Column:1 Rank:3",
@@ -13020,22 +13020,22 @@
     "description": "Description for Specialisation:70 Row:0 Column:1 Rank:5. Use icon icon_7001.jpg"
   },
   "70021": {
-    "name": "Specialisation:70 Row:0 Column:2 Rank:1",
-    "icon": "icon_7002",
+    "name": "Précision des Arcanes (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:0 Column:2 Rank:1. Use icon icon_7002.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 2%"
   },
   "70022": {
-    "name": "Specialisation:70 Row:0 Column:2 Rank:2",
+    "name": "Précision des Arcanes (rang2)",
     "icon": "icon_7002",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:0 Column:2 Rank:2. Use icon icon_7002.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 4%"
   },
   "70023": {
-    "name": "Specialisation:70 Row:0 Column:2 Rank:3",
+    "name": "Précision des Arcanes (rang3)",
     "icon": "icon_7002",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:0 Column:2 Rank:3. Use icon icon_7002.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 6%"
   },
   "70024": {
     "name": "Specialisation:70 Row:0 Column:2 Rank:4",
@@ -13050,16 +13050,16 @@
     "description": "Description for Specialisation:70 Row:0 Column:2 Rank:5. Use icon icon_7002.jpg"
   },
   "70031": {
-    "name": "Specialisation:70 Row:0 Column:3 Rank:1",
-    "icon": "icon_7003",
+    "name": "Barrages des Arcanes (rang1)",
+    "icon": "spell_nature_starfall",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:0 Column:3 Rank:1. Use icon icon_7003.jpg"
+    "description": "Confert 50% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70032": {
-    "name": "Specialisation:70 Row:0 Column:3 Rank:2",
+    "name": "Barrages des Arcanes (rang2)",
     "icon": "icon_7003",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:0 Column:3 Rank:2. Use icon icon_7003.jpg"
+    "description": "Confert 100% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70033": {
     "name": "Specialisation:70 Row:0 Column:3 Rank:3",
@@ -13080,22 +13080,22 @@
     "description": "Description for Specialisation:70 Row:0 Column:3 Rank:5. Use icon icon_7003.jpg"
   },
   "70101": {
-    "name": "Specialisation:70 Row:1 Column:0 Rank:1",
-    "icon": "icon_7010",
+    "name": "Spécialisation Baguette (rang1)",
+    "icon": "inv_wand_01",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:1 Column:0 Rank:1. Use icon icon_7010.jpg"
+    "description": "Augmente les dégats du Mage lorsqu'il utilise une Baguette de 10%, diminue la menace généré avec du même montant et augmente la portée avec de 2yards"
   },
   "70102": {
-    "name": "Specialisation:70 Row:1 Column:0 Rank:2",
+    "name": "Spécialisation Baguette (rang2)",
     "icon": "icon_7010",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:1 Column:0 Rank:2. Use icon icon_7010.jpg"
+    "description": "Augmente les dégats du Mage lorsqu'il utilise une Baguette de 20%, diminue la menace généré avec du même montant et augmente la portée avec de 4yards"
   },
   "70103": {
-    "name": "Specialisation:70 Row:1 Column:0 Rank:3",
+    "name": "Spécialisation Baguette (rang3)",
     "icon": "icon_7010",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:1 Column:0 Rank:3. Use icon icon_7010.jpg"
+    "description": "Augmente les dégats du Mage lorsqu'il utilise une Baguette de 30%, diminue la menace généré avec du même montant et augmente la portée avec de 6yards"
   },
   "70104": {
     "name": "Specialisation:70 Row:1 Column:0 Rank:4",
@@ -13110,16 +13110,16 @@
     "description": "Description for Specialisation:70 Row:1 Column:0 Rank:5. Use icon icon_7010.jpg"
   },
   "70111": {
-    "name": "Specialisation:70 Row:1 Column:1 Rank:1",
-    "icon": "icon_7011",
+    "name": "Bouclier de Mana Amélioré (rang1)",
+    "icon": "spell_shadow_lesserdetectinvisibility",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:1 Column:1 Rank:1. Use icon icon_7011.jpg"
+    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 10%, de plus 10% du coût en mana de la technique est rendu lorsqu'une amélioration sur le Mage est dissipé"
   },
   "70112": {
-    "name": "Specialisation:70 Row:1 Column:1 Rank:2",
+    "name": "Bouclier de Mana Amélioré (rang2)",
     "icon": "icon_7011",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:1 Column:1 Rank:2. Use icon icon_7011.jpg"
+    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 20%, de plus 20% du coût en mana de la technique est rendu lorsqu'une amélioration sur le Mage est dissipé"
   },
   "70113": {
     "name": "Specialisation:70 Row:1 Column:1 Rank:3",
@@ -13140,22 +13140,22 @@
     "description": "Description for Specialisation:70 Row:1 Column:1 Rank:5. Use icon icon_7011.jpg"
   },
   "70121": {
-    "name": "Specialisation:70 Row:1 Column:2 Rank:1",
-    "icon": "icon_7012",
+    "name": "Absorption (rang1)",
+    "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:1 Column:2 Rank:1. Use icon icon_7012.jpg"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 5pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70122": {
-    "name": "Specialisation:70 Row:1 Column:2 Rank:2",
+    "name": "Absorption (rang2)",
     "icon": "icon_7012",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:1 Column:2 Rank:2. Use icon icon_7012.jpg"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70123": {
-    "name": "Specialisation:70 Row:1 Column:2 Rank:3",
+    "name": "Absorption (rang3)",
     "icon": "icon_7012",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:1 Column:2 Rank:3. Use icon icon_7012.jpg"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 15pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70124": {
     "name": "Specialisation:70 Row:1 Column:2 Rank:4",
@@ -13170,16 +13170,16 @@
     "description": "Description for Specialisation:70 Row:1 Column:2 Rank:5. Use icon icon_7012.jpg"
   },
   "70131": {
-    "name": "Specialisation:70 Row:1 Column:3 Rank:1",
-    "icon": "icon_7013",
+    "name": "Transfert Amélioré (rang1)",
+    "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:1 Column:3 Rank:1. Use icon icon_7013.jpg"
+    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 50% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 15%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 1sec"
   },
   "70132": {
-    "name": "Specialisation:70 Row:1 Column:3 Rank:2",
+    "name": "Transfert Amélioré (rang2)",
     "icon": "icon_7013",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:1 Column:3 Rank:2. Use icon icon_7013.jpg"
+    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 100% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 30%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 2sec"
   },
   "70133": {
     "name": "Specialisation:70 Row:1 Column:3 Rank:3",
@@ -13200,22 +13200,22 @@
     "description": "Description for Specialisation:70 Row:1 Column:3 Rank:5. Use icon icon_7013.jpg"
   },
   "70201": {
-    "name": "Specialisation:70 Row:2 Column:0 Rank:1",
-    "icon": "icon_7020",
+    "name": "Subtilitées des Arcanes (rang1)",
+    "icon": "spell_holy_dispellmagic",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:2 Column:0 Rank:1. Use icon icon_7020.jpg"
+    "description": "Diminue la menace généré par le Mage de 15% et lui donne 5pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 1sec"
   },
   "70202": {
-    "name": "Specialisation:70 Row:2 Column:0 Rank:2",
+    "name": "Subtilitées des Arcanes (rang2)",
     "icon": "icon_7020",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:2 Column:0 Rank:2. Use icon icon_7020.jpg"
+    "description": "Diminue la menace généré par le Mage de 30% et lui donne 10pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 2sec"
   },
   "70203": {
-    "name": "Specialisation:70 Row:2 Column:0 Rank:3",
+    "name": "Subtilitées des Arcanes (rang3)",
     "icon": "icon_7020",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:2 Column:0 Rank:3. Use icon icon_7020.jpg"
+    "description": "Diminue la menace généré par le Mage de 45% et lui donne 15pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 3sec"
   },
   "70204": {
     "name": "Specialisation:70 Row:2 Column:0 Rank:4",
@@ -13230,10 +13230,10 @@
     "description": "Description for Specialisation:70 Row:2 Column:0 Rank:5. Use icon icon_7020.jpg"
   },
   "70211": {
-    "name": "Specialisation:70 Row:2 Column:1 Rank:1",
-    "icon": "icon_7021",
+    "name": "Gardien d'Arcanes",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:2 Column:1 Rank:1. Use icon icon_7021.jpg"
+    "description": "Technique a activer, instantanée, coûte 160pts de mana, 30sec de temps de rechargement, Pose sur le Mage une amélioration de 30sec qui absorbe 875pts de dégats d'Arcanes"
   },
   "70212": {
     "name": "Specialisation:70 Row:2 Column:1 Rank:2",
@@ -13260,10 +13260,10 @@
     "description": "Description for Specialisation:70 Row:2 Column:1 Rank:5. Use icon icon_7021.jpg"
   },
   "70221": {
-    "name": "Specialisation:70 Row:2 Column:2 Rank:1",
-    "icon": "icon_7022",
+    "name": "Concentration des Arcanes",
+    "icon": "spell_shadow_manaburn",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:2 Column:2 Rank:1. Use icon icon_7022.jpg"
+    "description": "Lorsque le Mage obtient un effet critique, il gagne une amélioration de 12sec qui diminue le coût en mana de sa prochaine technique de 100%"
   },
   "70222": {
     "name": "Specialisation:70 Row:2 Column:2 Rank:2",
@@ -13290,16 +13290,16 @@
     "description": "Description for Specialisation:70 Row:2 Column:2 Rank:5. Use icon icon_7022.jpg"
   },
   "70231": {
-    "name": "Specialisation:70 Row:2 Column:3 Rank:1",
-    "icon": "icon_7023",
+    "name": "Harmonisation avec la Magie (rang1)",
+    "icon": "spell_magic_abolishmagic",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:2 Column:3 Rank:1. Use icon icon_7023.jpg"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10%"
   },
   "70232": {
-    "name": "Specialisation:70 Row:2 Column:3 Rank:2",
+    "name": "Harmonisation avec la Magie (rang2)",
     "icon": "icon_7023",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:2 Column:3 Rank:2. Use icon icon_7023.jpg"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20%"
   },
   "70233": {
     "name": "Specialisation:70 Row:2 Column:3 Rank:3",
@@ -13320,22 +13320,22 @@
     "description": "Description for Specialisation:70 Row:2 Column:3 Rank:5. Use icon icon_7023.jpg"
   },
   "70301": {
-    "name": "Specialisation:70 Row:3 Column:0 Rank:1",
-    "icon": "icon_7030",
+    "name": "Evocation Améliorée (rang1)",
+    "icon": "spell_nature_purge",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:3 Column:0 Rank:1. Use icon icon_7030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Evocation de 1min et permet a la technique de régénéré également 20% de la Vie du Mage durant la canalisation"
   },
   "70302": {
-    "name": "Specialisation:70 Row:3 Column:0 Rank:2",
+    "name": "Evocation Améliorée (rang2)",
     "icon": "icon_7030",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:3 Column:0 Rank:2. Use icon icon_7030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Evocation de 2min et permet a la technique de régénéré également 40% de la Vie du Mage durant la canalisation"
   },
   "70303": {
-    "name": "Specialisation:70 Row:3 Column:0 Rank:3",
+    "name": "Evocation Améliorée (rang3)",
     "icon": "icon_7030",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:3 Column:0 Rank:3. Use icon icon_7030.jpg"
+    "description": "Diminue le temps de rechargement de la technique Evocation de 3min et permet a la technique de régénéré également 60% de la Vie du Mage durant la canalisation"
   },
   "70304": {
     "name": "Specialisation:70 Row:3 Column:0 Rank:4",
@@ -13350,16 +13350,16 @@
     "description": "Description for Specialisation:70 Row:3 Column:0 Rank:5. Use icon icon_7030.jpg"
   },
   "70311": {
-    "name": "Specialisation:70 Row:3 Column:1 Rank:1",
-    "icon": "icon_7031",
+    "name": "Affinitée avec les Arcanes (rang1)",
+    "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:3 Column:1 Rank:1. Use icon icon_7031.jpg"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25%"
   },
   "70312": {
-    "name": "Specialisation:70 Row:3 Column:1 Rank:2",
+    "name": "Affinitée avec les Arcanes (rang2)",
     "icon": "icon_7031",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:3 Column:1 Rank:2. Use icon icon_7031.jpg"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50%"
   },
   "70313": {
     "name": "Specialisation:70 Row:3 Column:1 Rank:3",
@@ -13380,22 +13380,22 @@
     "description": "Description for Specialisation:70 Row:3 Column:1 Rank:5. Use icon icon_7031.jpg"
   },
   "70321": {
-    "name": "Specialisation:70 Row:3 Column:2 Rank:1",
-    "icon": "icon_7032",
+    "name": "Méditation des Arcanes (rang1)",
+    "icon": "spell_shadow_siphonmana",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:3 Column:2 Rank:1. Use icon icon_7032.jpg"
+    "description": "Permet a 5% de la régénération de l'Esprit du Mage d'être toujours active"
   },
   "70322": {
-    "name": "Specialisation:70 Row:3 Column:2 Rank:2",
+    "name": "Méditation des Arcanes (rang2)",
     "icon": "icon_7032",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:3 Column:2 Rank:2. Use icon icon_7032.jpg"
+    "description": "Permet a 10% de la régénération de l'Esprit du Mage d'être toujours active"
   },
   "70323": {
-    "name": "Specialisation:70 Row:3 Column:2 Rank:3",
+    "name": "Méditation des Arcanes (rang3)",
     "icon": "icon_7032",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:3 Column:2 Rank:3. Use icon icon_7032.jpg"
+    "description": "Permet a 15% de la régénération de l'Esprit du Mage d'être toujours active"
   },
   "70324": {
     "name": "Specialisation:70 Row:3 Column:2 Rank:4",
@@ -13410,16 +13410,16 @@
     "description": "Description for Specialisation:70 Row:3 Column:2 Rank:5. Use icon icon_7032.jpg"
   },
   "70331": {
-    "name": "Specialisation:70 Row:3 Column:3 Rank:1",
-    "icon": "icon_7033",
+    "name": "Contresort Amélioré (rang1)",
+    "icon": "spell_frost_iceshock",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:3 Column:3 Rank:1. Use icon icon_7033.jpg"
+    "description": "Permet a la technique Contresort du Mage qu'en plus de ses effets, de Silence également la cible durant 2sec"
   },
   "70332": {
-    "name": "Specialisation:70 Row:3 Column:3 Rank:2",
+    "name": "Contresort Amélioré (rang2)",
     "icon": "icon_7033",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:3 Column:3 Rank:2. Use icon icon_7033.jpg"
+    "description": "Permet a la technique Contresort du Mage qu'en plus de ses effets, de Silence également la cible durant 4sec"
   },
   "70333": {
     "name": "Specialisation:70 Row:3 Column:3 Rank:3",
@@ -13440,22 +13440,22 @@
     "description": "Description for Specialisation:70 Row:3 Column:3 Rank:5. Use icon icon_7033.jpg"
   },
   "70401": {
-    "name": "Specialisation:70 Row:4 Column:0 Rank:1",
-    "icon": "icon_7040",
+    "name": "Instabilitée des Arcanes (rang1)",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:4 Column:0 Rank:1. Use icon icon_7040.jpg"
+    "description": "Augmente les dégats et chances de critiques du Mage de 2% et augmente la portée des sorts d'Arcane de 2yards, jusqu'a un maximum de 40yards"
   },
   "70402": {
-    "name": "Specialisation:70 Row:4 Column:0 Rank:2",
+    "name": "Instabilitée des Arcanes (rang2)",
     "icon": "icon_7040",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:4 Column:0 Rank:2. Use icon icon_7040.jpg"
+    "description": "Augmente les dégats et chances de critiques du Mage de 4% et augmente la portée des sorts d'Arcane de 4yards, jusqu'a un maximum de 40yards"
   },
   "70403": {
-    "name": "Specialisation:70 Row:4 Column:0 Rank:3",
+    "name": "Instabilitée des Arcanes (rang3)",
     "icon": "icon_7040",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:4 Column:0 Rank:3. Use icon icon_7040.jpg"
+    "description": "Augmente les dégats et chances de critiques du Mage de 6% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards"
   },
   "70404": {
     "name": "Specialisation:70 Row:4 Column:0 Rank:4",
@@ -13470,10 +13470,10 @@
     "description": "Description for Specialisation:70 Row:4 Column:0 Rank:5. Use icon icon_7040.jpg"
   },
   "70411": {
-    "name": "Specialisation:70 Row:4 Column:1 Rank:1",
-    "icon": "icon_7041",
+    "name": "Présence Spirituelle",
+    "icon": "spell_nature_enchantarmor",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:4 Column:1 Rank:1. Use icon icon_7041.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, 3min de temps de rechargement, Pose une amélioration sur le Mage qui diminue le temps d'incantation sa prochaine technique ayant un temps d'incantation inférieur a 10sec de 100%"
   },
   "70412": {
     "name": "Specialisation:70 Row:4 Column:1 Rank:2",
@@ -13500,10 +13500,10 @@
     "description": "Description for Specialisation:70 Row:4 Column:1 Rank:5. Use icon icon_7041.jpg"
   },
   "70421": {
-    "name": "Specialisation:70 Row:4 Column:2 Rank:1",
-    "icon": "icon_7042",
+    "name": "Puissance des Arcanes",
+    "icon": "spell_nature_lightning",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:4 Column:2 Rank:1. Use icon icon_7042.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Pose une amélioration de 15sec sur le Mage qui augmente les dégats qu'il inflige de 30% mais augmente le coût en mana des techniques de 30% également"
   },
   "70422": {
     "name": "Specialisation:70 Row:4 Column:2 Rank:2",
@@ -13530,16 +13530,16 @@
     "description": "Description for Specialisation:70 Row:4 Column:2 Rank:5. Use icon icon_7042.jpg"
   },
   "70431": {
-    "name": "Specialisation:70 Row:4 Column:3 Rank:1",
-    "icon": "icon_7043",
+    "name": "Résillience des Arcanes (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:4 Column:3 Rank:1. Use icon icon_7043.jpg"
+    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
   },
   "70432": {
-    "name": "Specialisation:70 Row:4 Column:3 Rank:2",
+    "name": "Résilience des Arcanes (rang2)",
     "icon": "icon_7043",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:4 Column:3 Rank:2. Use icon icon_7043.jpg"
+    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 60pts"
   },
   "70433": {
     "name": "Specialisation:70 Row:4 Column:3 Rank:3",
@@ -13560,16 +13560,16 @@
     "description": "Description for Specialisation:70 Row:4 Column:3 Rank:5. Use icon icon_7043.jpg"
   },
   "70511": {
-    "name": "Specialisation:70 Row:5 Column:1 Rank:1",
-    "icon": "icon_7051",
+    "name": "Concentration Amélioré (rang1)",
+    "icon": "spell_nature_wispheal",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:5 Column:1 Rank:1. Use icon icon_7051.jpg"
+    "description": "Diminue la durée des effets de Silence sur le Mage de 15% et diminue les dégats subit durant ses effets de 10%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 10%"
   },
   "70512": {
-    "name": "Specialisation:70 Row:5 Column:1 Rank:2",
+    "name": "Concentration Amélioré (rang2)",
     "icon": "icon_7051",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:5 Column:1 Rank:2. Use icon icon_7051.jpg"
+    "description": "Diminue la durée des effets de Silence sur le Mage de 30% et diminue les dégats subit durant ses effets de 20%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 20%"
   },
   "70513": {
     "name": "Specialisation:70 Row:5 Column:1 Rank:3",
@@ -13590,22 +13590,22 @@
     "description": "Description for Specialisation:70 Row:5 Column:1 Rank:5. Use icon icon_7051.jpg"
   },
   "70521": {
-    "name": "Specialisation:70 Row:5 Column:2 Rank:1",
+    "name": "Flux Arcaniques (rang1)",
     "icon": "icon_7052",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:5 Column:2 Rank:1. Use icon icon_7052.jpg"
+    "description": "Convertit 5% de l'Intelligence et de l'Esprit du Mage en Bonus Sort"
   },
   "70522": {
-    "name": "Specialisation:70 Row:5 Column:2 Rank:2",
+    "name": "Flux Arcaniques (rang2)",
     "icon": "icon_7052",
     "rank": 2,
-    "description": "Description for Specialisation:70 Row:5 Column:2 Rank:2. Use icon icon_7052.jpg"
+    "description": "Convertit 10% de l'Intelligence et de l'Esprit du Mage en Bonus Sort"
   },
   "70523": {
-    "name": "Specialisation:70 Row:5 Column:2 Rank:3",
+    "name": "Flux Arcaniques (rang3)",
     "icon": "icon_7052",
     "rank": 3,
-    "description": "Description for Specialisation:70 Row:5 Column:2 Rank:3. Use icon icon_7052.jpg"
+    "description": "Convertit 15% de l'Intelligence et de l'Esprit du Mage en Bonus Sort"
   },
   "70524": {
     "name": "Specialisation:70 Row:5 Column:2 Rank:4",
@@ -13620,10 +13620,10 @@
     "description": "Description for Specialisation:70 Row:5 Column:2 Rank:5. Use icon icon_7052.jpg"
   },
   "70611": {
-    "name": "Specialisation:70 Row:6 Column:1 Rank:1",
-    "icon": "icon_7061",
+    "name": "Déflagration des Arcanes",
+    "icon": "spell_lightning_lightningbolt01",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:6 Column:1 Rank:1. Use icon icon_7061.jpg"
+    "description": "Technique a activer, instantanée, 2,5sec de temps d'incantation, 770pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 842pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
   },
   "70612": {
     "name": "Specialisation:70 Row:6 Column:1 Rank:2",
@@ -13650,10 +13650,10 @@
     "description": "Description for Specialisation:70 Row:6 Column:1 Rank:5. Use icon icon_7061.jpg"
   },
   "70621": {
-    "name": "Specialisation:70 Row:6 Column:2 Rank:1",
+    "name": "Lenteur",
     "icon": "icon_7062",
     "rank": 1,
-    "description": "Description for Specialisation:70 Row:6 Column:2 Rank:1. Use icon icon_7062.jpg"
+    "description": "Technique a activer, instantanée, dure 10sec, 320pts de mana, 30yards de portée, Diminue la vitesse de déplacement de la cible, sa vitesse d'attaque en mélée et a distance, ainsi que sa vitesse d'incantation de 30% et si c'est possible, vol sur la cible une amélioration pour la donner au Mage"
   },
   "70622": {
     "name": "Specialisation:70 Row:6 Column:2 Rank:2",
