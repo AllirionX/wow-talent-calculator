@@ -13053,13 +13053,13 @@
     "name": "Harmonisation de la Magie (rang1)",
     "icon": "spell_nature_abolishmagic",
     "rank": 1,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10% et diminue les Résistance Magiques des cibles du Mage de 10pts"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25%, augmente l'effet de la technique Affectation de la Magie de 1%, augmente l'effet de la technique Intelligence des Arcanes de 10%, et augmente la durée de toutes ces techniques de 50%, enfin diminue les Résistance Magiques des cibles du Mage de 10pts"
   },
   "70032": {
     "name": "Harmonisation de la Magie (rang2)",
     "icon": "icon_7003",
     "rank": 2,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20% et diminue les Résistance Magiques des cibles du Mage de 20pts"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50%, augmente l'effet de la technique Affectation de la Magie de 2%, augmente l'effet de la technique d'Intelligence des Arcanes de 20%, et augmente la durée de toutes ces techniques de 100%, enfin diminue les Résistance Magiques des cibles du Mage de 20pts"
   },
   "70033": {
     "name": "Specialisation:70 Row:0 Column:3 Rank:3",
@@ -14403,19 +14403,19 @@
     "name": "Gel Prolongé (rang1)",
     "icon": "spell_frost_wisp",
     "rank": 1,
-    "description": "Augmente la durée des effets de Gel du Mage de 1sec et diminue la vitesse de déplacement de la cible du Mage de 4%"
+    "description": "Augmente la durée des effets de Gel du Mage de 1sec et diminue la vitesse de déplacement de la cible du Mage de 4% et augmente la durée des techniques Bloc de Glace, Veine Glaciale et Barrière de Glace de 10%"
   },
   "72002": {
     "name": "Gel Prolongé (rang2)",
     "icon": "icon_7200",
     "rank": 2,
-    "description": "Augmente la durée des effets de Gel du Mage de 2sec et diminue la vitesse de déplacement de la cible du Mage de 7%"
+    "description": "Augmente la durée des effets de Gel du Mage de 2sec et diminue la vitesse de déplacement de la cible du Mage de 7% et augmente la durée des techniques Bloc de Glace, Veine Glaciale et Barrière de Glace de 20%"
   },
   "72003": {
     "name": "Gel Prolongé (rang3)",
     "icon": "icon_7200",
     "rank": 3,
-    "description": "Augmente la durée des effets de Gel du Mage de 3sec et diminue la vitesse de déplacement de la cible du Mage de 10%"
+    "description": "Augmente la durée des effets de Gel du Mage de 3sec et diminue la vitesse de déplacement de la cible du Mage de 10% et augmente la durée des techniques Bloc de Glace, Veine Glaciale et Barrière de Glace de 30%"
   },
   "72004": {
     "name": "Specialisation:72 Row:0 Column:0 Rank:4",
