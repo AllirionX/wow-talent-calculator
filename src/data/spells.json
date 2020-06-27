@@ -13053,13 +13053,13 @@
     "name": "Harmonisation de la Magie (rang1)",
     "icon": "spell_nature_abolishmagic",
     "rank": 1,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10%"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10% et diminue les Résistance Magiques des cibles du Mage de 10pts"
   },
   "70032": {
     "name": "Harmonisation de la Magie (rang2)",
     "icon": "icon_7003",
     "rank": 2,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20%"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20% et diminue les Résistance Magiques des cibles du Mage de 20pts"
   },
   "70033": {
     "name": "Specialisation:70 Row:0 Column:3 Rank:3",
@@ -13353,13 +13353,13 @@
     "name": "Affinitée avec les Arcanes (rang1)",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente le nombre de charge des techniques de Gemme de Mana de 1"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente la portée des sorts d'Arcane de 3yards, jusqu'a un maximum de 40yards et augmente le nombre de charge des techniques de Gemme de Mana de 1"
   },
   "70312": {
     "name": "Affinitée avec les Arcanes (rang2)",
     "icon": "icon_7031",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente le nombre de charge des techniques de Gemme de Mana de 2"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards et augmente le nombre de charge des techniques de Gemme de Mana de 2"
   },
   "70313": {
     "name": "Specialisation:70 Row:3 Column:1 Rank:3",
@@ -13443,19 +13443,19 @@
     "name": "Instabilitée des Arcanes (rang1)",
     "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Augmente les dégats et chances de critiques du Mage de 2% et augmente la portée des sorts d'Arcane de 2yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente les dégats et chances de critiques du Mage de 2%"
   },
   "70402": {
     "name": "Instabilitée des Arcanes (rang2)",
     "icon": "icon_7040",
     "rank": 2,
-    "description": "Augmente les dégats et chances de critiques du Mage de 4% et augmente la portée des sorts d'Arcane de 4yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente les dégats et chances de critiques du Mage de 4%"
   },
   "70403": {
     "name": "Instabilitée des Arcanes (rang3)",
     "icon": "icon_7040",
     "rank": 3,
-    "description": "Augmente les dégats et chances de critiques du Mage de 6% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente les dégats et chances de critiques du Mage de 6%"
   },
   "70404": {
     "name": "Specialisation:70 Row:4 Column:0 Rank:4",
@@ -13623,7 +13623,7 @@
     "name": "Déflagration des Arcanes",
     "icon": "spell_lightning_lightningbolt01",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 2,5sec de temps d'incantation, 770pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 842pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
+    "description": "Technique a activer, 2,5sec de temps d'incantation, 770pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 842pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
   },
   "70612": {
     "name": "Specialisation:70 Row:6 Column:1 Rank:2",
@@ -13680,22 +13680,22 @@
     "description": "Description for Specialisation:70 Row:6 Column:2 Rank:5. Use icon icon_7062.jpg"
   },
   "71001": {
-    "name": "Specialisation:71 Row:0 Column:0 Rank:1",
-    "icon": "icon_7100",
+    "name": "Trait de Feu Amélioré (rang1)",
+    "icon": "spell_fire_fireball",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:0 Column:0 Rank:1. Use icon icon_7100.jpg"
+    "description": "Diminue le temps de rechargement de la technique Trait de Feu du Mage de 0,5sec"
   },
   "71002": {
-    "name": "Specialisation:71 Row:0 Column:0 Rank:2",
+    "name": "Trait de Feu Amélioré (rang2)",
     "icon": "icon_7100",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:0 Column:0 Rank:2. Use icon icon_7100.jpg"
+    "description": "Diminue le temps de rechargement de la technique Trait de Feu du Mage de 1sec"
   },
   "71003": {
-    "name": "Specialisation:71 Row:0 Column:0 Rank:3",
+    "name": "Trait de Feu Amélioré (rang3)",
     "icon": "icon_7100",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:0 Column:0 Rank:3. Use icon icon_7100.jpg"
+    "description": "Diminue le temps de rechargement de la technique Trait de Feu du Mage de 1,5sec"
   },
   "71004": {
     "name": "Specialisation:71 Row:0 Column:0 Rank:4",
@@ -13710,16 +13710,16 @@
     "description": "Description for Specialisation:71 Row:0 Column:0 Rank:5. Use icon icon_7100.jpg"
   },
   "71011": {
-    "name": "Specialisation:71 Row:0 Column:1 Rank:1",
-    "icon": "icon_7101",
+    "name": "Boule de Feu Améliorée (rang1)",
+    "icon": "spell_fire_flamebolt",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:0 Column:1 Rank:1. Use icon icon_7101.jpg"
+    "description": "Diminue le temps d'incantation de la technique Boule de Feu du Mage de 0,25sec"
   },
   "71012": {
-    "name": "Specialisation:71 Row:0 Column:1 Rank:2",
+    "name": "Boule de Feu Améliorée (rang2)",
     "icon": "icon_7101",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:0 Column:1 Rank:2. Use icon icon_7101.jpg"
+    "description": "Diminue le temps d'incantation de la technique Boule de Feu du Mage de 0,5sec"
   },
   "71013": {
     "name": "Specialisation:71 Row:0 Column:1 Rank:3",
@@ -13740,22 +13740,22 @@
     "description": "Description for Specialisation:71 Row:0 Column:1 Rank:5. Use icon icon_7101.jpg"
   },
   "71021": {
-    "name": "Specialisation:71 Row:0 Column:2 Rank:1",
-    "icon": "icon_7102",
+    "name": "Précision Ardente (rang1)",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:0 Column:2 Rank:1. Use icon icon_7102.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 2%"
   },
   "71022": {
-    "name": "Specialisation:71 Row:0 Column:2 Rank:2",
+    "name": "Précision Ardente (rang2)",
     "icon": "icon_7102",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:0 Column:2 Rank:2. Use icon icon_7102.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 4%"
   },
   "71023": {
-    "name": "Specialisation:71 Row:0 Column:2 Rank:3",
+    "name": "Précision Ardente (rang3)",
     "icon": "icon_7102",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:0 Column:2 Rank:3. Use icon icon_7102.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 6%"
   },
   "71024": {
     "name": "Specialisation:71 Row:0 Column:2 Rank:4",
@@ -13770,16 +13770,16 @@
     "description": "Description for Specialisation:71 Row:0 Column:2 Rank:5. Use icon icon_7102.jpg"
   },
   "71031": {
-    "name": "Specialisation:71 Row:0 Column:3 Rank:1",
-    "icon": "icon_7103",
+    "name": "Jet de Flammes (rang1)",
+    "icon": "spell_fire_flare",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:0 Column:3 Rank:1. Use icon icon_7103.jpg"
+    "description": "Augmente la portée des sorts de Feu de 3yards"
   },
   "71032": {
-    "name": "Specialisation:71 Row:0 Column:3 Rank:2",
+    "name": "Jet de Flammes (rang2)",
     "icon": "icon_7103",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:0 Column:3 Rank:2. Use icon icon_7103.jpg"
+    "description": "Augmente la portée des sorts de Feu de 6yards"
   },
   "71033": {
     "name": "Specialisation:71 Row:0 Column:3 Rank:3",
@@ -13800,22 +13800,22 @@
     "description": "Description for Specialisation:71 Row:0 Column:3 Rank:5. Use icon icon_7103.jpg"
   },
   "71101": {
-    "name": "Specialisation:71 Row:1 Column:0 Rank:1",
-    "icon": "icon_7110",
+    "name": "Choc de Flammes Amélioré (rang1)",
+    "icon": "spell_fire_selfdestruct",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:1 Column:0 Rank:1. Use icon icon_7110.jpg"
+    "description": "Augmente les chances de critiques du Mage avec la technique Choc de Flammes de 5%"
   },
   "71102": {
-    "name": "Specialisation:71 Row:1 Column:0 Rank:2",
+    "name": "Choc de Flammes Amélioré (rang2)",
     "icon": "icon_7110",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:1 Column:0 Rank:2. Use icon icon_7110.jpg"
+    "description": "Augmente les chances de critiques du Mage avec la technique Choc de Flammes de 10%"
   },
   "71103": {
-    "name": "Specialisation:71 Row:1 Column:0 Rank:3",
+    "name": "Choc de Flammes Amélioré (rang3)",
     "icon": "icon_7110",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:1 Column:0 Rank:3. Use icon icon_7110.jpg"
+    "description": "Augmente les chances de critiques du Mage avec la technique Choc de Flammes de 15%"
   },
   "71104": {
     "name": "Specialisation:71 Row:1 Column:0 Rank:4",
@@ -13830,16 +13830,16 @@
     "description": "Description for Specialisation:71 Row:1 Column:0 Rank:5. Use icon icon_7110.jpg"
   },
   "71111": {
-    "name": "Specialisation:71 Row:1 Column:1 Rank:1",
-    "icon": "icon_7111",
+    "name": "Puissance du Feu (rang1)",
+    "icon": "spell_fire_immolation",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:1 Column:1 Rank:1. Use icon icon_7111.jpg"
+    "description": "Augmente les dégats infligés par les sorts du Mage de 5%"
   },
   "71112": {
-    "name": "Specialisation:71 Row:1 Column:1 Rank:2",
+    "name": "Puissance du Feu (rang2)",
     "icon": "icon_7111",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:1 Column:1 Rank:2. Use icon icon_7111.jpg"
+    "description": "Augmente les dégats infligés par les sorts du Mage de 10%"
   },
   "71113": {
     "name": "Specialisation:71 Row:1 Column:1 Rank:3",
@@ -13860,22 +13860,22 @@
     "description": "Description for Specialisation:71 Row:1 Column:1 Rank:5. Use icon icon_7111.jpg"
   },
   "71121": {
-    "name": "Specialisation:71 Row:1 Column:2 Rank:1",
-    "icon": "icon_7112",
+    "name": "Masse Critique (rang1)",
+    "icon": "spell_nature_wispheal",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:1 Column:2 Rank:1. Use icon icon_7112.jpg"
+    "description": "Augmente les chances de critique du Mage de 2%"
   },
   "71122": {
-    "name": "Specialisation:71 Row:1 Column:2 Rank:2",
+    "name": "Masse Critique (rang2)",
     "icon": "icon_7112",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:1 Column:2 Rank:2. Use icon icon_7112.jpg"
+    "description": "Augmente les chances de critique du Mage de 4%"
   },
   "71123": {
-    "name": "Specialisation:71 Row:1 Column:2 Rank:3",
+    "name": "Masse Critique (rang3)",
     "icon": "icon_7112",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:1 Column:2 Rank:3. Use icon icon_7112.jpg"
+    "description": "Augmente les chances de critique du Mage de 6%"
   },
   "71124": {
     "name": "Specialisation:71 Row:1 Column:2 Rank:4",
@@ -13890,16 +13890,16 @@
     "description": "Description for Specialisation:71 Row:1 Column:2 Rank:5. Use icon icon_7112.jpg"
   },
   "71131": {
-    "name": "Specialisation:71 Row:1 Column:3 Rank:1",
-    "icon": "icon_7113",
+    "name": "Incinérer (rang1)",
+    "icon": "spell_fire_flameshock",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:1 Column:3 Rank:1. Use icon icon_7113.jpg"
+    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Déflagration des Arcanes et Cône de Froid de 3%"
   },
   "71132": {
-    "name": "Specialisation:71 Row:1 Column:3 Rank:2",
+    "name": "Incinérer (rang2)",
     "icon": "icon_7113",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:1 Column:3 Rank:2. Use icon icon_7113.jpg"
+    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Déflagration des Arcanes et Cône de Froid de 6%"
   },
   "71133": {
     "name": "Specialisation:71 Row:1 Column:3 Rank:3",
@@ -13920,22 +13920,22 @@
     "description": "Description for Specialisation:71 Row:1 Column:3 Rank:5. Use icon icon_7113.jpg"
   },
   "71201": {
-    "name": "Specialisation:71 Row:2 Column:0 Rank:1",
-    "icon": "icon_7120",
+    "name": "Nuage de Fumée (rang1)",
+    "icon": "ability_stealth",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:2 Column:0 Rank:1. Use icon icon_7120.jpg"
+    "description": "Diminue la Menace généré par le Mage de 10% et lui donne 5pts de mp5"
   },
   "71202": {
-    "name": "Specialisation:71 Row:2 Column:0 Rank:2",
+    "name": "Nuage de Fumée (rang2)",
     "icon": "icon_7120",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:2 Column:0 Rank:2. Use icon icon_7120.jpg"
+    "description": "Diminue la Menace généré par le Mage de 20% et lui donne 10pts de mp5"
   },
   "71203": {
-    "name": "Specialisation:71 Row:2 Column:0 Rank:3",
+    "name": "Nuage de Fumée (rang3)",
     "icon": "icon_7120",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:2 Column:0 Rank:3. Use icon icon_7120.jpg"
+    "description": "Diminue la Menace généré par le Mage de 30% et lui donne 15pts de mp5"
   },
   "71204": {
     "name": "Specialisation:71 Row:2 Column:0 Rank:4",
@@ -13950,10 +13950,10 @@
     "description": "Description for Specialisation:71 Row:2 Column:0 Rank:5. Use icon icon_7120.jpg"
   },
   "71211": {
-    "name": "Specialisation:71 Row:2 Column:1 Rank:1",
-    "icon": "icon_7121",
+    "name": "Armure de la Fournaire",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:2 Column:1 Rank:1. Use icon icon_7121.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, Pose une amélioration sur le Mage impurgeable de 30min, qui augmente ses chances de critiques de 5% et réduit les chances de subir un critique de 5% et renvoi 75pts de dégat de feu lorsqu'il subit une attaque en mélée ou a distance, le Mage ne peut être sous l'effet que d'une seule technique d'Armure a la fois"
   },
   "71212": {
     "name": "Specialisation:71 Row:2 Column:1 Rank:2",
@@ -13980,10 +13980,10 @@
     "description": "Description for Specialisation:71 Row:2 Column:1 Rank:5. Use icon icon_7121.jpg"
   },
   "71221": {
-    "name": "Specialisation:71 Row:2 Column:2 Rank:1",
-    "icon": "icon_7122",
+    "name": "Explosion Pyrotechnique",
+    "icon": "spell_fire_fireball02",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:2 Column:2 Rank:1. Use icon icon_7122.jpg"
+    "description": "Technique a activer, 6sec de temps d'incantation, coûte 440pts de Mana, le Mage lance une boule de feu qui inflige 800pts de dégats de Feu et 268pts de dégats de feu supplémentaire ensuite en 12sec"
   },
   "71222": {
     "name": "Specialisation:71 Row:2 Column:2 Rank:2",
@@ -14010,16 +14010,16 @@
     "description": "Description for Specialisation:71 Row:2 Column:2 Rank:5. Use icon icon_7122.jpg"
   },
   "71231": {
-    "name": "Specialisation:71 Row:2 Column:3 Rank:1",
-    "icon": "icon_7123",
+    "name": "Âme Ardente (rang1)",
+    "icon": "spell_fire_fire",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:2 Column:3 Rank:1. Use icon icon_7123.jpg"
+    "description": "Donne au Mage 35% de chance d'anti interruption lorsqu'il incante un Sort de Feu"
   },
   "71232": {
-    "name": "Specialisation:71 Row:2 Column:3 Rank:2",
+    "name": "Âme Ardente (rang2)",
     "icon": "icon_7123",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:2 Column:3 Rank:2. Use icon icon_7123.jpg"
+    "description": "Donne au Mage 70% de chance d'anti interruption lorsqu'il incante un Sort de Feu"
   },
   "71233": {
     "name": "Specialisation:71 Row:2 Column:3 Rank:3",
@@ -14040,22 +14040,22 @@
     "description": "Description for Specialisation:71 Row:2 Column:3 Rank:5. Use icon icon_7123.jpg"
   },
   "71301": {
-    "name": "Specialisation:71 Row:3 Column:0 Rank:1",
-    "icon": "icon_7130",
+    "name": "Brûlure Améliorée (rang1)",
+    "icon": "spell_fire_soulburn",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:3 Column:0 Rank:1. Use icon icon_7130.jpg"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 1% stackable 5fois"
   },
   "71302": {
-    "name": "Specialisation:71 Row:3 Column:0 Rank:2",
+    "name": "Brûlure Améliorée (rang2)",
     "icon": "icon_7130",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:3 Column:0 Rank:2. Use icon icon_7130.jpg"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 2% stackable 5fois"
   },
   "71303": {
-    "name": "Specialisation:71 Row:3 Column:0 Rank:3",
+    "name": "Brûlure Améliorée (rang3)",
     "icon": "icon_7130",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:3 Column:0 Rank:3. Use icon icon_7130.jpg"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 3% stackable 5fois"
   },
   "71304": {
     "name": "Specialisation:71 Row:3 Column:0 Rank:4",
@@ -14070,16 +14070,16 @@
     "description": "Description for Specialisation:71 Row:3 Column:0 Rank:5. Use icon icon_7130.jpg"
   },
   "71311": {
-    "name": "Specialisation:71 Row:3 Column:1 Rank:1",
+    "name": "Gardien Agressif (rang1)",
     "icon": "icon_7131",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:3 Column:1 Rank:1. Use icon icon_7131.jpg"
+    "description": "Donne aux différentes techniques de Gardien 50% de chance de renvoyer la prochaine techniques qu'elles absorbent"
   },
   "71312": {
-    "name": "Specialisation:71 Row:3 Column:1 Rank:2",
+    "name": "Gardien Agressif (rang2)",
     "icon": "icon_7131",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:3 Column:1 Rank:2. Use icon icon_7131.jpg"
+    "description": "Donne aux différentes techniques de Gardien 100% de chance de renvoyer la prochaine techniques qu'elles absorbent"
   },
   "71313": {
     "name": "Specialisation:71 Row:3 Column:1 Rank:3",
@@ -14100,22 +14100,22 @@
     "description": "Description for Specialisation:71 Row:3 Column:1 Rank:5. Use icon icon_7131.jpg"
   },
   "71321": {
-    "name": "Specialisation:71 Row:3 Column:2 Rank:1",
-    "icon": "icon_7132",
+    "name": "Maîtrise des éléments (rang1)",
+    "icon": "spell_fire_masterofelements",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:3 Column:2 Rank:1. Use icon icon_7132.jpg"
+    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 10% de leur coût en mana au Mage"
   },
   "71322": {
-    "name": "Specialisation:71 Row:3 Column:2 Rank:2",
+    "name": "Maîtrise des éléments (rang2)",
     "icon": "icon_7132",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:3 Column:2 Rank:2. Use icon icon_7132.jpg"
+    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 20% de leur coût en mana au Mage"
   },
   "71323": {
-    "name": "Specialisation:71 Row:3 Column:2 Rank:3",
+    "name": "Maîtrise des éléments (rang3)",
     "icon": "icon_7132",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:3 Column:2 Rank:3. Use icon icon_7132.jpg"
+    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 30% de leur coût en mana au Mage"
   },
   "71324": {
     "name": "Specialisation:71 Row:3 Column:2 Rank:4",
@@ -14130,16 +14130,16 @@
     "description": "Description for Specialisation:71 Row:3 Column:2 Rank:5. Use icon icon_7132.jpg"
   },
   "71331": {
-    "name": "Specialisation:71 Row:3 Column:3 Rank:1",
+    "name": "Impact (rang1)",
     "icon": "icon_7133",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:3 Column:3 Rank:1. Use icon icon_7133.jpg"
+    "description": "En plus de leur effet, tous les Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 1sec"
   },
   "71332": {
-    "name": "Specialisation:71 Row:3 Column:3 Rank:2",
+    "name": "Impact (rang2)",
     "icon": "icon_7133",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:3 Column:3 Rank:2. Use icon icon_7133.jpg"
+    "description": "En plus de leur effet, tous les Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 2sec"
   },
   "71333": {
     "name": "Specialisation:71 Row:3 Column:3 Rank:3",
@@ -14160,22 +14160,22 @@
     "description": "Description for Specialisation:71 Row:3 Column:3 Rank:5. Use icon icon_7133.jpg"
   },
   "71401": {
-    "name": "Specialisation:71 Row:4 Column:0 Rank:1",
-    "icon": "icon_7140",
+    "name": "Brûler au Dernier Degré (rang1)",
+    "icon": "spell_shadow_deathpact",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:4 Column:0 Rank:1. Use icon icon_7140.jpg"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 5pts et augmente la Résistance Feu du Mage de 20pts"
   },
   "71402": {
-    "name": "Specialisation:71 Row:4 Column:0 Rank:2",
+    "name": "Brûler au Dernier Degré (rang2)",
     "icon": "icon_7140",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:4 Column:0 Rank:2. Use icon icon_7140.jpg"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 10pts et augmente la Résistance Feu du Mage de 40pts"
   },
   "71403": {
-    "name": "Specialisation:71 Row:4 Column:0 Rank:3",
+    "name": "Brûler au Dernier Degré (rang3)",
     "icon": "icon_7140",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:4 Column:0 Rank:3. Use icon icon_7140.jpg"
+    "description": "Diminue la Résistance Magique de la cible du Mage de 15pts et augmente la Résistance Feu du Mage de 60pts"
   },
   "71404": {
     "name": "Specialisation:71 Row:4 Column:0 Rank:4",
@@ -14190,10 +14190,10 @@
     "description": "Description for Specialisation:71 Row:4 Column:0 Rank:5. Use icon icon_7140.jpg"
   },
   "71411": {
-    "name": "Specialisation:71 Row:4 Column:1 Rank:1",
-    "icon": "icon_7141",
+    "name": "Combustion",
+    "icon": "spell_fire_sealoffire",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:4 Column:1 Rank:1. Use icon icon_7141.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Donne au Mage une amélioration qui augmente de 10% ses chances de critique avec chacune de ses techniques de feu suivantes, l'effet dure jusqu'a ce qu'il se stack 10fois ou jusqu'a ce que Mage est obtenu 3 critiques"
   },
   "71412": {
     "name": "Specialisation:71 Row:4 Column:1 Rank:2",
@@ -14220,10 +14220,10 @@
     "description": "Description for Specialisation:71 Row:4 Column:1 Rank:5. Use icon icon_7141.jpg"
   },
   "71421": {
-    "name": "Specialisation:71 Row:4 Column:2 Rank:1",
-    "icon": "icon_7142",
+    "name": "Vague Explosive",
+    "icon": "spell_holy_excorcism_02",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:4 Column:2 Rank:1. Use icon icon_7142.jpg"
+    "description": "Technique a activer, instantanée, coûte 545pts de Mana, 45sec de temps de rechargement, Le Mage lance instantanément un Sort a effet de zone de 10yards autour de lui et inflige 500pts de dégats de Feu et ralentit les cibles de 50% de leur vitesse durant 6sec"
   },
   "71422": {
     "name": "Specialisation:71 Row:4 Column:2 Rank:2",
@@ -14250,16 +14250,16 @@
     "description": "Description for Specialisation:71 Row:4 Column:2 Rank:5. Use icon icon_7142.jpg"
   },
   "71431": {
-    "name": "Specialisation:71 Row:4 Column:3 Rank:1",
-    "icon": "icon_7143",
+    "name": "Enflammer (rang1)",
+    "icon": "spell_fire_incinerate",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:4 Column:3 Rank:1. Use icon icon_7143.jpg"
+    "description": "Lorsque le Mage obtient un effet critique avec une technique de Feu, il pose un affaiblissement sur la cible, qui inflige 20% du dégat du critique en 4sec, cet effet se cumule tant qu'il est entretenu par différent joueurs ayant également ce talent"
   },
   "71432": {
-    "name": "Specialisation:71 Row:4 Column:3 Rank:2",
+    "name": "Enflammer (rang2)",
     "icon": "icon_7143",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:4 Column:3 Rank:2. Use icon icon_7143.jpg"
+    "description": "Lorsque le Mage obtient un effet critique avec une technique de Feu, il pose un affaiblissement sur la cible, qui inflige 40% du dégat du critique en 4sec, cet effet se cumule tant qu'il est entretenu par différent joueurs ayant également ce talent"
   },
   "71433": {
     "name": "Specialisation:71 Row:4 Column:3 Rank:3",
@@ -14280,16 +14280,16 @@
     "description": "Description for Specialisation:71 Row:4 Column:3 Rank:5. Use icon icon_7143.jpg"
   },
   "71511": {
-    "name": "Specialisation:71 Row:5 Column:1 Rank:1",
-    "icon": "icon_7151",
+    "name": "Feu de Forêt (rang1)",
+    "icon": "ability_rogue_sprint",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:5 Column:1 Rank:1. Use icon icon_7151.jpg"
+    "description": "Lorsque le Mage utilise la technique Transfert, il gagne une amélioration qui lui confert un bonus de 40% de vitesse durant 3sec"
   },
   "71512": {
-    "name": "Specialisation:71 Row:5 Column:1 Rank:2",
+    "name": "Feu de Forêt (rang2)",
     "icon": "icon_7151",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:5 Column:1 Rank:2. Use icon icon_7151.jpg"
+    "description": "Lorsque le Mage utilise la technique Transfert, il gagne une amélioration qui lui confert un bonus de 40% de vitesse durant 6sec"
   },
   "71513": {
     "name": "Specialisation:71 Row:5 Column:1 Rank:3",
@@ -14310,22 +14310,22 @@
     "description": "Description for Specialisation:71 Row:5 Column:1 Rank:5. Use icon icon_7151.jpg"
   },
   "71521": {
-    "name": "Specialisation:71 Row:5 Column:2 Rank:1",
-    "icon": "icon_7152",
+    "name": "Jouer avec le Feu (rang1)",
+    "icon": "spell_holy_purify",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:5 Column:2 Rank:1. Use icon icon_7152.jpg"
+    "description": "Convertit 10% de l'Intelligence du Mage en Bonus Sort"
   },
   "71522": {
-    "name": "Specialisation:71 Row:5 Column:2 Rank:2",
+    "name": "Jouer avec le Feu (rang2)",
     "icon": "icon_7152",
     "rank": 2,
-    "description": "Description for Specialisation:71 Row:5 Column:2 Rank:2. Use icon icon_7152.jpg"
+    "description": "Convertit 20% de l'Intelligence du Mage en Bonus Sort"
   },
   "71523": {
-    "name": "Specialisation:71 Row:5 Column:2 Rank:3",
+    "name": "Jouer avec le Feu (rang3)",
     "icon": "icon_7152",
     "rank": 3,
-    "description": "Description for Specialisation:71 Row:5 Column:2 Rank:3. Use icon icon_7152.jpg"
+    "description": "Convertit 30% de l'Intelligence du Mage en Bonus Sort"
   },
   "71524": {
     "name": "Specialisation:71 Row:5 Column:2 Rank:4",
@@ -14340,10 +14340,10 @@
     "description": "Description for Specialisation:71 Row:5 Column:2 Rank:5. Use icon icon_7152.jpg"
   },
   "71611": {
-    "name": "Specialisation:71 Row:6 Column:1 Rank:1",
-    "icon": "icon_7161",
+    "name": "Pyromane",
+    "icon": "spell_holy_powerinfusion",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:6 Column:1 Rank:1. Use icon icon_7161.jpg"
+    "description": "Diminue le temps de d'incantation de la technique Choc de Flamme de 100% mais lui donne un temps de rechargement de 8sec"
   },
   "71612": {
     "name": "Specialisation:71 Row:6 Column:1 Rank:2",
@@ -14370,10 +14370,10 @@
     "description": "Description for Specialisation:71 Row:6 Column:1 Rank:5. Use icon icon_7161.jpg"
   },
   "71621": {
-    "name": "Specialisation:71 Row:6 Column:2 Rank:1",
-    "icon": "icon_7162",
+    "name": "Souffle du Dragon",
+    "icon": "spell_fire_lavaspawn",
     "rank": 1,
-    "description": "Description for Specialisation:71 Row:6 Column:2 Rank:1. Use icon icon_7162.jpg"
+    "description": "technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône en face du Mage et les Désorientent durant 5sec, le moindre dégat direct interrompt l'effet, interrompt l'attaque automatique du Mage"
   },
   "71622": {
     "name": "Specialisation:71 Row:6 Column:2 Rank:2",
