@@ -13203,19 +13203,19 @@
     "name": "Subtilitées des Arcanes (rang1)",
     "icon": "spell_holy_dispelmagic",
     "rank": 1,
-    "description": "Diminue la menace généré par le Mage de 15% et lui donne 5pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 1sec"
+    "description": "Diminue la menace généré par le Mage de 5% et lui donne 5pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 1sec"
   },
   "70202": {
     "name": "Subtilitées des Arcanes (rang2)",
     "icon": "icon_7020",
     "rank": 2,
-    "description": "Diminue la menace généré par le Mage de 30% et lui donne 10pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 2sec"
+    "description": "Diminue la menace généré par le Mage de 10% et lui donne 10pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 2sec"
   },
   "70203": {
     "name": "Subtilitées des Arcanes (rang3)",
     "icon": "icon_7020",
     "rank": 3,
-    "description": "Diminue la menace généré par le Mage de 45% et lui donne 15pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 3sec"
+    "description": "Diminue la menace généré par le Mage de 15% et lui donne 15pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 3sec"
   },
   "70204": {
     "name": "Specialisation:70 Row:2 Column:0 Rank:4",
@@ -14703,7 +14703,7 @@
     "name": "Veine Glaciale",
     "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Technique a activer, instantanée, hors temps de rechargement global, utilisable même sous contrôle, coûte 30pts de Mana, 1min de temps de rechargement, Pose une amélioration sur le mage insensible aux effets de dissipation, qui réduit les dégats qu'il subit de 15% durant 10sec et lui donne 100% de chance d'anti interruption sur ses incantations"
+    "description": "Technique a activer, instantanée, utilisable hors temps de rechargement global et même sous contrôle, coûte 30pts de Mana, 1min de temps de rechargement, Pose une amélioration sur le mage insensible aux effets de dissipation, qui réduit les dégats qu'il subit de 15% durant 10sec et lui donne 100% de chance d'anti interruption sur ses incantations"
   },
   "72222": {
     "name": "Specialisation:72 Row:2 Column:2 Rank:2",
@@ -14913,7 +14913,7 @@
     "name": "Bloc de Glace",
     "icon": "spell_frost_frost",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et mêms sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet"
+    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et même sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet"
   },
   "72412": {
     "name": "Specialisation:72 Row:4 Column:1 Rank:2",
@@ -15091,7 +15091,7 @@
   },
   "72621": {
     "name": "Congélation",
-    "icon": "spell_frost_waterelemental",
+    "icon": "spell_frost_summonwaterelemental",
     "rank": 1,
     "description": "Technique a activer, instantanée, 30sec de temps de rechargement et le partage avec la technique Nova de Givre, coûte 90pts de Mana, 30yards de portée, Permet au Mage de lancer l'équivalent de sa technique Nova de Givre a distance, l'effet ne dure que 3sec"
   },
