@@ -13050,16 +13050,16 @@
     "description": "Description for Specialisation:70 Row:0 Column:2 Rank:5. Use icon icon_7002.jpg"
   },
   "70031": {
-    "name": "Barrages des Arcanes (rang1)",
-    "icon": "spell_nature_starfall",
+    "name": "Harmonisation de la Magie (rang1)",
+    "icon": "spell_nature_abolishmagic",
     "rank": 1,
-    "description": "Confert 50% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10%"
   },
   "70032": {
-    "name": "Barrages des Arcanes (rang2)",
+    "name": "Harmonisation de la Magie (rang2)",
     "icon": "icon_7003",
     "rank": 2,
-    "description": "Confert 100% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
+    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20%"
   },
   "70033": {
     "name": "Specialisation:70 Row:0 Column:3 Rank:3",
@@ -13111,7 +13111,7 @@
   },
   "70111": {
     "name": "Bouclier de Mana Amélioré (rang1)",
-    "icon": "spell_shadow_lesserdetectinvisibility",
+    "icon": "spell_shadow_detectlesserinvisibility",
     "rank": 1,
     "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 10%, de plus 10% du coût en mana de la technique est rendu lorsqu'une amélioration sur le Mage est dissipé"
   },
@@ -13201,7 +13201,7 @@
   },
   "70201": {
     "name": "Subtilitées des Arcanes (rang1)",
-    "icon": "spell_holy_dispellmagic",
+    "icon": "spell_holy_dispelmagic",
     "rank": 1,
     "description": "Diminue la menace généré par le Mage de 15% et lui donne 5pts de mp5 et diminue la durée d'activation de la technique Invisiblité de 1sec"
   },
@@ -13290,16 +13290,16 @@
     "description": "Description for Specialisation:70 Row:2 Column:2 Rank:5. Use icon icon_7022.jpg"
   },
   "70231": {
-    "name": "Harmonisation avec la Magie (rang1)",
-    "icon": "spell_magic_abolishmagic",
+    "name": "Barrage des Arcanes (rang1)",
+    "icon": "spell_nature_starfall",
     "rank": 1,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 25% et d'Intelligence des Arcanes de 10%"
+    "description": "Confert 50% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70232": {
-    "name": "Harmonisation avec la Magie (rang2)",
+    "name": "Barrage des Arcanes (rang2)",
     "icon": "icon_7023",
     "rank": 2,
-    "description": "Augmente les effets des techniques Atténuation de la Magie et Amplification de la Magie de 50% et d'Intelligence des Arcanes de 20%"
+    "description": "Confert 100% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70233": {
     "name": "Specialisation:70 Row:2 Column:3 Rank:3",
@@ -13353,13 +13353,13 @@
     "name": "Affinitée avec les Arcanes (rang1)",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25%"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente le nombre de charge des techniques de Gemme de Mana de 1"
   },
   "70312": {
     "name": "Affinitée avec les Arcanes (rang2)",
     "icon": "icon_7031",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50%"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente le nombre de charge des techniques de Gemme de Mana de 2"
   },
   "70313": {
     "name": "Specialisation:70 Row:3 Column:1 Rank:3",
@@ -13591,7 +13591,7 @@
   },
   "70521": {
     "name": "Flux Arcaniques (rang1)",
-    "icon": "icon_7052",
+    "icon": "spell_nature_eyeofthestorm",
     "rank": 1,
     "description": "Convertit 5% de l'Intelligence et de l'Esprit du Mage en Bonus Sort"
   },
@@ -13651,7 +13651,7 @@
   },
   "70621": {
     "name": "Lenteur",
-    "icon": "icon_7062",
+    "icon": "spell_ice_magicdamage",
     "rank": 1,
     "description": "Technique a activer, instantanée, dure 10sec, 320pts de mana, 30yards de portée, Diminue la vitesse de déplacement de la cible, sa vitesse d'attaque en mélée et a distance, ainsi que sa vitesse d'incantation de 30% et si c'est possible, vol sur la cible une amélioration pour la donner au Mage"
   },
