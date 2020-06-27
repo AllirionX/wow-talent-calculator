@@ -13773,13 +13773,13 @@
     "name": "Jet de Flammes (rang1)",
     "icon": "spell_fire_flare",
     "rank": 1,
-    "description": "Augmente la portée des sorts de Feu de 3yards"
+    "description": "Augmente la portée des techniques de Sorts de Feu du Mage de 3yards"
   },
   "71032": {
     "name": "Jet de Flammes (rang2)",
     "icon": "icon_7103",
     "rank": 2,
-    "description": "Augmente la portée des sorts de Feu de 6yards"
+    "description": "Augmente la portée des techniques de Sorts de Feu du Mage de 6yards"
   },
   "71033": {
     "name": "Specialisation:71 Row:0 Column:3 Rank:3",
@@ -13953,7 +13953,7 @@
     "name": "Armure de la Fournaire",
     "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, Pose une amélioration sur le Mage impurgeable de 30min, qui augmente ses chances de critiques de 5% et réduit les chances de subir un critique de 5% et renvoi 75pts de dégat de feu lorsqu'il subit une attaque en mélée ou a distance, le Mage ne peut être sous l'effet que d'une seule technique d'Armure a la fois"
+    "description": "Technique a activer, instantanée, gratuite en mana, Pose une amélioration sur le Mage qui est insensible au effet de dissipation de 30min, qui augmente les chances de critiques du Mage de 5% et réduit les chances de subir un critique de 5% également, pour finir le Mage renvoit 75pts de dégat de feu lorsqu'il subit une attaque en mélée ou a distance, le Mage ne peut être sous l'effet que d'une seule technique d'Armure a la fois"
   },
   "71212": {
     "name": "Specialisation:71 Row:2 Column:1 Rank:2",
@@ -13983,7 +13983,7 @@
     "name": "Explosion Pyrotechnique",
     "icon": "spell_fire_fireball02",
     "rank": 1,
-    "description": "Technique a activer, 6sec de temps d'incantation, coûte 440pts de Mana, le Mage lance une boule de feu qui inflige 800pts de dégats de Feu et 268pts de dégats de feu supplémentaire ensuite en 12sec"
+    "description": "Technique a activer, 6sec de temps d'incantation, coûte 440pts de Mana, 30yards de portée, le Mage lance une boule de feu qui inflige 800pts de dégats de Feu et 268pts de dégats de feu supplémentaire ensuite en 12sec"
   },
   "71222": {
     "name": "Specialisation:71 Row:2 Column:2 Rank:2",
@@ -14013,13 +14013,13 @@
     "name": "Âme Ardente (rang1)",
     "icon": "spell_fire_fire",
     "rank": 1,
-    "description": "Donne au Mage 35% de chance d'anti interruption lorsqu'il incante un Sort de Feu"
+    "description": "Donne au Mage 35% de chance d'anti interruption lorsqu'il incante une technique de Sort de Feu"
   },
   "71232": {
     "name": "Âme Ardente (rang2)",
     "icon": "icon_7123",
     "rank": 2,
-    "description": "Donne au Mage 70% de chance d'anti interruption lorsqu'il incante un Sort de Feu"
+    "description": "Donne au Mage 70% de chance d'anti interruption lorsqu'il incante une technique de Sort de Feu"
   },
   "71233": {
     "name": "Specialisation:71 Row:2 Column:3 Rank:3",
@@ -14043,19 +14043,19 @@
     "name": "Brûlure Améliorée (rang1)",
     "icon": "spell_fire_soulburn",
     "rank": 1,
-    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 1% stackable 5fois"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 30sec, qui augmente les dégats de feu sur la cible de 5% stackable 1fois"
   },
   "71302": {
     "name": "Brûlure Améliorée (rang2)",
     "icon": "icon_7130",
     "rank": 2,
-    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 2% stackable 5fois"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 30sec, qui augmente les dégats de feu sur la cible de 5% stackable 2fois"
   },
   "71303": {
     "name": "Brûlure Améliorée (rang3)",
     "icon": "icon_7130",
     "rank": 3,
-    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 15sec, qui augmente les dégats de feu sur la cible de 3% stackable 5fois"
+    "description": "Donne a la technique Brûlure du Mage 100% de chance de poser un affaiblissement sur la cible de 30sec, qui augmente les dégats de feu sur la cible de 5% stackable 3fois"
   },
   "71304": {
     "name": "Specialisation:71 Row:3 Column:0 Rank:4",
@@ -14071,15 +14071,15 @@
   },
   "71311": {
     "name": "Gardien Agressif (rang1)",
-    "icon": "icon_7131",
+    "icon": "spell_fire_firearmor",
     "rank": 1,
-    "description": "Donne aux différentes techniques de Gardien 50% de chance de renvoyer la prochaine techniques qu'elles absorbent"
+    "description": "Donne aux différentes techniques de Gardien 50% de chance de renvoyer la prochaine technique absorbée"
   },
   "71312": {
     "name": "Gardien Agressif (rang2)",
     "icon": "icon_7131",
     "rank": 2,
-    "description": "Donne aux différentes techniques de Gardien 100% de chance de renvoyer la prochaine techniques qu'elles absorbent"
+    "description": "Donne aux différentes techniques de Gardien 100% de chance de renvoyer la prochaine technique absorbée"
   },
   "71313": {
     "name": "Specialisation:71 Row:3 Column:1 Rank:3",
@@ -14100,22 +14100,22 @@
     "description": "Description for Specialisation:71 Row:3 Column:1 Rank:5. Use icon icon_7131.jpg"
   },
   "71321": {
-    "name": "Maîtrise des éléments (rang1)",
+    "name": "Maîtrise des Eléments (rang1)",
     "icon": "spell_fire_masterofelements",
     "rank": 1,
-    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 10% de leur coût en mana au Mage"
+    "description": "Les différentes techniques des Sorts Elémentaires du Mage qui obtiennent un effet critique rendent 10% de leur coût en mana au Mage"
   },
   "71322": {
-    "name": "Maîtrise des éléments (rang2)",
+    "name": "Maîtrise des Eléments (rang2)",
     "icon": "icon_7132",
     "rank": 2,
-    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 20% de leur coût en mana au Mage"
+    "description": "Les différentes techniques des Sorts Elémentaires du Mage qui obtiennent un effet critique rendent 20% de leur coût en mana au Mage"
   },
   "71323": {
-    "name": "Maîtrise des éléments (rang3)",
+    "name": "Maîtrise des Eléments (rang3)",
     "icon": "icon_7132",
     "rank": 3,
-    "description": "Les Sorts Elémentaires du Mage qui obtiennent une effet critique rendent 30% de leur coût en mana au Mage"
+    "description": "Les différentes techniques des Sorts Elémentaires du Mage qui obtiennent un effet critique rendent 30% de leur coût en mana au Mage"
   },
   "71324": {
     "name": "Specialisation:71 Row:3 Column:2 Rank:4",
@@ -14131,15 +14131,15 @@
   },
   "71331": {
     "name": "Impact (rang1)",
-    "icon": "icon_7133",
+    "icon": "spell_fire_meteorstorm",
     "rank": 1,
-    "description": "En plus de leur effet, tous les Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 1sec"
+    "description": "En plus de leur effet, tous les techniques de Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 1sec"
   },
   "71332": {
     "name": "Impact (rang2)",
     "icon": "icon_7133",
     "rank": 2,
-    "description": "En plus de leur effet, tous les Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 2sec"
+    "description": "En plus de leur effet, tous les techniques de Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 2sec"
   },
   "71333": {
     "name": "Specialisation:71 Row:3 Column:3 Rank:3",
@@ -14169,13 +14169,13 @@
     "name": "Brûler au Dernier Degré (rang2)",
     "icon": "icon_7140",
     "rank": 2,
-    "description": "Diminue la Résistance Magique de la cible du Mage de 10pts et augmente la Résistance Feu du Mage de 40pts"
+    "description": "Diminue la Résistance Feu de la cible du Mage de 10pts et augmente la Résistance Feu du Mage de 40pts"
   },
   "71403": {
     "name": "Brûler au Dernier Degré (rang3)",
     "icon": "icon_7140",
     "rank": 3,
-    "description": "Diminue la Résistance Magique de la cible du Mage de 15pts et augmente la Résistance Feu du Mage de 60pts"
+    "description": "Diminue la Résistance Feu de la cible du Mage de 15pts et augmente la Résistance Feu du Mage de 60pts"
   },
   "71404": {
     "name": "Specialisation:71 Row:4 Column:0 Rank:4",
@@ -14193,7 +14193,7 @@
     "name": "Combustion",
     "icon": "spell_fire_sealoffire",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Donne au Mage une amélioration qui augmente de 10% ses chances de critique avec chacune de ses techniques de feu suivantes, l'effet dure jusqu'a ce qu'il se stack 10fois ou jusqu'a ce que Mage est obtenu 3 critiques"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Donne au Mage une amélioration qui augmente de 10% ses chances de critique avec chacune de ses techniques de feu suivantes, l'effet dure jusqu'a ce qu'il se stack 10fois ou jusqu'a ce que Mage est obtenu 3 effets critiques"
   },
   "71412": {
     "name": "Specialisation:71 Row:4 Column:1 Rank:2",
@@ -14280,13 +14280,13 @@
     "description": "Description for Specialisation:71 Row:4 Column:3 Rank:5. Use icon icon_7143.jpg"
   },
   "71511": {
-    "name": "Feu de Forêt (rang1)",
+    "name": "Feu aux Trousses (rang1)",
     "icon": "ability_rogue_sprint",
     "rank": 1,
     "description": "Lorsque le Mage utilise la technique Transfert, il gagne une amélioration qui lui confert un bonus de 40% de vitesse durant 3sec"
   },
   "71512": {
-    "name": "Feu de Forêt (rang2)",
+    "name": "Feu aux Trousses (rang2)",
     "icon": "icon_7151",
     "rank": 2,
     "description": "Lorsque le Mage utilise la technique Transfert, il gagne une amélioration qui lui confert un bonus de 40% de vitesse durant 6sec"
@@ -14343,7 +14343,7 @@
     "name": "Pyromane",
     "icon": "spell_holy_powerinfusion",
     "rank": 1,
-    "description": "Diminue le temps de d'incantation de la technique Choc de Flamme de 100% mais lui donne un temps de rechargement de 8sec"
+    "description": "Diminue le temps de d'incantation de la technique Choc de Flamme du Mage de 100% mais lui donne un temps de rechargement de 8sec"
   },
   "71612": {
     "name": "Specialisation:71 Row:6 Column:1 Rank:2",
@@ -14373,7 +14373,7 @@
     "name": "Souffle du Dragon",
     "icon": "spell_fire_lavaspawn",
     "rank": 1,
-    "description": "technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône en face du Mage et les Désorientent durant 5sec, le moindre dégat direct interrompt l'effet, interrompt l'attaque automatique du Mage"
+    "description": "Technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône de 10yards en face du Mage et les Désorientent durant 5sec, le moindre dégat direct interrompt l'effet, interrompt également l'attaque automatique du Mage"
   },
   "71622": {
     "name": "Specialisation:71 Row:6 Column:2 Rank:2",
