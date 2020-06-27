@@ -14400,22 +14400,22 @@
     "description": "Description for Specialisation:71 Row:6 Column:2 Rank:5. Use icon icon_7162.jpg"
   },
   "72001": {
-    "name": "Specialisation:72 Row:0 Column:0 Rank:1",
-    "icon": "icon_7200",
+    "name": "Gel Prolongé (rang1)",
+    "icon": "spell_frost_wisp",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:0 Column:0 Rank:1. Use icon icon_7200.jpg"
+    "description": "Augmente la durée des effets de Gel du Mage de 1sec et diminue la vitesse de déplacement de la cible du Mage de 4%"
   },
   "72002": {
-    "name": "Specialisation:72 Row:0 Column:0 Rank:2",
+    "name": "Gel Prolongé (rang2)",
     "icon": "icon_7200",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:0 Column:0 Rank:2. Use icon icon_7200.jpg"
+    "description": "Augmente la durée des effets de Gel du Mage de 2sec et diminue la vitesse de déplacement de la cible du Mage de 7%"
   },
   "72003": {
-    "name": "Specialisation:72 Row:0 Column:0 Rank:3",
+    "name": "Gel Prolongé (rang3)",
     "icon": "icon_7200",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:0 Column:0 Rank:3. Use icon icon_7200.jpg"
+    "description": "Augmente la durée des effets de Gel du Mage de 3sec et diminue la vitesse de déplacement de la cible du Mage de 10%"
   },
   "72004": {
     "name": "Specialisation:72 Row:0 Column:0 Rank:4",
@@ -14430,16 +14430,16 @@
     "description": "Description for Specialisation:72 Row:0 Column:0 Rank:5. Use icon icon_7200.jpg"
   },
   "72011": {
-    "name": "Specialisation:72 Row:0 Column:1 Rank:1",
-    "icon": "icon_7201",
+    "name": "Eclair de Givre Amélioré (rang1)",
+    "icon": "spell_frost_frostbolt02",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:0 Column:1 Rank:1. Use icon icon_7201.jpg"
+    "description": "Diminue le temps d'incantation de la technique Eclair de Givre du Mage de 0,25sec"
   },
   "72012": {
-    "name": "Specialisation:72 Row:0 Column:1 Rank:2",
+    "name": "Eclair de Givre Amélioré (rang2)",
     "icon": "icon_7201",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:0 Column:1 Rank:2. Use icon icon_7201.jpg"
+    "description": "Diminue le temps d'incantation de la technique Eclair de Givre du Mage de 0,5sec"
   },
   "72013": {
     "name": "Specialisation:72 Row:0 Column:1 Rank:3",
@@ -14460,22 +14460,22 @@
     "description": "Description for Specialisation:72 Row:0 Column:1 Rank:5. Use icon icon_7201.jpg"
   },
   "72021": {
-    "name": "Specialisation:72 Row:0 Column:2 Rank:1",
-    "icon": "icon_7202",
+    "name": "Précision Glaciale (rang1)",
+    "icon": "spell_ice_magicdamage",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:0 Column:2 Rank:1. Use icon icon_7202.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 2%"
   },
   "72022": {
-    "name": "Specialisation:72 Row:0 Column:2 Rank:2",
+    "name": "Précision Glaciale (rang2)",
     "icon": "icon_7202",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:0 Column:2 Rank:2. Use icon icon_7202.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 4%"
   },
   "72023": {
-    "name": "Specialisation:72 Row:0 Column:2 Rank:3",
+    "name": "Précision Glaciale (rang3)",
     "icon": "icon_7202",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:0 Column:2 Rank:3. Use icon icon_7202.jpg"
+    "description": "Augmente les chances de Toucher du Mage de 6%"
   },
   "72024": {
     "name": "Specialisation:72 Row:0 Column:2 Rank:4",
@@ -14490,16 +14490,16 @@
     "description": "Description for Specialisation:72 Row:0 Column:2 Rank:5. Use icon icon_7202.jpg"
   },
   "72031": {
-    "name": "Specialisation:72 Row:0 Column:3 Rank:1",
-    "icon": "icon_7203",
+    "name": "Armures Améliorées (rang1)",
+    "icon": "spell_frost_frostward",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:0 Column:3 Rank:1. Use icon icon_7203.jpg"
+    "description": "Augmente de 15% les effets des différentes techniques d'Armure"
   },
   "72032": {
-    "name": "Specialisation:72 Row:0 Column:3 Rank:2",
+    "name": "Armures Améliorées (rang2)",
     "icon": "icon_7203",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:0 Column:3 Rank:2. Use icon icon_7203.jpg"
+    "description": "Augmente de 30% les effets des différentes techniques d'Armure"
   },
   "72033": {
     "name": "Specialisation:72 Row:0 Column:3 Rank:3",
@@ -14520,22 +14520,22 @@
     "description": "Description for Specialisation:72 Row:0 Column:3 Rank:5. Use icon icon_7203.jpg"
   },
   "72101": {
-    "name": "Specialisation:72 Row:1 Column:0 Rank:1",
-    "icon": "icon_7210",
+    "name": "Glace Perçante (rang1)",
+    "icon": "spell_frost_frostbolt",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:1 Column:0 Rank:1. Use icon icon_7210.jpg"
+    "description": "Augmente les dégats des techniques du Mage de 2%"
   },
   "72102": {
-    "name": "Specialisation:72 Row:1 Column:0 Rank:2",
+    "name": "Glace Perçante (rang2)",
     "icon": "icon_7210",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:1 Column:0 Rank:2. Use icon icon_7210.jpg"
+    "description": "Augmente les dégats des techniques du Mage de 4%"
   },
   "72103": {
-    "name": "Specialisation:72 Row:1 Column:0 Rank:3",
+    "name": "Glace Perçante (rang3)",
     "icon": "icon_7210",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:1 Column:0 Rank:3. Use icon icon_7210.jpg"
+    "description": "Augmente les dégats des techniques du Mage de 6%"
   },
   "72104": {
     "name": "Specialisation:72 Row:1 Column:0 Rank:4",
@@ -14550,16 +14550,16 @@
     "description": "Description for Specialisation:72 Row:1 Column:0 Rank:5. Use icon icon_7210.jpg"
   },
   "72111": {
-    "name": "Specialisation:72 Row:1 Column:1 Rank:1",
-    "icon": "icon_7211",
+    "name": "Eclat de Glace (rang1)",
+    "icon": "spell_frost_iceshard",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:1 Column:1 Rank:1. Use icon icon_7211.jpg"
+    "description": "Augmente les dégats des critiques effectués avec les techniques de Sort de Glace de 50%"
   },
   "72112": {
-    "name": "Specialisation:72 Row:1 Column:1 Rank:2",
+    "name": "Eclat de Glace (rang2)",
     "icon": "icon_7211",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:1 Column:1 Rank:2. Use icon icon_7211.jpg"
+    "description": "Augmente les dégats des critiques effectués avec les techniques de Sort de Glace de 100%"
   },
   "72113": {
     "name": "Specialisation:72 Row:1 Column:1 Rank:3",
@@ -14580,22 +14580,22 @@
     "description": "Description for Specialisation:72 Row:1 Column:1 Rank:5. Use icon icon_7211.jpg"
   },
   "72121": {
-    "name": "Specialisation:72 Row:1 Column:2 Rank:1",
-    "icon": "icon_7212",
+    "name": "Cône de Froid Amélioré (rang1)",
+    "icon": "spell_frost_glacier",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:1 Column:2 Rank:1. Use icon icon_7212.jpg"
+    "description": "Augmente les dégats infligés avec la technique Cône de Froid du Mage de 15%"
   },
   "72122": {
-    "name": "Specialisation:72 Row:1 Column:2 Rank:2",
+    "name": "Cône de Froid Amélioré (rang2)",
     "icon": "icon_7212",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:1 Column:2 Rank:2. Use icon icon_7212.jpg"
+    "description": "Augmente les dégats infligés avec la technique Cône de Froid du Mage de 30%"
   },
   "72123": {
-    "name": "Specialisation:72 Row:1 Column:2 Rank:3",
+    "name": "Cône de Froid Amélioré (rang3)",
     "icon": "icon_7212",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:1 Column:2 Rank:3. Use icon icon_7212.jpg"
+    "description": "Augmente les dégats infligés avec la technique Cône de Froid du Mage de 45%"
   },
   "72124": {
     "name": "Specialisation:72 Row:1 Column:2 Rank:4",
@@ -14610,16 +14610,16 @@
     "description": "Description for Specialisation:72 Row:1 Column:2 Rank:5. Use icon icon_7212.jpg"
   },
   "72131": {
-    "name": "Specialisation:72 Row:1 Column:3 Rank:1",
-    "icon": "icon_7213",
+    "name": "Iceberg (rang1)",
+    "icon": "spell_frost_freezingbreath",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:1 Column:3 Rank:1. Use icon icon_7213.jpg"
+    "description": "Diminue de 10% le temps de rechargement des techniques de Sort de Glace du Mage"
   },
   "72132": {
-    "name": "Specialisation:72 Row:1 Column:3 Rank:2",
+    "name": "Iceberg (rang2)",
     "icon": "icon_7213",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:1 Column:3 Rank:2. Use icon icon_7213.jpg"
+    "description": "Diminue de 20% le temps de rechargement des techniques de Sort de Glace du Mage"
   },
   "72133": {
     "name": "Specialisation:72 Row:1 Column:3 Rank:3",
@@ -14640,22 +14640,22 @@
     "description": "Description for Specialisation:72 Row:1 Column:3 Rank:5. Use icon icon_7213.jpg"
   },
   "72201": {
-    "name": "Specialisation:72 Row:2 Column:0 Rank:1",
-    "icon": "icon_7220",
+    "name": "Canalisation du Givre (rang1)",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:2 Column:0 Rank:1. Use icon icon_7220.jpg"
+    "description": "Diminue la menace généré par le Mage de 10% et lui donne +5pts de mp5"
   },
   "72202": {
-    "name": "Specialisation:72 Row:2 Column:0 Rank:2",
+    "name": "Canalisation du Givre (rang2)",
     "icon": "icon_7220",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:2 Column:0 Rank:2. Use icon icon_7220.jpg"
+    "description": "Diminue la menace généré par le Mage de 20% et lui donne +10pts de mp5"
   },
   "72203": {
-    "name": "Specialisation:72 Row:2 Column:0 Rank:3",
+    "name": "Canalisation du Givre (rang3)",
     "icon": "icon_7220",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:2 Column:0 Rank:3. Use icon icon_7220.jpg"
+    "description": "Diminue la menace généré par le Mage de 30% et lui donne +15pts de mp5"
   },
   "72204": {
     "name": "Specialisation:72 Row:2 Column:0 Rank:4",
@@ -14670,10 +14670,10 @@
     "description": "Description for Specialisation:72 Row:2 Column:0 Rank:5. Use icon icon_7220.jpg"
   },
   "72211": {
-    "name": "Specialisation:72 Row:2 Column:1 Rank:1",
-    "icon": "icon_7221",
+    "name": "Morsure de Glace",
+    "icon": "spell_frost_wizardmark",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:2 Column:1 Rank:1. Use icon icon_7221.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Met instantanément fin a tous les temps de rechargement des techniques de Sort de Glace du Mage"
   },
   "72212": {
     "name": "Specialisation:72 Row:2 Column:1 Rank:2",
@@ -14700,10 +14700,10 @@
     "description": "Description for Specialisation:72 Row:2 Column:1 Rank:5. Use icon icon_7221.jpg"
   },
   "72221": {
-    "name": "Specialisation:72 Row:2 Column:2 Rank:1",
-    "icon": "icon_7222",
+    "name": "Veine Glaciale",
+    "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:2 Column:2 Rank:1. Use icon icon_7222.jpg"
+    "description": "Technique a activer, instantanée, hors temps de rechargement global, utilisable même sous contrôle, coûte 30pts de Mana, 1min de temps de rechargement, Pose une amélioration sur le mage insensible aux effets de dissipation, qui réduit les dégats qu'il subit de 15% durant 10sec et lui donne 100% de chance d'anti interruption sur ses incantations"
   },
   "72222": {
     "name": "Specialisation:72 Row:2 Column:2 Rank:2",
@@ -14730,16 +14730,16 @@
     "description": "Description for Specialisation:72 Row:2 Column:2 Rank:5. Use icon icon_7222.jpg"
   },
   "72231": {
-    "name": "Specialisation:72 Row:2 Column:3 Rank:1",
-    "icon": "icon_7223",
+    "name": "Coeur de Gel (rang1)",
+    "icon": "inv_misc_gem_sapphire_01",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:2 Column:3 Rank:1. Use icon icon_7223.jpg"
+    "description": "Réduit tout les dégats subit de 3% et lorsqu'un affaiblissement du Mage est dissipé, 5% du coût en mana du Sort est rendu en mana au Mage"
   },
   "72232": {
-    "name": "Specialisation:72 Row:2 Column:3 Rank:2",
+    "name": "Coeur de Gel (rang2)",
     "icon": "icon_7223",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:2 Column:3 Rank:2. Use icon icon_7223.jpg"
+    "description": "Réduit tout les dégats subit de 6% et lorsqu'un affaiblissement du Mage est dissipé, 10% du coût en mana du Sort est rendu en mana au Mage"
   },
   "72233": {
     "name": "Specialisation:72 Row:2 Column:3 Rank:3",
@@ -14760,22 +14760,22 @@
     "description": "Description for Specialisation:72 Row:2 Column:3 Rank:5. Use icon icon_7223.jpg"
   },
   "72301": {
-    "name": "Specialisation:72 Row:3 Column:0 Rank:1",
-    "icon": "icon_7230",
+    "name": "Blizzard Amélioré (rang1)",
+    "icon": "spell_frost_icestorm",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:3 Column:0 Rank:1. Use icon icon_7230.jpg"
+    "description": "Ajoute un effet d'Engourdissement a la technique Blizzard du Mage qui réduit la vitesse de déplacement des cibles sous sont effet de 30% pendant 1,5sec"
   },
   "72302": {
-    "name": "Specialisation:72 Row:3 Column:0 Rank:2",
+    "name": "Blizzard Amélioré (rang2)",
     "icon": "icon_7230",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:3 Column:0 Rank:2. Use icon icon_7230.jpg"
+    "description": "Ajoute un effet d'Engourdissement a la technique Blizzard du Mage qui réduit la vitesse de déplacement des cibles sous sont effet de 50% pendant 1,5sec"
   },
   "72303": {
-    "name": "Specialisation:72 Row:3 Column:0 Rank:3",
+    "name": "Blizzard Amélioré (rang3)",
     "icon": "icon_7230",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:3 Column:0 Rank:3. Use icon icon_7230.jpg"
+    "description": "Ajoute un effet d'Engourdissement a la technique Blizzard du Mage qui réduit la vitesse de déplacement des cibles sous sont effet de 65% pendant 1,5sec"
   },
   "72304": {
     "name": "Specialisation:72 Row:3 Column:0 Rank:4",
@@ -14790,16 +14790,16 @@
     "description": "Description for Specialisation:72 Row:3 Column:0 Rank:5. Use icon icon_7230.jpg"
   },
   "72311": {
-    "name": "Specialisation:72 Row:3 Column:1 Rank:1",
-    "icon": "icon_7231",
+    "name": "Bouclier Protecteur (rang1)",
+    "icon": "inv_shield_06",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:3 Column:1 Rank:1. Use icon icon_7231.jpg"
+    "description": "Diminue le temps de rechargement des techniques de Gardien de 5sec et augmente leur effet de 10%"
   },
   "72312": {
-    "name": "Specialisation:72 Row:3 Column:1 Rank:2",
+    "name": "Bouclier Protecteur (rang2)",
     "icon": "icon_7231",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:3 Column:1 Rank:2. Use icon icon_7231.jpg"
+    "description": "Diminue le temps de rechargement des techniques de Gardien de 10sec et augmente leur effet de 20%"
   },
   "72313": {
     "name": "Specialisation:72 Row:3 Column:1 Rank:3",
@@ -14820,22 +14820,22 @@
     "description": "Description for Specialisation:72 Row:3 Column:1 Rank:5. Use icon icon_7231.jpg"
   },
   "72321": {
-    "name": "Specialisation:72 Row:3 Column:2 Rank:1",
-    "icon": "icon_7232",
+    "name": "Vents Arctiques (rang1)",
+    "icon": "ability_townwatch",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:3 Column:2 Rank:1. Use icon icon_7232.jpg"
+    "description": "Diminue le coût en Mana de toutes les techniques du Mage de 5%"
   },
   "72322": {
-    "name": "Specialisation:72 Row:3 Column:2 Rank:2",
+    "name": "Vents Arctiques (rang2)",
     "icon": "icon_7232",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:3 Column:2 Rank:2. Use icon icon_7232.jpg"
+    "description": "Diminue le coût en Mana de toutes les techniques du Mage de 10%"
   },
   "72323": {
-    "name": "Specialisation:72 Row:3 Column:2 Rank:3",
+    "name": "Vents Arctiques (rang3)",
     "icon": "icon_7232",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:3 Column:2 Rank:3. Use icon icon_7232.jpg"
+    "description": "Diminue le coût en Mana de toutes les techniques du Mage de 15%"
   },
   "72324": {
     "name": "Specialisation:72 Row:3 Column:2 Rank:4",
@@ -14850,16 +14850,16 @@
     "description": "Description for Specialisation:72 Row:3 Column:2 Rank:5. Use icon icon_7232.jpg"
   },
   "72331": {
-    "name": "Specialisation:72 Row:3 Column:3 Rank:1",
-    "icon": "icon_7233",
+    "name": "Allonge Arctique (rang1)",
+    "icon": "spell_shadow_darkritual",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:3 Column:3 Rank:1. Use icon icon_7233.jpg"
+    "description": "Augmente la portée des techniques de Givre du Mage de 10%"
   },
   "72332": {
-    "name": "Specialisation:72 Row:3 Column:3 Rank:2",
+    "name": "Allonge Arctique (rang2)",
     "icon": "icon_7233",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:3 Column:3 Rank:2. Use icon icon_7233.jpg"
+    "description": "Augmente la portée des techniques de Givre du Mage de 20%"
   },
   "72333": {
     "name": "Specialisation:72 Row:3 Column:3 Rank:3",
@@ -14880,22 +14880,22 @@
     "description": "Description for Specialisation:72 Row:3 Column:3 Rank:5. Use icon icon_7233.jpg"
   },
   "72401": {
-    "name": "Specialisation:72 Row:4 Column:0 Rank:1",
-    "icon": "icon_7240",
+    "name": "Froid Perçant (rang1)",
+    "icon": "spell_arcane_starfire",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:4 Column:0 Rank:1. Use icon icon_7240.jpg"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 5pts et augmente sa Résistance Givre de 20pts"
   },
   "72402": {
-    "name": "Specialisation:72 Row:4 Column:0 Rank:2",
+    "name": "Froid Perçant (rang2)",
     "icon": "icon_7240",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:4 Column:0 Rank:2. Use icon icon_7240.jpg"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 10pts et augmente sa Résistance Givre de 40pts"
   },
   "72403": {
-    "name": "Specialisation:72 Row:4 Column:0 Rank:3",
+    "name": "Froid Perçant (rang3)",
     "icon": "icon_7240",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:4 Column:0 Rank:3. Use icon icon_7240.jpg"
+    "description": "Diminue les Résistances Magiques des cibles du Mage de 15pts et augmente sa Résistance Givre de 60pts"
   },
   "72404": {
     "name": "Specialisation:72 Row:4 Column:0 Rank:4",
@@ -14910,10 +14910,10 @@
     "description": "Description for Specialisation:72 Row:4 Column:0 Rank:5. Use icon icon_7240.jpg"
   },
   "72411": {
-    "name": "Specialisation:72 Row:4 Column:1 Rank:1",
-    "icon": "icon_7241",
+    "name": "Bloc de Glace",
+    "icon": "spell_frost_frost",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:4 Column:1 Rank:1. Use icon icon_7241.jpg"
+    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et mêms sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet"
   },
   "72412": {
     "name": "Specialisation:72 Row:4 Column:1 Rank:2",
@@ -14940,10 +14940,10 @@
     "description": "Description for Specialisation:72 Row:4 Column:1 Rank:5. Use icon icon_7241.jpg"
   },
   "72421": {
-    "name": "Specialisation:72 Row:4 Column:2 Rank:1",
-    "icon": "icon_7242",
+    "name": "Morsure de Givre",
+    "icon": "spell_frost_frostarmor",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:4 Column:2 Rank:1. Use icon icon_7242.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, utilisable hors temps de rechargement global et même sous contrôle, Pose une amélioration sur le Mage qui permet a son prochain effet de Gel de poser un affaiblissement supplémentaire qui immobilise durant 5sec"
   },
   "72422": {
     "name": "Specialisation:72 Row:4 Column:2 Rank:2",
@@ -14970,16 +14970,16 @@
     "description": "Description for Specialisation:72 Row:4 Column:2 Rank:5. Use icon icon_7242.jpg"
   },
   "72431": {
-    "name": "Specialisation:72 Row:4 Column:3 Rank:1",
-    "icon": "icon_7243",
+    "name": "Fracasser (rang1)",
+    "icon": "spell_frost_frostshock",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:4 Column:3 Rank:1. Use icon icon_7243.jpg"
+    "description": "Augmente les chances de critique de toutes les techniques du Mage sur les cibles gelées de 25%"
   },
   "72432": {
-    "name": "Specialisation:72 Row:4 Column:3 Rank:2",
+    "name": "Fracasser (rang2)",
     "icon": "icon_7243",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:4 Column:3 Rank:2. Use icon icon_7243.jpg"
+    "description": "Augmente les chances de critique de toutes les techniques du Mage sur les cibles gelées de 50%"
   },
   "72433": {
     "name": "Specialisation:72 Row:4 Column:3 Rank:3",
@@ -15000,16 +15000,16 @@
     "description": "Description for Specialisation:72 Row:4 Column:3 Rank:5. Use icon icon_7243.jpg"
   },
   "72511": {
-    "name": "Specialisation:72 Row:5 Column:1 Rank:1",
-    "icon": "icon_7251",
+    "name": "Froid Hivernal (rang1)",
+    "icon": "spell_frost_chillingblast",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:5 Column:1 Rank:1. Use icon icon_7251.jpg"
+    "description": "Permet a chaque techniques de Glace du Mage d'avoir 100% de chance de poser un affaiblissement supplémentaire de 15sec, qui augmente les chances de critiques sur la cible avec les techniques de Sort de Give de 1% stackable 5fois"
   },
   "72512": {
-    "name": "Specialisation:72 Row:5 Column:1 Rank:2",
+    "name": "Froid Hivernal (rang2)",
     "icon": "icon_7251",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:5 Column:1 Rank:2. Use icon icon_7251.jpg"
+    "description": "Permet a chaque techniques de Glace du Mage d'avoir 100% de chance de poser un affaiblissement supplémentaire de 15sec, qui augmente les chances de critiques sur la cible avec les techniques de Sort de Give de 2% stackable 5fois"
   },
   "72513": {
     "name": "Specialisation:72 Row:5 Column:1 Rank:3",
@@ -15030,22 +15030,22 @@
     "description": "Description for Specialisation:72 Row:5 Column:1 Rank:5. Use icon icon_7251.jpg"
   },
   "72521": {
-    "name": "Specialisation:72 Row:5 Column:2 Rank:1",
-    "icon": "icon_7252",
+    "name": "Froid comme la Glace (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:5 Column:2 Rank:1. Use icon icon_7252.jpg"
+    "description": "Convertit 5% de l'Endurance et 5% de l'Intelligence du Mage en Bonus Sort"
   },
   "72522": {
-    "name": "Specialisation:72 Row:5 Column:2 Rank:2",
+    "name": "Froid comme la Glace (rang2)",
     "icon": "icon_7252",
     "rank": 2,
-    "description": "Description for Specialisation:72 Row:5 Column:2 Rank:2. Use icon icon_7252.jpg"
+    "description": "Convertit 10% de l'Endurance et 10% de l'Intelligence du Mage en Bonus Sort"
   },
   "72523": {
-    "name": "Specialisation:72 Row:5 Column:2 Rank:3",
+    "name": "Froid comme la Glace (rang3)",
     "icon": "icon_7252",
     "rank": 3,
-    "description": "Description for Specialisation:72 Row:5 Column:2 Rank:3. Use icon icon_7252.jpg"
+    "description": "Convertit 15% de l'Endurance et 15% de l'Intelligence du Mage en Bonus Sort"
   },
   "72524": {
     "name": "Specialisation:72 Row:5 Column:2 Rank:4",
@@ -15060,10 +15060,10 @@
     "description": "Description for Specialisation:72 Row:5 Column:2 Rank:5. Use icon icon_7252.jpg"
   },
   "72611": {
-    "name": "Specialisation:72 Row:6 Column:1 Rank:1",
-    "icon": "icon_7261",
+    "name": "Barrière de Glace",
+    "icon": "spell_ice_lament",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:6 Column:1 Rank:1. Use icon icon_7261.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, coûte 305pts de Mana, dure 1min, Pose une amélioration de Bouclier sur le Mage, qui absorbe 438pts de dégats, tant qu'il est protégé le Mage ne subit pas d'effet d'interruption sur ses incantations"
   },
   "72612": {
     "name": "Specialisation:72 Row:6 Column:1 Rank:2",
@@ -15090,10 +15090,10 @@
     "description": "Description for Specialisation:72 Row:6 Column:1 Rank:5. Use icon icon_7261.jpg"
   },
   "72621": {
-    "name": "Specialisation:72 Row:6 Column:2 Rank:1",
-    "icon": "icon_7262",
+    "name": "Congélation",
+    "icon": "spell_frost_waterelemental",
     "rank": 1,
-    "description": "Description for Specialisation:72 Row:6 Column:2 Rank:1. Use icon icon_7262.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement et le partage avec la technique Nova de Givre, coûte 90pts de Mana, 30yards de portée, Permet au Mage de lancer l'équivalent de sa technique Nova de Givre a distance, l'effet ne dure que 3sec"
   },
   "72622": {
     "name": "Specialisation:72 Row:6 Column:2 Rank:2",
