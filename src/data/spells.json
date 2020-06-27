@@ -12813,13 +12813,13 @@
     "name": "Gardé par la Nature (rang1)",
     "icon": "spell_nature_healingway",
     "rank": 1,
-    "description": "Lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10%, génére 10% de menace en moins et augmente les soins qu'il reçoit de 10%"
+    "description": "Augmente la Résistance Nature du Chaman de 10pts, de plus lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10%, génére 10% de menace en moins et augmente les soins qu'il reçoit de 10%"
   },
   "62432": {
     "name": "Gardé par la Nature (rang2)",
     "icon": "icon_6243",
     "rank": 2,
-    "description": "Lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20%, génére 20% de menace en moins et augmente les soins qu'il reçoit de 20%"
+    "description": "Augmente la Résistance Nature du Chaman de 20pts, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20%, génére 20% de menace en moins et augmente les soins qu'il reçoit de 20%"
   },
   "62433": {
     "name": "Specialisation:62 Row:4 Column:3 Rank:3",
@@ -12963,19 +12963,19 @@
     "name": "Explosion des Arcanes Améliorée (rang1)",
     "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 2%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 5%"
   },
   "70002": {
     "name": "Explosion des Arcanes Améliorée (rang2)",
     "icon": "icon_7000",
     "rank": 2,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 4%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 10%"
   },
   "70003": {
     "name": "Explosion des Arcanes Améliorée (rang3)",
     "icon": "icon_7000",
     "rank": 3,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 6%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 15%"
   },
   "70004": {
     "name": "Specialisation:70 Row:0 Column:0 Rank:4",
@@ -12993,13 +12993,13 @@
     "name": "Endurance des Arcanes (rang1)",
     "icon": "spell_shadow_charm",
     "rank": 1,
-    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 5%"
+    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 5% et augmente le nombre de charge des techniques de Gemme de Mana de 1"
   },
   "70012": {
     "name": "Endurance des Arcanes (rang2)",
     "icon": "icon_7001",
     "rank": 2,
-    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 10%"
+    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 10% et augmente le nombre de charge des techniques de Gemme de Mana de 2"
   },
   "70013": {
     "name": "Specialisation:70 Row:0 Column:1 Rank:3",
@@ -13143,19 +13143,19 @@
     "name": "Absorption (rang1)",
     "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 5pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70122": {
     "name": "Absorption (rang2)",
     "icon": "icon_7012",
     "rank": 2,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 20pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70123": {
     "name": "Absorption (rang3)",
     "icon": "icon_7012",
     "rank": 3,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 15pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 30pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien"
   },
   "70124": {
     "name": "Specialisation:70 Row:1 Column:2 Rank:4",
@@ -13233,7 +13233,7 @@
     "name": "Gardien d'Arcanes",
     "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 160pts de mana, 30sec de temps de rechargement, Pose sur le Mage une amélioration de 30sec qui absorbe 875pts de dégats d'Arcanes"
+    "description": "Technique a activer, instantanée, coûte 160pts de mana, 30sec de temps de rechargement et le partage avec les autres techniques de Gardien, Pose sur le Mage une amélioration de 30sec qui absorbe 875pts de dégats d'Arcanes"
   },
   "70212": {
     "name": "Specialisation:70 Row:2 Column:1 Rank:2",
@@ -13353,13 +13353,13 @@
     "name": "Affinitée avec les Arcanes (rang1)",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente la portée des sorts d'Arcane de 3yards, jusqu'a un maximum de 40yards et augmente le nombre de charge des techniques de Gemme de Mana de 1"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente la portée des sorts d'Arcane de 3yards, jusqu'a un maximum de 40yards"
   },
   "70312": {
     "name": "Affinitée avec les Arcanes (rang2)",
     "icon": "icon_7031",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards et augmente le nombre de charge des techniques de Gemme de Mana de 2"
+    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards"
   },
   "70313": {
     "name": "Specialisation:70 Row:3 Column:1 Rank:3",
@@ -13533,13 +13533,13 @@
     "name": "Résillience des Arcanes (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
+    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 15pts"
   },
   "70432": {
     "name": "Résilience des Arcanes (rang2)",
     "icon": "icon_7043",
     "rank": 2,
-    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 60pts"
+    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
   },
   "70433": {
     "name": "Specialisation:70 Row:4 Column:3 Rank:3",
@@ -13830,16 +13830,16 @@
     "description": "Description for Specialisation:71 Row:1 Column:0 Rank:5. Use icon icon_7110.jpg"
   },
   "71111": {
-    "name": "Puissance du Feu (rang1)",
+    "name": "Jouer avec le Feu (rang1)",
     "icon": "spell_fire_immolation",
     "rank": 1,
-    "description": "Augmente les dégats infligés par les sorts du Mage de 5%"
+    "description": "Augmente les dégats infligés par les sorts du Mage de 5% mais augmente également les dégats qu'il subit du même montant"
   },
   "71112": {
-    "name": "Puissance du Feu (rang2)",
+    "name": "Jouer avec le Feu (rang2)",
     "icon": "icon_7111",
     "rank": 2,
-    "description": "Augmente les dégats infligés par les sorts du Mage de 10%"
+    "description": "Augmente les dégats infligés par les sorts du Mage de 10% mais augmente également les dégats qu'il subit du même montant"
   },
   "71113": {
     "name": "Specialisation:71 Row:1 Column:1 Rank:3",
@@ -13893,13 +13893,13 @@
     "name": "Incinérer (rang1)",
     "icon": "spell_fire_flameshock",
     "rank": 1,
-    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Déflagration des Arcanes et Cône de Froid de 3%"
+    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Explosion Pyrotechnique, Vague Explosive, Souffle du Dragon, Explosion des Arcanes, Déflagration des Arcanes et Cône de Froid de 3%"
   },
   "71132": {
     "name": "Incinérer (rang2)",
     "icon": "icon_7113",
     "rank": 2,
-    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Déflagration des Arcanes et Cône de Froid de 6%"
+    "description": "Augmente les chances de critique du Mage avec les techniques Trait de Feu, Brûlure, Explosion Pyrotechnique, Vague Explosive, Souffle du Dragon, Explosion des Arcanes, Déflagration des Arcanes et Cône de Froid de 6%"
   },
   "71133": {
     "name": "Specialisation:71 Row:1 Column:3 Rank:3",
@@ -13983,7 +13983,7 @@
     "name": "Explosion Pyrotechnique",
     "icon": "spell_fire_fireball02",
     "rank": 1,
-    "description": "Technique a activer, 6sec de temps d'incantation, coûte 440pts de Mana, 30yards de portée, le Mage lance une boule de feu qui inflige 800pts de dégats de Feu et 268pts de dégats de feu supplémentaire ensuite en 12sec"
+    "description": "Technique a activer, 6sec de temps d'incantation, coûte 440pts de Mana, 30yards de portée, le Mage lance un rocher de feu qui inflige 800pts de dégats de Feu et 268pts de dégats de feu supplémentaire ensuite en 12sec"
   },
   "71222": {
     "name": "Specialisation:71 Row:2 Column:2 Rank:2",
@@ -14070,13 +14070,13 @@
     "description": "Description for Specialisation:71 Row:3 Column:0 Rank:5. Use icon icon_7130.jpg"
   },
   "71311": {
-    "name": "Gardien Agressif (rang1)",
+    "name": "Bouclier Ardent (rang1)",
     "icon": "spell_fire_firearmor",
     "rank": 1,
     "description": "Donne aux différentes techniques de Gardien 50% de chance de renvoyer la prochaine technique absorbée"
   },
   "71312": {
-    "name": "Gardien Agressif (rang2)",
+    "name": "Bouclier Ardent (rang2)",
     "icon": "icon_7131",
     "rank": 2,
     "description": "Donne aux différentes techniques de Gardien 100% de chance de renvoyer la prochaine technique absorbée"
@@ -14193,7 +14193,7 @@
     "name": "Combustion",
     "icon": "spell_fire_sealoffire",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Donne au Mage une amélioration qui augmente de 10% ses chances de critique avec chacune de ses techniques de feu suivantes, l'effet dure jusqu'a ce qu'il se stack 10fois ou jusqu'a ce que Mage est obtenu 3 effets critiques"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, Donne au Mage une amélioration qui augmente de 10% ses chances de critique a chaque fois qu'il lance une technique de Sort de feu, l'effet se stack et dure jusqu'a ce que Mage est obtenu 3 effets critiques"
   },
   "71412": {
     "name": "Specialisation:71 Row:4 Column:1 Rank:2",
@@ -14310,19 +14310,19 @@
     "description": "Description for Specialisation:71 Row:5 Column:1 Rank:5. Use icon icon_7151.jpg"
   },
   "71521": {
-    "name": "Jouer avec le Feu (rang1)",
+    "name": "Surpuissance du Feu (rang1)",
     "icon": "spell_holy_purify",
     "rank": 1,
     "description": "Convertit 10% de l'Intelligence du Mage en Bonus Sort"
   },
   "71522": {
-    "name": "Jouer avec le Feu (rang2)",
+    "name": "Surpuissance du Feu (rang2)",
     "icon": "icon_7152",
     "rank": 2,
     "description": "Convertit 20% de l'Intelligence du Mage en Bonus Sort"
   },
   "71523": {
-    "name": "Jouer avec le Feu (rang3)",
+    "name": "Surpuissance du Feu (rang3)",
     "icon": "icon_7152",
     "rank": 3,
     "description": "Convertit 30% de l'Intelligence du Mage en Bonus Sort"
@@ -14341,7 +14341,7 @@
   },
   "71611": {
     "name": "Pyromane",
-    "icon": "spell_holy_powerinfusion",
+    "icon": "spell_fire_lavaspawn",
     "rank": 1,
     "description": "Diminue le temps de d'incantation de la technique Choc de Flamme du Mage de 100% mais lui donne un temps de rechargement de 8sec"
   },
@@ -14371,7 +14371,7 @@
   },
   "71621": {
     "name": "Souffle du Dragon",
-    "icon": "spell_fire_lavaspawn",
+    "icon": "inv_misc_head_dragon_black",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône de 10yards en face du Mage et les Désorientent durant 5sec, le moindre dégat direct interrompt l'effet, interrompt également l'attaque automatique du Mage"
   },
