@@ -14913,7 +14913,7 @@
     "name": "Bloc de Glace",
     "icon": "spell_frost_frost",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et même sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet"
+    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et même sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet? Pose un affaiblissement spécial sur le Mage qui l'empêche de pouvoir rebénéfier de l'effet de Bloc de Glace durant 30sec"
   },
   "72412": {
     "name": "Specialisation:72 Row:4 Column:1 Rank:2",
