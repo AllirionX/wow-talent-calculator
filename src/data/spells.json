@@ -5499,7 +5499,7 @@
     "name": "Tir des Arcanes Améliorés (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": ""
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et augmente les chances de critique avec la technique de 10%"
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
