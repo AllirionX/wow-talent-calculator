@@ -12963,19 +12963,19 @@
     "name": "Explosion des Arcanes Améliorée (rang1)",
     "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 5%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 2%"
   },
   "70002": {
     "name": "Explosion des Arcanes Améliorée (rang2)",
     "icon": "icon_7000",
     "rank": 2,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 10%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 4%"
   },
   "70003": {
     "name": "Explosion des Arcanes Améliorée (rang3)",
     "icon": "icon_7000",
     "rank": 3,
-    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 15%"
+    "description": "Augmente les chances de critiques de la technique Explosion des Arcanes du Mage de 6%"
   },
   "70004": {
     "name": "Specialisation:70 Row:0 Column:0 Rank:4",
@@ -14373,7 +14373,7 @@
     "name": "Souffle du Dragon",
     "icon": "inv_misc_head_dragon_black",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône de 10yards en face du Mage et les Désorientent durant 5sec, le moindre dégat direct interrompt l'effet, interrompt également l'attaque automatique du Mage"
+    "description": "Technique a activer, instantanée, coûte 700pts de Mana, 20sec de temps de rechargement, inflige 585pts de dégats de Feu aux cibles dans un cône de 10yards en face du Mage et les Désorientent durant 4sec, le moindre dégat direct interrompt l'effet, interrompt également l'attaque automatique du Mage"
   },
   "71622": {
     "name": "Specialisation:71 Row:6 Column:2 Rank:2",
@@ -14913,7 +14913,7 @@
     "name": "Bloc de Glace",
     "icon": "spell_frost_frost",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et même sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet? Pose un affaiblissement spécial sur le Mage qui l'empêche de pouvoir rebénéfier de l'effet de Bloc de Glace durant 30sec"
+    "description": "Technique a activer, instantanée, 5min de temps de rechargement, coûte 15pts de Mana, utilisable hors temps de rechargement global et même sous contrôle, Enveloppe le Mage dans la glace, ce qui retire tout les affaiblissement sur le Mage et le rend insensible a tout durant 10sec, mais le Mage ne peut ni se déplacer, ni se attaquer, ni lancer de technique durant l'effet. Pose un affaiblissement spécial sur le Mage qui l'empêche de pouvoir rebénéfier de l'effet de Bloc de Glace durant 30sec"
   },
   "72412": {
     "name": "Specialisation:72 Row:4 Column:1 Rank:2",
@@ -15120,22 +15120,22 @@
     "description": "Description for Specialisation:72 Row:6 Column:2 Rank:5. Use icon icon_7262.jpg"
   },
   "80001": {
-    "name": "Specialisation:80 Row:0 Column:0 Rank:1",
-    "icon": "icon_8000",
+    "name": "Supression (rang1)",
+    "icon": "spell_shadow_unsummonbuilding",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:0 Column:0 Rank:1. Use icon icon_8000.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 2%"
   },
   "80002": {
-    "name": "Specialisation:80 Row:0 Column:0 Rank:2",
+    "name": "Supression (rang2)",
     "icon": "icon_8000",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:0 Column:0 Rank:2. Use icon icon_8000.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 4%"
   },
   "80003": {
-    "name": "Specialisation:80 Row:0 Column:0 Rank:3",
+    "name": "Supression (rang3)",
     "icon": "icon_8000",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:0 Column:0 Rank:3. Use icon icon_8000.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 6%"
   },
   "80004": {
     "name": "Specialisation:80 Row:0 Column:0 Rank:4",
@@ -15150,16 +15150,16 @@
     "description": "Description for Specialisation:80 Row:0 Column:0 Rank:5. Use icon icon_8000.jpg"
   },
   "80011": {
-    "name": "Specialisation:80 Row:0 Column:1 Rank:1",
-    "icon": "icon_8001",
+    "name": "Corruption Améliorée (rang1)",
+    "icon": "spell_shadow_abominationexplosion",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:0 Column:1 Rank:1. Use icon icon_8001.jpg"
+    "description": "Diminue le temps d'incantation de la technique Corruption du Démoniste de 50%"
   },
   "80012": {
-    "name": "Specialisation:80 Row:0 Column:1 Rank:2",
+    "name": "Corruption Améliorée (rang2)",
     "icon": "icon_8001",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:0 Column:1 Rank:2. Use icon icon_8001.jpg"
+    "description": "Diminue le temps d'incantation de la technique Corruption du Démoniste de 100%"
   },
   "80013": {
     "name": "Specialisation:80 Row:0 Column:1 Rank:3",
@@ -15180,22 +15180,22 @@
     "description": "Description for Specialisation:80 Row:0 Column:1 Rank:5. Use icon icon_8001.jpg"
   },
   "80021": {
-    "name": "Specialisation:80 Row:0 Column:2 Rank:1",
-    "icon": "icon_8002",
+    "name": "Voile Mortel Amélioré (rang1)",
+    "icon": "spell_holy_excorcism_02",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:0 Column:2 Rank:1. Use icon icon_8002.jpg"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 20sec et augmente le montant de vie et de dégat qu'il inflige de 40%"
   },
   "80022": {
-    "name": "Specialisation:80 Row:0 Column:2 Rank:2",
+    "name": "Voile Mortel Amélioré (rang2)",
     "icon": "icon_8002",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:0 Column:2 Rank:2. Use icon icon_8002.jpg"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 40sec et augmente le montant de vie et de dégat qu'il inflige de 80%"
   },
   "80023": {
-    "name": "Specialisation:80 Row:0 Column:2 Rank:3",
+    "name": "Voile Mortel Amélioré (rang3)",
     "icon": "icon_8002",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:0 Column:2 Rank:3. Use icon icon_8002.jpg"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 60sec et augmente le montant de vie et de dégat qu'il inflige de 120%"
   },
   "80024": {
     "name": "Specialisation:80 Row:0 Column:2 Rank:4",
@@ -15210,16 +15210,16 @@
     "description": "Description for Specialisation:80 Row:0 Column:2 Rank:5. Use icon icon_8002.jpg"
   },
   "80031": {
-    "name": "Specialisation:80 Row:0 Column:3 Rank:1",
-    "icon": "icon_8003",
+    "name": "Connexion Noire (rang1)",
+    "icon": "spell_shadow_burningspirit",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:0 Column:3 Rank:1. Use icon icon_8003.jpg"
+    "description": "Augmente le montant de mana transféré par les techniques Connexion et Pacte Noir du Démoniste de 10%"
   },
   "80032": {
-    "name": "Specialisation:80 Row:0 Column:3 Rank:2",
+    "name": "Connexion Noire (rang2)",
     "icon": "icon_8003",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:0 Column:3 Rank:2. Use icon icon_8003.jpg"
+    "description": "Augmente le montant de mana transféré par les techniques Connexion et Pacte Noir du Démoniste de 20%"
   },
   "80033": {
     "name": "Specialisation:80 Row:0 Column:3 Rank:3",
@@ -15240,22 +15240,22 @@
     "description": "Description for Specialisation:80 Row:0 Column:3 Rank:5. Use icon icon_8003.jpg"
   },
   "80101": {
-    "name": "Specialisation:80 Row:1 Column:0 Rank:1",
-    "icon": "icon_8010",
+    "name": "Affliction Instable (rang1)",
+    "icon": "spell_shadow_curseofmannoroth",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:1 Column:0 Rank:1. Use icon icon_8010.jpg"
+    "description": "Diminue le montant de menace généré par le Démoniste de 5% et réduit le temps de rechargement de la technique Brise Âme de 1min et réduit le coût en Mana de toutes les techniques d'Affliction de 5%"
   },
   "80102": {
-    "name": "Specialisation:80 Row:1 Column:0 Rank:2",
+    "name": "Affliction Instable (rang2)",
     "icon": "icon_8010",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:1 Column:0 Rank:2. Use icon icon_8010.jpg"
+    "description": "Diminue le montant de menace généré par le Démoniste de 10% et réduit le temps de rechargement de la technique Brise Âme de 2min et réduit le coût en Mana de toutes les techniques d'Affliction de 10%"
   },
   "80103": {
-    "name": "Specialisation:80 Row:1 Column:0 Rank:3",
+    "name": "Affliction Instable (rang3)",
     "icon": "icon_8010",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:1 Column:0 Rank:3. Use icon icon_8010.jpg"
+    "description": "Diminue le montant de menace généré par le Démoniste de 15% et réduit le temps de rechargement de la technique Brise Âme de 3min"
   },
   "80104": {
     "name": "Specialisation:80 Row:1 Column:0 Rank:4",
@@ -15270,16 +15270,16 @@
     "description": "Description for Specialisation:80 Row:1 Column:0 Rank:5. Use icon icon_8010.jpg"
   },
   "80111": {
-    "name": "Specialisation:80 Row:1 Column:1 Rank:1",
-    "icon": "icon_8011",
+    "name": "Contagion (rang1)",
+    "icon": "spell_shadow_lifedrain02",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:1 Column:1 Rank:1. Use icon icon_8011.jpg"
+    "description": "Augmente les dégats des techniques de Drain de 1% par nombre d'Affaiblissement d'Affliction sur la cible et diminue la Résistance Magique de la cible du Démoniste de 10pts"
   },
   "80112": {
-    "name": "Specialisation:80 Row:1 Column:1 Rank:2",
+    "name": "Contagion (rang2)",
     "icon": "icon_8011",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:1 Column:1 Rank:2. Use icon icon_8011.jpg"
+    "description": "Augmente les dégats des techniques de Drain de 2% par nombre d'Affaiblissement d'Affliction sur la cible et diminue la Résistance Magique de la cible du Démoniste de 20pts"
   },
   "80113": {
     "name": "Specialisation:80 Row:1 Column:1 Rank:3",
@@ -15300,22 +15300,22 @@
     "description": "Description for Specialisation:80 Row:1 Column:1 Rank:5. Use icon icon_8011.jpg"
   },
   "80121": {
-    "name": "Specialisation:80 Row:1 Column:2 Rank:1",
-    "icon": "icon_8012",
+    "name": "Drain d'Âme Amélioré (rang1)",
+    "icon": "spell_shadow_haunting",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:1 Column:2 Rank:1. Use icon icon_8012.jpg"
+    "description": "Lorsqu'une cible du Démoniste qui lui rapporte de l'Expérience ou de l'Honneur meurt sous l'effet de la technique Drain d'Âme il regagne 5% de sa vie et de sa mana instantanément"
   },
   "80122": {
-    "name": "Specialisation:80 Row:1 Column:2 Rank:2",
+    "name": "Drain d'Âme Amélioré (rang2)",
     "icon": "icon_8012",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:1 Column:2 Rank:2. Use icon icon_8012.jpg"
+    "description": "Lorsqu'une cible du Démoniste qui lui rapporte de l'Expérience ou de l'Honneur meurt sous l'effet de la technique Drain d'Âme il regagne 10% de sa vie et de sa mana instantanément"
   },
   "80123": {
-    "name": "Specialisation:80 Row:1 Column:2 Rank:3",
+    "name": "Drain d'Âme Amélioré (rang3)",
     "icon": "icon_8012",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:1 Column:2 Rank:3. Use icon icon_8012.jpg"
+    "description": "Lorsqu'une cible du Démoniste qui lui rapporte de l'Expérience ou de l'Honneur meurt sous l'effet de la technique Drain d'Âme il regagne 15% de sa vie et de sa mana instantanément"
   },
   "80124": {
     "name": "Specialisation:80 Row:1 Column:2 Rank:4",
@@ -15330,16 +15330,16 @@
     "description": "Description for Specialisation:80 Row:1 Column:2 Rank:5. Use icon icon_8012.jpg"
   },
   "80131": {
-    "name": "Specialisation:80 Row:1 Column:3 Rank:1",
-    "icon": "icon_8013",
+    "name": "Concentration Impie (rang1)",
+    "icon": "spell_shadow_charm",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:1 Column:3 Rank:1. Use icon icon_8013.jpg"
+    "description": "Donne 35% de chance d'anti interruption au Démoniste lorsqu'il incante des techniques d'Affliction"
   },
   "80132": {
-    "name": "Specialisation:80 Row:1 Column:3 Rank:2",
+    "name": "Concentration Impie (rang2)",
     "icon": "icon_8013",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:1 Column:3 Rank:2. Use icon icon_8013.jpg"
+    "description": "Donne 70% de chance d'anti interruption au Démoniste lorsqu'il incante des techniques d'Affliction"
   },
   "80133": {
     "name": "Specialisation:80 Row:1 Column:3 Rank:3",
@@ -15360,22 +15360,22 @@
     "description": "Description for Specialisation:80 Row:1 Column:3 Rank:5. Use icon icon_8013.jpg"
   },
   "80201": {
-    "name": "Specialisation:80 Row:2 Column:0 Rank:1",
-    "icon": "icon_8020",
+    "name": "Syphon (rang1)",
+    "icon": "spell_shadow_fingerofdeath",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:2 Column:0 Rank:1. Use icon icon_8020.jpg"
+    "description": "Donne au Démoniste +10% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 5% du coût en mana de la technique lui est rendu"
   },
   "80202": {
-    "name": "Specialisation:80 Row:2 Column:0 Rank:2",
+    "name": "Syphon (rang2)",
     "icon": "icon_8020",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:2 Column:0 Rank:2. Use icon icon_8020.jpg"
+    "description": "Donne au Démoniste +20% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 10% du coût en mana de la technique lui est rendu"
   },
   "80203": {
-    "name": "Specialisation:80 Row:2 Column:0 Rank:3",
+    "name": "Syphon (rang3)",
     "icon": "icon_8020",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:2 Column:0 Rank:3. Use icon icon_8020.jpg"
+    "description": "Donne au Démoniste +30% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 15% du coût en mana de la technique lui est rendu"
   },
   "80204": {
     "name": "Specialisation:80 Row:2 Column:0 Rank:4",
@@ -15390,10 +15390,10 @@
     "description": "Description for Specialisation:80 Row:2 Column:0 Rank:5. Use icon icon_8020.jpg"
   },
   "80211": {
-    "name": "Specialisation:80 Row:2 Column:1 Rank:1",
-    "icon": "icon_8021",
+    "name": "Sucer Jusqu'a la Moëlle",
+    "icon": "spell_shadow_siphonmana",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:2 Column:1 Rank:1. Use icon icon_8021.jpg"
+    "description": "Permet aux techniques Drain de Mana et Drain d'Âme du Démoniste de lancer également l'affaiblissement de la technique Drain de Vie sur la cible"
   },
   "80212": {
     "name": "Specialisation:80 Row:2 Column:1 Rank:2",
@@ -15420,10 +15420,10 @@
     "description": "Description for Specialisation:80 Row:2 Column:1 Rank:5. Use icon icon_8021.jpg"
   },
   "80221": {
-    "name": "Specialisation:80 Row:2 Column:2 Rank:1",
-    "icon": "icon_8022",
+    "name": "Crépuscule",
+    "icon": "spell_shadow_twilight",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:2 Column:2 Rank:1. Use icon icon_8022.jpg"
+    "description": "Permet a la technique Corruption du Démoniste, lorsque son effet est interrompu par une dissipation ou la fin de sa durée, de donner une amélioration au Démoniste de 15sec qui réduit le temps d'incantation de sa prochaine technique de Trait de l'Ombre de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "80222": {
     "name": "Specialisation:80 Row:2 Column:2 Rank:2",
@@ -15450,16 +15450,16 @@
     "description": "Description for Specialisation:80 Row:2 Column:2 Rank:5. Use icon icon_8022.jpg"
   },
   "80231": {
-    "name": "Specialisation:80 Row:2 Column:3 Rank:1",
-    "icon": "icon_8023",
+    "name": "Malédictions Amplifiées (rang1)",
+    "icon": "spell_shadow_contagion",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:2 Column:3 Rank:1. Use icon icon_8023.jpg"
+    "description": "Augmente les effets des techniques de Malédiction du Démoniste de 10%"
   },
   "80232": {
-    "name": "Specialisation:80 Row:2 Column:3 Rank:2",
+    "name": "Malédictions Amplifiées (rang2)",
     "icon": "icon_8023",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:2 Column:3 Rank:2. Use icon icon_8023.jpg"
+    "description": "Augmente les effets des techniques de Malédiction du Démoniste de 20%"
   },
   "80233": {
     "name": "Specialisation:80 Row:2 Column:3 Rank:3",
@@ -15480,22 +15480,22 @@
     "description": "Description for Specialisation:80 Row:2 Column:3 Rank:5. Use icon icon_8023.jpg"
   },
   "80301": {
-    "name": "Specialisation:80 Row:3 Column:0 Rank:1",
-    "icon": "icon_8030",
+    "name": "Peur Amélioré (rang1)",
+    "icon": "spell_shadow_possession",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:3 Column:0 Rank:1. Use icon icon_8030.jpg"
+    "description": "Donne au Démoniste +10% de chance d'anti interruption sur la technique Peur, de plus lorsqu'une cible est sous l'effet de ce sort diminue sa vitesse de déplacement de 10% et durant encore 5sec après la fin de son effet ou s'il est dissipé"
   },
   "80302": {
-    "name": "Specialisation:80 Row:3 Column:0 Rank:2",
+    "name": "Peur Amélioré (rang2)",
     "icon": "icon_8030",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:3 Column:0 Rank:2. Use icon icon_8030.jpg"
+    "description": "Donne au Démoniste +20% de chance d'anti interruption sur la technique Peur, de plus lorsqu'une cible est sous l'effet de ce sort diminue sa vitesse de déplacement de 20% et durant encore 5sec après la fin de son effet ou s'il est dissipé"
   },
   "80303": {
-    "name": "Specialisation:80 Row:3 Column:0 Rank:3",
+    "name": "Peur Amélioré (rang3)",
     "icon": "icon_8030",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:3 Column:0 Rank:3. Use icon icon_8030.jpg"
+    "description": "Donne au Démoniste +30% de chance d'anti interruption sur la technique Peur, de plus lorsqu'une cible est sous l'effet de ce sort diminue sa vitesse de déplacement de 30% et durant encore 5sec après la fin de son effet ou s'il est dissipé"
   },
   "80304": {
     "name": "Specialisation:80 Row:3 Column:0 Rank:4",
@@ -15510,16 +15510,16 @@
     "description": "Description for Specialisation:80 Row:3 Column:0 Rank:5. Use icon icon_8030.jpg"
   },
   "80311": {
-    "name": "Specialisation:80 Row:3 Column:1 Rank:1",
-    "icon": "icon_8031",
+    "name": "Gardiens Améliorés (rang1)",
+    "icon": "spell_shadow_antishadow",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:3 Column:1 Rank:1. Use icon icon_8031.jpg"
+    "description": "Diminue le temps de rechargement des techniques de Gardien de 5sec et augmente leur effet de 10%"
   },
   "80312": {
-    "name": "Specialisation:80 Row:3 Column:1 Rank:2",
+    "name": "Gardiens Améliorés (rang2)",
     "icon": "icon_8031",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:3 Column:1 Rank:2. Use icon icon_8031.jpg"
+    "description": "Diminue le temps de rechargement des techniques de Gardien de 10sec et augmente leur effet de 20%"
   },
   "80313": {
     "name": "Specialisation:80 Row:3 Column:1 Rank:3",
@@ -15540,22 +15540,22 @@
     "description": "Description for Specialisation:80 Row:3 Column:1 Rank:5. Use icon icon_8031.jpg"
   },
   "80321": {
-    "name": "Specialisation:80 Row:3 Column:2 Rank:1",
-    "icon": "icon_8032",
+    "name": "Corruption Amplifiée (rang1)",
+    "icon": "spell_shadow_shadowbolt",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:3 Column:2 Rank:1. Use icon icon_8032.jpg"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 1sec et ses dégats de 10%"
   },
   "80322": {
-    "name": "Specialisation:80 Row:3 Column:2 Rank:2",
+    "name": "Corruption Amplifiée (rang2)",
     "icon": "icon_8032",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:3 Column:2 Rank:2. Use icon icon_8032.jpg"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 2sec et ses dégats de 20%"
   },
   "80323": {
-    "name": "Specialisation:80 Row:3 Column:2 Rank:3",
+    "name": "Corruption Améplifiée (rang3)",
     "icon": "icon_8032",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:3 Column:2 Rank:3. Use icon icon_8032.jpg"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 3sec et ses dégats de 30%"
   },
   "80324": {
     "name": "Specialisation:80 Row:3 Column:2 Rank:4",
@@ -15570,16 +15570,16 @@
     "description": "Description for Specialisation:80 Row:3 Column:2 Rank:5. Use icon icon_8032.jpg"
   },
   "80331": {
-    "name": "Specialisation:80 Row:3 Column:3 Rank:1",
-    "icon": "icon_8033",
+    "name": "Allonge Sinistre (rang1)",
+    "icon": "spell_shadow_callofbone",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:3 Column:3 Rank:1. Use icon icon_8033.jpg"
+    "description": "Augmente la portée des techniques d'Affliction du Démoniste de 10% jusqu'a un maximum de 40yards"
   },
   "80332": {
-    "name": "Specialisation:80 Row:3 Column:3 Rank:2",
+    "name": "Allonge Sinistre (rang2)",
     "icon": "icon_8033",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:3 Column:3 Rank:2. Use icon icon_8033.jpg"
+    "description": "Augmente la portée des techniques d'Affliction du Démoniste de 20% jusqu'a un maximum de 40yards"
   },
   "80333": {
     "name": "Specialisation:80 Row:3 Column:3 Rank:3",
@@ -15600,22 +15600,22 @@
     "description": "Description for Specialisation:80 Row:3 Column:3 Rank:5. Use icon icon_8033.jpg"
   },
   "80401": {
-    "name": "Specialisation:80 Row:4 Column:0 Rank:1",
-    "icon": "icon_8040",
+    "name": "Etreinte de l'Ombre (rang1)",
+    "icon": "spell_shadow_improvedvampiricembrace",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:4 Column:0 Rank:1. Use icon icon_8040.jpg"
+    "description": "Augmente la Résistance a l'Ombre du Démoniste de 20pts et lorsque le Démoniste subit une attaque en mélée ou a distance, il pose un affaiblissement de 12sec qui réduit les dégats qu'inflige la cible de 2%"
   },
   "80402": {
-    "name": "Specialisation:80 Row:4 Column:0 Rank:2",
+    "name": "Etreinte de l'Ombre (rang2)",
     "icon": "icon_8040",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:4 Column:0 Rank:2. Use icon icon_8040.jpg"
+    "description": "Augmente la Résistance a l'Ombre du Démoniste de 40pts et lorsque le Démoniste subit une attaque en mélée ou a distance, il pose un affaiblissement de 12sec qui réduit les dégats qu'inflige la cible de 4%"
   },
   "80403": {
-    "name": "Specialisation:80 Row:4 Column:0 Rank:3",
+    "name": "Etreinte de l'Ombre (rang3)",
     "icon": "icon_8040",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:4 Column:0 Rank:3. Use icon icon_8040.jpg"
+    "description": "Augmente la Résistance a l'Ombre du Démoniste de 60pts et lorsque le Démoniste subit une attaque en mélée ou a distance, il pose un affaiblissement de 12sec qui réduit les dégats qu'inflige la cible de 6%"
   },
   "80404": {
     "name": "Specialisation:80 Row:4 Column:0 Rank:4",
@@ -15630,10 +15630,10 @@
     "description": "Description for Specialisation:80 Row:4 Column:0 Rank:5. Use icon icon_8040.jpg"
   },
   "80411": {
-    "name": "Specialisation:80 Row:4 Column:1 Rank:1",
-    "icon": "icon_8041",
+    "name": "Siphon de Vie",
+    "icon": "spell_shadow_requiem",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:4 Column:1 Rank:1. Use icon icon_8041.jpg"
+    "description": "Technique a activer, instantanée, 30yards de portée, gratuite en mana, hors temps de rechargement global, Pose un affaiblissement sur la cible du Démoniste durant 30sec, qui transfert 15pts de Vie de la cible au Démoniste toutes les 3sec"
   },
   "80412": {
     "name": "Specialisation:80 Row:4 Column:1 Rank:2",
@@ -15660,10 +15660,10 @@
     "description": "Description for Specialisation:80 Row:4 Column:1 Rank:5. Use icon icon_8041.jpg"
   },
   "80421": {
-    "name": "Specialisation:80 Row:4 Column:2 Rank:1",
-    "icon": "icon_8042",
+    "name": "Malédiction de Fatigue",
+    "icon": "spell_shadow_grimward",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:4 Column:2 Rank:1. Use icon icon_8042.jpg"
+    "description": "Technique a activer, instantanée, technique de Malédiction, coûte 350pts de Mana, Pose un affaiblissement de Malédiction sur la cible du Démoniste durant 12sec, réduit les dégats qu'elle inflige de 310 et réduit également sa vitesse de déplacement de 30%"
   },
   "80422": {
     "name": "Specialisation:80 Row:4 Column:2 Rank:2",
@@ -15690,16 +15690,16 @@
     "description": "Description for Specialisation:80 Row:4 Column:2 Rank:5. Use icon icon_8042.jpg"
   },
   "80431": {
-    "name": "Specialisation:80 Row:4 Column:3 Rank:1",
-    "icon": "icon_8043",
+    "name": "Malédictions Améliorées (rang1)",
+    "icon": "spell_shadow_curseofsargeras",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:4 Column:3 Rank:1. Use icon icon_8043.jpg"
+    "description": "Diminue le coût en mana des techniques de Malédiction du Démoniste de 50% et diminue leur temps de rechargement global de 0,25sec"
   },
   "80432": {
-    "name": "Specialisation:80 Row:4 Column:3 Rank:2",
+    "name": "Malédictions Améliorées (rang2)",
     "icon": "icon_8043",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:4 Column:3 Rank:2. Use icon icon_8043.jpg"
+    "description": "Diminue le coût en mana des techniques de Malédiction du Démoniste de 100% et diminue leur temps de rechargement global de 0,5sec"
   },
   "80433": {
     "name": "Specialisation:80 Row:4 Column:3 Rank:3",
@@ -15720,16 +15720,16 @@
     "description": "Description for Specialisation:80 Row:4 Column:3 Rank:5. Use icon icon_8043.jpg"
   },
   "80511": {
-    "name": "Specialisation:80 Row:5 Column:1 Rank:1",
-    "icon": "icon_8051",
+    "name": "Maîtrise des Ombres (rang1)",
+    "icon": "spell_shadow_blackplague",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:5 Column:1 Rank:1. Use icon icon_8051.jpg"
+    "description": "Augmente les dégats d'Ombre du Démoniste et les effets de ses techniques de Drain de 5%"
   },
   "80512": {
-    "name": "Specialisation:80 Row:5 Column:1 Rank:2",
+    "name": "Maîtrise des Ombres (rang2)",
     "icon": "icon_8051",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:5 Column:1 Rank:2. Use icon icon_8051.jpg"
+    "description": "Augmente les dégats d'Ombre du Démoniste et les effets de ses techniques de Drain de 10%"
   },
   "80513": {
     "name": "Specialisation:80 Row:5 Column:1 Rank:3",
@@ -15750,22 +15750,22 @@
     "description": "Description for Specialisation:80 Row:5 Column:1 Rank:5. Use icon icon_8051.jpg"
   },
   "80521": {
-    "name": "Specialisation:80 Row:5 Column:2 Rank:1",
-    "icon": "icon_8052",
+    "name": "Imprécation (rang1)",
+    "icon": "spell_shadow_corpseexplode",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:5 Column:2 Rank:1. Use icon icon_8052.jpg"
+    "description": "Convertit 10% de l'Endurance du Démoniste en Bonus Sort"
   },
   "80522": {
-    "name": "Specialisation:80 Row:5 Column:2 Rank:2",
+    "name": "Imprécation (rang2)",
     "icon": "icon_8052",
     "rank": 2,
-    "description": "Description for Specialisation:80 Row:5 Column:2 Rank:2. Use icon icon_8052.jpg"
+    "description": "Convertit 20% de l'Endurance du Démoniste en Bonus Sort"
   },
   "80523": {
-    "name": "Specialisation:80 Row:5 Column:2 Rank:3",
+    "name": "Imprécation (rang3)",
     "icon": "icon_8052",
     "rank": 3,
-    "description": "Description for Specialisation:80 Row:5 Column:2 Rank:3. Use icon icon_8052.jpg"
+    "description": "Convertit 30% de l'Endurance du Démoniste en Bonus Sort"
   },
   "80524": {
     "name": "Specialisation:80 Row:5 Column:2 Rank:4",
@@ -15780,10 +15780,10 @@
     "description": "Description for Specialisation:80 Row:5 Column:2 Rank:5. Use icon icon_8052.jpg"
   },
   "80611": {
-    "name": "Specialisation:80 Row:6 Column:1 Rank:1",
-    "icon": "icon_8061",
+    "name": "Hurlement de Terreur Amélioré",
+    "icon": "spell_shadow_deathscream",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:6 Column:1 Rank:1. Use icon icon_8061.jpg"
+    "description": "Diminue le temps d'incantation de la technique Hurlement de Terreur du Démoniste ainsi que son cout en mana de 100%"
   },
   "80612": {
     "name": "Specialisation:80 Row:6 Column:1 Rank:2",
@@ -15810,10 +15810,10 @@
     "description": "Description for Specialisation:80 Row:6 Column:1 Rank:5. Use icon icon_8061.jpg"
   },
   "80621": {
-    "name": "Specialisation:80 Row:6 Column:2 Rank:1",
-    "icon": "icon_8062",
+    "name": "Graine de Corruption",
+    "icon": "spell_nature_timestop",
     "rank": 1,
-    "description": "Description for Specialisation:80 Row:6 Column:2 Rank:1. Use icon icon_8062.jpg"
+    "description": "Technique a activer, 2sec de temps d'incantation, coûte 340pts de Mana, Pose un affaiblissement qui inflige 522pts de dégats d'Ombre a la cible en 18sec, et lorsque son effet se termine ou qu'il est dissipé, inflige immédiatement 522pts de dégats de zone a toutes les cibles dans les 15yards, une seule Graine de Corruption par Démoniste a la fois"
   },
   "80622": {
     "name": "Specialisation:80 Row:6 Column:2 Rank:2",
