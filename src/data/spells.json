@@ -15840,22 +15840,22 @@
     "description": "Description for Specialisation:80 Row:6 Column:2 Rank:5. Use icon icon_8062.jpg"
   },
   "81001": {
-    "name": "Specialisation:81 Row:0 Column:0 Rank:1",
-    "icon": "icon_8100",
+    "name": "Baiser Démoniaque (rang1)",
+    "icon": "spell_shadow_shadowwordpain",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:0 Column:0 Rank:1. Use icon icon_8100.jpg"
+    "description": "Augmente les chances de Toucher du Familier du Démoniste de 5% et celles du Démoniste de 1%"
   },
   "81002": {
-    "name": "Specialisation:81 Row:0 Column:0 Rank:2",
+    "name": "Baiser Démoniaque (rang2)",
     "icon": "icon_8100",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:0 Column:0 Rank:2. Use icon icon_8100.jpg"
+    "description": "Augmente les chances de Toucher du Familier du Démoniste de 10% et celles du Démoniste de 2%"
   },
   "81003": {
-    "name": "Specialisation:81 Row:0 Column:0 Rank:3",
+    "name": "Baiser Démoniaque (rang3)",
     "icon": "icon_8100",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:0 Column:0 Rank:3. Use icon icon_8100.jpg"
+    "description": "Augmente les chances de Toucher du Familier du Démoniste de 15% et celles du Démoniste de 3%"
   },
   "81004": {
     "name": "Specialisation:81 Row:0 Column:0 Rank:4",
@@ -15870,16 +15870,16 @@
     "description": "Description for Specialisation:81 Row:0 Column:0 Rank:5. Use icon icon_8100.jpg"
   },
   "81011": {
-    "name": "Specialisation:81 Row:0 Column:1 Rank:1",
-    "icon": "icon_8101",
+    "name": "Concentration Démoniaque (rang1)",
+    "icon": "ability_hibernation",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:0 Column:1 Rank:1. Use icon icon_8101.jpg"
+    "description": "Donne 35% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie"
   },
   "81012": {
-    "name": "Specialisation:81 Row:0 Column:1 Rank:2",
+    "name": "Concentration Démoniaque (rang2)",
     "icon": "icon_8101",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:0 Column:1 Rank:2. Use icon icon_8101.jpg"
+    "description": "Donne 70% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie"
   },
   "81013": {
     "name": "Specialisation:81 Row:0 Column:1 Rank:3",
@@ -15900,22 +15900,22 @@
     "description": "Description for Specialisation:81 Row:0 Column:1 Rank:5. Use icon icon_8101.jpg"
   },
   "81021": {
-    "name": "Specialisation:81 Row:0 Column:2 Rank:1",
-    "icon": "icon_8102",
+    "name": "Résilience Démoniaque (rang1)",
+    "icon": "spell_shadow_metamorphosis",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:0 Column:2 Rank:1. Use icon icon_8102.jpg"
+    "description": "Augmente l'Endurance du Démoniste de 5% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 2%"
   },
   "81022": {
-    "name": "Specialisation:81 Row:0 Column:2 Rank:2",
+    "name": "Résilience Démoniaque (rang2)",
     "icon": "icon_8102",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:0 Column:2 Rank:2. Use icon icon_8102.jpg"
+    "description": "Augmente l'Endurance du Démoniste de 10% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 4%"
   },
   "81023": {
-    "name": "Specialisation:81 Row:0 Column:2 Rank:3",
+    "name": "Résilience Démoniaque (rang3)",
     "icon": "icon_8102",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:0 Column:2 Rank:3. Use icon icon_8102.jpg"
+    "description": "Augmente l'Endurance du Démoniste de 15% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 6%"
   },
   "81024": {
     "name": "Specialisation:81 Row:0 Column:2 Rank:4",
@@ -15930,16 +15930,16 @@
     "description": "Description for Specialisation:81 Row:0 Column:2 Rank:5. Use icon icon_8102.jpg"
   },
   "81031": {
-    "name": "Specialisation:81 Row:0 Column:3 Rank:1",
-    "icon": "icon_8103",
+    "name": "Diablotin Amélioré (rang1)",
+    "icon": "spell_shadow_summonimp",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:0 Column:3 Rank:1. Use icon icon_8103.jpg"
+    "description": "Augmente les effets des techniques du Familier Diablotin du Démoniste de 15%"
   },
   "81032": {
-    "name": "Specialisation:81 Row:0 Column:3 Rank:2",
+    "name": "Diablotin Amélioré (rang2)",
     "icon": "icon_8103",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:0 Column:3 Rank:2. Use icon icon_8103.jpg"
+    "description": "Augmente les effets des techniques du Familier Diablotin du Démoniste de 30%"
   },
   "81033": {
     "name": "Specialisation:81 Row:0 Column:3 Rank:3",
@@ -15960,22 +15960,22 @@
     "description": "Description for Specialisation:81 Row:0 Column:3 Rank:5. Use icon icon_8103.jpg"
   },
   "81101": {
-    "name": "Specialisation:81 Row:1 Column:0 Rank:1",
-    "icon": "icon_8110",
+    "name": "Intelligence Démoniaque (rang1)",
+    "icon": "spell_holy_magicalsentry",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:1 Column:0 Rank:1. Use icon icon_8110.jpg"
+    "description": "Augmente les Points de mana des Familiers du Démoniste de 5% et ceux du Démoniste de 1%"
   },
   "81102": {
-    "name": "Specialisation:81 Row:1 Column:0 Rank:2",
+    "name": "Intelligence Démoniaque (rang2)",
     "icon": "icon_8110",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:1 Column:0 Rank:2. Use icon icon_8110.jpg"
+    "description": "Augmente les Points de mana des Familiers du Démoniste de 10% et ceux du Démoniste de 2%"
   },
   "81103": {
-    "name": "Specialisation:81 Row:1 Column:0 Rank:3",
+    "name": "Intelligence Démoniaque (rang3)",
     "icon": "icon_8110",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:1 Column:0 Rank:3. Use icon icon_8110.jpg"
+    "description": "Augmente les Points de mana des Familiers du Démoniste de 15% et ceux du Démoniste de 3%"
   },
   "81104": {
     "name": "Specialisation:81 Row:1 Column:0 Rank:4",
@@ -15990,16 +15990,16 @@
     "description": "Description for Specialisation:81 Row:1 Column:0 Rank:5. Use icon icon_8110.jpg"
   },
   "81111": {
-    "name": "Specialisation:81 Row:1 Column:1 Rank:1",
-    "icon": "icon_8111",
+    "name": "Puissance Impie (rang1)",
+    "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:1 Column:1 Rank:1. Use icon icon_8111.jpg"
+    "description": "Augmente les dégats infligés par les Familiers du Démoniste de 10% et ceux du Démoniste de 1%"
   },
   "81112": {
-    "name": "Specialisation:81 Row:1 Column:1 Rank:2",
+    "name": "Puissance Impie (rang2)",
     "icon": "icon_8111",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:1 Column:1 Rank:2. Use icon icon_8111.jpg"
+    "description": "Augmente les dégats infligés par les Familiers du Démoniste de 20% et ceux du Démoniste de 2%"
   },
   "81113": {
     "name": "Specialisation:81 Row:1 Column:1 Rank:3",
@@ -16020,22 +16020,22 @@
     "description": "Description for Specialisation:81 Row:1 Column:1 Rank:5. Use icon icon_8111.jpg"
   },
   "81121": {
-    "name": "Specialisation:81 Row:1 Column:2 Rank:1",
-    "icon": "icon_8112",
+    "name": "Maître Conjurateur (rang1)",
+    "icon": "inv_misc_gem_sapphire_01",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:1 Column:2 Rank:1. Use icon icon_8112.jpg"
+    "description": "Augmente les effets des techniques de Pierre du Démoniste de 10%, réduit leur coût en mana de 20% et réduit le temps de rechargement de la technique Pierre d'Âme de 10min"
   },
   "81122": {
-    "name": "Specialisation:81 Row:1 Column:2 Rank:2",
+    "name": "Maître Conjurateur (rang2)",
     "icon": "icon_8112",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:1 Column:2 Rank:2. Use icon icon_8112.jpg"
+    "description": "Augmente les effets des techniques de Pierre du Démoniste de 20%, réduit leur coût en mana de 40% et réduit le temps de rechargement de la technique Pierre d'Âme de 20min"
   },
   "81123": {
-    "name": "Specialisation:81 Row:1 Column:2 Rank:3",
+    "name": "Maître Conjurateur (rang3)",
     "icon": "icon_8112",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:1 Column:2 Rank:3. Use icon icon_8112.jpg"
+    "description": "Augmente les effets des techniques de Pierre du Démoniste de 30%, réduit leur coût en mana de 60% et réduit le temps de rechargement de la technique Pierre d'Âme de 30min"
   },
   "81124": {
     "name": "Specialisation:81 Row:1 Column:2 Rank:4",
@@ -16050,16 +16050,16 @@
     "description": "Description for Specialisation:81 Row:1 Column:2 Rank:5. Use icon icon_8112.jpg"
   },
   "81131": {
-    "name": "Specialisation:81 Row:1 Column:3 Rank:1",
-    "icon": "icon_8113",
+    "name": "Marcheur du Vide Amélioré (rang1)",
+    "icon": "spell_shadow_summonvoidwalker",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:1 Column:3 Rank:1. Use icon icon_8113.jpg"
+    "description": "Augmente les effets des techniques du Familier Marche du Vide du Démoniste de 15%"
   },
   "81132": {
-    "name": "Specialisation:81 Row:1 Column:3 Rank:2",
+    "name": "Marcheur du Vide Amélioré (rang2)",
     "icon": "icon_8113",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:1 Column:3 Rank:2. Use icon icon_8113.jpg"
+    "description": "Augmente les effets des techniques du Familier Marche du Vide du Démoniste de 30%"
   },
   "81133": {
     "name": "Specialisation:81 Row:1 Column:3 Rank:3",
@@ -16080,22 +16080,22 @@
     "description": "Description for Specialisation:81 Row:1 Column:3 Rank:5. Use icon icon_8113.jpg"
   },
   "81201": {
-    "name": "Specialisation:81 Row:2 Column:0 Rank:1",
-    "icon": "icon_8120",
+    "name": "Endurance Démoniaque (rang1)",
+    "icon": "spell_holy_wordfortitude",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:2 Column:0 Rank:1. Use icon icon_8120.jpg"
+    "description": "Augmente les Points de Vie des Familiers du Démoniste de 5% et ceux du Démoniste de 1%"
   },
   "81202": {
-    "name": "Specialisation:81 Row:2 Column:0 Rank:2",
+    "name": "Endurance Démoniaque (rang2)",
     "icon": "icon_8120",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:2 Column:0 Rank:2. Use icon icon_8120.jpg"
+    "description": "Augmente les Points de Vie des Familiers du Démoniste de 10% et ceux du Démoniste de 2%"
   },
   "81203": {
-    "name": "Specialisation:81 Row:2 Column:0 Rank:3",
+    "name": "Endurance Démoniaque (rang3)",
     "icon": "icon_8120",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:2 Column:0 Rank:3. Use icon icon_8120.jpg"
+    "description": "Augmente les Points de Vie des Familiers du Démoniste de 15% et ceux du Démoniste de 3%"
   },
   "81204": {
     "name": "Specialisation:81 Row:2 Column:0 Rank:4",
@@ -16110,10 +16110,10 @@
     "description": "Description for Specialisation:81 Row:2 Column:0 Rank:5. Use icon icon_8120.jpg"
   },
   "81211": {
-    "name": "Specialisation:81 Row:2 Column:1 Rank:1",
-    "icon": "icon_8121",
+    "name": "Pacte Noir",
+    "icon": "spell_shadow_darkritual",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:2 Column:1 Rank:1. Use icon icon_8121.jpg"
+    "description": "Technique a activer, instantanée, transfert 150pts de mana du Familier au Démoniste"
   },
   "81212": {
     "name": "Specialisation:81 Row:2 Column:1 Rank:2",
@@ -16140,10 +16140,10 @@
     "description": "Description for Specialisation:81 Row:2 Column:1 Rank:5. Use icon icon_8121.jpg"
   },
   "81221": {
-    "name": "Specialisation:81 Row:2 Column:2 Rank:1",
-    "icon": "icon_8122",
+    "name": "Domination Corrompue",
+    "icon": "spell_nature_removecurse",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:2 Column:2 Rank:1. Use icon icon_8122.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, Pose une amélioration sur le Démoniste de 10sec, qui réduit le coût en mana de 50% ainsi que le temps d'incantation de sa prochaine invocation de Familier de 5sec"
   },
   "81222": {
     "name": "Specialisation:81 Row:2 Column:2 Rank:2",
@@ -16170,16 +16170,16 @@
     "description": "Description for Specialisation:81 Row:2 Column:2 Rank:5. Use icon icon_8122.jpg"
   },
   "81231": {
-    "name": "Specialisation:81 Row:2 Column:3 Rank:1",
-    "icon": "icon_8123",
+    "name": "Succube Amélioré (rang1)",
+    "icon": "spell_shadow_summonsuccubus",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:2 Column:3 Rank:1. Use icon icon_8123.jpg"
+    "description": "Augmente les effets des techniques du Familier Succube du Démoniste de 15%"
   },
   "81232": {
-    "name": "Specialisation:81 Row:2 Column:3 Rank:2",
+    "name": "Succube Amélioré (rang2)",
     "icon": "icon_8123",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:2 Column:3 Rank:2. Use icon icon_8123.jpg"
+    "description": "Augmente les effets des techniques du Familier Succube du Démoniste de 30%"
   },
   "81233": {
     "name": "Specialisation:81 Row:2 Column:3 Rank:3",
@@ -16200,22 +16200,22 @@
     "description": "Description for Specialisation:81 Row:2 Column:3 Rank:5. Use icon icon_8123.jpg"
   },
   "81301": {
-    "name": "Specialisation:81 Row:3 Column:0 Rank:1",
-    "icon": "icon_8130",
+    "name": "Tactiques Démoniaque (rang1)",
+    "icon": "spell_shadow_vampiricaura",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:3 Column:0 Rank:1. Use icon icon_8130.jpg"
+    "description": "Augmente les chances de critiques des Familiers du Démoniste de 5% et celles du Démoniste de 1%"
   },
   "81302": {
-    "name": "Specialisation:81 Row:3 Column:0 Rank:2",
+    "name": "Tactiques Démoniaque (rang2)",
     "icon": "icon_8130",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:3 Column:0 Rank:2. Use icon icon_8130.jpg"
+    "description": "Augmente les chances de critiques des Familiers du Démoniste de 10% et celles du Démoniste de 2%"
   },
   "81303": {
-    "name": "Specialisation:81 Row:3 Column:0 Rank:3",
+    "name": "Tactiques Démoniaque (rang3)",
     "icon": "icon_8130",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:3 Column:0 Rank:3. Use icon icon_8130.jpg"
+    "description": "Augmente les chances de critiques des Familiers du Démoniste de 15% et celles du Démoniste de 3%"
   },
   "81304": {
     "name": "Specialisation:81 Row:3 Column:0 Rank:4",
@@ -16230,16 +16230,16 @@
     "description": "Description for Specialisation:81 Row:3 Column:0 Rank:5. Use icon icon_8130.jpg"
   },
   "81311": {
-    "name": "Specialisation:81 Row:3 Column:1 Rank:1",
-    "icon": "icon_8131",
+    "name": "Maître Invocateur (rang1)",
+    "icon": "spell_shadow_impphaseshift",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:3 Column:1 Rank:1. Use icon icon_8131.jpg"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 20% et diminue le temps d'incantation de ses techniques de 2sec"
   },
   "81312": {
-    "name": "Specialisation:81 Row:3 Column:1 Rank:2",
+    "name": "Maître Invocateur (rang2)",
     "icon": "icon_8131",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:3 Column:1 Rank:2. Use icon icon_8131.jpg"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 40% et diminue le temps d'incantation de ses techniques de 4sec"
   },
   "81313": {
     "name": "Specialisation:81 Row:3 Column:1 Rank:3",
@@ -16260,22 +16260,22 @@
     "description": "Description for Specialisation:81 Row:3 Column:1 Rank:5. Use icon icon_8131.jpg"
   },
   "81321": {
-    "name": "Specialisation:81 Row:3 Column:2 Rank:1",
-    "icon": "icon_8132",
+    "name": "Egide Démoniaque (rang1)",
+    "icon": "spell_shadow_antishadow",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:3 Column:2 Rank:1. Use icon icon_8132.jpg"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 10% et diminue les dégats subit par le Démoniste et son Familier de 2%"
   },
   "81322": {
-    "name": "Specialisation:81 Row:3 Column:2 Rank:2",
+    "name": "Egide Démoniaque (rang2)",
     "icon": "icon_8132",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:3 Column:2 Rank:2. Use icon icon_8132.jpg"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 20% et diminue les dégats subit par le Démoniste et son Familier de 4%"
   },
   "81323": {
-    "name": "Specialisation:81 Row:3 Column:2 Rank:3",
+    "name": "Egide Démoniaque (rang3)",
     "icon": "icon_8132",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:3 Column:2 Rank:3. Use icon icon_8132.jpg"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 30% et diminue les dégats subit par le Démoniste et son Familier de 6%"
   },
   "81324": {
     "name": "Specialisation:81 Row:3 Column:2 Rank:4",
@@ -16290,16 +16290,16 @@
     "description": "Description for Specialisation:81 Row:3 Column:2 Rank:5. Use icon icon_8132.jpg"
   },
   "81331": {
-    "name": "Specialisation:81 Row:3 Column:3 Rank:1",
-    "icon": "icon_8133",
+    "name": "Chasseur Corrompu Amélioré (rang1)",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:3 Column:3 Rank:1. Use icon icon_8133.jpg"
+    "description": "Augmente les effets des techniques du Familier Chasseur Corrompu du Démoniste de 15%"
   },
   "81332": {
-    "name": "Specialisation:81 Row:3 Column:3 Rank:2",
+    "name": "Chasseur Corrompu Amélioré (rang2)",
     "icon": "icon_8133",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:3 Column:3 Rank:2. Use icon icon_8133.jpg"
+    "description": "Augmente les effets des techniques du Familier Chasseur Corrompu du Démoniste de 30%"
   },
   "81333": {
     "name": "Specialisation:81 Row:3 Column:3 Rank:3",
@@ -16320,22 +16320,22 @@
     "description": "Description for Specialisation:81 Row:3 Column:3 Rank:5. Use icon icon_8133.jpg"
   },
   "81401": {
-    "name": "Specialisation:81 Row:4 Column:0 Rank:1",
-    "icon": "icon_8140",
+    "name": "Captation de Vie Amélioré (rang1)",
+    "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:4 Column:0 Rank:1. Use icon icon_8140.jpg"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 4% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 5%"
   },
   "81402": {
-    "name": "Specialisation:81 Row:4 Column:0 Rank:2",
+    "name": "Captation de Vie Amélioré (rang2)",
     "icon": "icon_8140",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:4 Column:0 Rank:2. Use icon icon_8140.jpg"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 8% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 10%"
   },
   "81403": {
-    "name": "Specialisation:81 Row:4 Column:0 Rank:3",
+    "name": "Captation de Vie Amélioré (rang3)",
     "icon": "icon_8140",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:4 Column:0 Rank:3. Use icon icon_8140.jpg"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 12% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 15%"
   },
   "81404": {
     "name": "Specialisation:81 Row:4 Column:0 Rank:4",
@@ -16350,10 +16350,10 @@
     "description": "Description for Specialisation:81 Row:4 Column:0 Rank:5. Use icon icon_8140.jpg"
   },
   "81411": {
-    "name": "Specialisation:81 Row:4 Column:1 Rank:1",
-    "icon": "icon_8141",
+    "name": "Sacrifice Démoniaque",
+    "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:4 Column:1 Rank:1. Use icon icon_8141.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, Sacrifie le Familier et le tue pour poser une amélioration sur le Démoniste de 30min qui est insensible au effet de dissipation, l'effet dépend du type de Familier Sacrifier : Diablotin +15% de dégats Feu, Marcheur du Vide restaure 1,5% de vie toutes les 3sec, Succube +15% de dégats Ombre, Chasseur Corrompu restaure 1,5% de mana toutes les 2sec, Infernal augmente la Résistance Feu de 15pts par niveau du Familier, Garde Funeste augmente la Résistance Ombre de 15pts par niveau du Familier, Gangregarde augmente de 15% les chances de critique"
   },
   "81412": {
     "name": "Specialisation:81 Row:4 Column:1 Rank:2",
@@ -16380,10 +16380,10 @@
     "description": "Description for Specialisation:81 Row:4 Column:1 Rank:5. Use icon icon_8141.jpg"
   },
   "81421": {
-    "name": "Specialisation:81 Row:4 Column:2 Rank:1",
-    "icon": "icon_8142",
+    "name": "Maître Démonologue",
+    "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:4 Column:2 Rank:1. Use icon icon_8142.jpg"
+    "description": "Donne une amélioration passive au Démoniste tant qu'un de ses Familier est invoqué, l'effet dépend du type de Familier : Diablotin réduit la menace généré de 20%, Marcheur du Vide réduit les dégats physique subit de 20%, Succube augmente les dégats infligés de 20%, Chasseur Corrompu augmente les Résistances Magiques de toutes les écoles de magie de 20pts par niveau du Familier, Infernal augmente la Résistance Feu de 20pts par niveau du Familier et renvoi 20pts de dégats de Feu a chaque attaque subit par le Démoniste en mélée ou a distance, Garde Funste augmente la Résistance Ombre de 20pts par niveau du Familier et Réduit le mana en mana et en vie de toutes les techniques du Démoniste, Gangregarde diminue tous les dégats subit de 20%"
   },
   "81422": {
     "name": "Specialisation:81 Row:4 Column:2 Rank:2",
@@ -16410,16 +16410,16 @@
     "description": "Description for Specialisation:81 Row:4 Column:2 Rank:5. Use icon icon_8142.jpg"
   },
   "81431": {
-    "name": "Specialisation:81 Row:4 Column:3 Rank:1",
-    "icon": "icon_8143",
+    "name": "Festin (rang1)",
+    "icon": "spell_nature_spiritwolf",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:4 Column:3 Rank:1. Use icon icon_8143.jpg"
+    "description": "Le Familier du Démoniste obtient également 5% du montant des soins que reçoit le Démoniste ainsi que 15% de ses gains en mana"
   },
   "81432": {
-    "name": "Specialisation:81 Row:4 Column:3 Rank:2",
+    "name": "Festin (rang2)",
     "icon": "icon_8143",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:4 Column:3 Rank:2. Use icon icon_8143.jpg"
+    "description": "Le Familier du Démoniste obtient également 10% du montant des soins que reçoit le Démoniste ainsi que 30% de ses gains en mana"
   },
   "81433": {
     "name": "Specialisation:81 Row:4 Column:3 Rank:3",
@@ -16440,16 +16440,16 @@
     "description": "Description for Specialisation:81 Row:4 Column:3 Rank:5. Use icon icon_8143.jpg"
   },
   "81511": {
-    "name": "Specialisation:81 Row:5 Column:1 Rank:1",
-    "icon": "icon_8151",
+    "name": "Asservir Démon Amélioré (rang1)",
+    "icon": "spell_shadow_enslavedemon",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:5 Column:1 Rank:1. Use icon icon_8151.jpg"
+    "description": "Diminue le temps d'incantation des techniques Asservir Démon et Bannissement de 50% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 50% et diminue la Pénalité lié a cette technique de 50%"
   },
   "81512": {
-    "name": "Specialisation:81 Row:5 Column:1 Rank:2",
+    "name": "Asservir Démon Amélioré (rang2)",
     "icon": "icon_8151",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:5 Column:1 Rank:2. Use icon icon_8151.jpg"
+    "description": "Diminue le temps d'incantation des techniques Asservir Démon et Bannissement de 100% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 100% et diminue la Pénalité lié a cette technique de 100%"
   },
   "81513": {
     "name": "Specialisation:81 Row:5 Column:1 Rank:3",
@@ -16470,22 +16470,22 @@
     "description": "Description for Specialisation:81 Row:5 Column:1 Rank:5. Use icon icon_8151.jpg"
   },
   "81521": {
-    "name": "Specialisation:81 Row:5 Column:2 Rank:1",
-    "icon": "icon_8152",
+    "name": "Connaissance Démoniaque (rang1)",
+    "icon": "spell_shadow_grimward",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:5 Column:2 Rank:1. Use icon icon_8152.jpg"
+    "description": "Convertit 5% de l'Endurance ainsi que 5% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "81522": {
-    "name": "Specialisation:81 Row:5 Column:2 Rank:2",
+    "name": "Connaissance Démoniaque (rang2)",
     "icon": "icon_8152",
     "rank": 2,
-    "description": "Description for Specialisation:81 Row:5 Column:2 Rank:2. Use icon icon_8152.jpg"
+    "description": "Convertit 10% de l'Endurance ainsi que 10% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "81523": {
-    "name": "Specialisation:81 Row:5 Column:2 Rank:3",
+    "name": "Connaissance Démoniaque (rang3)",
     "icon": "icon_8152",
     "rank": 3,
-    "description": "Description for Specialisation:81 Row:5 Column:2 Rank:3. Use icon icon_8152.jpg"
+    "description": "Convertit 15% de l'Endurance ainsi que 15% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "81524": {
     "name": "Specialisation:81 Row:5 Column:2 Rank:4",
@@ -16500,10 +16500,10 @@
     "description": "Description for Specialisation:81 Row:5 Column:2 Rank:5. Use icon icon_8152.jpg"
   },
   "81611": {
-    "name": "Specialisation:81 Row:6 Column:1 Rank:1",
-    "icon": "icon_8161",
+    "name": "Démons Majeurs",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:6 Column:1 Rank:1. Use icon icon_8161.jpg"
+    "description": "Permet au Démoniste d'obtenir 3 invocations de Familier Supplémentaires : Infernal, Gangregarde et Garde Funeste"
   },
   "81612": {
     "name": "Specialisation:81 Row:6 Column:1 Rank:2",
@@ -16530,10 +16530,10 @@
     "description": "Description for Specialisation:81 Row:6 Column:1 Rank:5. Use icon icon_8161.jpg"
   },
   "81621": {
-    "name": "Specialisation:81 Row:6 Column:2 Rank:1",
-    "icon": "icon_8162",
+    "name": "Âme Liées",
+    "icon": "spell_shadow_gathershadows",
     "rank": 1,
-    "description": "Description for Specialisation:81 Row:6 Column:2 Rank:1. Use icon icon_8162.jpg"
+    "description": "Technique a activer, instantanée, grauite en mana, utilisable uniquement si un Familier Démoniste est actif, hors du temps de rechargement global, Permet au Démoniste de gagner une amélioration insensible a la dissipation qui dure tant que le Familier est en vie, transfert 15% des dégats subit par le Démoniste a son familier, et augmente les dégats qu'inflige le Familier ainsi que le Démoniste de 10%"
   },
   "81622": {
     "name": "Specialisation:81 Row:6 Column:2 Rank:2",
