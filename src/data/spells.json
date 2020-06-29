@@ -15390,7 +15390,7 @@
     "description": "Description for Specialisation:80 Row:2 Column:0 Rank:5. Use icon icon_8020.jpg"
   },
   "80211": {
-    "name": "Sucer Jusqu'a la Moëlle",
+    "name": "Drainer Jusqu'a la Moëlle",
     "icon": "spell_shadow_siphonmana",
     "rank": 1,
     "description": "Permet aux techniques Drain de Mana et Drain d'Âme du Démoniste de lancer également l'affaiblissement de la technique Drain de Vie sur la cible"
@@ -15841,7 +15841,7 @@
   },
   "81001": {
     "name": "Baiser Démoniaque (rang1)",
-    "icon": "spell_shadow_shadowwordpain",
+    "icon": "spell_shadow_fingerofdeath",
     "rank": 1,
     "description": "Augmente les chances de Toucher du Familier du Démoniste de 5% et celles du Démoniste de 1%"
   },
@@ -15903,19 +15903,19 @@
     "name": "Résilience Démoniaque (rang1)",
     "icon": "spell_shadow_metamorphosis",
     "rank": 1,
-    "description": "Augmente l'Endurance du Démoniste de 5% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 2%"
+    "description": "Augmente l'Endurance du Démoniste de 5% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 2% mais diminue l'Esprit du Démoniste de 1%"
   },
   "81022": {
     "name": "Résilience Démoniaque (rang2)",
     "icon": "icon_8102",
     "rank": 2,
-    "description": "Augmente l'Endurance du Démoniste de 10% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 4%"
+    "description": "Augmente l'Endurance du Démoniste de 10% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 4% mais diminue l'Esprit du Démoniste de 2%"
   },
   "81023": {
     "name": "Résilience Démoniaque (rang3)",
     "icon": "icon_8102",
     "rank": 3,
-    "description": "Augmente l'Endurance du Démoniste de 15% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 6%"
+    "description": "Augmente l'Endurance du Démoniste de 15% et réduit les dégats qu'il subit durant les effets d'Etourdissement de 6% mais diminue l'Esprit du Démoniste de 3%"
   },
   "81024": {
     "name": "Specialisation:81 Row:0 Column:2 Rank:4",
@@ -16233,13 +16233,13 @@
     "name": "Maître Invocateur (rang1)",
     "icon": "spell_shadow_impphaseshift",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 20% et diminue le temps d'incantation de ses techniques de 2sec"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 20% et diminue le temps d'incantation de 2sec et donne +15% de chance d'anti interruption sur la technique"
   },
   "81312": {
     "name": "Maître Invocateur (rang2)",
     "icon": "icon_8131",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 40% et diminue le temps d'incantation de ses techniques de 4sec"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 40% et diminue le temps d'incantation de 4sec et donne +30% de chance d'anti interruption sur la technique"
   },
   "81313": {
     "name": "Specialisation:81 Row:3 Column:1 Rank:3",
@@ -16263,19 +16263,19 @@
     "name": "Egide Démoniaque (rang1)",
     "icon": "spell_shadow_antishadow",
     "rank": 1,
-    "description": "Augmente les effets des techniques d'Armure du Démoniste de 10% et diminue les dégats subit par le Démoniste et son Familier de 2%"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 5% et diminue les dégats subit par le Démoniste et son Familier de 2%"
   },
   "81322": {
     "name": "Egide Démoniaque (rang2)",
     "icon": "icon_8132",
     "rank": 2,
-    "description": "Augmente les effets des techniques d'Armure du Démoniste de 20% et diminue les dégats subit par le Démoniste et son Familier de 4%"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 10% et diminue les dégats subit par le Démoniste et son Familier de 4%"
   },
   "81323": {
     "name": "Egide Démoniaque (rang3)",
     "icon": "icon_8132",
     "rank": 3,
-    "description": "Augmente les effets des techniques d'Armure du Démoniste de 30% et diminue les dégats subit par le Démoniste et son Familier de 6%"
+    "description": "Augmente les effets des techniques d'Armure du Démoniste de 15% et diminue les dégats subit par le Démoniste et son Familier de 6%"
   },
   "81324": {
     "name": "Specialisation:81 Row:3 Column:2 Rank:4",
@@ -16323,19 +16323,19 @@
     "name": "Captation de Vie Amélioré (rang1)",
     "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 4% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 5%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 4% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 5%, de plus donne +10% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 33%"
   },
   "81402": {
     "name": "Captation de Vie Amélioré (rang2)",
     "icon": "icon_8140",
     "rank": 2,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 8% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 10%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 8% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 10%, de plus donne +20% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 66%"
   },
   "81403": {
     "name": "Captation de Vie Amélioré (rang3)",
     "icon": "icon_8140",
     "rank": 3,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 12% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 15%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 12% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 15%, de plus donne +30% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 100%"
   },
   "81404": {
     "name": "Specialisation:81 Row:4 Column:0 Rank:4",
@@ -16353,7 +16353,7 @@
     "name": "Sacrifice Démoniaque",
     "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, Sacrifie le Familier et le tue pour poser une amélioration sur le Démoniste de 30min qui est insensible au effet de dissipation, l'effet dépend du type de Familier Sacrifier : Diablotin +15% de dégats Feu, Marcheur du Vide restaure 1,5% de vie toutes les 3sec, Succube +15% de dégats Ombre, Chasseur Corrompu restaure 1,5% de mana toutes les 2sec, Infernal augmente la Résistance Feu de 15pts par niveau du Familier, Garde Funeste augmente la Résistance Ombre de 15pts par niveau du Familier, Gangregarde augmente de 15% les chances de critique"
+    "description": "Technique a activer, instantanée, gratuite en mana, 100yards de portée, Sacrifie le Familier et le tue pour poser une amélioration sur le Démoniste de 30min qui est insensible au effet de dissipation, l'effet dépend du type de Familier ; Diablotin : +15% de dégats Feu, Marcheur du Vide : restaure 1,5% de vie toutes les 3sec, Succube : +15% de dégats Ombre, Chasseur Corrompu : restaure 1,5% de mana toutes les 2sec, Infernal : augmente la Résistance Feu de 15pts par niveau du Familier, Garde Funeste : augmente la Résistance Ombre de 15pts par niveau du Familier, Gangregarde : augmente de 15% la vitesse d'incantation du Démoniste"
   },
   "81412": {
     "name": "Specialisation:81 Row:4 Column:1 Rank:2",
@@ -16383,7 +16383,7 @@
     "name": "Maître Démonologue",
     "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Donne une amélioration passive au Démoniste tant qu'un de ses Familier est invoqué, l'effet dépend du type de Familier : Diablotin réduit la menace généré de 20%, Marcheur du Vide réduit les dégats physique subit de 20%, Succube augmente les dégats infligés de 20%, Chasseur Corrompu augmente les Résistances Magiques de toutes les écoles de magie de 20pts par niveau du Familier, Infernal augmente la Résistance Feu de 20pts par niveau du Familier et renvoi 20pts de dégats de Feu a chaque attaque subit par le Démoniste en mélée ou a distance, Garde Funste augmente la Résistance Ombre de 20pts par niveau du Familier et Réduit le mana en mana et en vie de toutes les techniques du Démoniste, Gangregarde diminue tous les dégats subit de 20%"
+    "description": "Pose une amélioration passive au Démoniste tant qu'un de ses Familier est invoqué qui est insensible a la dissipation, l'effet dépend du type de Familier ; Diablotin : réduit la menace généré de 20%, Marcheur du Vide : réduit les dégats physique subit de 20%, Succube : augmente les dégats infligés de 20%, Chasseur Corrompu : augmente toutes les Résistances Magiques de 20pts par niveau du Familier, Infernal : augmente la Résistance Feu de 20pts par niveau du Familier et renvoi 20pts de dégats de Feu a chaque attaque subit par le Démoniste en mélée ou a distance, Garde Funeste : augmente la Résistance Ombre de 20pts par niveau du Familier et Réduit le mana en mana et en vie de toutes les techniques du Démoniste de 20%, Gangregarde : diminue tous les dégats subit de 20%"
   },
   "81422": {
     "name": "Specialisation:81 Row:4 Column:2 Rank:2",
@@ -16443,13 +16443,13 @@
     "name": "Asservir Démon Amélioré (rang1)",
     "icon": "spell_shadow_enslavedemon",
     "rank": 1,
-    "description": "Diminue le temps d'incantation des techniques Asservir Démon et Bannissement de 50% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 50% et diminue la Pénalité lié a cette technique de 50%"
+    "description": "Diminue le temps d'incantation des techniques Bannissement et Asservir Démon de 50% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 50% et diminue la Pénalité lié a cette technique de 50%"
   },
   "81512": {
     "name": "Asservir Démon Amélioré (rang2)",
     "icon": "icon_8151",
     "rank": 2,
-    "description": "Diminue le temps d'incantation des techniques Asservir Démon et Bannissement de 100% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 100% et diminue la Pénalité lié a cette technique de 100%"
+    "description": "Diminue le temps d'incantation des techniques Bannissement et Asservir Démon de 100% et diminue les chances qu'un Démon puisse se libérer de l'emprise du Démoniste de 100% et diminue la Pénalité lié a cette technique de 100%"
   },
   "81513": {
     "name": "Specialisation:81 Row:5 Column:1 Rank:3",
@@ -16533,7 +16533,7 @@
     "name": "Âme Liées",
     "icon": "spell_shadow_gathershadows",
     "rank": 1,
-    "description": "Technique a activer, instantanée, grauite en mana, utilisable uniquement si un Familier Démoniste est actif, hors du temps de rechargement global, Permet au Démoniste de gagner une amélioration insensible a la dissipation qui dure tant que le Familier est en vie, transfert 15% des dégats subit par le Démoniste a son familier, et augmente les dégats qu'inflige le Familier ainsi que le Démoniste de 10%"
+    "description": "Technique a activer, instantanée, grauite en mana, 100yards de portée, utilisable uniquement si un Familier Démoniste est actif, hors du temps de rechargement global, Permet au Démoniste de gagner une amélioration insensible a la dissipation qui dure tant que le Familier est en vie, transfert 10% des dégats subit par le Démoniste a son familier, et augmente les dégats qu'inflige le Familier ainsi que le Démoniste de 10%"
   },
   "81622": {
     "name": "Specialisation:81 Row:6 Column:2 Rank:2",
