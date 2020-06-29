@@ -15183,19 +15183,19 @@
     "name": "Voile Mortel Amélioré (rang1)",
     "icon": "spell_holy_excorcism_02",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 20sec et augmente le montant de vie et de dégat qu'il inflige de 40%"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 20sec et augmente le montant de vie et de dégats qu'elle inflige de 40%"
   },
   "80022": {
     "name": "Voile Mortel Amélioré (rang2)",
     "icon": "icon_8002",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 40sec et augmente le montant de vie et de dégat qu'il inflige de 80%"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 40sec et augmente le montant de vie et de dégats qu'elle inflige de 80%"
   },
   "80023": {
     "name": "Voile Mortel Amélioré (rang3)",
     "icon": "icon_8002",
     "rank": 3,
-    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 60sec et augmente le montant de vie et de dégat qu'il inflige de 120%"
+    "description": "Diminue le temps de rechargement de la technique Voile Mortel du Démoniste de 60sec et augmente le montant de vie et de dégats qu'elle inflige de 120%"
   },
   "80024": {
     "name": "Specialisation:80 Row:0 Column:2 Rank:4",
@@ -15255,7 +15255,7 @@
     "name": "Affliction Instable (rang3)",
     "icon": "icon_8010",
     "rank": 3,
-    "description": "Diminue le montant de menace généré par le Démoniste de 15% et réduit le temps de rechargement de la technique Brise Âme de 3min"
+    "description": "Diminue le montant de menace généré par le Démoniste de 15% et réduit le temps de rechargement de la technique Brise Âme de 3min et réduit le coût en Mana de toutes les techniques d'Affliction de 15%"
   },
   "80104": {
     "name": "Specialisation:80 Row:1 Column:0 Rank:4",
@@ -15273,13 +15273,13 @@
     "name": "Contagion (rang1)",
     "icon": "spell_shadow_lifedrain02",
     "rank": 1,
-    "description": "Augmente les dégats des techniques de Drain de 1% par nombre d'Affaiblissement d'Affliction sur la cible et diminue la Résistance Magique de la cible du Démoniste de 10pts"
+    "description": "Augmente les effets des techniques de Drain du Démoniste de 1% par nombre d'Affaiblissement d'Affliction qui affecte la cible et diminue la Résistance Magique de la cible du Démoniste de 10pts"
   },
   "80112": {
     "name": "Contagion (rang2)",
     "icon": "icon_8011",
     "rank": 2,
-    "description": "Augmente les dégats des techniques de Drain de 2% par nombre d'Affaiblissement d'Affliction sur la cible et diminue la Résistance Magique de la cible du Démoniste de 20pts"
+    "description": "Augmente les effets des techniques de Drain du Démoniste de 2% par nombre d'Affaiblissement d'Affliction qui affecte la cible et diminue la Résistance Magique de la cible du Démoniste de 20pts"
   },
   "80113": {
     "name": "Specialisation:80 Row:1 Column:1 Rank:3",
@@ -15360,19 +15360,19 @@
     "description": "Description for Specialisation:80 Row:1 Column:3 Rank:5. Use icon icon_8013.jpg"
   },
   "80201": {
-    "name": "Syphon (rang1)",
+    "name": "Siphons Améliorés (rang1)",
     "icon": "spell_shadow_fingerofdeath",
     "rank": 1,
     "description": "Donne au Démoniste +10% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 5% du coût en mana de la technique lui est rendu"
   },
   "80202": {
-    "name": "Syphon (rang2)",
+    "name": "Siphons Améliorés (rang2)",
     "icon": "icon_8020",
     "rank": 2,
     "description": "Donne au Démoniste +20% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 10% du coût en mana de la technique lui est rendu"
   },
   "80203": {
-    "name": "Syphon (rang3)",
+    "name": "Siphons Améliorés (rang3)",
     "icon": "icon_8020",
     "rank": 3,
     "description": "Donne au Démoniste +30% de chance d'anti interruption sur les techniques de Drain du Démoniste, et lorsqu'un Affaiblissement du Démoniste est dissipé, 15% du coût en mana de la technique lui est rendu"
@@ -15423,7 +15423,7 @@
     "name": "Crépuscule",
     "icon": "spell_shadow_twilight",
     "rank": 1,
-    "description": "Permet a la technique Corruption du Démoniste, lorsque son effet est interrompu par une dissipation ou la fin de sa durée, de donner une amélioration au Démoniste de 15sec qui réduit le temps d'incantation de sa prochaine technique de Trait de l'Ombre de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
+    "description": "Permet a la technique Corruption du Démoniste, lorsque son effet est interrompu par une dissipation ou par la fin de sa durée, de poser une amélioration sur le Démoniste de 15sec qui réduit le temps d'incantation de sa prochaine technique de Trait de l'Ombre de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "80222": {
     "name": "Specialisation:80 Row:2 Column:2 Rank:2",
@@ -15513,13 +15513,13 @@
     "name": "Gardiens Améliorés (rang1)",
     "icon": "spell_shadow_antishadow",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques de Gardien de 5sec et augmente leur effet de 10%"
+    "description": "Diminue le temps de rechargement des techniques de Gardien du Démoniste de 5sec et augmente leur effet de 10%"
   },
   "80312": {
     "name": "Gardiens Améliorés (rang2)",
     "icon": "icon_8031",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques de Gardien de 10sec et augmente leur effet de 20%"
+    "description": "Diminue le temps de rechargement des techniques de Gardien du Démoniste de 10sec et augmente leur effet de 20%"
   },
   "80313": {
     "name": "Specialisation:80 Row:3 Column:1 Rank:3",
@@ -15543,19 +15543,19 @@
     "name": "Corruption Amplifiée (rang1)",
     "icon": "spell_shadow_shadowbolt",
     "rank": 1,
-    "description": "Diminue la durée de la technique Corruption du Démoniste de 1sec et ses dégats de 10%"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 1sec et augmente ses dégats de 10%"
   },
   "80322": {
     "name": "Corruption Amplifiée (rang2)",
     "icon": "icon_8032",
     "rank": 2,
-    "description": "Diminue la durée de la technique Corruption du Démoniste de 2sec et ses dégats de 20%"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 2sec et augmente ses dégats de 20%"
   },
   "80323": {
     "name": "Corruption Améplifiée (rang3)",
     "icon": "icon_8032",
     "rank": 3,
-    "description": "Diminue la durée de la technique Corruption du Démoniste de 3sec et ses dégats de 30%"
+    "description": "Diminue la durée de la technique Corruption du Démoniste de 3sec et augmente ses dégats de 30%"
   },
   "80324": {
     "name": "Specialisation:80 Row:3 Column:2 Rank:4",
