@@ -15423,7 +15423,7 @@
     "name": "Crépuscule",
     "icon": "spell_shadow_twilight",
     "rank": 1,
-    "description": "Permet a la technique Corruption du Démoniste, lorsque son effet est interrompu par une dissipation ou par la fin de sa durée, de poser une amélioration sur le Démoniste de 15sec qui réduit le temps d'incantation de sa prochaine technique de Trait de l'Ombre de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
+    "description": "Permet a la technique Corruption du Démoniste, lorsque son effet est interrompu par une dissipation, par la fin de sa durée ou lorsque le cible du Démoniste meurt alors qu'elle lui rapporte de l'Expérience ou de l'Honneur, de poser une amélioration sur le Démoniste de 15sec qui réduit le temps d'incantation de sa prochaine technique de Trait de l'Ombre de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "80222": {
     "name": "Specialisation:80 Row:2 Column:2 Rank:2",
@@ -16560,22 +16560,22 @@
     "description": "Description for Specialisation:81 Row:6 Column:2 Rank:5. Use icon icon_8162.jpg"
   },
   "82001": {
-    "name": "Specialisation:82 Row:0 Column:0 Rank:1",
-    "icon": "icon_8200",
+    "name": "Immolation Améliorée (rang1)",
+    "icon": "spell_fire_immolation",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:0 Column:0 Rank:1. Use icon icon_8200.jpg"
+    "description": "Augmente le dégat initial de la technique Immolation du Démoniste de 10% et les dégats suivant de 5%"
   },
   "82002": {
-    "name": "Specialisation:82 Row:0 Column:0 Rank:2",
+    "name": "Immolation Améliorée (rang2)",
     "icon": "icon_8200",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:0 Column:0 Rank:2. Use icon icon_8200.jpg"
+    "description": "Augmente le dégat initial de la technique Immolation du Démoniste de 20% et les dégats suivant de 10%"
   },
   "82003": {
-    "name": "Specialisation:82 Row:0 Column:0 Rank:3",
+    "name": "Immolation Améliorée (rang3)",
     "icon": "icon_8200",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:0 Column:0 Rank:3. Use icon icon_8200.jpg"
+    "description": "Augmente le dégat initial de la technique Immolation du Démoniste de 30% et les dégats suivant de 15%"
   },
   "82004": {
     "name": "Specialisation:82 Row:0 Column:0 Rank:4",
@@ -16590,16 +16590,16 @@
     "description": "Description for Specialisation:82 Row:0 Column:0 Rank:5. Use icon icon_8200.jpg"
   },
   "82011": {
-    "name": "Specialisation:82 Row:0 Column:1 Rank:1",
-    "icon": "icon_8201",
+    "name": "Fléau (rang1)",
+    "icon": "spell_shadow_deathpact",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:0 Column:1 Rank:1. Use icon icon_8201.jpg"
+    "description": "Diminue le temps d'incantation des techniques du Démoniste Trait de l'Ombre, Immolation et Incinération de 0,25sec, et celui de Feu de l'Âme de 0,5sec"
   },
   "82012": {
-    "name": "Specialisation:82 Row:0 Column:1 Rank:2",
+    "name": "Fléau (rang2)",
     "icon": "icon_8201",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:0 Column:1 Rank:2. Use icon icon_8201.jpg"
+    "description": "Diminue le temps d'incantation des techniques du Démoniste Trait de l'Ombre, Immolation et Incinération de 0,5sec, et celui de Feu de l'Âme de 1sec"
   },
   "82013": {
     "name": "Specialisation:82 Row:0 Column:1 Rank:3",
@@ -16620,22 +16620,22 @@
     "description": "Description for Specialisation:82 Row:0 Column:1 Rank:5. Use icon icon_8201.jpg"
   },
   "82021": {
-    "name": "Specialisation:82 Row:0 Column:2 Rank:1",
-    "icon": "icon_8202",
+    "name": "Précision Dévastatrice (rang1)",
+    "icon": "spell_fire_flare",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:0 Column:2 Rank:1. Use icon icon_8202.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 2%"
   },
   "82022": {
-    "name": "Specialisation:82 Row:0 Column:2 Rank:2",
+    "name": "Précision Dévastatrice (rang2)",
     "icon": "icon_8202",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:0 Column:2 Rank:2. Use icon icon_8202.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 4%"
   },
   "82023": {
-    "name": "Specialisation:82 Row:0 Column:2 Rank:3",
+    "name": "Précision Dévastatrice (rang3)",
     "icon": "icon_8202",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:0 Column:2 Rank:3. Use icon icon_8202.jpg"
+    "description": "Augmente les chances de Toucher du Démoniste de 6%"
   },
   "82024": {
     "name": "Specialisation:82 Row:0 Column:2 Rank:4",
@@ -16650,16 +16650,16 @@
     "description": "Description for Specialisation:82 Row:0 Column:2 Rank:5. Use icon icon_8202.jpg"
   },
   "82031": {
-    "name": "Specialisation:82 Row:0 Column:3 Rank:1",
-    "icon": "icon_8203",
+    "name": "Intensité (rang1)",
+    "icon": "spell_fire_lavaspawn",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:0 Column:3 Rank:1. Use icon icon_8203.jpg"
+    "description": "Donne 35% de chances d'anti interruption lorsque le Démoniste incante des techniques de Sort de Destruction"
   },
   "82032": {
-    "name": "Specialisation:82 Row:0 Column:3 Rank:2",
+    "name": "Intensité (rang2)",
     "icon": "icon_8203",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:0 Column:3 Rank:2. Use icon icon_8203.jpg"
+    "description": "Donne 70% de chances d'anti interruption lorsque le Démoniste incante des techniques de Sort de Destruction"
   },
   "82033": {
     "name": "Specialisation:82 Row:0 Column:3 Rank:3",
@@ -16680,22 +16680,22 @@
     "description": "Description for Specialisation:82 Row:0 Column:3 Rank:5. Use icon icon_8203.jpg"
   },
   "82101": {
-    "name": "Specialisation:82 Row:1 Column:0 Rank:1",
-    "icon": "icon_8210",
+    "name": "Puissance Démoniaque (rang1)",
+    "icon": "spell_fire_firebolt",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:1 Column:0 Rank:1. Use icon icon_8210.jpg"
+    "description": "Diminue le temps d'incantation de la technique Eclair de Feu du Familier Diablotin du Démoniste de 0,25sec et réduit le temps de rechargement de la technique Fouet de Douleur du Familier Succube du Démoniste de 2sec"
   },
   "82102": {
-    "name": "Specialisation:82 Row:1 Column:0 Rank:2",
+    "name": "Puissance Démoniaque (rang2)",
     "icon": "icon_8210",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:1 Column:0 Rank:2. Use icon icon_8210.jpg"
+    "description": "Diminue le temps d'incantation de la technique Eclair de Feu du Familier Diablotin du Démoniste de 0,5sec et réduit le temps de rechargement de la technique Fouet de Douleur du Familier Succube du Démoniste de 4sec"
   },
   "82103": {
-    "name": "Specialisation:82 Row:1 Column:0 Rank:3",
+    "name": "Puissance Démoniaque (rang3)",
     "icon": "icon_8210",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:1 Column:0 Rank:3. Use icon icon_8210.jpg"
+    "description": "Diminue le temps d'incantation de la technique Eclair de Feu du Familier Diablotin du Démoniste de 0,75sec et réduit le temps de rechargement de la technique Fouet de Douleur du Familier Succube du Démoniste de 6sec"
   },
   "82104": {
     "name": "Specialisation:82 Row:1 Column:0 Rank:4",
@@ -16710,16 +16710,16 @@
     "description": "Description for Specialisation:82 Row:1 Column:0 Rank:5. Use icon icon_8210.jpg"
   },
   "82111": {
-    "name": "Specialisation:82 Row:1 Column:1 Rank:1",
-    "icon": "icon_8211",
+    "name": "Trait de l'Ombre Amélioré (rang1)",
+    "icon": "spell_shadow_shadowbolt",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:1 Column:1 Rank:1. Use icon icon_8211.jpg"
+    "description": "Lorsque le Démoniste obtient un effet critique avec la technique Trait de l'Ombre, il pose un affaiblissement de 12sec qui augmente de 20% les dégats des 2 prochaines sources de dégats d'Ombre"
   },
   "82112": {
-    "name": "Specialisation:82 Row:1 Column:1 Rank:2",
+    "name": "Trait de l'Ombre Amélioré (rang2)",
     "icon": "icon_8211",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:1 Column:1 Rank:2. Use icon icon_8211.jpg"
+    "description": "Lorsque le Démoniste obtient un effet critique avec la technique Trait de l'Ombre, il pose un affaiblissement de 12sec qui augmente de 20% les dégats des 4 prochaines sources de dégats d'Ombre"
   },
   "82113": {
     "name": "Specialisation:82 Row:1 Column:1 Rank:3",
@@ -16740,22 +16740,22 @@
     "description": "Description for Specialisation:82 Row:1 Column:1 Rank:5. Use icon icon_8211.jpg"
   },
   "82121": {
-    "name": "Specialisation:82 Row:1 Column:2 Rank:1",
-    "icon": "icon_8212",
+    "name": "Peau de Magma (rang1)",
+    "icon": "spell_fire_incinerate",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:1 Column:2 Rank:1. Use icon icon_8212.jpg"
+    "description": "Diminue tous les dégats subit par le Démoniste de 2%"
   },
   "82122": {
-    "name": "Specialisation:82 Row:1 Column:2 Rank:2",
+    "name": "Peau de Magma (rang2)",
     "icon": "icon_8212",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:1 Column:2 Rank:2. Use icon icon_8212.jpg"
+    "description": "Diminue tous les dégats subit par le Démoniste de 4%"
   },
   "82123": {
-    "name": "Specialisation:82 Row:1 Column:2 Rank:3",
+    "name": "Peau de Magma (rang3)",
     "icon": "icon_8212",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:1 Column:2 Rank:3. Use icon icon_8212.jpg"
+    "description": "Diminue tous les dégats subit par le Démoniste de 6%"
   },
   "82124": {
     "name": "Specialisation:82 Row:1 Column:2 Rank:4",
@@ -16770,16 +16770,16 @@
     "description": "Description for Specialisation:82 Row:1 Column:2 Rank:5. Use icon icon_8212.jpg"
   },
   "82131": {
-    "name": "Specialisation:82 Row:1 Column:3 Rank:1",
-    "icon": "icon_8213",
+    "name": "Cataclysme (rang1)",
+    "icon": "spell_fire_windsofwoe",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:1 Column:3 Rank:1. Use icon icon_8213.jpg"
+    "description": "Diminue les Résistances Magiques de la cible de 10pts et augmente la durée des techniques Immolation, Malédiction d'Agonie et Corruption du Démoniste de 3sec"
   },
   "82132": {
-    "name": "Specialisation:82 Row:1 Column:3 Rank:2",
+    "name": "Cataclysme (rang2)",
     "icon": "icon_8213",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:1 Column:3 Rank:2. Use icon icon_8213.jpg"
+    "description": "Diminue les Résistances Magiques de la cible de 20pts et augmente la durée des techniques Immolation, Malédiction d'Agonie et Corruption du Démoniste de 6sec"
   },
   "82133": {
     "name": "Specialisation:82 Row:1 Column:3 Rank:3",
@@ -16800,22 +16800,22 @@
     "description": "Description for Specialisation:82 Row:1 Column:3 Rank:5. Use icon icon_8213.jpg"
   },
   "82201": {
-    "name": "Specialisation:82 Row:2 Column:0 Rank:1",
-    "icon": "icon_8220",
+    "name": "Dévastation (rang1)",
+    "icon": "spell_fire_flameshock",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:2 Column:0 Rank:1. Use icon icon_8220.jpg"
+    "description": "Augmente les chances de critiques du Démoniste de 2%"
   },
   "82202": {
-    "name": "Specialisation:82 Row:2 Column:0 Rank:2",
+    "name": "Dévastation (rang2)",
     "icon": "icon_8220",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:2 Column:0 Rank:2. Use icon icon_8220.jpg"
+    "description": "Augmente les chances de critiques du Démoniste de 4%"
   },
   "82203": {
-    "name": "Specialisation:82 Row:2 Column:0 Rank:3",
+    "name": "Dévastation (rang3)",
     "icon": "icon_8220",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:2 Column:0 Rank:3. Use icon icon_8220.jpg"
+    "description": "Augmente les chances de critiques du Démoniste de 6%"
   },
   "82204": {
     "name": "Specialisation:82 Row:2 Column:0 Rank:4",
@@ -16830,10 +16830,10 @@
     "description": "Description for Specialisation:82 Row:2 Column:0 Rank:5. Use icon icon_8220.jpg"
   },
   "82211": {
-    "name": "Specialisation:82 Row:2 Column:1 Rank:1",
-    "icon": "icon_8221",
+    "name": "Gardien de Feu",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:2 Column:1 Rank:1. Use icon icon_8221.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement et le partage avec la technique Gardien de l'Ombre, Pose une amélioration de 30sec sur le Démoniste qui absorbe 875pts de dégats de Feu"
   },
   "82212": {
     "name": "Specialisation:82 Row:2 Column:1 Rank:2",
@@ -16860,10 +16860,10 @@
     "description": "Description for Specialisation:82 Row:2 Column:1 Rank:5. Use icon icon_8221.jpg"
   },
   "82221": {
-    "name": "Specialisation:82 Row:2 Column:2 Rank:1",
-    "icon": "icon_8222",
+    "name": "Brûlure de l'Ombre",
+    "icon": "spell_shadow_scourgebuild",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:2 Column:2 Rank:1. Use icon icon_8222.jpg"
+    "description": "Technique a activer, instantanée, 20yards de portée, coûte 365pts de Mana, 15sec de temps de rechargement, nécessite un Fragment d'Âme, inflige instantanément 476pts de dégats d'Ombre a la cible du Démoniste, le Fragment d'Âme lui est remboursé si la cible rapporte de l'Expérience ou de l'Honneur et meurt dans les 5sec après l'utilisation de cette technique"
   },
   "82222": {
     "name": "Specialisation:82 Row:2 Column:2 Rank:2",
@@ -16890,16 +16890,16 @@
     "description": "Description for Specialisation:82 Row:2 Column:2 Rank:5. Use icon icon_8222.jpg"
   },
   "82231": {
-    "name": "Specialisation:82 Row:2 Column:3 Rank:1",
-    "icon": "icon_8223",
+    "name": "Brûlure Amélioré (rang1)",
+    "icon": "spell_fire_soulburn",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:2 Column:3 Rank:1. Use icon icon_8223.jpg"
+    "description": "Augmente les chances de critique du Démoniste avec la technique Douleur Brûlante de 5%, également avec la technique Brûlure de l'Ombre mais uniquement lorsque la cible est inférieure a 20% de son total de Point de Vie"
   },
   "82232": {
-    "name": "Specialisation:82 Row:2 Column:3 Rank:2",
+    "name": "Brûlure Amélioré (rang2)",
     "icon": "icon_8223",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:2 Column:3 Rank:2. Use icon icon_8223.jpg"
+    "description": "Augmente les chances de critique du Démoniste avec la technique Douleur Brûlante de 10%, également avec la technique Brûlure de l'Ombre mais uniquement lorsque la cible est inférieure a 20% de son total de Point de Vie"
   },
   "82233": {
     "name": "Specialisation:82 Row:2 Column:3 Rank:3",
@@ -16920,22 +16920,22 @@
     "description": "Description for Specialisation:82 Row:2 Column:3 Rank:5. Use icon icon_8223.jpg"
   },
   "82301": {
-    "name": "Specialisation:82 Row:3 Column:0 Rank:1",
-    "icon": "icon_8230",
+    "name": "Pyroclasme (rang1)",
+    "icon": "spell_fire_volcano",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:3 Column:0 Rank:1. Use icon icon_8230.jpg"
+    "description": "Donne +10% de chances d'anti interruption au Démoniste sur les techniques Pluie de Feu et Flammes Infernales, permet a la technique Feu de l'Âme d'Etourdir la cible durant 1sec, et donne aux techniques Conflagration et Brûlure de l'Ombre du Démoniste de diminuer la vitesse de déplacement de 50% durant 2sec"
   },
   "82302": {
-    "name": "Specialisation:82 Row:3 Column:0 Rank:2",
+    "name": "Pyroclasme (rang2)",
     "icon": "icon_8230",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:3 Column:0 Rank:2. Use icon icon_8230.jpg"
+    "description": "Donne +20% de chances d'anti interruption au Démoniste sur les techniques Pluie de Feu et Flammes Infernales, permet a la technique Feu de l'Âme d'Etourdir la cible durant 2sec, et donne aux techniques Conflagration et Brûlure de l'Ombre du Démoniste de diminuer la vitesse de déplacement de 50% durant 4sec"
   },
   "82303": {
-    "name": "Specialisation:82 Row:3 Column:0 Rank:3",
+    "name": "Pyroclasme (rang3)",
     "icon": "icon_8230",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:3 Column:0 Rank:3. Use icon icon_8230.jpg"
+    "description": "Donne +30% de chances d'anti interruption au Démoniste sur les techniques Pluie de Feu et Flammes Infernales, permet a la technique Feu de l'Âme d'Etourdir la cible durant 3sec, et donne aux techniques Conflagration et Brûlure de l'Ombre du Démoniste de diminuer la vitesse de déplacement de 50% durant 6sec"
   },
   "82304": {
     "name": "Specialisation:82 Row:3 Column:0 Rank:4",
@@ -16950,16 +16950,16 @@
     "description": "Description for Specialisation:82 Row:3 Column:0 Rank:5. Use icon icon_8230.jpg"
   },
   "82311": {
-    "name": "Specialisation:82 Row:3 Column:1 Rank:1",
-    "icon": "icon_8231",
+    "name": "Allonge de la Destruction (rang1)",
+    "icon": "spell_shadow_corpseexplode",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:3 Column:1 Rank:1. Use icon icon_8231.jpg"
+    "description": "Augmente la portée des techniques de Destruction du Démoniste de 10%"
   },
   "82312": {
-    "name": "Specialisation:82 Row:3 Column:1 Rank:2",
+    "name": "Allonge de la Destruction (rang2)",
     "icon": "icon_8231",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:3 Column:1 Rank:2. Use icon icon_8231.jpg"
+    "description": "Augmente la portée des techniques de Destruction du Démoniste de 20%"
   },
   "82313": {
     "name": "Specialisation:82 Row:3 Column:1 Rank:3",
@@ -16980,22 +16980,22 @@
     "description": "Description for Specialisation:82 Row:3 Column:1 Rank:5. Use icon icon_8231.jpg"
   },
   "82321": {
-    "name": "Specialisation:82 Row:3 Column:2 Rank:1",
-    "icon": "icon_8232",
+    "name": "Conséquences (rang1)",
+    "icon": "spell_fire_fire",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:3 Column:2 Rank:1. Use icon icon_8232.jpg"
+    "description": "Diminue la menace généré par le Démoniste de 10% et réduit le coût en mana de toutes les techniques de Destruction de 2% et diminue le temps de chargement de la technique Feu de l'Âme de 20sec"
   },
   "82322": {
-    "name": "Specialisation:82 Row:3 Column:2 Rank:2",
+    "name": "Conséquences (rang2)",
     "icon": "icon_8232",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:3 Column:2 Rank:2. Use icon icon_8232.jpg"
+    "description": "Diminue la menace généré par le Démoniste de 20% et réduit le coût en mana de toutes les techniques de Destruction de 4% et diminue le temps de chargement de la technique Feu de l'Âme de 40sec"
   },
   "82323": {
-    "name": "Specialisation:82 Row:3 Column:2 Rank:3",
+    "name": "Conséquences (rang3)",
     "icon": "icon_8232",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:3 Column:2 Rank:3. Use icon icon_8232.jpg"
+    "description": "Diminue la menace généré par le Démoniste de 30% et réduit le coût en mana de toutes les techniques de Destruction de 6% et diminue le temps de chargement de la technique Feu de l'Âme de 60sec"
   },
   "82324": {
     "name": "Specialisation:82 Row:3 Column:2 Rank:4",
@@ -17010,16 +17010,16 @@
     "description": "Description for Specialisation:82 Row:3 Column:2 Rank:5. Use icon icon_8232.jpg"
   },
   "82331": {
-    "name": "Specialisation:82 Row:3 Column:3 Rank:1",
-    "icon": "icon_8233",
+    "name": "Gardien Ardent (rang1)",
+    "icon": "inv_shield_05",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:3 Column:3 Rank:1. Use icon icon_8233.jpg"
+    "description": "Donne aux techniques de Gardien du Démoniste 50% de chance de renvoyer la prochaine technique absorbée"
   },
   "82332": {
-    "name": "Specialisation:82 Row:3 Column:3 Rank:2",
+    "name": "Gardien Ardent (rang2)",
     "icon": "icon_8233",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:3 Column:3 Rank:2. Use icon icon_8233.jpg"
+    "description": "Donne aux techniques de Gardien du Démoniste 100% de chance de renvoyer la prochaine technique absorbée"
   },
   "82333": {
     "name": "Specialisation:82 Row:3 Column:3 Rank:3",
@@ -17040,22 +17040,22 @@
     "description": "Description for Specialisation:82 Row:3 Column:3 Rank:5. Use icon icon_8233.jpg"
   },
   "82401": {
-    "name": "Specialisation:82 Row:4 Column:0 Rank:1",
-    "icon": "icon_8240",
+    "name": "Protection du Néant (rang1)",
+    "icon": "ability_stealth",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:4 Column:0 Rank:1. Use icon icon_8240.jpg"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 10pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 5% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 33% du montant absorbé et a la technique Gardien de Feu de rendre 33% du montant absorbé en mana"
   },
   "82402": {
-    "name": "Specialisation:82 Row:4 Column:0 Rank:2",
+    "name": "Protection du Néant (rang2)",
     "icon": "icon_8240",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:4 Column:0 Rank:2. Use icon icon_8240.jpg"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 20pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 10% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 66% du montant absorbé et a la technique Gardien de Feu de rendre 66% du montant absorbé en mana"
   },
   "82403": {
-    "name": "Specialisation:82 Row:4 Column:0 Rank:3",
+    "name": "Protection du Néant (rang3)",
     "icon": "icon_8240",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:4 Column:0 Rank:3. Use icon icon_8240.jpg"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 30pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 15% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 100% du montant absorbé et a la technique Gardien de Feu de rendre 100% du montant absorbé en mana"
   },
   "82404": {
     "name": "Specialisation:82 Row:4 Column:0 Rank:4",
@@ -17070,10 +17070,10 @@
     "description": "Description for Specialisation:82 Row:4 Column:0 Rank:5. Use icon icon_8240.jpg"
   },
   "82411": {
-    "name": "Specialisation:82 Row:4 Column:1 Rank:1",
-    "icon": "icon_8241",
+    "name": "Conflagration",
+    "icon": "spell_fire_fireball",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:4 Column:1 Rank:1. Use icon icon_8241.jpg"
+    "description": "Technique a activer, instantanée, 15sec de temps de rechargement, coûte 165pts de Mana, 30yards de portée, requiert que la technique Immolation soit sur la cible, Consumme l'affaiblissement Immolation et le fait disparaitre sur la cible et lui inflige instantanément 264pts de dégats de Feu"
   },
   "82412": {
     "name": "Specialisation:82 Row:4 Column:1 Rank:2",
@@ -17100,10 +17100,10 @@
     "description": "Description for Specialisation:82 Row:4 Column:1 Rank:5. Use icon icon_8241.jpg"
   },
   "82421": {
-    "name": "Specialisation:82 Row:4 Column:2 Rank:1",
-    "icon": "icon_8242",
+    "name": "Ruine",
+    "icon": "spell_shadow_shadowwordpain",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:4 Column:2 Rank:1. Use icon icon_8242.jpg"
+    "description": "Augmente les dégats des critiques du Démoniste de 100%"
   },
   "82422": {
     "name": "Specialisation:82 Row:4 Column:2 Rank:2",
@@ -17130,16 +17130,16 @@
     "description": "Description for Specialisation:82 Row:4 Column:2 Rank:5. Use icon icon_8242.jpg"
   },
   "82431": {
-    "name": "Specialisation:82 Row:4 Column:3 Rank:1",
-    "icon": "icon_8243",
+    "name": "Contre Coup (rang1)",
+    "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:4 Column:3 Rank:1. Use icon icon_8243.jpg"
+    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort de sa cible, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 50%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "82432": {
-    "name": "Specialisation:82 Row:4 Column:3 Rank:2",
+    "name": "Contre Coup (rang2)",
     "icon": "icon_8243",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:4 Column:3 Rank:2. Use icon icon_8243.jpg"
+    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort de sa cible, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "82433": {
     "name": "Specialisation:82 Row:4 Column:3 Rank:3",
@@ -17160,16 +17160,16 @@
     "description": "Description for Specialisation:82 Row:4 Column:3 Rank:5. Use icon icon_8243.jpg"
   },
   "82511": {
-    "name": "Specialisation:82 Row:5 Column:1 Rank:1",
-    "icon": "icon_8251",
+    "name": "Tempête Ardente (rang1)",
+    "icon": "spell_fire_selfdestruct",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:5 Column:1 Rank:1. Use icon icon_8251.jpg"
+    "description": "Augmente les dégats infligés par le Feu du Démoniste de 5%"
   },
   "82512": {
-    "name": "Specialisation:82 Row:5 Column:1 Rank:2",
+    "name": "Tempête Ardente (rang2)",
     "icon": "icon_8251",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:5 Column:1 Rank:2. Use icon icon_8251.jpg"
+    "description": "Augmente les dégats infligés par le Feu du Démoniste de 10%"
   },
   "82513": {
     "name": "Specialisation:82 Row:5 Column:1 Rank:3",
@@ -17190,22 +17190,22 @@
     "description": "Description for Specialisation:82 Row:5 Column:1 Rank:5. Use icon icon_8251.jpg"
   },
   "82521": {
-    "name": "Specialisation:82 Row:5 Column:2 Rank:1",
-    "icon": "icon_8252",
+    "name": "Ombres et Flammes (rang1)",
+    "icon": "spell_fire_masterofelements",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:5 Column:2 Rank:1. Use icon icon_8252.jpg"
+    "description": "Convertit 10% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "82522": {
-    "name": "Specialisation:82 Row:5 Column:2 Rank:2",
+    "name": "Ombres et Flammes (rang2)",
     "icon": "icon_8252",
     "rank": 2,
-    "description": "Description for Specialisation:82 Row:5 Column:2 Rank:2. Use icon icon_8252.jpg"
+    "description": "Convertit 20% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "82523": {
-    "name": "Specialisation:82 Row:5 Column:2 Rank:3",
+    "name": "Ombres et Flammes (rang3)",
     "icon": "icon_8252",
     "rank": 3,
-    "description": "Description for Specialisation:82 Row:5 Column:2 Rank:3. Use icon icon_8252.jpg"
+    "description": "Convertit 30% de l'Intelligence du Démoniste en Bonus Sort"
   },
   "82524": {
     "name": "Specialisation:82 Row:5 Column:2 Rank:4",
@@ -17220,10 +17220,10 @@
     "description": "Description for Specialisation:82 Row:5 Column:2 Rank:5. Use icon icon_8252.jpg"
   },
   "82611": {
-    "name": "Specialisation:82 Row:6 Column:1 Rank:1",
-    "icon": "icon_8261",
+    "name": "Incinérer",
+    "icon": "spell_holy_holysmite",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:6 Column:1 Rank:1. Use icon icon_8261.jpg"
+    "description": "Technique a activer, 2,5sec de temps d'incantation, 30yards de portée, coûte 140pts de Mana, Lance un Trait Ardent qui inflige 400pts de dégats de Feu a la cible et 100pts de dégats supplémentaire si la cible est sous l'effet de la technique Immolation"
   },
   "82612": {
     "name": "Specialisation:82 Row:6 Column:1 Rank:2",
@@ -17250,10 +17250,10 @@
     "description": "Description for Specialisation:82 Row:6 Column:1 Rank:5. Use icon icon_8261.jpg"
   },
   "82621": {
-    "name": "Specialisation:82 Row:6 Column:2 Rank:1",
-    "icon": "icon_8262",
+    "name": "Furie de l'Ombre",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Description for Specialisation:82 Row:6 Column:2 Rank:1. Use icon icon_8262.jpg"
+    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, 30yards de portée, coûte 270pts de Mana, Lance un Sort a Effet de Zone de 8yards de portée, qui inflige 500pts de dégats d'Ombre et provoque un Etourdissement de 3sec sur les cibles"
   },
   "82622": {
     "name": "Specialisation:82 Row:6 Column:2 Rank:2",
