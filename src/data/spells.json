@@ -17493,13 +17493,13 @@
     "name": "Etat en Rêve (rang1)",
     "icon": "ability_townwatch",
     "rank": 1,
-    "description": "Convertit 15% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Essein d'Insecte, alors le Druide gagne une amélioration durant 5sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Convertit 15% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Luciole, alors le Druide gagne une amélioration durant 5sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "90132": {
     "name": "Etat en Rêve (rang2)",
     "icon": "icon_9013",
     "rank": 2,
-    "description": "Convertit 30% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Essein d'Insecte, alors le Druide gagne une amélioration durant 10sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
+    "description": "Convertit 30% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Luciole, alors le Druide gagne une amélioration durant 10sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "90133": {
     "name": "Specialisation:90 Row:1 Column:3 Rank:3",
@@ -17551,9 +17551,9 @@
   },
   "90211": {
     "name": "Augure de Clareté",
-    "icon": "spell_nature_cristalball",
+    "icon": "spell_nature_crystalball",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, utilisable dans toutes les formes sans démorpher, Pose une amélioration sur le Druide insensible a la dissipation, qui, lorsqu'il obtient un coup critique avec une technique, un sort ou un soin procure une amélioration qui réduit le coût en mana, rage, énergie de la prochaine technique du Druide de 100%"
+    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, utilisable dans toutes les formes sans forcer le changeforme, Pose une amélioration sur le Druide insensible a la Dissipation, qui, lorsqu'il obtient un coup critique avec une de ses techniques procure une amélioration de 10sec qui réduit le coût en Mana ou en Rage ou en Energie de la prochaine technique du Druide de 100%"
   },
   "90212": {
     "name": "Specialisation:90 Row:2 Column:1 Rank:2",
@@ -17611,7 +17611,7 @@
   },
   "90231": {
     "name": "Grâce de la Nature (rang1)",
-    "icon": "spell_nature_natureblessing",
+    "icon": "spell_nature_naturesblessing",
     "rank": 1,
     "description": "Lorsque le Druide obtient un coup critique avec une technique, il gagne une amélioration de 10sec qui diminue le temps d'incantation de sa prochaine technique de 0,25sec"
   },
@@ -17883,13 +17883,13 @@
     "name": "Force de la Nature (rang1)",
     "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Augmente les dégats des sorts de Nature de 5% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 3% et inversement"
+    "description": "Augmente les dégats des techniques de Nature et d'Arcanes de 5% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 3% et inversement"
   },
   "90512": {
     "name": "Force de la Nature (rang2)",
     "icon": "icon_9051",
     "rank": 2,
-    "description": "Augmente les dégats des sorts de Nature de 5% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 6% et inversement"
+    "description": "Augmente les dégats des techniques de Nature et d'Arcanes de 10% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 6% et inversement"
   },
   "90513": {
     "name": "Specialisation:90 Row:5 Column:1 Rank:3",
@@ -17943,7 +17943,7 @@
     "name": "Forme de Sélénien",
     "icon": "spell_nature_forceofnature",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 350pts de Mana, Nouvelle Transformation du Druide en Sélénien qui suit toutes les règles normales des changeformes du Druide, Dans cette Forme le Druide augmente sa valeure d'Armure de 360%, il donne également une amélioration a tout son groupe dans les 49yards de +5% de critiques sort, et 3% des dégats qu'il inflige lui sont rendu en mana, mais il ne peut utiliser que des techniques d'Equilibre dans cette forme, pour finir retire l'effet de Canalisation a la technique Ouragan du Druide"
+    "description": "Technique a activer, instantanée, coûte 350pts de Mana, Nouvelle Transformation du Druide en Sélénien qui suit toutes les règles normales des changeformes du Druide, Dans cette Forme le Druide augmente sa valeure d'Armure de 360%, il donne également une amélioration a tout son groupe dans les 40yards de +5% de critiques sort, et 3% des dégats qu'il inflige lui sont rendu en mana, mais il ne peut utiliser que des techniques d'Equilibre dans cette forme, pour finir retire l'effet de Canalisation a la technique Ouragan du Druide"
   },
   "90612": {
     "name": "Specialisation:90 Row:6 Column:1 Rank:2",
