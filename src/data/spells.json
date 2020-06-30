@@ -18541,7 +18541,7 @@
   },
   "91421": {
     "name": "Luciole Feral",
-    "icon": "ispell_nature_faeriefire",
+    "icon": "spell_nature_faeriefire",
     "rank": 1,
     "description": "Permet d'utiliser la technique Luciole du Druide mais dans toutes les Formes de Druide avec un temps de rechargement de 6sec et qui génère un important niveau de menace si la cible n'a pas deja l'attention sur le Druide"
   },
