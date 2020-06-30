@@ -18453,13 +18453,13 @@
     "name": "Roi de la Jungle (rang1)",
     "icon": "ability_hunter_aspectofthemonkey",
     "rank": 1,
-    "description": "Diminue le coût en Mana des Changeformes de 10% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 25% durant 5sec"
+    "description": "Diminue le coût en Mana des techniques de Changeformes de 10% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 25% durant 5sec"
   },
   "91332": {
     "name": "Roi de la Jungle (rang2)",
     "icon": "icon_9133",
     "rank": 2,
-    "description": "Diminue le coût en Mana des Changeformes de 20% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 50% durant 5sec"
+    "description": "Diminue le coût en Mana des techniques de Changeformes de 20% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 50% durant 5sec"
   },
   "91333": {
     "name": "Specialisation:91 Row:3 Column:3 Rank:3",
@@ -18543,7 +18543,7 @@
     "name": "Luciole Feral",
     "icon": "ispell_nature_faeriefire",
     "rank": 1,
-    "description": "Permet d'utiliser la technique Luciole du Druide mais dans toutes les formes avec un temps de rechargement de 6sec et qui génère un important niveau de menace si la cible n'a pas deja l'attention sur le Druide"
+    "description": "Permet d'utiliser la technique Luciole du Druide mais dans toutes les Formes de Druide avec un temps de rechargement de 6sec et qui génère un important niveau de menace si la cible n'a pas deja l'attention sur le Druide"
   },
   "91422": {
     "name": "Specialisation:91 Row:4 Column:2 Rank:2",
@@ -18663,7 +18663,7 @@
     "name": "Chef de la Meute Amélioré",
     "icon": "spell_nature_unyeildingstamina",
     "rank": 1,
-    "description": "Donne une Aura de 40yards au Druide qui, dans toutes les Formes, augmente les chances de critique de 5% a tous son groupe, de plus les critiques qu'il obtient avec ses techniques soigne lui et son groupe de 3% des dégats infligés"
+    "description": "Donne au Druide une Aura de 40yards qui, dans toutes les Formes de Druide, augmente les chances de critique de 5% de tous son groupe, de plus lorsqu'il obtient un coup critique avec une technique, il se soigne lui et son groupe de 3% du dégats infligé"
   },
   "91612": {
     "name": "Specialisation:91 Row:6 Column:1 Rank:2",
@@ -18693,7 +18693,7 @@
     "name": "Mutilation",
     "icon": "ability_criticalstrike",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 20pts de Rage ou 45pts d'Energie, 0-5yards de portée, Pose un point de combo en Forme de Félin, Inflige 160pts de dégats instantanée a la cible et augmente les dégats des saignements et de la technique Ravage sur la cible de 30% durant 12sec"
+    "description": "Technique a activer, instantanée, coûte 25pts de Rage ou 45pts d'Energie, 0-5yards de portée, Pose un point de combo en Forme de Félin, Inflige 160pts de dégats instantanée a la cible et augmente les dégats des techniques de Saignements et de la technique Ravage sur la cible de 30% durant 12sec"
   },
   "91622": {
     "name": "Specialisation:91 Row:6 Column:2 Rank:2",
