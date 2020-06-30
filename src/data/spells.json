@@ -14133,13 +14133,13 @@
     "name": "Impact (rang1)",
     "icon": "spell_fire_meteorstorm",
     "rank": 1,
-    "description": "En plus de leur effet, tous les techniques de Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 1sec"
+    "description": "Permet aux techniques Trait de Feu, Choc de Flamme, Explosion Pyrotechnique et Souffle de Dragon du Mage, qu'en plus de leur effet elles provoquent un effet de ralentissement de 50% de la vitesse de déplacement durant 2sec"
   },
   "71332": {
     "name": "Impact (rang2)",
     "icon": "icon_7133",
     "rank": 2,
-    "description": "En plus de leur effet, tous les techniques de Sorts de Feu du Mage ralentissent la cible de 50% de leur vitesse durant 2sec"
+    "description": "Permet aux techniques Trait de Feu, Choc de Flamme, Explosion Pyrotechnique et Souffle de Dragon du Mage, qu'en plus de leur effet elles provoquent un effet de ralentissement de 50% de la vitesse de déplacement durant 4sec"
   },
   "71333": {
     "name": "Specialisation:71 Row:3 Column:3 Rank:3",
