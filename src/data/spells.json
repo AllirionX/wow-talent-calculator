@@ -18720,22 +18720,22 @@
     "description": "Description for Specialisation:91 Row:6 Column:2 Rank:5. Use icon icon_9162.jpg"
   },
   "92001": {
-    "name": "Specialisation:92 Row:0 Column:0 Rank:1",
-    "icon": "icon_9200",
+    "name": "Esprit Vivant (rang1)",
+    "icon": "spell_nature_crystalball",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:0 Column:0 Rank:1. Use icon icon_9200.jpg"
+    "description": "Augmente l'Esprit du Druide de 4%"
   },
   "92002": {
-    "name": "Specialisation:92 Row:0 Column:0 Rank:2",
+    "name": "Esprit Vivant (rang2)",
     "icon": "icon_9200",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:0 Column:0 Rank:2. Use icon icon_9200.jpg"
+    "description": "Augmente l'Esprit du Druide de 8%"
   },
   "92003": {
-    "name": "Specialisation:92 Row:0 Column:0 Rank:3",
+    "name": "Esprit Vivant (rang3)",
     "icon": "icon_9200",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:0 Column:0 Rank:3. Use icon icon_9200.jpg"
+    "description": "Augmente l'Esprit du Druide de 12%"
   },
   "92004": {
     "name": "Specialisation:92 Row:0 Column:0 Rank:4",
@@ -18750,16 +18750,16 @@
     "description": "Description for Specialisation:92 Row:0 Column:0 Rank:5. Use icon icon_9200.jpg"
   },
   "92011": {
-    "name": "Specialisation:92 Row:0 Column:1 Rank:1",
-    "icon": "icon_9201",
+    "name": "Focalisation de la Nature (rang1)",
+    "icon": "spell_nature_magicimmunity",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:0 Column:1 Rank:1. Use icon icon_9201.jpg"
+    "description": "Donne 35% de chance d'anti interruption au Druide sur ses incantations de Sort de Soins"
   },
   "92012": {
-    "name": "Specialisation:92 Row:0 Column:1 Rank:2",
+    "name": "Focalisation de la Nature (rang2)",
     "icon": "icon_9201",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:0 Column:1 Rank:2. Use icon icon_9201.jpg"
+    "description": "Donne 70% de chance d'anti interruption au Druide sur ses incantations de Sort de Soins"
   },
   "92013": {
     "name": "Specialisation:92 Row:0 Column:1 Rank:3",
@@ -18780,22 +18780,22 @@
     "description": "Description for Specialisation:92 Row:0 Column:1 Rank:5. Use icon icon_9201.jpg"
   },
   "92021": {
-    "name": "Specialisation:92 Row:0 Column:2 Rank:1",
-    "icon": "icon_9202",
+    "name": "Marque du Fauve Amélioré (rang1)",
+    "icon": "spell_nature_regeneration",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:0 Column:2 Rank:1. Use icon icon_9202.jpg"
+    "description": "Augmente l'effet de la technique Marque du Fauve du Druide de 10% et sa durée de 20min, augmente également la durée de la technique Epine de 33% et diminue le coût en mana de ces deux techniques de 10%"
   },
   "92022": {
-    "name": "Specialisation:92 Row:0 Column:2 Rank:2",
+    "name": "Marque du Fauve Amélioré (rang2)",
     "icon": "icon_9202",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:0 Column:2 Rank:2. Use icon icon_9202.jpg"
+    "description": "Augmente l'effet de la technique Marque du Fauve du Druide de 20% et sa durée de 40min, augmente également la durée de la technique Epine de 66% et diminue le coût en mana de ces deux techniques de 20%"
   },
   "92023": {
-    "name": "Specialisation:92 Row:0 Column:2 Rank:3",
+    "name": "Marque du Fauve Amélioré (rang3)",
     "icon": "icon_9202",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:0 Column:2 Rank:3. Use icon icon_9202.jpg"
+    "description": "Augmente l'effet de la technique Marque du Fauve du Druide de 30% et sa durée de 60min, augmente également la durée de la technique Epine de 100% et diminue le coût en mana de ces deux techniques de 30%"
   },
   "92024": {
     "name": "Specialisation:92 Row:0 Column:2 Rank:4",
@@ -18810,16 +18810,16 @@
     "description": "Description for Specialisation:92 Row:0 Column:2 Rank:5. Use icon icon_9202.jpg"
   },
   "92031": {
-    "name": "Specialisation:92 Row:0 Column:3 Rank:1",
-    "icon": "icon_9203",
+    "name": "Fureur (rang1)",
+    "icon": "spell_holy_blessingofstamina",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:0 Column:3 Rank:1. Use icon icon_9203.jpg"
+    "description": "Lorsque le Druide change de Forme il gagne instantanément ; En Forme d'Ours : 5pts de Rage, En Forme de Félin, 20pts d'Energie, Dans les autres Formes : rend 10% du coût en mana de la Forme, cet effet ne peut pas se produire que toutes les 4sec au maximum"
   },
   "92032": {
-    "name": "Specialisation:92 Row:0 Column:3 Rank:2",
+    "name": "Fureur (rang2)",
     "icon": "icon_9203",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:0 Column:3 Rank:2. Use icon icon_9203.jpg"
+    "description": "Lorsque le Druide change de Forme il gagne instantanément ; En Forme d'Ours : 10pts de Rage, En Forme de Félin, 40pts d'Energie, Dans les autres Formes : rend 20% du coût en mana de la Forme, cet effet ne peut pas se produire que toutes les 4sec au maximum"
   },
   "92033": {
     "name": "Specialisation:92 Row:0 Column:3 Rank:3",
@@ -18840,22 +18840,22 @@
     "description": "Description for Specialisation:92 Row:0 Column:3 Rank:5. Use icon icon_9203.jpg"
   },
   "92101": {
-    "name": "Specialisation:92 Row:1 Column:0 Rank:1",
-    "icon": "icon_9210",
+    "name": "ChangeForme Amélioré (rang1)",
+    "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:1 Column:0 Rank:1. Use icon icon_9210.jpg"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 10%"
   },
   "92102": {
-    "name": "Specialisation:92 Row:1 Column:0 Rank:2",
+    "name": "ChangeForme Amélioré (rang2)",
     "icon": "icon_9210",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:1 Column:0 Rank:2. Use icon icon_9210.jpg"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druidede 20%"
   },
   "92103": {
-    "name": "Specialisation:92 Row:1 Column:0 Rank:3",
+    "name": "ChangeForme Amélioré (rang3)",
     "icon": "icon_9210",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:1 Column:0 Rank:3. Use icon icon_9210.jpg"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 30%"
   },
   "92104": {
     "name": "Specialisation:92 Row:1 Column:0 Rank:4",
@@ -18870,16 +18870,16 @@
     "description": "Description for Specialisation:92 Row:1 Column:0 Rank:5. Use icon icon_9210.jpg"
   },
   "92111": {
-    "name": "Specialisation:92 Row:1 Column:1 Rank:1",
-    "icon": "icon_9211",
+    "name": "Toucher Guérisseur Amélioré (rang1)",
+    "icon": "spell_nature_healingtouch",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:1 Column:1 Rank:1. Use icon icon_9211.jpg"
+    "description": "Diminue le temps d'incantation de la technique Toucher Guérisseur du Druide de 0,25sec"
   },
   "92112": {
-    "name": "Specialisation:92 Row:1 Column:1 Rank:2",
+    "name": "Toucher Guérisseur Amélioré (rang2)",
     "icon": "icon_9211",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:1 Column:1 Rank:2. Use icon icon_9211.jpg"
+    "description": "Diminue le temps d'incantation de la technique Toucher Guérisseur du Druide de 0,5sec"
   },
   "92113": {
     "name": "Specialisation:92 Row:1 Column:1 Rank:3",
@@ -18900,22 +18900,22 @@
     "description": "Description for Specialisation:92 Row:1 Column:1 Rank:5. Use icon icon_9211.jpg"
   },
   "92121": {
-    "name": "Specialisation:92 Row:1 Column:2 Rank:1",
-    "icon": "icon_9212",
+    "name": "Subtilité de la Nature (rang1)",
+    "icon": "ability_eyeoftheowl",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:1 Column:2 Rank:1. Use icon icon_9212.jpg"
+    "description": "Diminue la menace généré par le Druide de 10% et lui donne +5pts de mp5"
   },
   "92122": {
-    "name": "Specialisation:92 Row:1 Column:2 Rank:2",
+    "name": "Subtilité de la Nature (rang2)",
     "icon": "icon_9212",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:1 Column:2 Rank:2. Use icon icon_9212.jpg"
+    "description": "Diminue la menace généré par le Druide de 20% et lui donne +10pts de mp5"
   },
   "92123": {
-    "name": "Specialisation:92 Row:1 Column:2 Rank:3",
+    "name": "Subtilité de la Nature (rang3)",
     "icon": "icon_9212",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:1 Column:2 Rank:3. Use icon icon_9212.jpg"
+    "description": "Diminue la menace généré par le Druide de 30% et lui donne +15pts de mp5"
   },
   "92124": {
     "name": "Specialisation:92 Row:1 Column:2 Rank:4",
@@ -18930,16 +18930,16 @@
     "description": "Description for Specialisation:92 Row:1 Column:2 Rank:5. Use icon icon_9212.jpg"
   },
   "92131": {
-    "name": "Specialisation:92 Row:1 Column:3 Rank:1",
-    "icon": "icon_9213",
+    "name": "Furie Enragée (rang1)",
+    "icon": "ability_druid_enrage",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:1 Column:3 Rank:1. Use icon icon_9213.jpg"
+    "description": "Diminue la pénalité d'Armure de la technique Enrager du Druide en Ours de 50% et lui fait générer instantanément 5pts de Rage, permet a la technique Fureur du Tigre du Druide en Félin de généré instantanément 15pts d'Energie et augmente sa durée de 3sec"
   },
   "92132": {
-    "name": "Specialisation:92 Row:1 Column:3 Rank:2",
+    "name": "Furie Enragée (rang2)",
     "icon": "icon_9213",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:1 Column:3 Rank:2. Use icon icon_9213.jpg"
+    "description": "Diminue la pénalité d'Armure de la technique Enrager du Druide en Ours de 100% et lui fait générer instantanément 10pts de Rage, permet a la technique Fureur du Tigre du Druide en Félin de généré instantanément 30pts d'Energie et augmente sa durée de 6sec"
   },
   "92133": {
     "name": "Specialisation:92 Row:1 Column:3 Rank:3",
@@ -18960,22 +18960,22 @@
     "description": "Description for Specialisation:92 Row:1 Column:3 Rank:5. Use icon icon_9213.jpg"
   },
   "92201": {
-    "name": "Specialisation:92 Row:2 Column:0 Rank:1",
-    "icon": "icon_9220",
+    "name": "Réflexion (rang1)",
+    "icon": "spell_frost_windwalkon",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:2 Column:0 Rank:1. Use icon icon_9220.jpg"
+    "description": "Permet a 5% de l'Esprit du Druide d'être toujours actif"
   },
   "92202": {
-    "name": "Specialisation:92 Row:2 Column:0 Rank:2",
+    "name": "Réflexion (rang2)",
     "icon": "icon_9220",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:2 Column:0 Rank:2. Use icon icon_9220.jpg"
+    "description": "Permet a 10% de l'Esprit du Druide d'être toujours actif"
   },
   "92203": {
-    "name": "Specialisation:92 Row:2 Column:0 Rank:3",
+    "name": "Réflexion (rang3)",
     "icon": "icon_9220",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:2 Column:0 Rank:3. Use icon icon_9220.jpg"
+    "description": "Permet a 15% de l'Esprit du Druide d'être toujours actif"
   },
   "92204": {
     "name": "Specialisation:92 Row:2 Column:0 Rank:4",
@@ -18990,10 +18990,10 @@
     "description": "Description for Specialisation:92 Row:2 Column:0 Rank:5. Use icon icon_9220.jpg"
   },
   "92211": {
-    "name": "Specialisation:92 Row:2 Column:1 Rank:1",
-    "icon": "icon_9221",
+    "name": "Prompte Guérison",
+    "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:2 Column:1 Rank:1. Use icon icon_9221.jpg"
+    "description": "Technique a activer, instantanée, 15sec de temps de rechargement, 40yards de portée, coûte 200pts de Mana, Consomme sur la cible une amélioration de type Récupération ou Rétablissement pour soigner instantanément la cible d'un montant équivalent a 12sec de la technique Récupération ou 18sec de la technique Rétablissement"
   },
   "92212": {
     "name": "Specialisation:92 Row:2 Column:1 Rank:2",
@@ -19020,10 +19020,10 @@
     "description": "Description for Specialisation:92 Row:2 Column:1 Rank:5. Use icon icon_9221.jpg"
   },
   "92221": {
-    "name": "Specialisation:92 Row:2 Column:2 Rank:1",
-    "icon": "icon_9222",
+    "name": "Maîtrise des Formes",
+    "icon": "ability_mount_jungletiger",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:2 Column:2 Rank:1. Use icon icon_9222.jpg"
+    "description": "Permet au Druide de gagner une amélioration supplémentaire insensible a la Dissipation lorsqu'il se transforme dans une Forme ; en Ours : Il gagne +1pts de Rage toutes les 3sec, en Félin : il augmente sa Détection des Camouflés de +10rangs, en Otarie : il augmente sa régénération de la mana de 10%, en Voyage : il permet a 10% de sa régénération de Vie d'être toujours active, en Sélénien : il augmente sa vitesse d'incantation de 10%, et pour finir en Arbre : il augmente les soins réçu de 10%"
   },
   "92222": {
     "name": "Specialisation:92 Row:2 Column:2 Rank:2",
@@ -19050,16 +19050,16 @@
     "description": "Description for Specialisation:92 Row:2 Column:2 Rank:5. Use icon icon_9222.jpg"
   },
   "92231": {
-    "name": "Specialisation:92 Row:2 Column:3 Rank:1",
-    "icon": "icon_9223",
+    "name": "Printemps (rang1)",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:2 Column:3 Rank:1. Use icon icon_9223.jpg"
+    "description": "Diminue le temps d'incantation des techniques Retour a la Vie et Renaissance de 1sec ainsi que leur coût en mana de 20%, augmente également le montant de vie avec lequel la cible revient a la vie ainsi que le montant de vie lorsque le Druide revient a la Vie de 15%"
   },
   "92232": {
-    "name": "Specialisation:92 Row:2 Column:3 Rank:2",
+    "name": "Printemps (rang2)",
     "icon": "icon_9223",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:2 Column:3 Rank:2. Use icon icon_9223.jpg"
+    "description": "Diminue le temps d'incantation des techniques Retour a la Vie et Renaissance de 2sec ainsi que leur coût en mana de 40%, augmente également le montant de vie avec lequel la cible revient a la vie ainsi que le montant de vie lorsque le Druide revient a la Vie de 30%"
   },
   "92233": {
     "name": "Specialisation:92 Row:2 Column:3 Rank:3",
@@ -19080,22 +19080,22 @@
     "description": "Description for Specialisation:92 Row:2 Column:3 Rank:5. Use icon icon_9223.jpg"
   },
   "92301": {
-    "name": "Specialisation:92 Row:3 Column:0 Rank:1",
-    "icon": "icon_9230",
+    "name": "Revitaliser (rang1)",
+    "icon": "spell_nature_naturesblessing",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:3 Column:0 Rank:1. Use icon icon_9230.jpg"
+    "description": "Augmente les chances de critiques du Druide de 2%"
   },
   "92302": {
-    "name": "Specialisation:92 Row:3 Column:0 Rank:2",
+    "name": "Revitaliser (rang2)",
     "icon": "icon_9230",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:3 Column:0 Rank:2. Use icon icon_9230.jpg"
+    "description": "Augmente les chances de critiques du Druide de 4%"
   },
   "92303": {
-    "name": "Specialisation:92 Row:3 Column:0 Rank:3",
+    "name": "Revitaliser (rang3)",
     "icon": "icon_9230",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:3 Column:0 Rank:3. Use icon icon_9230.jpg"
+    "description": "Augmente les chances de critiques du Druide de 6%"
   },
   "92304": {
     "name": "Specialisation:92 Row:3 Column:0 Rank:4",
@@ -19110,16 +19110,16 @@
     "description": "Description for Specialisation:92 Row:3 Column:0 Rank:5. Use icon icon_9230.jpg"
   },
   "92311": {
-    "name": "Specialisation:92 Row:3 Column:1 Rank:1",
-    "icon": "icon_9231",
+    "name": "Esprit Tranquille (rang1)",
+    "icon": "spell_holy_elunesgrace",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:3 Column:1 Rank:1. Use icon icon_9231.jpg"
+    "description": "Diminue le coût en Mana des techniques Toucher Guérisseur, Tranquilité, Sommeil et Apaiser les Animaux du Druide de 5% et augmente la durée des techniques Sommeil et Apaiser les Animaux de 25%"
   },
   "92312": {
-    "name": "Specialisation:92 Row:3 Column:1 Rank:2",
+    "name": "Esprit Tranquille (rang2)",
     "icon": "icon_9231",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:3 Column:1 Rank:2. Use icon icon_9231.jpg"
+    "description": "Diminue le coût en Mana des techniques Toucher Guérisseur, Tranquilité, Sommeil et Apaiser les Animaux du Druide de 10% et augmente la durée des techniques Sommeil et Apaiser les Animaux de 50%"
   },
   "92313": {
     "name": "Specialisation:92 Row:3 Column:1 Rank:3",
@@ -19140,22 +19140,22 @@
     "description": "Description for Specialisation:92 Row:3 Column:1 Rank:5. Use icon icon_9231.jpg"
   },
   "92321": {
-    "name": "Specialisation:92 Row:3 Column:2 Rank:1",
-    "icon": "icon_9232",
+    "name": "Récupération Améliorée (rang1)",
+    "icon": "spell_nature_rejuvenation",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:3 Column:2 Rank:1. Use icon icon_9232.jpg"
+    "description": "Augmente les effets des techniques Récupération et Rétablissement du Druide de 5%"
   },
   "92322": {
-    "name": "Specialisation:92 Row:3 Column:2 Rank:2",
+    "name": "Récupération Améliorée (rang2)",
     "icon": "icon_9232",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:3 Column:2 Rank:2. Use icon icon_9232.jpg"
+    "description": "Augmente les effets des techniques Récupération et Rétablissement du Druide de 10%"
   },
   "92323": {
-    "name": "Specialisation:92 Row:3 Column:2 Rank:3",
+    "name": "Récupération Améliorée (rang3)",
     "icon": "icon_9232",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:3 Column:2 Rank:3. Use icon icon_9232.jpg"
+    "description": "Augmente les effets des techniques Récupération et Rétablissement du Druide de 15%"
   },
   "92324": {
     "name": "Specialisation:92 Row:3 Column:2 Rank:4",
@@ -19170,22 +19170,22 @@
     "description": "Description for Specialisation:92 Row:3 Column:2 Rank:5. Use icon icon_9232.jpg"
   },
   "92331": {
-    "name": "Specialisation:92 Row:3 Column:3 Rank:1",
-    "icon": "icon_9233",
+    "name": "Naturaliste (rang1)",
+    "icon": "spell_shadow_curse",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:3 Column:3 Rank:1. Use icon icon_9233.jpg"
+    "description": "Diminue le coût en Mana des techniques Guérison du Poison, Abolition du Poison et Abolir la Malédiction de 10% et lorsqu'une amélioration du Druide est Dissipé, 10% du coût en mana de la technique lui est rendu"
   },
   "92332": {
-    "name": "Specialisation:92 Row:3 Column:3 Rank:2",
+    "name": "Naturaliste (rang2)",
     "icon": "icon_9233",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:3 Column:3 Rank:2. Use icon icon_9233.jpg"
+    "description": "Diminue le coût en Mana des techniques Guérison du Poison, Abolition du Poison et Abolir la Malédiction de 20% et lorsqu'une amélioration du Druide est Dissipé, 20% du coût en mana de la technique lui est rendu"
   },
   "92333": {
     "name": "Specialisation:92 Row:3 Column:3 Rank:3",
     "icon": "icon_9233",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:3 Column:3 Rank:3. Use icon icon_9233.jpg"
+    "description": "Diminue le coût en Mana des techniques Guérison du Poison, Abolition du Poison et Abolir la Malédiction de 30% et lorsqu'une amélioration du Druide est Dissipé, 30% du coût en mana de la technique lui est rendu"
   },
   "92334": {
     "name": "Specialisation:92 Row:3 Column:3 Rank:4",
@@ -19200,22 +19200,22 @@
     "description": "Description for Specialisation:92 Row:3 Column:3 Rank:5. Use icon icon_9233.jpg"
   },
   "92401": {
-    "name": "Specialisation:92 Row:4 Column:0 Rank:1",
-    "icon": "icon_9240",
+    "name": "Perfection Naturelle (rang1)",
+    "icon": "spell_nature_spiritarmor",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:4 Column:0 Rank:1. Use icon icon_9240.jpg"
+    "description": "Diminue le temps de rechargement de la technique Renaissance de 10min et de la technique Innervation de 1min et lorsque le Druide subit un coup critique, il gagne une amélioration de 10sec qui réduit les dégats subit de 5%, stackable 1fois"
   },
   "92402": {
-    "name": "Specialisation:92 Row:4 Column:0 Rank:2",
+    "name": "Perfection Naturelle (rang2)",
     "icon": "icon_9240",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:4 Column:0 Rank:2. Use icon icon_9240.jpg"
+    "description": "Diminue le temps de rechargement de la technique Renaissance de 20min et de la technique Innervation de 2min et lorsque le Druide subit un coup critique, il gagne une amélioration de 10sec qui réduit les dégats subit de 5%, stackable 2fois"
   },
   "92403": {
-    "name": "Specialisation:92 Row:4 Column:0 Rank:3",
+    "name": "Perfection Naturelle (rang3)",
     "icon": "icon_9240",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:4 Column:0 Rank:3. Use icon icon_9240.jpg"
+    "description": "Diminue le temps de rechargement de la technique Renaissance de 30min et de la technique Innervation de 3min et lorsque le Druide subit un coup critique, il gagne une amélioration de 10sec qui réduit les dégats subit de 5%, stackable 3fois"
   },
   "92404": {
     "name": "Specialisation:92 Row:4 Column:0 Rank:4",
@@ -19230,10 +19230,10 @@
     "description": "Description for Specialisation:92 Row:4 Column:0 Rank:5. Use icon icon_9240.jpg"
   },
   "92411": {
-    "name": "Specialisation:92 Row:4 Column:1 Rank:1",
-    "icon": "icon_9241",
+    "name": "Rapidité de la Nature",
+    "icon": "spell_nature_ravenform",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:4 Column:1 Rank:1. Use icon icon_9241.jpg"
+    "description": "Technique a activer, instantanée, 3min de temps de rechargement, gratuite en mana, hors temps de rechargement global, Pose une amélioration sur le Druide qui diminue le temps d'incantation de sa prochaine technique de Nature dont le temps d'incantation de base est inférieur a 10sec de 100%"
   },
   "92412": {
     "name": "Specialisation:92 Row:4 Column:1 Rank:2",
@@ -19260,10 +19260,10 @@
     "description": "Description for Specialisation:92 Row:4 Column:1 Rank:5. Use icon icon_9241.jpg"
   },
   "92421": {
-    "name": "Specialisation:92 Row:4 Column:2 Rank:1",
-    "icon": "icon_9242",
+    "name": "Concentration",
+    "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:4 Column:2 Rank:1. Use icon icon_9242.jpg"
+    "description": "Diminue la durée des effets de Silence sur le Druide de 30% et réduit les dégats subit durant ces effets de 15%, ne se cumule pas avec d'autre effet similaire"
   },
   "92422": {
     "name": "Specialisation:92 Row:4 Column:2 Rank:2",
@@ -19290,16 +19290,16 @@
     "description": "Description for Specialisation:92 Row:4 Column:2 Rank:5. Use icon icon_9242.jpg"
   },
   "92431": {
-    "name": "Specialisation:92 Row:4 Column:3 Rank:1",
-    "icon": "icon_9243",
+    "name": "Rétablissement Amélioré (rang1)",
+    "icon": "spell_nature_resistnature",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:4 Column:3 Rank:1. Use icon icon_9243.jpg"
+    "description": "Augmente les chances de critiques du Druide avec la technique Rétablissement de 25%"
   },
   "92432": {
-    "name": "Specialisation:92 Row:4 Column:3 Rank:2",
+    "name": "Rétablissement Amélioré (rang2)",
     "icon": "icon_9243",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:4 Column:3 Rank:2. Use icon icon_9243.jpg"
+    "description": "Augmente les chances de critiques du Druide avec la technique Rétablissement de 50%"
   },
   "92433": {
     "name": "Specialisation:92 Row:4 Column:3 Rank:3",
@@ -19320,16 +19320,16 @@
     "description": "Description for Specialisation:92 Row:4 Column:3 Rank:5. Use icon icon_9243.jpg"
   },
   "92511": {
-    "name": "Specialisation:92 Row:5 Column:1 Rank:1",
-    "icon": "icon_9251",
+    "name": "Don de la Nature (rang1)",
+    "icon": "spell_nature_protectionformnature",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:5 Column:1 Rank:1. Use icon icon_9251.jpg"
+    "description": "Augmente la Résistance Nature du Druide de 10pts et augmente l'efficacité de ses techniques de Soins de 5%"
   },
   "92512": {
-    "name": "Specialisation:92 Row:5 Column:1 Rank:2",
+    "name": "Don de la Nature (rang2)",
     "icon": "icon_9251",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:5 Column:1 Rank:2. Use icon icon_9251.jpg"
+    "description": "Augmente la Résistance Nature du Druide de 20pts et augmente l'efficacité de ses techniques de Soins de 10%"
   },
   "92513": {
     "name": "Specialisation:92 Row:5 Column:1 Rank:3",
@@ -19350,22 +19350,22 @@
     "description": "Description for Specialisation:92 Row:5 Column:1 Rank:5. Use icon icon_9251.jpg"
   },
   "92521": {
-    "name": "Specialisation:92 Row:5 Column:2 Rank:1",
-    "icon": "icon_9252",
+    "name": "Esprit Vif (rang1)",
+    "icon": "spell_holy_divinespirit",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:5 Column:2 Rank:1. Use icon icon_9252.jpg"
+    "description": "Convertit 10% de l'Esprit du Druide en Bonus Soin"
   },
   "92522": {
-    "name": "Specialisation:92 Row:5 Column:2 Rank:2",
+    "name": "Esprit Vif (rang2)",
     "icon": "icon_9252",
     "rank": 2,
-    "description": "Description for Specialisation:92 Row:5 Column:2 Rank:2. Use icon icon_9252.jpg"
+    "description": "Convertit 20% de l'Esprit du Druide en Bonus Soin"
   },
   "92523": {
-    "name": "Specialisation:92 Row:5 Column:2 Rank:3",
+    "name": "Esprit Vif (rang3)",
     "icon": "icon_9252",
     "rank": 3,
-    "description": "Description for Specialisation:92 Row:5 Column:2 Rank:3. Use icon icon_9252.jpg"
+    "description": "Convertit 30% de l'Esprit du Druide en Bonus Soin"
   },
   "92524": {
     "name": "Specialisation:92 Row:5 Column:2 Rank:4",
@@ -19380,10 +19380,10 @@
     "description": "Description for Specialisation:92 Row:5 Column:2 Rank:5. Use icon icon_9252.jpg"
   },
   "92611": {
-    "name": "Specialisation:92 Row:6 Column:1 Rank:1",
-    "icon": "icon_9261",
+    "name": "Tranquilité Améliorée",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:6 Column:1 Rank:1. Use icon icon_9261.jpg"
+    "description": "Permet a la technique Tranquilité du Druide d'avoir désormais 40yards de portée et de diminuer la menace généré par la technique de 100% et réduit son temps de rechargement a 10sec"
   },
   "92612": {
     "name": "Specialisation:92 Row:6 Column:1 Rank:2",
@@ -19410,10 +19410,10 @@
     "description": "Description for Specialisation:92 Row:6 Column:1 Rank:5. Use icon icon_9261.jpg"
   },
   "92621": {
-    "name": "Specialisation:92 Row:6 Column:2 Rank:1",
-    "icon": "icon_9262",
+    "name": "Forme d'Arbre de Vie",
+    "icon": "spell_nature_naturetouchgrow",
     "rank": 1,
-    "description": "Description for Specialisation:92 Row:6 Column:2 Rank:1. Use icon icon_9262.jpg"
+    "description": "Technique a activer, instantanée, Nouvelle Transformation en Tréant (élémentaire) qui suit toutes les règles normales de ChangeForme du Druide, coûte 130pts de mana, Dans cette forme le Druide augmente l'Esprit de tous son groupe de 5%, il bénéficie en permanence de l'amélioration de la technique Ecorse mais sans consommer son temps de rechargement, il peut utiliser tout ses sorts de Druide mais diminue le coût en mana des sorts de Nature de 10%, pour finir retire l'effet de Canalisation a la technique Tranquilité"
   },
   "92622": {
     "name": "Specialisation:92 Row:6 Column:2 Rank:2",
