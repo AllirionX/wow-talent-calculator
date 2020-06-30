@@ -16500,7 +16500,7 @@
     "description": "Description for Specialisation:81 Row:5 Column:2 Rank:5. Use icon icon_8152.jpg"
   },
   "81611": {
-    "name": "Démons Majeurs",
+    "name": "Invocations de Démons Majeurs",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
     "description": "Permet au Démoniste d'obtenir 3 invocations de Familier Supplémentaires : Infernal, Gangregarde et Garde Funeste"
@@ -16533,7 +16533,7 @@
     "name": "Âme Liées",
     "icon": "spell_shadow_gathershadows",
     "rank": 1,
-    "description": "Technique a activer, instantanée, grauite en mana, 100yards de portée, utilisable uniquement si un Familier Démoniste est actif, hors du temps de rechargement global, Permet au Démoniste de gagner une amélioration insensible a la dissipation qui dure tant que le Familier est en vie, transfert 10% des dégats subit par le Démoniste a son familier, et augmente les dégats qu'inflige le Familier ainsi que le Démoniste de 10%"
+    "description": "Technique a activer, instantanée, grauite en mana, 100yards de portée, utilisable uniquement si un Familier Démoniste est actif, hors du temps de rechargement global, Permet au Démoniste de gagner une amélioration insensible a la dissipation qui dure tant que le Familier est en vie, transfert 10% des dégats subit par le Démoniste a son familier, et augmente les dégats qu'inflige le Familier ainsi que le Démoniste de 10%, pour finir rend le Familier insensible a la technique Asservir Démon des autres Démonistes"
   },
   "81622": {
     "name": "Specialisation:81 Row:6 Column:2 Rank:2",
