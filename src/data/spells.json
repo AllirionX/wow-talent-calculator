@@ -3873,7 +3873,7 @@
     "name": "Sainteté",
     "icon": "spell_holy_mindvision",
     "rank": 1,
-    "description": "Lorsque le Paladin active une Aura, il fait gagner a tout son groupe une amélioration supplémentaire qui augmente les dégats des sorts du Sacré de 10%"
+    "description": "Lorsque le Paladin active une Aura, il fait gagner a tout son groupe une amélioration supplémentaire qui augmente les dégats infligés de 10%"
   },
   "22212": {
     "name": "Specialisation:22 Row:2 Column:1 Rank:2",
