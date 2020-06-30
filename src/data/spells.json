@@ -18000,22 +18000,22 @@
     "description": "Description for Specialisation:90 Row:6 Column:2 Rank:5. Use icon icon_9062.jpg"
   },
   "91001": {
-    "name": "Specialisation:91 Row:0 Column:0 Rank:1",
+    "name": "Agression (rang1)",
     "icon": "icon_9100",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:0 Column:0 Rank:1. Use icon icon_9100.jpg"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 15% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 5%"
   },
   "91002": {
-    "name": "Specialisation:91 Row:0 Column:0 Rank:2",
+    "name": "Agression (rang2)",
     "icon": "icon_9100",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:0 Column:0 Rank:2. Use icon icon_9100.jpg"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 30% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 10%"
   },
   "91003": {
-    "name": "Specialisation:91 Row:0 Column:0 Rank:3",
+    "name": "Agression (rang3)",
     "icon": "icon_9100",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:0 Column:0 Rank:3. Use icon icon_9100.jpg"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 45% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 15%"
   },
   "91004": {
     "name": "Specialisation:91 Row:0 Column:0 Rank:4",
@@ -18030,16 +18030,16 @@
     "description": "Description for Specialisation:91 Row:0 Column:0 Rank:5. Use icon icon_9100.jpg"
   },
   "91011": {
-    "name": "Specialisation:91 Row:0 Column:1 Rank:1",
+    "name": "Férocité (rang1)",
     "icon": "icon_9101",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:0 Column:1 Rank:1. Use icon icon_9101.jpg"
+    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 2pts"
   },
   "91012": {
-    "name": "Specialisation:91 Row:0 Column:1 Rank:2",
+    "name": "Férocité (rang2)",
     "icon": "icon_9101",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:0 Column:1 Rank:2. Use icon icon_9101.jpg"
+    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 5pts"
   },
   "91013": {
     "name": "Specialisation:91 Row:0 Column:1 Rank:3",
@@ -18060,22 +18060,22 @@
     "description": "Description for Specialisation:91 Row:0 Column:1 Rank:5. Use icon icon_9101.jpg"
   },
   "91021": {
-    "name": "Specialisation:91 Row:0 Column:2 Rank:1",
+    "name": "Première Lignée (rang1)",
     "icon": "icon_9102",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:0 Column:2 Rank:1. Use icon icon_9102.jpg"
+    "description": "Augmente la Puissance d'Attaque de 1pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 5% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 2sec"
   },
   "91022": {
-    "name": "Specialisation:91 Row:0 Column:2 Rank:2",
+    "name": "Première Lignée (rang2)",
     "icon": "icon_9102",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:0 Column:2 Rank:2. Use icon icon_9102.jpg"
+    "description": "Augmente la Puissance d'Attaque de 2pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 10% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 4sec"
   },
   "91023": {
-    "name": "Specialisation:91 Row:0 Column:2 Rank:3",
+    "name": "Première Lignée (rang3)",
     "icon": "icon_9102",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:0 Column:2 Rank:3. Use icon icon_9102.jpg"
+    "description": "Augmente la Puissance d'Attaque de 3pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 15% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 6sec"
   },
   "91024": {
     "name": "Specialisation:91 Row:0 Column:2 Rank:4",
@@ -18090,16 +18090,16 @@
     "description": "Description for Specialisation:91 Row:0 Column:2 Rank:5. Use icon icon_9102.jpg"
   },
   "91031": {
-    "name": "Specialisation:91 Row:0 Column:3 Rank:1",
+    "name": "Bas Instinct (rang1)",
     "icon": "icon_9103",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:0 Column:3 Rank:1. Use icon icon_9103.jpg"
+    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 1sec, également celui de la technique Rugissement Provocateur de 1min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 10pts et son temps de rechargement de 2sec"
   },
   "91032": {
-    "name": "Specialisation:91 Row:0 Column:3 Rank:2",
+    "name": "Bas Instinct (rang2)",
     "icon": "icon_9103",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:0 Column:3 Rank:2. Use icon icon_9103.jpg"
+    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 2sec, également celui de la technique Rugissement Provocateur de 2min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 20pts et son temps de rechargement de 4sec"
   },
   "91033": {
     "name": "Specialisation:91 Row:0 Column:3 Rank:3",
@@ -18120,22 +18120,22 @@
     "description": "Description for Specialisation:91 Row:0 Column:3 Rank:5. Use icon icon_9103.jpg"
   },
   "91101": {
-    "name": "Specialisation:91 Row:1 Column:0 Rank:1",
+    "name": "Instinct Farouche (rang1)",
     "icon": "icon_9110",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:1 Column:0 Rank:1. Use icon icon_9110.jpg"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +2rangs et augmente la menace généré par le Druide en Ours de 5%"
   },
   "91102": {
-    "name": "Specialisation:91 Row:1 Column:0 Rank:2",
+    "name": "Instinct Farouche (rang2)",
     "icon": "icon_9110",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:1 Column:0 Rank:2. Use icon icon_9110.jpg"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +4rangs et augmente la menace généré par le Druide en Ours de 10%"
   },
   "91103": {
-    "name": "Specialisation:91 Row:1 Column:0 Rank:3",
+    "name": "Instinct Farouche (rang3)",
     "icon": "icon_9110",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:1 Column:0 Rank:3. Use icon icon_9110.jpg"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +6rangs et augmente la menace généré par le Druide en Ours de 15%"
   },
   "91104": {
     "name": "Specialisation:91 Row:1 Column:0 Rank:4",
@@ -18150,16 +18150,16 @@
     "description": "Description for Specialisation:91 Row:1 Column:0 Rank:5. Use icon icon_9110.jpg"
   },
   "91111": {
-    "name": "Specialisation:91 Row:1 Column:1 Rank:1",
+    "name": "Peau Epaisse (rang1)",
     "icon": "icon_9111",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:1 Column:1 Rank:1. Use icon icon_9111.jpg"
+    "description": "Augmente l'Armure du Druide de 5%"
   },
   "91112": {
-    "name": "Specialisation:91 Row:1 Column:1 Rank:2",
+    "name": "Peau Epaisse (rang2)",
     "icon": "icon_9111",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:1 Column:1 Rank:2. Use icon icon_9111.jpg"
+    "description": "Augmente l'Armure du Druide de 10%"
   },
   "91113": {
     "name": "Specialisation:91 Row:1 Column:1 Rank:3",
@@ -18180,22 +18180,22 @@
     "description": "Description for Specialisation:91 Row:1 Column:1 Rank:5. Use icon icon_9111.jpg"
   },
   "91121": {
-    "name": "Specialisation:91 Row:1 Column:2 Rank:1",
+    "name": "Anticipation (rang1)",
     "icon": "icon_9112",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:1 Column:2 Rank:1. Use icon icon_9112.jpg"
+    "description": "Augmente les chances d'Esquiver du Druide de 2%"
   },
   "91122": {
-    "name": "Specialisation:91 Row:1 Column:2 Rank:2",
+    "name": "Anticipation (rang2)",
     "icon": "icon_9112",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:1 Column:2 Rank:2. Use icon icon_9112.jpg"
+    "description": "Augmente les chances d'Esquiver du Druide de 4%"
   },
   "91123": {
-    "name": "Specialisation:91 Row:1 Column:2 Rank:3",
+    "name": "Anticipation (rang3)",
     "icon": "icon_9112",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:1 Column:2 Rank:3. Use icon icon_9112.jpg"
+    "description": "Augmente les chances d'Esquiver du Druide de 6%"
   },
   "91124": {
     "name": "Specialisation:91 Row:1 Column:2 Rank:4",
@@ -18210,16 +18210,16 @@
     "description": "Description for Specialisation:91 Row:1 Column:2 Rank:5. Use icon icon_9112.jpg"
   },
   "91131": {
-    "name": "Specialisation:91 Row:1 Column:3 Rank:1",
+    "name": "Impact Brutal (rang1)",
     "icon": "icon_9113",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:1 Column:3 Rank:1. Use icon icon_9113.jpg"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 0,5sec et diminue les dégats subit lorsqu'il subit ces effets de 5%"
   },
   "91132": {
-    "name": "Specialisation:91 Row:1 Column:3 Rank:2",
+    "name": "Impact Brutal (rang2)",
     "icon": "icon_9113",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:1 Column:3 Rank:2. Use icon icon_9113.jpg"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 1sec et diminue les dégats subit lorsqu'il subit ces effets de 10%"
   },
   "91133": {
     "name": "Specialisation:91 Row:1 Column:3 Rank:3",
@@ -18240,22 +18240,22 @@
     "description": "Description for Specialisation:91 Row:1 Column:3 Rank:5. Use icon icon_9113.jpg"
   },
   "91201": {
-    "name": "Specialisation:91 Row:2 Column:0 Rank:1",
+    "name": "Griffes Acérées (rang1)",
     "icon": "icon_9120",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:2 Column:0 Rank:1. Use icon icon_9120.jpg"
+    "description": "Augmente les chances de critiques du Druide de 2%"
   },
   "91202": {
-    "name": "Specialisation:91 Row:2 Column:0 Rank:2",
+    "name": "Griffes Acérées (rang2)",
     "icon": "icon_9120",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:2 Column:0 Rank:2. Use icon icon_9120.jpg"
+    "description": "Augmente les chances de critiques du Druide de 4%"
   },
   "91203": {
-    "name": "Specialisation:91 Row:2 Column:0 Rank:3",
+    "name": "Griffes Acérées (rang3)",
     "icon": "icon_9120",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:2 Column:0 Rank:3. Use icon icon_9120.jpg"
+    "description": "Augmente les chances de critiques du Druide de 6%"
   },
   "91204": {
     "name": "Specialisation:91 Row:2 Column:0 Rank:4",
@@ -18270,10 +18270,10 @@
     "description": "Description for Specialisation:91 Row:2 Column:0 Rank:5. Use icon icon_9120.jpg"
   },
   "91211": {
-    "name": "Specialisation:91 Row:2 Column:1 Rank:1",
+    "name": "Charge Féral",
     "icon": "icon_9121",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:2 Column:1 Rank:1. Use icon icon_9121.jpg"
+    "description": "Technique a activer, instantanée, 15sec de temps de rechargement, hors temps de rechargement global, coûte 10pts de Rage en Ours ou 20pts d'Energie en Félin, En Ours : 8-25yards de portée, Charge la cible du Druide et l'interrompt et l'Immobilise pendant 4sec, En Félin : Bondit dans le dos de la cible et donne une amélioration de 70% de vitesse de déplacement au Druide durant 3sec "
   },
   "91212": {
     "name": "Specialisation:91 Row:2 Column:1 Rank:2",
@@ -18300,10 +18300,10 @@
     "description": "Description for Specialisation:91 Row:2 Column:1 Rank:5. Use icon icon_9121.jpg"
   },
   "91221": {
-    "name": "Specialisation:91 Row:2 Column:2 Rank:1",
+    "name": "Instinct de Survie",
     "icon": "icon_9122",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:2 Column:2 Rank:1. Use icon icon_9122.jpg"
+    "description": "Technique a activer, instantanée, utilisable même sous contrôle et dans toutes les formes de Druide sans forcer le changeforme, gratuite en Mana ou Rage ou Energie, 3min de temps de rechargement, Augmente temporairement la vie du Druide de 30% durant 20sec"
   },
   "91222": {
     "name": "Specialisation:91 Row:2 Column:2 Rank:2",
@@ -18330,16 +18330,16 @@
     "description": "Description for Specialisation:91 Row:2 Column:2 Rank:5. Use icon icon_9122.jpg"
   },
   "91231": {
-    "name": "Specialisation:91 Row:2 Column:3 Rank:1",
+    "name": "Frénésie Rapide (rang1)",
     "icon": "icon_9123",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:2 Column:3 Rank:1. Use icon icon_9123.jpg"
+    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 1min et augmente la vitesse de déplacement du Druide en Félin de 15% et augmente la durée de Rugissement Provocateur de 3sec"
   },
   "91232": {
-    "name": "Specialisation:91 Row:2 Column:3 Rank:2",
+    "name": "Frénésie Rapide (rang2)",
     "icon": "icon_9123",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:2 Column:3 Rank:2. Use icon icon_9123.jpg"
+    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 2min et augmente la vitesse de déplacement du Druide en Félin de 30% et augmente la durée de Rugissement Provocateur de 6sec"
   },
   "91233": {
     "name": "Specialisation:91 Row:2 Column:3 Rank:3",
@@ -18360,22 +18360,22 @@
     "description": "Description for Specialisation:91 Row:2 Column:3 Rank:5. Use icon icon_9123.jpg"
   },
   "91301": {
-    "name": "Specialisation:91 Row:3 Column:0 Rank:1",
+    "name": "Frappes du Prédateur (rang1)",
     "icon": "icon_9130",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:3 Column:0 Rank:1. Use icon icon_9130.jpg"
+    "description": "Augmente les dégats infligés par le Druide de 2%"
   },
   "91302": {
-    "name": "Specialisation:91 Row:3 Column:0 Rank:2",
+    "name": "Frappes du Prédateur (rang2)",
     "icon": "icon_9130",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:3 Column:0 Rank:2. Use icon icon_9130.jpg"
+    "description": "Augmente les dégats infligés par le Druide de 4%"
   },
   "91303": {
-    "name": "Specialisation:91 Row:3 Column:0 Rank:3",
+    "name": "Frappes du Prédateur (rang3)",
     "icon": "icon_9130",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:3 Column:0 Rank:3. Use icon icon_9130.jpg"
+    "description": "Augmente les dégats infligés par le Druide de 6%"
   },
   "91304": {
     "name": "Specialisation:91 Row:3 Column:0 Rank:4",
@@ -18390,16 +18390,16 @@
     "description": "Description for Specialisation:91 Row:3 Column:0 Rank:5. Use icon icon_9130.jpg"
   },
   "91311": {
-    "name": "Specialisation:91 Row:3 Column:1 Rank:1",
+    "name": "Coeur de Fauve (rang1)",
     "icon": "icon_9131",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:3 Column:1 Rank:1. Use icon icon_9131.jpg"
+    "description": "Augmente toutes les Caractéristiques du Druide de 10%"
   },
   "91312": {
-    "name": "Specialisation:91 Row:3 Column:1 Rank:2",
+    "name": "Coeur de Fauve (rang2)",
     "icon": "icon_9131",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:3 Column:1 Rank:2. Use icon icon_9131.jpg"
+    "description": "Augmente toutes les Caractéristiques du Druide de 20%"
   },
   "91313": {
     "name": "Specialisation:91 Row:3 Column:1 Rank:3",
@@ -18420,22 +18420,22 @@
     "description": "Description for Specialisation:91 Row:3 Column:1 Rank:5. Use icon icon_9131.jpg"
   },
   "91321": {
-    "name": "Specialisation:91 Row:3 Column:2 Rank:1",
+    "name": "Attaques Lacérantes (rang1)",
     "icon": "icon_9132",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:3 Column:2 Rank:1. Use icon icon_9132.jpg"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 10sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 10%"
   },
   "91322": {
-    "name": "Specialisation:91 Row:3 Column:2 Rank:2",
+    "name": "Attaques Lacérantes (rang2)",
     "icon": "icon_9132",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:3 Column:2 Rank:2. Use icon icon_9132.jpg"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 20sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 20%"
   },
   "91323": {
-    "name": "Specialisation:91 Row:3 Column:2 Rank:3",
+    "name": "Attaques Lacérantes (rang3)",
     "icon": "icon_9132",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:3 Column:2 Rank:3. Use icon icon_9132.jpg"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 30sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 30%"
   },
   "91324": {
     "name": "Specialisation:91 Row:3 Column:2 Rank:4",
@@ -18450,16 +18450,16 @@
     "description": "Description for Specialisation:91 Row:3 Column:2 Rank:5. Use icon icon_9132.jpg"
   },
   "91331": {
-    "name": "Specialisation:91 Row:3 Column:3 Rank:1",
+    "name": "Roi de la Jungle (rang1)",
     "icon": "icon_9133",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:3 Column:3 Rank:1. Use icon icon_9133.jpg"
+    "description": "Diminue le coût en Mana des Changeformes de 10% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 25% durant 5sec"
   },
   "91332": {
-    "name": "Specialisation:91 Row:3 Column:3 Rank:2",
+    "name": "Roi de la Jungle (rang2)",
     "icon": "icon_9133",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:3 Column:3 Rank:2. Use icon icon_9133.jpg"
+    "description": "Diminue le coût en Mana des Changeformes de 20% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 50% durant 5sec"
   },
   "91333": {
     "name": "Specialisation:91 Row:3 Column:3 Rank:3",
@@ -18480,22 +18480,22 @@
     "description": "Description for Specialisation:91 Row:3 Column:3 Rank:5. Use icon icon_9133.jpg"
   },
   "91401": {
-    "name": "Specialisation:91 Row:4 Column:0 Rank:1",
+    "name": "Survie du Plus Apte (rang1)",
     "icon": "icon_9140",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:4 Column:0 Rank:1. Use icon icon_9140.jpg"
+    "description": "Diminue les chances du Druide de subir un coup critique de 2%, diminue tout les dégats subit de 2% et diminue encore les dégats des sorts a effet de zone de 3%"
   },
   "91402": {
-    "name": "Specialisation:91 Row:4 Column:0 Rank:2",
+    "name": "Survie du Plus Apte (rang2)",
     "icon": "icon_9140",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:4 Column:0 Rank:2. Use icon icon_9140.jpg"
+    "description": "Diminue les chances du Druide de subir un coup critique de 4%, diminue tout les dégats subit de 4% et diminue encore les dégats des sorts a effet de zone de 6%"
   },
   "91403": {
-    "name": "Specialisation:91 Row:4 Column:0 Rank:3",
+    "name": "Survie du Plus Apte (rang3)",
     "icon": "icon_9140",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:4 Column:0 Rank:3. Use icon icon_9140.jpg"
+    "description": "Diminue les chances du Druide de subir un coup critique de 6%, diminue tout les dégats subit de 6% et diminue encore les dégats des sorts a effet de zone de 9%"
   },
   "91404": {
     "name": "Specialisation:91 Row:4 Column:0 Rank:4",
@@ -18510,10 +18510,10 @@
     "description": "Description for Specialisation:91 Row:4 Column:0 Rank:5. Use icon icon_9140.jpg"
   },
   "91411": {
-    "name": "Specialisation:91 Row:4 Column:1 Rank:1",
+    "name": "Frénésie Primitive",
     "icon": "icon_9141",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:4 Column:1 Rank:1. Use icon icon_9141.jpg"
+    "description": "Permet au Druide de gagner 5pts de Rage en Forme d'Ours ou 1pts de Combo supplémentaire en Forme de Félin a chaque fois qu'il inflige un coup critique avec une de ses techniques ou qu'il esquive une attaque, ne peut pas se produire plus d'une fois par seconde"
   },
   "91412": {
     "name": "Specialisation:91 Row:4 Column:1 Rank:2",
@@ -18540,10 +18540,10 @@
     "description": "Description for Specialisation:91 Row:4 Column:1 Rank:5. Use icon icon_9141.jpg"
   },
   "91421": {
-    "name": "Specialisation:91 Row:4 Column:2 Rank:1",
+    "name": "Luciole Feral",
     "icon": "icon_9142",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:4 Column:2 Rank:1. Use icon icon_9142.jpg"
+    "description": "Permet d'utiliser la technique Luciole du Druide mais dans toutes les formes avec un temps de rechargement de 6sec et qui génère un important niveau de menace si la cible n'a pas deja l'attention sur le Druide"
   },
   "91422": {
     "name": "Specialisation:91 Row:4 Column:2 Rank:2",
@@ -18570,16 +18570,16 @@
     "description": "Description for Specialisation:91 Row:4 Column:2 Rank:5. Use icon icon_9142.jpg"
   },
   "91431": {
-    "name": "Specialisation:91 Row:4 Column:3 Rank:1",
+    "name": "Rétablissement Naturel (rang1)",
     "icon": "icon_9143",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:4 Column:3 Rank:1. Use icon icon_9143.jpg"
+    "description": "Augmente les soins reçu par le Druide lorsqu'il est en Ours sous l'effet de la technique Régénération Frénétique de 10%, de plus ses Coup de Grâce lorsqu'il est en Félin donne une amélioration au Druide qui réduit de 10% par Point de Combo le temps d'incantation de la prochaine technique de Rétablissement du Druide dans les 10sec"
   },
   "91432": {
-    "name": "Specialisation:91 Row:4 Column:3 Rank:2",
+    "name": "Rétablissement Naturel (rang2)",
     "icon": "icon_9143",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:4 Column:3 Rank:2. Use icon icon_9143.jpg"
+    "description": "Augmente les soins reçu par le Druide lorsqu'il est en Ours sous l'effet de la technique Régénération Frénétique de 20%, de plus ses Coup de Grâce lorsqu'il est en Félin donne une amélioration au Druide qui réduit de 20% par Point de Combo le temps d'incantation de la prochaine technique de Rétablissement du Druide dans les 10sec"
   },
   "91433": {
     "name": "Specialisation:91 Row:4 Column:3 Rank:3",
@@ -18600,16 +18600,16 @@
     "description": "Description for Specialisation:91 Row:4 Column:3 Rank:5. Use icon icon_9143.jpg"
   },
   "91511": {
-    "name": "Specialisation:91 Row:5 Column:1 Rank:1",
+    "name": "Furie Sauvage (rang1)",
     "icon": "icon_9151",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:5 Column:1 Rank:1. Use icon icon_9151.jpg"
+    "description": "Augmente les dégats de toutes les techniques du Druide de 10% et augmente son Expertise de 3%"
   },
   "91512": {
-    "name": "Specialisation:91 Row:5 Column:1 Rank:2",
+    "name": "Furie Sauvage (rang2)",
     "icon": "icon_9151",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:5 Column:1 Rank:2. Use icon icon_9151.jpg"
+    "description": "Augmente les dégats de toutes les techniques du Druide de 20% et augmente son Expertise de 6%"
   },
   "91513": {
     "name": "Specialisation:91 Row:5 Column:1 Rank:3",
@@ -18630,22 +18630,22 @@
     "description": "Description for Specialisation:91 Row:5 Column:1 Rank:5. Use icon icon_9151.jpg"
   },
   "91521": {
-    "name": "Specialisation:91 Row:5 Column:2 Rank:1",
+    "name": "Instinct Naturel (rang1)",
     "icon": "icon_9152",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:5 Column:2 Rank:1. Use icon icon_9152.jpg"
+    "description": "Convertit 10% de l'Agilité du Druide en Bonus Soin"
   },
   "91522": {
-    "name": "Specialisation:91 Row:5 Column:2 Rank:2",
+    "name": "Instinct Naturel (rang2)",
     "icon": "icon_9152",
     "rank": 2,
-    "description": "Description for Specialisation:91 Row:5 Column:2 Rank:2. Use icon icon_9152.jpg"
+    "description": "Convertit 20% de l'Agilité du Druide en Bonus Soin"
   },
   "91523": {
-    "name": "Specialisation:91 Row:5 Column:2 Rank:3",
+    "name": "Instinct Naturel (rang3)",
     "icon": "icon_9152",
     "rank": 3,
-    "description": "Description for Specialisation:91 Row:5 Column:2 Rank:3. Use icon icon_9152.jpg"
+    "description": "Convertit 30% de l'Agilité du Druide en Bonus Soin"
   },
   "91524": {
     "name": "Specialisation:91 Row:5 Column:2 Rank:4",
@@ -18660,10 +18660,10 @@
     "description": "Description for Specialisation:91 Row:5 Column:2 Rank:5. Use icon icon_9152.jpg"
   },
   "91611": {
-    "name": "Specialisation:91 Row:6 Column:1 Rank:1",
+    "name": "Chef de la Meute Amélioré",
     "icon": "icon_9161",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:6 Column:1 Rank:1. Use icon icon_9161.jpg"
+    "description": "Donne une Aura de 40yards au Druide qui, dans toutes les Formes, augmente les chances de critique de 5% a tous son groupe, de plus les critiques qu'il obtient avec ses techniques soigne lui et son groupe de 3% des dégats infligés"
   },
   "91612": {
     "name": "Specialisation:91 Row:6 Column:1 Rank:2",
@@ -18690,10 +18690,10 @@
     "description": "Description for Specialisation:91 Row:6 Column:1 Rank:5. Use icon icon_9161.jpg"
   },
   "91621": {
-    "name": "Specialisation:91 Row:6 Column:2 Rank:1",
+    "name": "Mutilation",
     "icon": "icon_9162",
     "rank": 1,
-    "description": "Description for Specialisation:91 Row:6 Column:2 Rank:1. Use icon icon_9162.jpg"
+    "description": "Technique a activer, instantanée, coûte 20pts de Rage ou 45pts d'Energie, 0-5yards de portée, Pose un point de combo en Forme de Félin, Inflige 160pts de dégats instantanée a la cible et augmente les dégats des saignements et de la technique Ravage sur la cible de 30% durant 12sec"
   },
   "91622": {
     "name": "Specialisation:91 Row:6 Column:2 Rank:2",
