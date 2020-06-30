@@ -17043,19 +17043,19 @@
     "name": "Protection du Néant (rang1)",
     "icon": "ability_stealth",
     "rank": 1,
-    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 10pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 5% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 33% du montant absorbé et a la technique Gardien de Feu de rendre 33% du montant absorbé en mana"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 10pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 5% du montant infligé, permet également a la technique Gardien d'Ombre de soigner le Démoniste de 33% du montant absorbé et a la technique Gardien de Feu de rendre 33% du montant absorbé en mana"
   },
   "82402": {
     "name": "Protection du Néant (rang2)",
     "icon": "icon_8240",
     "rank": 2,
-    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 20pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 10% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 66% du montant absorbé et a la technique Gardien de Feu de rendre 66% du montant absorbé en mana"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 20pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 10% du montant infligé, permet également a la technique Gardien d'Ombre de soigner le Démoniste de 66% du montant absorbé et a la technique Gardien de Feu de rendre 66% du montant absorbé en mana"
   },
   "82403": {
     "name": "Protection du Néant (rang3)",
     "icon": "icon_8240",
     "rank": 3,
-    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 30pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 15% du montant, et a la technique Gardien d'Ombre de soigner le Démoniste de 100% du montant absorbé et a la technique Gardien de Feu de rendre 100% du montant absorbé en mana"
+    "description": "Augmente la Résistance Ombre et Feu du Démoniste de 30pts et permet aux techniques d'Ombre du Démoniste qui critique de soigner le Démoniste de 15% du montant infligé, permet également a la technique Gardien d'Ombre de soigner le Démoniste de 100% du montant absorbé et a la technique Gardien de Feu de rendre 100% du montant absorbé en mana"
   },
   "82404": {
     "name": "Specialisation:82 Row:4 Column:0 Rank:4",
@@ -17133,13 +17133,13 @@
     "name": "Contre Coup (rang1)",
     "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort de sa cible, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 50%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
+    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort d'une cible qui rapporte de l'Expérience ou de l'Honneur, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 50%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "82432": {
     "name": "Contre Coup (rang2)",
     "icon": "icon_8243",
     "rank": 2,
-    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort de sa cible, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
+    "description": "Lorsque la technique Immolation du Démoniste est retiré, soit par une dissipation, soit par la fin de sa durée, soit par la mort d'une cible qui rapporte de l'Expérience ou de l'Honneur, le Démoniste gagne une amélioration de 10sec qui réduit le temps d'incantation de sa prochaine technique Douleur Brûlante ou Immolation de 100%, cet effet ne peut se produire qu'une fois toutes les 15sec maximum"
   },
   "82433": {
     "name": "Specialisation:82 Row:4 Column:3 Rank:3",
@@ -17163,13 +17163,13 @@
     "name": "Tempête Ardente (rang1)",
     "icon": "spell_fire_selfdestruct",
     "rank": 1,
-    "description": "Augmente les dégats infligés par le Feu du Démoniste de 5%"
+    "description": "Augmente les dégats infligés par les techniques de sort de Feu du Démoniste de 5%"
   },
   "82512": {
     "name": "Tempête Ardente (rang2)",
     "icon": "icon_8251",
     "rank": 2,
-    "description": "Augmente les dégats infligés par le Feu du Démoniste de 10%"
+    "description": "Augmente les dégats infligés par les techniques de sort de Feu du Démoniste de 10%"
   },
   "82513": {
     "name": "Specialisation:82 Row:5 Column:1 Rank:3",
