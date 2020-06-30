@@ -18001,7 +18001,7 @@
   },
   "91001": {
     "name": "Agression (rang1)",
-    "icon": "icon_9100",
+    "icon": "ability_druid_demoralizingroar",
     "rank": 1,
     "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 15% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 5%"
   },
@@ -18031,7 +18031,7 @@
   },
   "91011": {
     "name": "Férocité (rang1)",
-    "icon": "icon_9101",
+    "icon": "ability_hunter_pet_hyena",
     "rank": 1,
     "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 2pts"
   },
@@ -18061,7 +18061,7 @@
   },
   "91021": {
     "name": "Première Lignée (rang1)",
-    "icon": "icon_9102",
+    "icon": "spell_nature_ancestralguardian",
     "rank": 1,
     "description": "Augmente la Puissance d'Attaque de 1pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 5% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 2sec"
   },
@@ -18091,7 +18091,7 @@
   },
   "91031": {
     "name": "Bas Instinct (rang1)",
-    "icon": "icon_9103",
+    "icon": "ability_bullrush",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 1sec, également celui de la technique Rugissement Provocateur de 1min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 10pts et son temps de rechargement de 2sec"
   },
@@ -18121,7 +18121,7 @@
   },
   "91101": {
     "name": "Instinct Farouche (rang1)",
-    "icon": "icon_9110",
+    "icon": "ability_ambush",
     "rank": 1,
     "description": "Augmente le niveau de Camouflage du Druide en Félin de +2rangs et augmente la menace généré par le Druide en Ours de 5%"
   },
@@ -18151,7 +18151,7 @@
   },
   "91111": {
     "name": "Peau Epaisse (rang1)",
-    "icon": "icon_9111",
+    "icon": "inv_misc_pelt_bear_03",
     "rank": 1,
     "description": "Augmente l'Armure du Druide de 5%"
   },
@@ -18181,7 +18181,7 @@
   },
   "91121": {
     "name": "Anticipation (rang1)",
-    "icon": "icon_9112",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
     "description": "Augmente les chances d'Esquiver du Druide de 2%"
   },
@@ -18211,15 +18211,15 @@
   },
   "91131": {
     "name": "Impact Brutal (rang1)",
-    "icon": "icon_9113",
+    "icon": "ability_druid_bash",
     "rank": 1,
-    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 0,5sec et diminue les dégats subit lorsqu'il subit ces effets de 5%"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 0,5sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 5%"
   },
   "91132": {
     "name": "Impact Brutal (rang2)",
     "icon": "icon_9113",
     "rank": 2,
-    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 1sec et diminue les dégats subit lorsqu'il subit ces effets de 10%"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 1sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 10%"
   },
   "91133": {
     "name": "Specialisation:91 Row:1 Column:3 Rank:3",
@@ -18240,19 +18240,19 @@
     "description": "Description for Specialisation:91 Row:1 Column:3 Rank:5. Use icon icon_9113.jpg"
   },
   "91201": {
-    "name": "Griffes Acérées (rang1)",
-    "icon": "icon_9120",
+    "name": "Griffes Aiguisées (rang1)",
+    "icon": "class_druid",
     "rank": 1,
     "description": "Augmente les chances de critiques du Druide de 2%"
   },
   "91202": {
-    "name": "Griffes Acérées (rang2)",
+    "name": "Griffes Aiguisées (rang2)",
     "icon": "icon_9120",
     "rank": 2,
     "description": "Augmente les chances de critiques du Druide de 4%"
   },
   "91203": {
-    "name": "Griffes Acérées (rang3)",
+    "name": "Griffes Aiguisées (rang3)",
     "icon": "icon_9120",
     "rank": 3,
     "description": "Augmente les chances de critiques du Druide de 6%"
@@ -18271,7 +18271,7 @@
   },
   "91211": {
     "name": "Charge Féral",
-    "icon": "icon_9121",
+    "icon": "ability_hunter_pet_bear",
     "rank": 1,
     "description": "Technique a activer, instantanée, 15sec de temps de rechargement, hors temps de rechargement global, coûte 10pts de Rage en Ours ou 20pts d'Energie en Félin, En Ours : 8-25yards de portée, Charge la cible du Druide et l'interrompt et l'Immobilise pendant 4sec, En Félin : Bondit dans le dos de la cible et donne une amélioration de 70% de vitesse de déplacement au Druide durant 3sec "
   },
@@ -18301,7 +18301,7 @@
   },
   "91221": {
     "name": "Instinct de Survie",
-    "icon": "icon_9122",
+    "icon": "spell_shadow_deathscream",
     "rank": 1,
     "description": "Technique a activer, instantanée, utilisable même sous contrôle et dans toutes les formes de Druide sans forcer le changeforme, gratuite en Mana ou Rage ou Energie, 3min de temps de rechargement, Augmente temporairement la vie du Druide de 30% durant 20sec"
   },
@@ -18331,15 +18331,15 @@
   },
   "91231": {
     "name": "Frénésie Rapide (rang1)",
-    "icon": "icon_9123",
+    "icon": "spell_nature_spiritwolf",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 1min et augmente la vitesse de déplacement du Druide en Félin de 15% et augmente la durée de Rugissement Provocateur de 3sec"
+    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 1min et augmente la vitesse de déplacement du Druide en Félin de 15% et augmente la durée de la technique Rugissement Provocateur de 3sec"
   },
   "91232": {
     "name": "Frénésie Rapide (rang2)",
     "icon": "icon_9123",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 2min et augmente la vitesse de déplacement du Druide en Félin de 30% et augmente la durée de Rugissement Provocateur de 6sec"
+    "description": "Diminue le temps de rechargement des techniques Célérité et Rage Frénétique du Druide de 2min et augmente la vitesse de déplacement du Druide en Félin de 30% et augmente la durée de la technique Rugissement Provocateur de 6sec"
   },
   "91233": {
     "name": "Specialisation:91 Row:2 Column:3 Rank:3",
@@ -18361,7 +18361,7 @@
   },
   "91301": {
     "name": "Frappes du Prédateur (rang1)",
-    "icon": "icon_9130",
+    "icon": "ability_hunter_pet_cat",
     "rank": 1,
     "description": "Augmente les dégats infligés par le Druide de 2%"
   },
@@ -18391,7 +18391,7 @@
   },
   "91311": {
     "name": "Coeur de Fauve (rang1)",
-    "icon": "icon_9131",
+    "icon": "spell_holy_blessingofagility",
     "rank": 1,
     "description": "Augmente toutes les Caractéristiques du Druide de 10%"
   },
@@ -18421,7 +18421,7 @@
   },
   "91321": {
     "name": "Attaques Lacérantes (rang1)",
-    "icon": "icon_9132",
+    "icon": "spell_shadow_vampiricaura",
     "rank": 1,
     "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 10sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 10%"
   },
@@ -18451,7 +18451,7 @@
   },
   "91331": {
     "name": "Roi de la Jungle (rang1)",
-    "icon": "icon_9133",
+    "icon": "ability_hunter_aspectofthemonkey",
     "rank": 1,
     "description": "Diminue le coût en Mana des Changeformes de 10% et lorsque le Druide change de Forme, il gagne une amélioration qui réduit le coût en mana de sa prochaine technique de Changeforme de 25% durant 5sec"
   },
@@ -18481,7 +18481,7 @@
   },
   "91401": {
     "name": "Survie du Plus Apte (rang1)",
-    "icon": "icon_9140",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
     "description": "Diminue les chances du Druide de subir un coup critique de 2%, diminue tout les dégats subit de 2% et diminue encore les dégats des sorts a effet de zone de 3%"
   },
@@ -18511,7 +18511,7 @@
   },
   "91411": {
     "name": "Frénésie Primitive",
-    "icon": "icon_9141",
+    "icon": "ability_ghoulfrenzy",
     "rank": 1,
     "description": "Permet au Druide de gagner 5pts de Rage en Forme d'Ours ou 1pts de Combo supplémentaire en Forme de Félin a chaque fois qu'il inflige un coup critique avec une de ses techniques ou qu'il esquive une attaque, ne peut pas se produire plus d'une fois par seconde"
   },
@@ -18541,7 +18541,7 @@
   },
   "91421": {
     "name": "Luciole Feral",
-    "icon": "icon_9142",
+    "icon": "ispell_nature_faeriefire",
     "rank": 1,
     "description": "Permet d'utiliser la technique Luciole du Druide mais dans toutes les formes avec un temps de rechargement de 6sec et qui génère un important niveau de menace si la cible n'a pas deja l'attention sur le Druide"
   },
@@ -18571,7 +18571,7 @@
   },
   "91431": {
     "name": "Rétablissement Naturel (rang1)",
-    "icon": "icon_9143",
+    "icon": "spell_nature_resistnature",
     "rank": 1,
     "description": "Augmente les soins reçu par le Druide lorsqu'il est en Ours sous l'effet de la technique Régénération Frénétique de 10%, de plus ses Coup de Grâce lorsqu'il est en Félin donne une amélioration au Druide qui réduit de 10% par Point de Combo le temps d'incantation de la prochaine technique de Rétablissement du Druide dans les 10sec"
   },
@@ -18601,7 +18601,7 @@
   },
   "91511": {
     "name": "Furie Sauvage (rang1)",
-    "icon": "icon_9151",
+    "icon": "ability_druid_ravage",
     "rank": 1,
     "description": "Augmente les dégats de toutes les techniques du Druide de 10% et augmente son Expertise de 3%"
   },
@@ -18631,7 +18631,7 @@
   },
   "91521": {
     "name": "Instinct Naturel (rang1)",
-    "icon": "icon_9152",
+    "icon": "spell_nature_protectionformnature",
     "rank": 1,
     "description": "Convertit 10% de l'Agilité du Druide en Bonus Soin"
   },
@@ -18661,7 +18661,7 @@
   },
   "91611": {
     "name": "Chef de la Meute Amélioré",
-    "icon": "icon_9161",
+    "icon": "spell_nature_unyeildingstamina",
     "rank": 1,
     "description": "Donne une Aura de 40yards au Druide qui, dans toutes les Formes, augmente les chances de critique de 5% a tous son groupe, de plus les critiques qu'il obtient avec ses techniques soigne lui et son groupe de 3% des dégats infligés"
   },
@@ -18691,7 +18691,7 @@
   },
   "91621": {
     "name": "Mutilation",
-    "icon": "icon_9162",
+    "icon": "ability_criticalstrike",
     "rank": 1,
     "description": "Technique a activer, instantanée, coûte 20pts de Rage ou 45pts d'Energie, 0-5yards de portée, Pose un point de combo en Forme de Félin, Inflige 160pts de dégats instantanée a la cible et augmente les dégats des saignements et de la technique Ravage sur la cible de 30% durant 12sec"
   },
