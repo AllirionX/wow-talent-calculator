@@ -15813,7 +15813,7 @@
     "name": "Graine de Corruption",
     "icon": "spell_nature_timestop",
     "rank": 1,
-    "description": "Technique a activer, 2sec de temps d'incantation, coûte 340pts de Mana, Pose un affaiblissement qui inflige 522pts de dégats d'Ombre a la cible en 18sec, et lorsque son effet se termine ou qu'il est dissipé, inflige immédiatement 522pts de dégats de zone a toutes les cibles dans les 15yards, une seule Graine de Corruption par Démoniste a la fois"
+    "description": "Technique a activer, 2sec de temps d'incantation, coûte 340pts de Mana, Pose un affaiblissement qui inflige 522pts de dégats d'Ombre a la cible en 18sec, et lorsque son effet se termine ou qu'il est dissipé ou si la cible qui rapporte de l'Expérience ou de l'honneur meurt, inflige immédiatement 522pts de dégats de zone a toutes les cibles dans les 15yards, une seule Graine de Corruption par Démoniste a la fois"
   },
   "80622": {
     "name": "Specialisation:80 Row:6 Column:2 Rank:2",
@@ -16953,13 +16953,13 @@
     "name": "Allonge de la Destruction (rang1)",
     "icon": "spell_shadow_corpseexplode",
     "rank": 1,
-    "description": "Augmente la portée des techniques de Destruction du Démoniste de 10%"
+    "description": "Augmente la portée des techniques de Destruction du Démoniste de 10%, jusqu'a un maximum de 40yards"
   },
   "82312": {
     "name": "Allonge de la Destruction (rang2)",
     "icon": "icon_8231",
     "rank": 2,
-    "description": "Augmente la portée des techniques de Destruction du Démoniste de 20%"
+    "description": "Augmente la portée des techniques de Destruction du Démoniste de 20%, jusqu'a un maximum de 40yards"
   },
   "82313": {
     "name": "Specialisation:82 Row:3 Column:1 Rank:3",
@@ -17280,22 +17280,22 @@
     "description": "Description for Specialisation:82 Row:6 Column:2 Rank:5. Use icon icon_8262.jpg"
   },
   "90001": {
-    "name": "Specialisation:90 Row:0 Column:0 Rank:1",
-    "icon": "icon_9000",
+    "name": "Ronce (rang1)",
+    "icon": "spell_nature_thorns",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:0 Column:0 Rank:1. Use icon icon_9000.jpg"
+    "description": "Augmente les dégats des techniques Epine et Sarment du Druide de 25% et donne +22% de chances de déclencher la technique Emprise de la Nature, et donne +10% de chances d'anti interruption au Druide sur l'incantation des techniques Sommeil et Sarment"
   },
   "90002": {
-    "name": "Specialisation:90 Row:0 Column:0 Rank:2",
+    "name": "Ronce (rang2)",
     "icon": "icon_9000",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:0 Column:0 Rank:2. Use icon icon_9000.jpg"
+    "description": "Augmente les dégats des techniques Epine et Sarment du Druide de 50% et donne +44% de chances de déclencher la technique Emprise de la Nature, et donne +20% de chances d'anti interruption au Druide sur l'incantation des techniques Sommeil et Sarment"
   },
   "90003": {
-    "name": "Specialisation:90 Row:0 Column:0 Rank:3",
+    "name": "Ronce (rang3)",
     "icon": "icon_9000",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:0 Column:0 Rank:3. Use icon icon_9000.jpg"
+    "description": "Augmente les dégats des techniques Epine et Sarment du Druide de 75% et donne +66% de chances de déclencher la technique Emprise de la Nature, et donne +30% de chances d'anti interruption au Druide sur l'incantation des techniques Sommeil et Sarment"
   },
   "90004": {
     "name": "Specialisation:90 Row:0 Column:0 Rank:4",
@@ -17310,16 +17310,16 @@
     "description": "Description for Specialisation:90 Row:0 Column:0 Rank:5. Use icon icon_9000.jpg"
   },
   "90011": {
-    "name": "Specialisation:90 Row:0 Column:1 Rank:1",
-    "icon": "icon_9001",
+    "name": "Contrôle de la Nature (rang1)",
+    "icon": "spell_nature_stranglevines",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:0 Column:1 Rank:1. Use icon icon_9001.jpg"
+    "description": "Donne au Druide 35% de chances d'anti interruption sur les incantations de sort d'Equilibre et réduit le temps d'incantation de la technique Apaiser les Animaux de 50%"
   },
   "90012": {
-    "name": "Specialisation:90 Row:0 Column:1 Rank:2",
+    "name": "Contrôle de la Nature (rang2)",
     "icon": "icon_9001",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:0 Column:1 Rank:2. Use icon icon_9001.jpg"
+    "description": "Donne au Druide 70% de chances d'anti interruption sur les incantations de sort d'Equilibre et réduit le temps d'incantation de la technique Apaiser les Animaux de 100%"
   },
   "90013": {
     "name": "Specialisation:90 Row:0 Column:1 Rank:3",
@@ -17340,22 +17340,22 @@
     "description": "Description for Specialisation:90 Row:0 Column:1 Rank:5. Use icon icon_9001.jpg"
   },
   "90021": {
-    "name": "Specialisation:90 Row:0 Column:2 Rank:1",
-    "icon": "icon_9002",
+    "name": "Etreinte de la Lune (rang1)",
+    "icon": "spell_holy_elunesgrace",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:0 Column:2 Rank:1. Use icon icon_9002.jpg"
+    "description": "Augmente les chances de Toucher du Druide de 2%"
   },
   "90022": {
-    "name": "Specialisation:90 Row:0 Column:2 Rank:2",
+    "name": "Etreinte de la Lune (rang2)",
     "icon": "icon_9002",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:0 Column:2 Rank:2. Use icon icon_9002.jpg"
+    "description": "Augmente les chances de Toucher du Druide de 4%"
   },
   "90023": {
-    "name": "Specialisation:90 Row:0 Column:2 Rank:3",
+    "name": "Etreinte de la Lune (rang3)",
     "icon": "icon_9002",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:0 Column:2 Rank:3. Use icon icon_9002.jpg"
+    "description": "Augmente les chances de Toucher du Druide de 6%"
   },
   "90024": {
     "name": "Specialisation:90 Row:0 Column:2 Rank:4",
@@ -17370,16 +17370,16 @@
     "description": "Description for Specialisation:90 Row:0 Column:2 Rank:5. Use icon icon_9002.jpg"
   },
   "90031": {
-    "name": "Specialisation:90 Row:0 Column:3 Rank:1",
-    "icon": "icon_9003",
+    "name": "Colère Stellaire (rang1)",
+    "icon": "spell_nature_abolishmagic",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:0 Column:3 Rank:1. Use icon icon_9003.jpg"
+    "description": "Diminue le temps d'incantation des techniques Colère et Feu Stellaire du Druide de 0,25sec"
   },
   "90032": {
-    "name": "Specialisation:90 Row:0 Column:3 Rank:2",
+    "name": "Colère Stellaire (rang2)",
     "icon": "icon_9003",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:0 Column:3 Rank:2. Use icon icon_9003.jpg"
+    "description": "Diminue le temps d'incantation des techniques Colère et Feu Stellaire du Druide de 0,5sec"
   },
   "90033": {
     "name": "Specialisation:90 Row:0 Column:3 Rank:3",
@@ -17400,22 +17400,22 @@
     "description": "Description for Specialisation:90 Row:0 Column:3 Rank:5. Use icon icon_9003.jpg"
   },
   "90101": {
-    "name": "Specialisation:90 Row:1 Column:0 Rank:1",
-    "icon": "icon_9010",
+    "name": "Equilibre de la Puissance (rang1)",
+    "icon": "spell_nature_nullward",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:1 Column:0 Rank:1. Use icon icon_9010.jpg"
+    "description": "Augmente les dégats sur la durée des techniques du Druide Eclat Lunaire, Essein d'Insectes, Pluie Stellaire, Ouragan, Griffure et Déchirure de 2% et augmente le montant des améliorations sur la durée des techniques du Druide Récupération, Rétablissement, Tranquilité et Innervation du même montant"
   },
   "90102": {
-    "name": "Specialisation:90 Row:1 Column:0 Rank:2",
+    "name": "Equilibre de la Puissance (rang2)",
     "icon": "icon_9010",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:1 Column:0 Rank:2. Use icon icon_9010.jpg"
+    "description": "Augmente les dégats sur la durée des techniques du Druide Eclat Lunaire, Essein d'Insectes, Pluie Stellaire, Ouragan, Griffure et Déchirure de 4% et augmente le montant des améliorations sur la durée des techniques du Druide Récupération, Rétablissement, Tranquilité et Innervation du même montant"
   },
   "90103": {
-    "name": "Specialisation:90 Row:1 Column:0 Rank:3",
+    "name": "Equilibre de la Puissance (rang3)",
     "icon": "icon_9010",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:1 Column:0 Rank:3. Use icon icon_9010.jpg"
+    "description": "Augmente les dégats sur la durée des techniques du Druide Eclat Lunaire, Essein d'Insectes, Pluie Stellaire, Ouragan, Griffure et Déchirure de 6% et augmente le montant des améliorations sur la durée des techniques du Druide Récupération, Rétablissement, Tranquilité et Innervation du même montant"
   },
   "90104": {
     "name": "Specialisation:90 Row:1 Column:0 Rank:4",
@@ -17430,16 +17430,16 @@
     "description": "Description for Specialisation:90 Row:1 Column:0 Rank:5. Use icon icon_9010.jpg"
   },
   "90111": {
-    "name": "Specialisation:90 Row:1 Column:1 Rank:1",
-    "icon": "icon_9011",
+    "name": "Ouragan Amélioré (rang1)",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:1 Column:1 Rank:1. Use icon icon_9011.jpg"
+    "description": "Diminue le temps de rechargement et le coût en mana de la technique Ouragan du Druide de 25% et augmente ses effets de 10%"
   },
   "90112": {
-    "name": "Specialisation:90 Row:1 Column:1 Rank:2",
+    "name": "Ouragan Amélioré (rang2)",
     "icon": "icon_9011",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:1 Column:1 Rank:2. Use icon icon_9011.jpg"
+    "description": "Diminue le temps de rechargement et le coût en mana de la technique Ouragan du Druide de 50% et augmente ses effets de 20%"
   },
   "90113": {
     "name": "Specialisation:90 Row:1 Column:1 Rank:3",
@@ -17460,22 +17460,22 @@
     "description": "Description for Specialisation:90 Row:1 Column:1 Rank:5. Use icon icon_9011.jpg"
   },
   "90121": {
-    "name": "Specialisation:90 Row:1 Column:2 Rank:1",
-    "icon": "icon_9012",
+    "name": "Soutien Lunaire (rang1)",
+    "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:1 Column:2 Rank:1. Use icon icon_9012.jpg"
+    "description": "Diminue la menace généré par le Druide de 5% et augmente sa Résistance Nature et sa Résistance Arcane de 10pts"
   },
   "90122": {
-    "name": "Specialisation:90 Row:1 Column:2 Rank:2",
+    "name": "Soutien Lunaire (rang2)",
     "icon": "icon_9012",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:1 Column:2 Rank:2. Use icon icon_9012.jpg"
+    "description": "Diminue la menace généré par le Druide de 10% et augmente sa Résistance Nature et sa Résistance Arcane de 20pts"
   },
   "90123": {
-    "name": "Specialisation:90 Row:1 Column:2 Rank:3",
+    "name": "Soutien Lunaire (rang3)",
     "icon": "icon_9012",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:1 Column:2 Rank:3. Use icon icon_9012.jpg"
+    "description": "Diminue la menace généré par le Druide de 15% et augmente sa Résistance Nature et sa Résistance Arcane de 30pts"
   },
   "90124": {
     "name": "Specialisation:90 Row:1 Column:2 Rank:4",
@@ -17490,16 +17490,16 @@
     "description": "Description for Specialisation:90 Row:1 Column:2 Rank:5. Use icon icon_9012.jpg"
   },
   "90131": {
-    "name": "Specialisation:90 Row:1 Column:3 Rank:1",
-    "icon": "icon_9013",
+    "name": "Etat en Rêve (rang1)",
+    "icon": "ability_townwatch",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:1 Column:3 Rank:1. Use icon icon_9013.jpg"
+    "description": "Convertit 15% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Essein d'Insecte, alors le Druide gagne une amélioration durant 5sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "90132": {
-    "name": "Specialisation:90 Row:1 Column:3 Rank:2",
+    "name": "Etat en Rêve (rang2)",
     "icon": "icon_9013",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:1 Column:3 Rank:2. Use icon icon_9013.jpg"
+    "description": "Convertit 30% de l'Intelligence du Druide en Point de mp5 mais uniquement lorsqu'il est en incantation, de plus lorsque le Druide obtient un Coup Fatal sur une cible lui rapportant de l'Expérience ou de l'Honneur ou si une cible meurt sous l'effet de la technique Essein d'Insecte, alors le Druide gagne une amélioration durant 10sec qui permet a 100% de sa régénération d'Esprit d'être toujours active"
   },
   "90133": {
     "name": "Specialisation:90 Row:1 Column:3 Rank:3",
@@ -17520,22 +17520,22 @@
     "description": "Description for Specialisation:90 Row:1 Column:3 Rank:5. Use icon icon_9013.jpg"
   },
   "90201": {
-    "name": "Specialisation:90 Row:2 Column:0 Rank:1",
-    "icon": "icon_9020",
+    "name": "Ecorse Améliorée (rang1)",
+    "icon": "spell_nature_stoneclawtotem",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:2 Column:0 Rank:1. Use icon icon_9020.jpg"
+    "description": "Diminue la pénalité lié a la technique Ecorse du Druide de 10%, augmente la durée de la technique de 2sec et diminue les chances d'être victime d'un coup critique durant son effet de 2%"
   },
   "90202": {
-    "name": "Specialisation:90 Row:2 Column:0 Rank:2",
+    "name": "Ecorse Améliorée (rang2)",
     "icon": "icon_9020",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:2 Column:0 Rank:2. Use icon icon_9020.jpg"
+    "description": "Diminue la pénalité lié a la technique Ecorse du Druide de 20%, augmente la durée de la technique de 4sec et diminue les chances d'être victime d'un coup critique durant son effet de 4%"
   },
   "90203": {
-    "name": "Specialisation:90 Row:2 Column:0 Rank:3",
+    "name": "Ecorse Améliorée (rang3)",
     "icon": "icon_9020",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:2 Column:0 Rank:3. Use icon icon_9020.jpg"
+    "description": "Diminue la pénalité lié a la technique Ecorse du Druide de 30%, augmente la durée de la technique de 6sec et diminue les chances d'être victime d'un coup critique durant son effet de 6%"
   },
   "90204": {
     "name": "Specialisation:90 Row:2 Column:0 Rank:4",
@@ -17550,10 +17550,10 @@
     "description": "Description for Specialisation:90 Row:2 Column:0 Rank:5. Use icon icon_9020.jpg"
   },
   "90211": {
-    "name": "Specialisation:90 Row:2 Column:1 Rank:1",
-    "icon": "icon_9021",
+    "name": "Augure de Clareté",
+    "icon": "spell_nature_cristalball",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:2 Column:1 Rank:1. Use icon icon_9021.jpg"
+    "description": "Technique a activer, instantanée, gratuite en mana, durée illimité, utilisable dans toutes les formes sans démorpher, Pose une amélioration sur le Druide insensible a la dissipation, qui, lorsqu'il obtient un coup critique avec une technique, un sort ou un soin procure une amélioration qui réduit le coût en mana, rage, énergie de la prochaine technique du Druide de 100%"
   },
   "90212": {
     "name": "Specialisation:90 Row:2 Column:1 Rank:2",
@@ -17580,10 +17580,10 @@
     "description": "Description for Specialisation:90 Row:2 Column:1 Rank:5. Use icon icon_9021.jpg"
   },
   "90221": {
-    "name": "Specialisation:90 Row:2 Column:2 Rank:1",
-    "icon": "icon_9022",
+    "name": "Essein d'Insectes",
+    "icon": "spell_shadow_contagion",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:2 Column:2 Rank:1. Use icon icon_9022.jpg"
+    "description": "Technique a activer, instantanée, 30yards de portée, coûte 160pts de Mana, Pose un affaiblissement sur la cible de 12sec qui inflige 324pts de dégats de Nature, diminue les dégats de la cible de 5% et chaque tick diminue légèrement la menace généré par le Druide"
   },
   "90222": {
     "name": "Specialisation:90 Row:2 Column:2 Rank:2",
@@ -17610,16 +17610,16 @@
     "description": "Description for Specialisation:90 Row:2 Column:2 Rank:5. Use icon icon_9022.jpg"
   },
   "90231": {
-    "name": "Specialisation:90 Row:2 Column:3 Rank:1",
-    "icon": "icon_9023",
+    "name": "Grâce de la Nature (rang1)",
+    "icon": "spell_nature_natureblessing",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:2 Column:3 Rank:1. Use icon icon_9023.jpg"
+    "description": "Lorsque le Druide obtient un coup critique avec une technique, il gagne une amélioration de 10sec qui diminue le temps d'incantation de sa prochaine technique de 0,25sec"
   },
   "90232": {
-    "name": "Specialisation:90 Row:2 Column:3 Rank:2",
+    "name": "Grâce de la Nature (rang2)",
     "icon": "icon_9023",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:2 Column:3 Rank:2. Use icon icon_9023.jpg"
+    "description": "Lorsque le Druide obtient un coup critique avec une technique, il gagne une amélioration de 10sec qui diminue le temps d'incantation de sa prochaine technique de 0,5sec"
   },
   "90233": {
     "name": "Specialisation:90 Row:2 Column:3 Rank:3",
@@ -17640,22 +17640,22 @@
     "description": "Description for Specialisation:90 Row:2 Column:3 Rank:5. Use icon icon_9023.jpg"
   },
   "90301": {
-    "name": "Specialisation:90 Row:3 Column:0 Rank:1",
-    "icon": "icon_9030",
+    "name": "Focalisation Lunaire (rang1)",
+    "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:3 Column:0 Rank:1. Use icon icon_9030.jpg"
+    "description": "Augmente la durée des techniques sur la durée du Druide Eclat Lunaire, Essein d'Insectes, Ouragan, Pluie Stellaire, Griffure et Déchirure de 2sec et augmente la durée des améliorations sur la durée du Druide Récupération, Rétablissement, Tranquilité et Innervation de 1sec"
   },
   "90302": {
-    "name": "Specialisation:90 Row:3 Column:0 Rank:2",
+    "name": "Focalisation Lunaire (rang2)",
     "icon": "icon_9030",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:3 Column:0 Rank:2. Use icon icon_9030.jpg"
+    "description": "Augmente la durée des techniques sur la durée du Druide Eclat Lunaire, Essein d'Insectes, Ouragan, Pluie Stellaire, Griffure et Déchirure de 4sec et augmente la durée des améliorations sur la durée du Druide Récupération, Rétablissement, Tranquilité et Innervation de 2sec"
   },
   "90303": {
-    "name": "Specialisation:90 Row:3 Column:0 Rank:3",
+    "name": "Focalisation Lunaire (rang3)",
     "icon": "icon_9030",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:3 Column:0 Rank:3. Use icon icon_9030.jpg"
+    "description": "Augmente la durée des techniques sur la durée du Druide Eclat Lunaire, Essein d'Insectes, Ouragan, Pluie Stellaire, Griffure et Déchirure de 6sec et augmente la durée des améliorations sur la durée du Druide Récupération, Rétablissement, Tranquilité et Innervation de 3sec"
   },
   "90304": {
     "name": "Specialisation:90 Row:3 Column:0 Rank:4",
@@ -17670,16 +17670,16 @@
     "description": "Description for Specialisation:90 Row:3 Column:0 Rank:5. Use icon icon_9030.jpg"
   },
   "90311": {
-    "name": "Specialisation:90 Row:3 Column:1 Rank:1",
-    "icon": "icon_9031",
+    "name": "Eclat Lunaire Amélioré (rang1)",
+    "icon": "spell_nature_starfall",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:3 Column:1 Rank:1. Use icon icon_9031.jpg"
+    "description": "Augmente les chances de critique avec la technique Eclat Lunaire du Druide de 5% ainsi que les dégats initiaux du même montant"
   },
   "90312": {
-    "name": "Specialisation:90 Row:3 Column:1 Rank:2",
+    "name": "Eclat Lunaire Amélioré (rang2)",
     "icon": "icon_9031",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:3 Column:1 Rank:2. Use icon icon_9031.jpg"
+    "description": "Augmente les chances de critique avec la technique Eclat Lunaire du Druide de 10% ainsi que les dégats initiaux du même montant"
   },
   "90313": {
     "name": "Specialisation:90 Row:3 Column:1 Rank:3",
@@ -17700,22 +17700,22 @@
     "description": "Description for Specialisation:90 Row:3 Column:1 Rank:5. Use icon icon_9031.jpg"
   },
   "90321": {
-    "name": "Specialisation:90 Row:3 Column:2 Rank:1",
-    "icon": "icon_9032",
+    "name": "Vengeance (rang1)",
+    "icon": "spell_nature_purge",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:3 Column:2 Rank:1. Use icon icon_9032.jpg"
+    "description": "Augmente les chances de critiques du Druide de 2%"
   },
   "90322": {
-    "name": "Specialisation:90 Row:3 Column:2 Rank:2",
+    "name": "Vengeance (rang2",
     "icon": "icon_9032",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:3 Column:2 Rank:2. Use icon icon_9032.jpg"
+    "description": "Augmente les chances de critiques du Druide de 4%"
   },
   "90323": {
-    "name": "Specialisation:90 Row:3 Column:2 Rank:3",
+    "name": "Vengeance (rang3)",
     "icon": "icon_9032",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:3 Column:2 Rank:3. Use icon icon_9032.jpg"
+    "description": "Augmente les chances de critiques du Druide de 6%"
   },
   "90324": {
     "name": "Specialisation:90 Row:3 Column:2 Rank:4",
@@ -17730,16 +17730,16 @@
     "description": "Description for Specialisation:90 Row:3 Column:2 Rank:5. Use icon icon_9032.jpg"
   },
   "90331": {
-    "name": "Specialisation:90 Row:3 Column:3 Rank:1",
-    "icon": "icon_9033",
+    "name": "Allonge de la Nature (rang1)",
+    "icon": "spell_nature_naturetouchgrow",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:3 Column:3 Rank:1. Use icon icon_9033.jpg"
+    "description": "Augmente la portée des sorts d'Equilibre du Druide de 10%, jusqu'a un maximum de 40yards"
   },
   "90332": {
-    "name": "Specialisation:90 Row:3 Column:3 Rank:2",
+    "name": "Allonge de la Nature (rang2)",
     "icon": "icon_9033",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:3 Column:3 Rank:2. Use icon icon_9033.jpg"
+    "description": "Augmente la portée des sorts d'Equilibre du Druide de 20%, jusqu'a un maximum de 40yards"
   },
   "90333": {
     "name": "Specialisation:90 Row:3 Column:3 Rank:3",
@@ -17760,22 +17760,22 @@
     "description": "Description for Specialisation:90 Row:3 Column:3 Rank:5. Use icon icon_9033.jpg"
   },
   "90401": {
-    "name": "Specialisation:90 Row:4 Column:0 Rank:1",
-    "icon": "icon_9040",
+    "name": "Essein d'Insectes Améliorés (rang1)",
+    "icon": "spell_nature_spiritarmor",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:4 Column:0 Rank:1. Use icon icon_9040.jpg"
+    "description": "Diminue les Résistances Magiques de la cible du Druide de 5pts, et en plus de ses effets, permet a la technique Essein d'Insectes d'augmenter les chances de tous le monde de Toucher la cible de 1%"
   },
   "90402": {
-    "name": "Specialisation:90 Row:4 Column:0 Rank:2",
+    "name": "Essein d'Insectes Améliorés (rang2)",
     "icon": "icon_9040",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:4 Column:0 Rank:2. Use icon icon_9040.jpg"
+    "description": "Diminue les Résistances Magiques de la cible du Druide de 10pts, et en plus de ses effets, permet a la technique Essein d'Insectes d'augmenter les chances de tous le monde de Toucher la cible de 2%"
   },
   "90403": {
-    "name": "Specialisation:90 Row:4 Column:0 Rank:3",
+    "name": "Essein d'Insectes Améliorés (rang3)",
     "icon": "icon_9040",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:4 Column:0 Rank:3. Use icon icon_9040.jpg"
+    "description": "Diminue les Résistances Magiques de la cible du Druide de 15pts, et en plus de ses effets, permet a la technique Essein d'Insectes d'augmenter les chances de tous le monde de Toucher la cible de 3%"
   },
   "90404": {
     "name": "Specialisation:90 Row:4 Column:0 Rank:4",
@@ -17790,10 +17790,10 @@
     "description": "Description for Specialisation:90 Row:4 Column:0 Rank:5. Use icon icon_9040.jpg"
   },
   "90411": {
-    "name": "Specialisation:90 Row:4 Column:1 Rank:1",
-    "icon": "icon_9041",
+    "name": "Furie Lunaire",
+    "icon": "spell_nature_moonglow",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:4 Column:1 Rank:1. Use icon icon_9041.jpg"
+    "description": "Augmente les dégats des critiques du Druide de 100%"
   },
   "90412": {
     "name": "Specialisation:90 Row:4 Column:1 Rank:2",
@@ -17820,10 +17820,10 @@
     "description": "Description for Specialisation:90 Row:4 Column:1 Rank:5. Use icon icon_9041.jpg"
   },
   "90421": {
-    "name": "Specialisation:90 Row:4 Column:2 Rank:1",
-    "icon": "icon_9042",
+    "name": "Choc de Cénarius",
+    "icon": "spell_nature_removecurse",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:4 Column:2 Rank:1. Use icon icon_9042.jpg"
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, hors du temps de recharge global, Donne une amélioration sur le Druide de 10sec, qui permet a sa prochaine technique de Nature d'obtenir 100% de chances de critiquer ou, a sa prochaine technique d'Arcane d'obtenir un effet d'Etourdissement de 3sec"
   },
   "90422": {
     "name": "Specialisation:90 Row:4 Column:2 Rank:2",
@@ -17850,16 +17850,16 @@
     "description": "Description for Specialisation:90 Row:4 Column:2 Rank:5. Use icon icon_9042.jpg"
   },
   "90431": {
-    "name": "Specialisation:90 Row:4 Column:3 Rank:1",
-    "icon": "icon_9043",
+    "name": "Lueur de la Lune (rang1)",
+    "icon": "spell_nature_sentinal",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:4 Column:3 Rank:1. Use icon icon_9043.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques du Druide de 5% et celles en Ours et en Félin de 1pts"
   },
   "90432": {
-    "name": "Specialisation:90 Row:4 Column:3 Rank:2",
+    "name": "Lueur de la Lune (rang2)",
     "icon": "icon_9043",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:4 Column:3 Rank:2. Use icon icon_9043.jpg"
+    "description": "Diminue le coût en mana de toutes les techniques du Druide de 10% et celles en Ours et en Félin de 2pts"
   },
   "90433": {
     "name": "Specialisation:90 Row:4 Column:3 Rank:3",
@@ -17880,16 +17880,16 @@
     "description": "Description for Specialisation:90 Row:4 Column:3 Rank:5. Use icon icon_9043.jpg"
   },
   "90511": {
-    "name": "Specialisation:90 Row:5 Column:1 Rank:1",
-    "icon": "icon_9051",
+    "name": "Force de la Nature (rang1)",
+    "icon": "inv_relics_idolofrejuvenation",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:5 Column:1 Rank:1. Use icon icon_9051.jpg"
+    "description": "Augmente les dégats des sorts de Nature de 5% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 3% et inversement"
   },
   "90512": {
-    "name": "Specialisation:90 Row:5 Column:1 Rank:2",
+    "name": "Force de la Nature (rang2)",
     "icon": "icon_9051",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:5 Column:1 Rank:2. Use icon icon_9051.jpg"
+    "description": "Augmente les dégats des sorts de Nature de 5% et permet au Sort de Nature de poser une amélioration de 6sec sur le Druide qui augmente les chances de critique de sa prochaine technique d'Arcane de 6% et inversement"
   },
   "90513": {
     "name": "Specialisation:90 Row:5 Column:1 Rank:3",
@@ -17910,22 +17910,22 @@
     "description": "Description for Specialisation:90 Row:5 Column:1 Rank:5. Use icon icon_9051.jpg"
   },
   "90521": {
-    "name": "Specialisation:90 Row:5 Column:2 Rank:1",
-    "icon": "icon_9052",
+    "name": "Colère de Cénarius (rang1)",
+    "icon": "ability_ambush",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:5 Column:2 Rank:1. Use icon icon_9052.jpg"
+    "description": "Convertit 10% de l'Intelligence du Druide en Bonus Sort"
   },
   "90522": {
-    "name": "Specialisation:90 Row:5 Column:2 Rank:2",
+    "name": "Colère de Cénarius (rang2)",
     "icon": "icon_9052",
     "rank": 2,
-    "description": "Description for Specialisation:90 Row:5 Column:2 Rank:2. Use icon icon_9052.jpg"
+    "description": "Convertit 20% de l'Intelligence du Druide en Bonus Sort"
   },
   "90523": {
-    "name": "Specialisation:90 Row:5 Column:2 Rank:3",
+    "name": "Colère de Cénarius (rang3)",
     "icon": "icon_9052",
     "rank": 3,
-    "description": "Description for Specialisation:90 Row:5 Column:2 Rank:3. Use icon icon_9052.jpg"
+    "description": "Convertit 30% de l'Intelligence du Druide en Bonus Sort"
   },
   "90524": {
     "name": "Specialisation:90 Row:5 Column:2 Rank:4",
@@ -17940,10 +17940,10 @@
     "description": "Description for Specialisation:90 Row:5 Column:2 Rank:5. Use icon icon_9052.jpg"
   },
   "90611": {
-    "name": "Specialisation:90 Row:6 Column:1 Rank:1",
-    "icon": "icon_9061",
+    "name": "Forme de Sélénien",
+    "icon": "spell_nature_forceofnature",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:6 Column:1 Rank:1. Use icon icon_9061.jpg"
+    "description": "Technique a activer, instantanée, coûte 350pts de Mana, Nouvelle Transformation du Druide en Sélénien qui suit toutes les règles normales des changeformes du Druide, Dans cette Forme le Druide augmente sa valeure d'Armure de 360%, il donne également une amélioration a tout son groupe dans les 49yards de +5% de critiques sort, et 3% des dégats qu'il inflige lui sont rendu en mana, mais il ne peut utiliser que des techniques d'Equilibre dans cette forme, pour finir retire l'effet de Canalisation a la technique Ouragan du Druide"
   },
   "90612": {
     "name": "Specialisation:90 Row:6 Column:1 Rank:2",
@@ -17970,10 +17970,10 @@
     "description": "Description for Specialisation:90 Row:6 Column:1 Rank:5. Use icon icon_9061.jpg"
   },
   "90621": {
-    "name": "Specialisation:90 Row:6 Column:2 Rank:1",
-    "icon": "icon_9062",
+    "name": "Pluie Stellaire",
+    "icon": "spell_arcane_starfire",
     "rank": 1,
-    "description": "Description for Specialisation:90 Row:6 Column:2 Rank:1. Use icon icon_9062.jpg"
+    "description": "Technique a activer, instantanée, 30yards de portée, coûte 500pts de Mana, lance une Canalisation sur la cible et lui inflige 800pts de dégats d'Arcane en 6sec qui tick toutes les 2sec"
   },
   "90622": {
     "name": "Specialisation:90 Row:6 Column:2 Rank:2",
