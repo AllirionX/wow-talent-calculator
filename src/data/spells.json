@@ -5340,10 +5340,10 @@
     "description": "Description for Specialisation:31 Row:2 Column:1 Rank:5. Use icon icon_3121.jpg"
   },
   "31221": {
-    "name": "Détournement",
+    "name": "Lancé de Piège",
     "icon": "spell_shadow_fingerofdeath",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30sec de temps de rechargement, Pose une amélioration sur un allié dans les 35yards de portée durant 30sec, le prochain Tir du Chasseur redirige sa menace sur cette cible"
+    "description": "Technique a activer, 0,5sec d'incantation, 3min de temps de rechargement, 35yards de portée, Le Chasseur lance un marqueur au sol et gagne une amélioration de 10sec qui permet a sa prochaine technique de Piège d'être déclanché depuis l'emplacement du marqueur, une technique de Piège ne peut être utilisé uniquement hors combat"
   },
   "31222": {
     "name": "Specialisation:31 Row:2 Column:2 Rank:2",
@@ -17943,7 +17943,7 @@
     "name": "Forme de Sélénien",
     "icon": "spell_nature_forceofnature",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coûte 350pts de Mana, Nouvelle Transformation du Druide en Sélénien qui suit toutes les règles normales des changeformes du Druide, Dans cette Forme le Druide augmente sa valeure d'Armure de 360%, il donne également une amélioration a tout son groupe dans les 40yards de +5% de critiques sort, et 3% des dégats qu'il inflige lui sont rendu en mana, mais il ne peut utiliser que des techniques d'Equilibre dans cette forme, pour finir retire l'effet de Canalisation a la technique Ouragan du Druide"
+    "description": "Technique a activer, instantanée, coûte 350pts de Mana, Nouvelle Transformation du Druide en Sélénien qui est de type Humanoïde et qui suit toutes les règles normales des changeformes du Druide, Dans cette Forme le Druide augmente sa valeure d'Armure de 360%, il donne également une amélioration a tout son groupe dans les 40yards de +5% de critiques sort, et 3% des dégats qu'il inflige lui sont rendu en mana, mais il ne peut utiliser que des techniques d'Equilibre dans cette forme, pour finir retire l'effet de Canalisation a la technique Ouragan du Druide"
   },
   "90612": {
     "name": "Specialisation:90 Row:6 Column:1 Rank:2",
@@ -19413,7 +19413,7 @@
     "name": "Forme d'Arbre de Vie",
     "icon": "spell_nature_naturetouchgrow",
     "rank": 1,
-    "description": "Technique a activer, instantanée, Nouvelle Transformation en Tréant (élémentaire) qui suit toutes les règles normales de ChangeForme du Druide, coûte 130pts de mana, Dans cette forme le Druide augmente l'Esprit de tous son groupe de 5%, il bénéficie en permanence de l'amélioration de la technique Ecorse mais sans consommer son temps de rechargement, il peut utiliser tout ses sorts de Druide mais diminue le coût en mana des sorts de Nature de 10%, pour finir retire l'effet de Canalisation a la technique Tranquilité"
+    "description": "Technique a activer, instantanée, Nouvelle Transformation en Tréant qui est de type Elémentaire et qui suit toutes les règles normales de ChangeForme du Druide, coûte 130pts de mana, Dans cette forme le Druide augmente l'Esprit de tous son groupe dans les 40yards de 5%, il bénéficie en permanence de la technique Ecorse mais sans consommer son temps de rechargement, il peut utiliser tout ses sorts de Druide mais diminue le coût en mana des sorts de Nature de 10%, pour finir retire l'effet de Canalisation a la technique Tranquilité"
   },
   "92622": {
     "name": "Specialisation:92 Row:6 Column:2 Rank:2",
