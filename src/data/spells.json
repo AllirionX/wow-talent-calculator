@@ -16113,7 +16113,7 @@
     "name": "Pacte Noir",
     "icon": "spell_shadow_darkritual",
     "rank": 1,
-    "description": "Technique a activer, instantanée, transfert 150pts de mana du Familier au Démoniste"
+    "description": "Technique a activer, instantanée, transfert 250pts de mana du Familier au Démoniste"
   },
   "81212": {
     "name": "Specialisation:81 Row:2 Column:1 Rank:2",
@@ -16143,7 +16143,7 @@
     "name": "Domination Corrompue",
     "icon": "spell_nature_removecurse",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, Pose une amélioration sur le Démoniste de 10sec, qui réduit le coût en mana de 50% ainsi que le temps d'incantation de sa prochaine invocation de Familier de 5sec"
+    "description": "Technique a activer, instantanée, gratuite en mana, 1min de temps de rechargement, Pose une amélioration sur le Démoniste de 10sec, qui réduit le coût en mana de 40% ainsi que le temps d'incantation de sa prochaine invocation de Familier de 4sec"
   },
   "81222": {
     "name": "Specialisation:81 Row:2 Column:2 Rank:2",
@@ -16233,13 +16233,13 @@
     "name": "Maître Invocateur (rang1)",
     "icon": "spell_shadow_impphaseshift",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 20% et diminue le temps d'incantation de 2sec et donne +15% de chance d'anti interruption sur la technique"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 20% et diminue le temps d'incantation de 3sec et donne +15% de chance d'anti interruption sur la technique"
   },
   "81312": {
     "name": "Maître Invocateur (rang2)",
     "icon": "icon_8131",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 40% et diminue le temps d'incantation de 4sec et donne +30% de chance d'anti interruption sur la technique"
+    "description": "Diminue le coût en mana des techniques d'Invocation de Familier du Démoniste de 40% et diminue le temps d'incantation de 6sec et donne +30% de chance d'anti interruption sur la technique"
   },
   "81313": {
     "name": "Specialisation:81 Row:3 Column:1 Rank:3",
@@ -16323,19 +16323,19 @@
     "name": "Captation de Vie Amélioré (rang1)",
     "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 4% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 5%, de plus donne +10% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 33%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 4% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 5%, de plus donne +10% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 33% et augmente sa portée de 2yards"
   },
   "81402": {
     "name": "Captation de Vie Amélioré (rang2)",
     "icon": "icon_8140",
     "rank": 2,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 8% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 10%, de plus donne +20% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 66%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 8% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 10%, de plus donne +20% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 66% et augmente sa portée de 4yards"
   },
   "81403": {
     "name": "Captation de Vie Amélioré (rang3)",
     "icon": "icon_8140",
     "rank": 3,
-    "description": "Augmente le montant des soins que reçoit votre Familier de 12% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 15%, de plus donne +30% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 100%"
+    "description": "Augmente le montant des soins que reçoit votre Familier de 12% et diminue les dégats qu'il subit lorsqu'il est sous l'effet de la technique Captation de Vie de 15%, de plus donne +30% de chance d'anti interruption sur la technique et réduit le coût en vie supplémentaire sur la durée de 100% et augmente sa portée de 6yards"
   },
   "81404": {
     "name": "Specialisation:81 Row:4 Column:0 Rank:4",
@@ -18720,22 +18720,22 @@
     "description": "Description for Specialisation:91 Row:6 Column:2 Rank:5. Use icon icon_9162.jpg"
   },
   "92001": {
-    "name": "Esprit Vivant (rang1)",
-    "icon": "spell_nature_crystalball",
+    "name": "Changeforme Amélioré (rang1)",
+    "icon": "spell_nature_wispsplode",
     "rank": 1,
-    "description": "Augmente l'Esprit du Druide de 4%"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 10%"
   },
   "92002": {
-    "name": "Esprit Vivant (rang2)",
+    "name": "Changeforme Amélioré (rang2)",
     "icon": "icon_9200",
     "rank": 2,
-    "description": "Augmente l'Esprit du Druide de 8%"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 20%"
   },
   "92003": {
-    "name": "Esprit Vivant (rang3)",
+    "name": "Changeforme Amélioré (rang3)",
     "icon": "icon_9200",
     "rank": 3,
-    "description": "Augmente l'Esprit du Druide de 12%"
+    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 30%"
   },
   "92004": {
     "name": "Specialisation:92 Row:0 Column:0 Rank:4",
@@ -18840,22 +18840,22 @@
     "description": "Description for Specialisation:92 Row:0 Column:3 Rank:5. Use icon icon_9203.jpg"
   },
   "92101": {
-    "name": "ChangeForme Amélioré (rang1)",
-    "icon": "spell_nature_wispsplode",
+    "name": "Esprit Vivant (rang1)",
+    "icon": "spell_nature_crystalball",
     "rank": 1,
-    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 10%"
+    "description": "Augmente l'Esprit du Druide de 4%"
   },
   "92102": {
-    "name": "ChangeForme Amélioré (rang2)",
+    "name": "Esprit Vivant (rang2)",
     "icon": "icon_9210",
     "rank": 2,
-    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druidede 20%"
+    "description": "Augmente l'Esprit du Druide de 8%"
   },
   "92103": {
-    "name": "ChangeForme Amélioré (rang3)",
+    "name": "Esprit Vivant (rang3)",
     "icon": "icon_9210",
     "rank": 3,
-    "description": "Diminue le coût en Mana des techniques de ChangeForme du Druide de 30%"
+    "description": "Augmente l'Esprit du Druide de 12%"
   },
   "92104": {
     "name": "Specialisation:92 Row:1 Column:0 Rank:4",
