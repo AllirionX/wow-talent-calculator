@@ -18003,19 +18003,19 @@
     "name": "Agression (rang1)",
     "icon": "ability_druid_demoralizingroar",
     "rank": 1,
-    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 15% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 5%"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 15% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 5% et réduit le coût en mana de la technique Luciole de 33%"
   },
   "91002": {
     "name": "Agression (rang2)",
     "icon": "icon_9100",
     "rank": 2,
-    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 30% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 10%"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 30% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 10% et réduit le coût en mana de la technique Luciole de 66%"
   },
   "91003": {
     "name": "Agression (rang3)",
     "icon": "icon_9100",
     "rank": 3,
-    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 45% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 15%"
+    "description": "Augmente les effets de la technique du Druide en Ours Rugissement Démoralisant de 45% et augmente les dégats de la technique du Druide en Félin Morsure Féroce de 15% et réduit le coût en mana de la technique Luciole de 100%"
   },
   "91004": {
     "name": "Specialisation:91 Row:0 Column:0 Rank:4",
@@ -18033,13 +18033,13 @@
     "name": "Férocité (rang1)",
     "icon": "ability_hunter_pet_hyena",
     "rank": 1,
-    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 2pts"
+    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 2pts et le coût en mana de toutes les techniques du Druide de 2%"
   },
   "91012": {
     "name": "Férocité (rang2)",
     "icon": "icon_9101",
     "rank": 2,
-    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 5pts"
+    "description": "Diminue le coût en Rage de toutes les techniques de Druide en Ours et le coût en Energie de toutes les techniques du Druide en Félin de 5pts et le coût en mana de toutes les techniques du Druide de 5%"
   },
   "91013": {
     "name": "Specialisation:91 Row:0 Column:1 Rank:3",
@@ -18069,13 +18069,13 @@
     "name": "Première Lignée (rang2)",
     "icon": "icon_9102",
     "rank": 2,
-    "description": "Augmente la Puissance d'Attaque de 2pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 10% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 4sec"
+    "description": "Augmente la Puissance d'Attaque et les Points de Mana de 2pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 10% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 4sec"
   },
   "91023": {
     "name": "Première Lignée (rang3)",
     "icon": "icon_9102",
     "rank": 3,
-    "description": "Augmente la Puissance d'Attaque de 3pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 15% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 6sec"
+    "description": "Augmente la Puissance d'Attaque et les Points de Mana de 3pts par niveau du Druide et augmente les chances de toucher avec les Cris en Forme d'Ours de 15% et diminue le temps de rechargement de la technique Rôder en Forme de Félin de 6sec"
   },
   "91024": {
     "name": "Specialisation:91 Row:0 Column:2 Rank:4",
@@ -18093,13 +18093,13 @@
     "name": "Bas Instinct (rang1)",
     "icon": "ability_bullrush",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 1sec, également celui de la technique Rugissement Provocateur de 1min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 10pts et son temps de rechargement de 2sec"
+    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 1sec, également celui de la technique Rugissement Provocateur de 1min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 10pts et son temps de rechargement de 2sec, et augmente la durée des techniques Ouragan et Tranquilité du Druide de 1sec"
   },
   "91032": {
     "name": "Bas Instinct (rang2)",
     "icon": "icon_9103",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 2sec, également celui de la technique Rugissement Provocateur de 2min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 20pts et son temps de rechargement de 4sec"
+    "description": "Diminue le temps de rechargement de la technique Grondement du Druide en Ours de 2sec, également celui de la technique Rugissement Provocateur de 2min, et diminue le coût en Energie de la technique Derobade du Druide en Félin de 20pts et son temps de rechargement de 4sec, et augmente la durée des techniques Ouragan et Tranquilité du Druide de 2sec"
   },
   "91033": {
     "name": "Specialisation:91 Row:0 Column:3 Rank:3",
@@ -18123,19 +18123,19 @@
     "name": "Instinct Farouche (rang1)",
     "icon": "ability_ambush",
     "rank": 1,
-    "description": "Augmente le niveau de Camouflage du Druide en Félin de +2rangs et augmente la menace généré par le Druide en Ours de 5%"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +2rangs et augmente la menace généré par le Druide en Ours de 5% et diminue la menace généré dans les autres formes de 5%"
   },
   "91102": {
     "name": "Instinct Farouche (rang2)",
     "icon": "icon_9110",
     "rank": 2,
-    "description": "Augmente le niveau de Camouflage du Druide en Félin de +4rangs et augmente la menace généré par le Druide en Ours de 10%"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +4rangs et augmente la menace généré par le Druide en Ours de 10% et diminue la menace généré dans les autres formes de 10%"
   },
   "91103": {
     "name": "Instinct Farouche (rang3)",
     "icon": "icon_9110",
     "rank": 3,
-    "description": "Augmente le niveau de Camouflage du Druide en Félin de +6rangs et augmente la menace généré par le Druide en Ours de 15%"
+    "description": "Augmente le niveau de Camouflage du Druide en Félin de +6rangs et augmente la menace généré par le Druide en Ours de 15% et diminue la menace généré dans les autres formes de 15%"
   },
   "91104": {
     "name": "Specialisation:91 Row:1 Column:0 Rank:4",
@@ -18213,13 +18213,13 @@
     "name": "Impact Brutal (rang1)",
     "icon": "ability_druid_bash",
     "rank": 1,
-    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 0,5sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 5%"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours, Traquenard en Félin et Choc de Cénarius du Druide de 0,5sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 5%"
   },
   "91132": {
     "name": "Impact Brutal (rang2)",
     "icon": "icon_9113",
     "rank": 2,
-    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours et Traquenard en Félin du Druide de 1sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 10%"
+    "description": "Augmente la durée des effets d'Etourdissement des techniques Sonner en Ours, Traquenard en Félin et Choc de Cénarius du Druide de 1sec et diminue les dégats subit lorsqu'il est sous l'effet d'Etourdissement ou de Peur de 10%"
   },
   "91133": {
     "name": "Specialisation:91 Row:1 Column:3 Rank:3",
@@ -18273,7 +18273,7 @@
     "name": "Charge Féral",
     "icon": "ability_hunter_pet_bear",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 15sec de temps de rechargement, hors temps de rechargement global, coûte 10pts de Rage en Ours ou 20pts d'Energie en Félin, En Ours : 8-25yards de portée, Charge la cible du Druide et l'interrompt et l'Immobilise pendant 4sec, En Félin : Bondit dans le dos de la cible et donne une amélioration de 70% de vitesse de déplacement au Druide durant 3sec "
+    "description": "Technique a activer, instantanée, 15sec de temps de rechargement, hors temps de rechargement global, coûte 10pts de Rage en Ours ou 20pts d'Energie en Félin, En Ours : 8-25yards de portée, Charge la cible du Druide et l'interrompt et l'Immobilise pendant 4sec, En Félin : Bondit dans le dos de la cible et donne une amélioration de 70% de vitesse de déplacement au Druide durant 3sec, En Sélénien : 8-25yards de portée, le Druide charge une cible allié a portée, En Arbre de Vie : 8-25yards de portée, le Druide Attrape une cible Allié a portée et la ramène devant lui"
   },
   "91212": {
     "name": "Specialisation:91 Row:2 Column:1 Rank:2",
