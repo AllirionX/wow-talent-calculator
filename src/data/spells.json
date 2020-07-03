@@ -5040,22 +5040,22 @@
     "description": "Description for Specialisation:30 Row:6 Column:2 Rank:5. Use icon icon_3062.jpg"
   },
   "31001": {
-    "name": "Marque du Chasseur Améliorée (rang1)",
-    "icon": "ability_hunter_snipershot",
+    "name": "Oeil du Faucon (rang1)",
+    "icon": "ability_townwatch",
     "rank": 1,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 33% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente la portée de Tir du Chasseur de 2yards"
   },
   "31002": {
-    "name": "Marque du Chasseur Améliorée (rang2)",
+    "name": "Oeil du Faucon (rang2)",
     "icon": "icon_3100",
     "rank": 2,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 66% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente la portée de Tir du Chasseur de 4yards"
   },
   "31003": {
-    "name": "Marque du Chasseur Améliorée (rang3)",
+    "name": "Oeil du Faucon (rang3)",
     "icon": "icon_3100",
     "rank": 3,
-    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 100% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
+    "description": "Augmente la portée de Tir du Chasseur de 6yards"
   },
   "31004": {
     "name": "Specialisation:31 Row:0 Column:0 Rank:4",
@@ -5160,22 +5160,22 @@
     "description": "Description for Specialisation:31 Row:0 Column:3 Rank:5. Use icon icon_3103.jpg"
   },
   "31101": {
-    "name": "Morsures Viscieuses (rang1)",
-    "icon": "ability_hunter_criticalshot",
+    "name": "Marque du Chasseur Améliorée (rang1)",
+    "icon": "ability_hunter_snipershot",
     "rank": 1,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 10% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 20% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 4sec"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 33% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31102": {
-    "name": "Morsures Viscieuses (rang2)",
+    "name": "Marque du Chasseur Améliorée (rang2)",
     "icon": "icon_3110",
     "rank": 2,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 20% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 40% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 8sec"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 66% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31103": {
-    "name": "Morsures Viscieuses (rang3)",
+    "name": "Marque du Chasseur Améliorée (rang3)",
     "icon": "icon_3110",
     "rank": 3,
-    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 30% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 60% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 12sec"
+    "description": "Permet a la technique Marque du Chasseur d'augmenter également le montant de Puissance d'Attaque en mélée d'une valeur égale a 100% de son Bonus de Puissance d'Attaque a distance et réduit son coût en mana du même montant"
   },
   "31104": {
     "name": "Specialisation:31 Row:1 Column:0 Rank:4",
@@ -5190,7 +5190,7 @@
     "description": "Description for Specialisation:31 Row:1 Column:0 Rank:5. Use icon icon_3110.jpg"
   },
   "31111": {
-    "name": "Morsures Améliorées (rang1)",
+    "name": "Morsures Améliorées  (rang1)",
     "icon": "ability_hunter_quickshot",
     "rank": 1,
     "description": "Diminue le coût en mana des techniques de Morsure de 3% et augmente leur durée de 3sec"
@@ -5460,22 +5460,22 @@
     "description": "Description for Specialisation:31 Row:3 Column:1 Rank:5. Use icon icon_3131.jpg"
   },
   "31321": {
-    "name": "Oeil du Faucon (rang1)",
-    "icon": "ability_townwatch",
+    "name": "Morsures Viscieuses (rang1)",
+    "icon": "ability_hunter_criticalshot",
     "rank": 1,
-    "description": "Augmente la portée de tir du Chasseur de 2yards"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 10% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 20% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 4sec"
   },
   "31322": {
-    "name": "Oeil du Faucon (rang2)",
+    "name": "Morsures Viscieuses (rang2)",
     "icon": "icon_3132",
     "rank": 2,
-    "description": "Augmente la portée de tir du Chasseur de 4yards"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 20% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 40% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 8sec"
   },
   "31323": {
-    "name": "Oeil du Faucon (rang3)",
+    "name": "Morsures Viscieuses (rang3)",
     "icon": "icon_3132",
     "rank": 3,
-    "description": "Augmente la portée de tir du Chasseur de 6yards"
+    "description": "Lorsque le Chasseur voit sa technique Morsure du Serpent dissipé, cela inflige instantanément 30% du dégats total de la technique a la cible, Morsure de la Vipère dissipé rend 60% du coût en mana de la technique au Chasseur, Morsure du Scorpide dissipé applique un effet de Désarmement sur la cible de 12sec"
   },
   "31324": {
     "name": "Specialisation:31 Row:3 Column:2 Rank:4",
@@ -5493,13 +5493,13 @@
     "name": "Tir des Arcanes Améliorés (rang1)",
     "icon": "ability_impalingbolt",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et augmente les chances de critique avec la technique de 5%"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 0,5sec et augmente les chances de critique avec la technique de 10%"
   },
   "31332": {
     "name": "Tir des Arcanes Améliorés (rang2)",
     "icon": "icon_3133",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et augmente les chances de critique avec la technique de 10%"
+    "description": "Diminue le temps de rechargement de la technique Tir des Arcanes de 1sec et augmente les chances de critique avec la technique de 20%"
   },
   "31333": {
     "name": "Specialisation:31 Row:3 Column:3 Rank:3",
@@ -10800,22 +10800,22 @@
     "description": "Description for Specialisation:52 Row:6 Column:2 Rank:5. Use icon icon_5262.jpg"
   },
   "60001": {
-    "name": "Maille Etincelante (rang1)",
-    "icon": "spell_arcane_arcaneresilience",
+    "name": "Protection Elémentaire (rang1)",
+    "icon": "spell_nature_protectionformnature",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 2pts de Mana pour le Chaman"
+    "description": "Diminue la Résistance Magique de la cible du Chaman de 5pts et augmente la Résistance Nature, Feu et Givre du Chaman de 10pts"
   },
   "60002": {
-    "name": "Maille Etincelante (rang2)",
+    "name": "Protection Elémentaire (rang2)",
     "icon": "icon_6000",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 3pts de Mana pour le Chaman"
+    "description": "Diminue la Résistance Magique de la cible du Chaman de 10pts et augmente la Résistance Nature, Feu et Givre du Chaman de 20pts"
   },
   "60003": {
-    "name": "Maille Etincelante (rang3)",
+    "name": "Protection Elémentaire (rang3)",
     "icon": "icon_6000",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure en 6pts de Mana pour le Chaman"
+    "description": "Diminue la Résistance Magique de la cible du Chaman de 15pts et augmente la Résistance Nature, Feu et Givre du Chaman de 30pts"
   },
   "60004": {
     "name": "Specialisation:60 Row:0 Column:0 Rank:4",
@@ -10950,16 +10950,16 @@
     "description": "Description for Specialisation:60 Row:1 Column:0 Rank:5. Use icon icon_6010.jpg"
   },
   "60111": {
-    "name": "Horions Améliorés (rang1)",
-    "icon": "spell_frost_windwalkon",
+    "name": "Oeil du Cyclone (rang1)",
+    "icon": "spell_nature_eyeofthestorm",
     "rank": 1,
-    "description": "Augmente la durée de la technique Horion de Glace de 1sec, la durée de la technique Horion de Feu de 3sec et la menace généré par la technique Horion de Terre de 10%"
+    "description": "Donne 35% de chance d'anti interruption au Chaman lorsqu'il incante un Sort Elémentaire, de plus, lorsqu'il subit un coup critique, il gagne une amélioration qui lui donne +35% de chance d'anti interruption durant 3sec"
   },
   "60112": {
-    "name": "Horions Améliorés (rang2)",
+    "name": "Oeil du Cyclone (rang2)",
     "icon": "icon_6011",
     "rank": 2,
-    "description": "Augmente la durée de la technique Horion de Glace de 2sec, la durée de la technique Horion de Feu de 6sec et la menace généré par la technique Horion de Terre de 20%"
+    "description": "Donne 70% de chance d'anti interruption au Chaman lorsqu'il incante un Sort Elémentaire, de plus, lorsqu'il subit un coup critique, il gagne une amélioration qui lui donne +35% de chance d'anti interruption durant 6sec"
   },
   "60113": {
     "name": "Specialisation:60 Row:1 Column:1 Rank:3",
@@ -10980,22 +10980,22 @@
     "description": "Description for Specialisation:60 Row:1 Column:1 Rank:5. Use icon icon_6011.jpg"
   },
   "60121": {
-    "name": "Protection des Eléments (rang1)",
-    "icon": "spell_nature_protectionformnature",
+    "name": "Soutien Elémentaire (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 20pts et diminue les Résistances magiques des cibles du Chaman 5pts"
+    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
   },
   "60122": {
-    "name": "Protection des Eléments (rang2)",
+    "name": "Soutien Elémentaire (rang2)",
     "icon": "icon_6012",
     "rank": 2,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 40pts et diminue les Résistances magiques des cibles du Chaman 10pts"
+    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
   },
   "60123": {
-    "name": "Protection des Eléments (rang3)",
+    "name": "Soutien Elémentaire (rang3)",
     "icon": "icon_6012",
     "rank": 3,
-    "description": "Augmente la Résistance Nature, Feu et Givre du Chaman de 60pts et diminue les Résistances magiques des cibles du Chaman 15pts"
+    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
   },
   "60124": {
     "name": "Specialisation:60 Row:1 Column:2 Rank:4",
@@ -11040,22 +11040,22 @@
     "description": "Description for Specialisation:60 Row:1 Column:3 Rank:5. Use icon icon_6013.jpg"
   },
   "60201": {
-    "name": "Dévastation Elémentaire (rang1)",
-    "icon": "classic_spell_fire_elementaldevastation",
+    "name": "Appel de la Foudre (rang1)",
+    "icon": "spell_nature_callstorm",
     "rank": 1,
-    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 3%"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "60202": {
-    "name": "Dévastation Elémentaire (rang2)",
+    "name": "Appel de la Foudre (rang2)",
     "icon": "icon_6020",
     "rank": 2,
-    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 6%"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "60203": {
-    "name": "Dévastation Elémentaire (rang3)",
+    "name": "Appel de la Foudre (rang3)",
     "icon": "icon_6020",
     "rank": 3,
-    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 9%"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "60204": {
     "name": "Specialisation:60 Row:2 Column:0 Rank:4",
@@ -11220,22 +11220,22 @@
     "description": "Description for Specialisation:60 Row:3 Column:1 Rank:5. Use icon icon_6031.jpg"
   },
   "60321": {
-    "name": "Appel de la Foudre (rang1)",
-    "icon": "spell_nature_callstorm",
+    "name": "Dévastation Elémentaire (rang1)",
+    "icon": "classic_spell_fire_elementaldevastation",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Chaman de 2%"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 3%"
   },
   "60322": {
-    "name": "Appel de la Foudre (rang2)",
+    "name": "Dévastation Elémentaire (rang2)",
     "icon": "icon_6032",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Chaman de 4%"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 6%"
   },
   "60323": {
-    "name": "Appel de la Foudre (rang3)",
+    "name": "Dévastation Elémentaire (rang3)",
     "icon": "icon_6032",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Chaman de 6%"
+    "description": "Lorsque le Chaman obtient un critique, il gagne une amélioration de 10sec qui augmente ses chances de critiques de 9%"
   },
   "60324": {
     "name": "Specialisation:60 Row:3 Column:2 Rank:4",
@@ -11250,16 +11250,16 @@
     "description": "Description for Specialisation:60 Row:3 Column:2 Rank:5. Use icon icon_6032.jpg"
   },
   "60331": {
-    "name": "Oeil du Cyclone (rang1)",
-    "icon": "spell_nature_eyeofthestorm",
+    "name": "Horions Améliorés (rang1)",
+    "icon": "spell_frost_windwalkon",
     "rank": 1,
-    "description": "Donne 35% de chance d'anti interruption au Chaman lorsqu'il incante un Sort Elémentaire, de plus, lorsqu'il subit un coup critique, il gagne une amélioration qui lui donne +35% de chance d'anti interruption durant 3sec"
+    "description": "Augmente la durée de la technique Horion de Glace de 1sec, la durée de la technique Horion de Feu de 3sec et la menace généré par la technique Horion de Terre de 10%"
   },
   "60332": {
-    "name": "Oeil du Cyclone (rang2)",
+    "name": "Horions Améliorés (rang2)",
     "icon": "icon_6033",
     "rank": 2,
-    "description": "Donne 70% de chance d'anti interruption au Chaman lorsqu'il incante un Sort Elémentaire, de plus, lorsqu'il subit un coup critique, il gagne une amélioration qui lui donne +35% de chance d'anti interruption durant 6sec"
+    "description": "Augmente la durée de la technique Horion de Glace de 2sec, la durée de la technique Horion de Feu de 6sec et la menace généré par la technique Horion de Terre de 20%"
   },
   "60333": {
     "name": "Specialisation:60 Row:3 Column:3 Rank:3",
@@ -11520,22 +11520,22 @@
     "description": "Description for Specialisation:60 Row:6 Column:2 Rank:5. Use icon icon_6062.jpg"
   },
   "61001": {
-    "name": "Maille Tranchante (rang1)",
-    "icon": "ability_warrior_riposte",
+    "name": "Résistance (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +2pts de Puissance d'Attaque"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 10% et augmente son Armure de 4%"
   },
   "61002": {
-    "name": "Maille Tranchante (rang2)",
+    "name": "Résistance (rang2)",
     "icon": "icon_6100",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +4pts de Puissance d'Attaque"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 20% et augmente son Armure de 8%"
   },
   "61003": {
-    "name": "Maille Tranchante (rang3)",
+    "name": "Résistance (rang3)",
     "icon": "icon_6100",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +6pts de Puissance d'Attaque"
+    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 30% et augmente son Armure de 12%"
   },
   "61004": {
     "name": "Specialisation:61 Row:0 Column:0 Rank:4",
@@ -11550,16 +11550,16 @@
     "description": "Description for Specialisation:61 Row:0 Column:0 Rank:5. Use icon icon_6100.jpg"
   },
   "61011": {
-    "name": "Totem Gardien (rang1)",
-    "icon": "spell_nature_stoneskintotem",
+    "name": "Enchantements Améliorés (rang1)",
+    "icon": "spell_fire_flametounge",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 1sec, augmente la portée de la technique Totem de Lien Terrestre de 10%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 50%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 15%"
+    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 15%"
   },
   "61012": {
-    "name": "Totem Gardien (rang2)",
+    "name": "Enchantements Améliorés (rang2)",
     "icon": "icon_6101",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 2sec, augmente la portée de la technique Totem de Lien Terrestre de 20%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 100%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 30%"
+    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 30%"
   },
   "61013": {
     "name": "Specialisation:61 Row:0 Column:1 Rank:3",
@@ -11580,22 +11580,22 @@
     "description": "Description for Specialisation:61 Row:0 Column:1 Rank:5. Use icon icon_6101.jpg"
   },
   "61021": {
-    "name": "Spécialisation Bouclier (rang1)",
-    "icon": "inv_shield_06",
+    "name": "Totems Améliorés (rang1)",
+    "icon": "spell_nature_earthbindtotem",
     "rank": 1,
-    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 2%"
+    "description": "Augmente les effets des Totems du Chaman de 10%"
   },
   "61022": {
-    "name": "Spécialisation Bouclier (rang2)",
+    "name": "Totems Améliorés (rang2)",
     "icon": "icon_6102",
     "rank": 2,
-    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 4%"
+    "description": "Augmente les effets des Totems du Chaman de 20%"
   },
   "61023": {
-    "name": "Spécialisation Bouclier (rang3)",
+    "name": "Totems Améliorés (rang3)",
     "icon": "icon_6102",
     "rank": 3,
-    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 6%"
+    "description": "Augmente les effets des Totems du Chaman de 30%"
   },
   "61024": {
     "name": "Specialisation:61 Row:0 Column:2 Rank:4",
@@ -11640,22 +11640,22 @@
     "description": "Description for Specialisation:61 Row:0 Column:3 Rank:5. Use icon icon_6103.jpg"
   },
   "61101": {
-    "name": "Totems Améliorés (rang1)",
-    "icon": "spell_nature_earthbindtotem",
+    "name": "Spécialisation Bouclier (rang1)",
+    "icon": "inv_shield_06",
     "rank": 1,
-    "description": "Augmente les effets des Totems du Chaman de 10%"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 2%"
   },
   "61102": {
-    "name": "Totems Améliorés (rang2)",
+    "name": "Spécialisation Bouclier (rang2)",
     "icon": "icon_6110",
     "rank": 2,
-    "description": "Augmente les effets des Totems du Chaman de 20%"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 4%"
   },
   "61103": {
-    "name": "Totems Améliorés (rang3)",
+    "name": "Spécialisation Bouclier (rang3)",
     "icon": "icon_6110",
     "rank": 3,
-    "description": "Augmente les effets des Totems du Chaman de 30%"
+    "description": "Augmente les chances de Bloquer avec un Bouclier du Chaman de 6%"
   },
   "61104": {
     "name": "Specialisation:61 Row:1 Column:0 Rank:4",
@@ -11670,16 +11670,16 @@
     "description": "Description for Specialisation:61 Row:1 Column:0 Rank:5. Use icon icon_6110.jpg"
   },
   "61111": {
-    "name": "Loup Fantôme Amélioré (rang1)",
-    "icon": "spell_nature_spiritwolf",
+    "name": "Totems Gardiens (rang1)",
+    "icon": "spell_nature_stoneskintotem",
     "rank": 1,
-    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 1sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +5% lorsqu'il est sous cette Forme et cela même en combat"
+    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 1sec, augmente la portée de la technique Totem de Lien Terrestre de 10%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 50%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 15%"
   },
   "61112": {
-    "name": "Loup Fantôme Amélioré (rang2)",
+    "name": "Totems Gardiens (rang2)",
     "icon": "icon_6111",
     "rank": 2,
-    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 2sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +10% lorsqu'il est sous cette Forme et cela même en combat"
+    "description": "Diminue le temps de rechargement de la technique Totem de Glèbe de 2sec, augmente la portée de la technique Totem de Lien Terrestre de 20%, augmente les Points de Vie de la technique Totem Griffe de Pierre de 100%, et augmente le montant de dégats absorbé par la technique Mur de Pierre de 30%"
   },
   "61113": {
     "name": "Specialisation:61 Row:1 Column:1 Rank:3",
@@ -11730,16 +11730,16 @@
     "description": "Description for Specialisation:61 Row:1 Column:2 Rank:5. Use icon icon_6112.jpg"
   },
   "61131": {
-    "name": "Blocage Amélioré (rang1)",
-    "icon": "inv_shield_05",
+    "name": "Rapidité Mentale (rang1)",
+    "icon": "spell_nature_sleep",
     "rank": 1,
-    "description": "Augmente le montant de Blocage du Chaman de 15% et lorsqu'il bloque il regen 1% de sa mana, avec 1sec de temps de rechargement"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 20%"
   },
   "61132": {
-    "name": "Blocage Amélioré (rang2)",
+    "name": "Rapidité Mentale (rang2)",
     "icon": "icon_6113",
     "rank": 2,
-    "description": "Augmente le montant de Blocage du Chaman de 30% et lorsqu'il bloque il regen 2% de sa mana, avec 1sec de temps de rechargement"
+    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 40%"
   },
   "61133": {
     "name": "Specialisation:61 Row:1 Column:3 Rank:3",
@@ -11760,22 +11760,22 @@
     "description": "Description for Specialisation:61 Row:1 Column:3 Rank:5. Use icon icon_6113.jpg"
   },
   "61201": {
-    "name": "Anticipation (rang1)",
-    "icon": "spell_nature_mirrorimage",
+    "name": "Frappes Foudroyantes (rang1)",
+    "icon": "ability_thunderbolt",
     "rank": 1,
-    "description": "Augmente les chances d'Esquiver du Chaman de 2%"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "61202": {
-    "name": "Anticipation (rang2)",
+    "name": "Frappes Foudroyantes (rang2)",
     "icon": "icon_6120",
     "rank": 2,
-    "description": "Augmente les chances d'Esquiver du Chaman de 4%"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "61203": {
-    "name": "Anticipation (rang3)",
+    "name": "Frappes Foudroyantes (rang3)",
     "icon": "icon_6120",
     "rank": 3,
-    "description": "Augmente les chances d'Esquiver du Chaman de 6%"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "61204": {
     "name": "Specialisation:61 Row:2 Column:0 Rank:4",
@@ -11850,16 +11850,16 @@
     "description": "Description for Specialisation:61 Row:2 Column:2 Rank:5. Use icon icon_6122.jpg"
   },
   "61231": {
-    "name": "Charges Améliorés (rang1)",
-    "icon": "spell_nature_lightningshield",
+    "name": "Blocage Amélioré (rang1)",
+    "icon": "inv_shield_05",
     "rank": 1,
-    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 1"
+    "description": "Augmente le montant de Blocage du Chaman de 15% et lorsqu'il bloque il regen 1% de sa mana, avec 1sec de temps de rechargement"
   },
   "61232": {
-    "name": "Charges Améliorés (rang2)",
+    "name": "Blocage Amélioré (rang2)",
     "icon": "icon_6123",
     "rank": 2,
-    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 2"
+    "description": "Augmente le montant de Blocage du Chaman de 30% et lorsqu'il bloque il regen 2% de sa mana, avec 1sec de temps de rechargement"
   },
   "61233": {
     "name": "Specialisation:61 Row:2 Column:3 Rank:3",
@@ -11880,22 +11880,22 @@
     "description": "Description for Specialisation:61 Row:2 Column:3 Rank:5. Use icon icon_6123.jpg"
   },
   "61301": {
-    "name": "Résistance (rang1)",
-    "icon": "spell_holy_devotion",
+    "name": "Esprit Tranchant (rang1)",
+    "icon": "ability_warrior_riposte",
     "rank": 1,
-    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 10% et augmente son Armure de 4%"
+    "description": "Convertit 10% de l'Intelligence du Chaman en 2pts de Puissance d'Attaque"
   },
   "61302": {
-    "name": "Résistance (rang2)",
+    "name": "Esprit Tranchant (rang2)",
     "icon": "icon_6130",
     "rank": 2,
-    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 20% et augmente son Armure de 8%"
+    "description": "Convertit 20% de l'Intelligence du Chaman en 2pts de Puissance d'Attaque"
   },
   "61303": {
-    "name": "Résistance (rang3)",
+    "name": "Esprit Tranchant (rang3)",
     "icon": "icon_6130",
     "rank": 3,
-    "description": "Diminue la durée des effets affectant le Mouvement du Chaman de 30% et augmente son Armure de 12%"
+    "description": "Convertit 30% de l'Intelligence du Chaman en 2pts de Puissance d'Attaque"
   },
   "61304": {
     "name": "Specialisation:61 Row:3 Column:0 Rank:4",
@@ -11910,16 +11910,16 @@
     "description": "Description for Specialisation:61 Row:3 Column:0 Rank:5. Use icon icon_6130.jpg"
   },
   "61311": {
-    "name": "Enchantement d'Armes Améliorés (rang1)",
-    "icon": "spell_fire_flametounge",
+    "name": "Loup Fantôme Amélioré (rang1)",
+    "icon": "spell_nature_spiritwolf",
     "rank": 1,
-    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 15%"
+    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 1sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +5% lorsqu'il est sous cette Forme et cela même en combat"
   },
   "61312": {
-    "name": "Enchantement d'Armes Améliorés (rang2)",
+    "name": "Loup Fantôme Amélioré (rang2)",
     "icon": "icon_6131",
     "rank": 2,
-    "description": "Augmente les effets des techniques d'Enchantement d'Armes du Chaman de 30%"
+    "description": "Diminue le temps d'incantation de la technique Loup Fantôme du Chaman de 2sec et permet au Chaman d'augmenter sa régénération de vie et de mana de +10% lorsqu'il est sous cette Forme et cela même en combat"
   },
   "61313": {
     "name": "Specialisation:61 Row:3 Column:1 Rank:3",
@@ -11940,22 +11940,22 @@
     "description": "Description for Specialisation:61 Row:3 Column:1 Rank:5. Use icon icon_6131.jpg"
   },
   "61321": {
-    "name": "Frappes Foudoyantes (rang1)",
-    "icon": "ability_thunderbolt",
+    "name": "Anticipation (rang1)",
+    "icon": "spell_nature_mirrorimage",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Chaman de 2%"
+    "description": "Augmente les chances d'Esquiver du Chaman de 2%"
   },
   "61322": {
-    "name": "Frappes Foudoyantes (rang2)",
+    "name": "Anticipation (rang2)",
     "icon": "icon_6132",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Chaman de 4%"
+    "description": "Augmente les chances d'Esquiver du Chaman de 4%"
   },
   "61323": {
-    "name": "Frappes Foudoyantes (rang3)",
+    "name": "Anticipation (rang3)",
     "icon": "icon_6132",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Chaman de 6%"
+    "description": "Augmente les chances d'Esquiver du Chaman de 6%"
   },
   "61324": {
     "name": "Specialisation:61 Row:3 Column:2 Rank:4",
@@ -11970,16 +11970,16 @@
     "description": "Description for Specialisation:61 Row:3 Column:2 Rank:5. Use icon icon_6132.jpg"
   },
   "61331": {
-    "name": "Rapidité Mentale (rang1)",
-    "icon": "spell_nature_sleep",
+    "name": "Charges Améliorées (rang1)",
+    "icon": "spell_nature_lightningshield",
     "rank": 1,
-    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 20%"
+    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 1"
   },
   "61332": {
-    "name": "Rapidité Mentale (rang2)",
+    "name": "Charges Améliorées (rang2)",
     "icon": "icon_6133",
     "rank": 2,
-    "description": "Diminue le coût en mana de toutes les techniques instantanées du Chaman de 40%"
+    "description": "Augmente le nombre de Charges des techniques Frappe Tempête, Bouclier de Foudre et Bouclier d'Eau de 2"
   },
   "61333": {
     "name": "Specialisation:61 Row:3 Column:3 Rank:3",
@@ -12240,22 +12240,22 @@
     "description": "Description for Specialisation:61 Row:6 Column:2 Rank:5. Use icon icon_6162.jpg"
   },
   "62001": {
-    "name": "Poids de la Maille (rang1)",
-    "icon": "inv_relics_idolofrejuvenation",
+    "name": "Focalisation des Soins (rang1)",
+    "icon": "spell_frost_manarecharge",
     "rank": 1,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +2pts de Vie"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 5%"
   },
   "62002": {
-    "name": "Poids de la Maille (rang2)",
+    "name": "Focalisation des Soins (rang2)",
     "icon": "icon_6200",
     "rank": 2,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +4pts de Vie"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 10%"
   },
   "62003": {
-    "name": "Poids de la Maille (rang3)",
+    "name": "Focalisation des Soins (rang3)",
     "icon": "icon_6200",
     "rank": 3,
-    "description": "Convertit chaque tranche de 50pts d'Armure du Chaman en +6pts de Vie"
+    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 15%"
   },
   "62004": {
     "name": "Specialisation:62 Row:0 Column:0 Rank:4",
@@ -12420,22 +12420,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:1 Rank:5. Use icon icon_6211.jpg"
   },
   "62121": {
-    "name": "Focalisation des Flots (rang1)",
-    "icon": "spell_frost_manarecharge",
+    "name": "Grâce Guérisseuse (rang1)",
+    "icon": "spell_nature_healingtouch",
     "rank": 1,
-    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 5%"
+    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
   },
   "62122": {
-    "name": "Focalisation des Flots (rang2)",
+    "name": "Grâce Guérisseuse (rang2)",
     "icon": "icon_6212",
     "rank": 2,
-    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 10%"
+    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
   },
   "62123": {
-    "name": "Focalisation des Flots (rang3)",
+    "name": "Grâce Guérisseuse (rang3)",
     "icon": "icon_6212",
     "rank": 3,
-    "description": "Diminue le coût en mana des Sorts de Nature du Chaman de 15%"
+    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
   },
   "62124": {
     "name": "Specialisation:62 Row:1 Column:2 Rank:4",
@@ -12450,16 +12450,16 @@
     "description": "Description for Specialisation:62 Row:1 Column:2 Rank:5. Use icon icon_6212.jpg"
   },
   "62131": {
-    "name": "Réincarnation Améliorée (rang1)",
-    "icon": "spell_nature_reincarnation",
+    "name": "Sagesse Ancestrale (rang1)",
+    "icon": "spell_nature_manaregentotem",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 10min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 10%"
+    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 50% et augmente leur effet de 10%"
   },
   "62132": {
-    "name": "Réincarnation Améliorée (rang2)",
+    "name": "Sagesse Ancestrale (rang2)",
     "icon": "icon_6213",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 20min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 20%"
+    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 100% et augmente leur effet de 20%"
   },
   "62133": {
     "name": "Specialisation:62 Row:1 Column:3 Rank:3",
@@ -12480,22 +12480,22 @@
     "description": "Description for Specialisation:62 Row:1 Column:3 Rank:5. Use icon icon_6213.jpg"
   },
   "62201": {
-    "name": "Maîtrise des Flots (rang1)",
-    "icon": "spell_nature_tranquility",
+    "name": "Soutien de la Nature (rang1)",
+    "icon": "spell_frost_stun",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Chaman de 2%"
+    "description": "Augmente les chances de Toucher du Chaman de 1% et diminue le coût en mana des techniques de Dissipation de 5% et lorsqu'une technique de Totem est détruite 10% du coût en mana du Totem est rendu au Chaman"
   },
   "62202": {
-    "name": "Maîtrise des Flots (rang2)",
+    "name": "Soutien de la Nature (rang2)",
     "icon": "icon_6220",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Chaman de 4%"
+    "description": "Augmente les chances de Toucher du Chaman de 2% et diminue le coût en mana des techniques de Dissipation de 10% et lorsqu'une technique de Totem est détruite 20% du coût en mana du Totem est rendu au Chaman"
   },
   "62203": {
-    "name": "Maîtrise des Flots (rang3)",
+    "name": "Soutien de la Nature (rang3)",
     "icon": "icon_6220",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Chaman de 6%"
+    "description": "Augmente les chances de Toucher du Chaman de 3% et diminue le coût en mana des techniques de Dissipation de 15% et lorsqu'une technique de Totem est détruite 30% du coût en mana du Totem est rendu au Chaman"
   },
   "62204": {
     "name": "Specialisation:62 Row:2 Column:0 Rank:4",
@@ -12600,22 +12600,22 @@
     "description": "Description for Specialisation:62 Row:2 Column:3 Rank:5. Use icon icon_6223.jpg"
   },
   "62301": {
-    "name": "Soutien de la Nature (rang1)",
-    "icon": "spell_frost_stun",
+    "name": "Maîtrise des Flots (rang1)",
+    "icon": "spell_nature_tranquility",
     "rank": 1,
-    "description": "Augmente les chances de Toucher du Chaman de 1% et diminue le coût en mana des techniques de Dissipation de 5% et lorsqu'une technique de Totem est détruite 10% du coût en mana du Totem est rendu au Chaman"
+    "description": "Augmente les chances de critiques du Chaman de 2%"
   },
   "62302": {
-    "name": "Soutien de la Nature (rang2)",
+    "name": "Maîtrise des Flots (rang2)",
     "icon": "icon_6230",
     "rank": 2,
-    "description": "Augmente les chances de Toucher du Chaman de 2% et diminue le coût en mana des techniques de Dissipation de 10% et lorsqu'une technique de Totem est détruite 20% du coût en mana du Totem est rendu au Chaman"
+    "description": "Augmente les chances de critiques du Chaman de 4%"
   },
   "62303": {
-    "name": "Soutien de la Nature (rang3)",
+    "name": "Maîtrise des Flots (rang3)",
     "icon": "icon_6230",
     "rank": 3,
-    "description": "Augmente les chances de Toucher du Chaman de 3% et diminue le coût en mana des techniques de Dissipation de 15% et lorsqu'une technique de Totem est détruite 30% du coût en mana du Totem est rendu au Chaman"
+    "description": "Augmente les chances de critiques du Chaman de 6%"
   },
   "62304": {
     "name": "Specialisation:62 Row:3 Column:0 Rank:4",
@@ -12630,16 +12630,16 @@
     "description": "Description for Specialisation:62 Row:3 Column:0 Rank:5. Use icon icon_6230.jpg"
   },
   "62311": {
-    "name": "Sagesse Ancestrale (rang1)",
-    "icon": "spell_nature_manaregentotem",
+    "name": "Réincarnation Améliorée (rang1)",
+    "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 50% et augmente leur effet de 10%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 15min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 10%"
   },
   "62312": {
-    "name": "Sagesse Ancestrale (rang2)",
+    "name": "Réincarnation Améliorée (rang2)",
     "icon": "icon_6231",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Totem de Fontaine et Totem de Vagues de 100% et augmente leur effet de 20%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 30min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 20%"
   },
   "62313": {
     "name": "Specialisation:62 Row:3 Column:1 Rank:3",
@@ -12660,22 +12660,22 @@
     "description": "Description for Specialisation:62 Row:3 Column:1 Rank:5. Use icon icon_6231.jpg"
   },
   "62321": {
-    "name": "Grâce Guérisseuse (rang1)",
-    "icon": "spell_nature_healingtouch",
+    "name": "Orbes Améliorées (rang1)",
+    "icon": "spell_nature_lightningshield",
     "rank": 1,
-    "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
+    "description": "Augmente les effets des techniques Bouclier de Foudre et Bouclier d'Eau du Chaman de 5%"
   },
   "62322": {
-    "name": "Grâce Guérisseuse (rang2)",
+    "name": "Orbes Améliorées (rang2)",
     "icon": "icon_6232",
     "rank": 2,
-    "description": "Diminue la menace généré par le Chaman de 10% et lui donne +10pts de mp5"
+    "description": "Augmente les effets des techniques Bouclier de Foudre et Bouclier d'Eau du Chaman de 10%"
   },
   "62323": {
-    "name": "Grâce Guérisseuse (rang3)",
+    "name": "Orbes Améliorées (rang3)",
     "icon": "icon_6232",
     "rank": 3,
-    "description": "Diminue la menace généré par le Chaman de 15% et lui donne +15pts de mp5"
+    "description": "Augmente les effets des techniques Bouclier de Foudre et Bouclier d'Eau du Chaman de 15%"
   },
   "62324": {
     "name": "Specialisation:62 Row:3 Column:2 Rank:4",
