@@ -5943,19 +5943,19 @@
     "name": "Coup d'Oeil (rang1)",
     "icon": "ability_eyeoftheowl",
     "rank": 1,
-    "description": "Convertit 10% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Convertit 10% de l'Intelligence du Chasseur en 2pts de Puissance d'Attaque en mélée et a distance"
   },
   "32122": {
     "name": "Coup d'Oeil (rang2)",
     "icon": "icon_3212",
     "rank": 2,
-    "description": "Convertit 20% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Convertit 20% de l'Intelligence du Chasseur en 2pts de Puissance d'Attaque en mélée et a distance"
   },
   "32123": {
     "name": "Coup d'Oeil (rang3)",
     "icon": "icon_3212",
     "rank": 3,
-    "description": "Convertit 30% de l'Intelligence du Chasseur en Puissance d'Attaque en mélée et a distance"
+    "description": "Convertit 30% de l'Intelligence du Chasseur en 2pts de Puissance d'Attaque en mélée et a distance"
   },
   "32124": {
     "name": "Specialisation:32 Row:1 Column:2 Rank:4",
@@ -10981,7 +10981,7 @@
   },
   "60121": {
     "name": "Soutien Elémentaire (rang1)",
-    "icon": "spell_arcane_arcaneresilience",
+    "icon": "spell_nature_nullward",
     "rank": 1,
     "description": "Diminue la menace généré par le Chaman de 5% et lui donne +5pts de mp5"
   },
@@ -11283,19 +11283,19 @@
     "name": "Précision Elémentaire (rang1)",
     "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Diminue la Menace généré par le Chaman de 5% et augmente ses chances de Toucher de 2%"
+    "description": "Augmente les chances de Toucher du Chaman de 2%"
   },
   "60402": {
     "name": "Précision Elémentaire (rang2)",
     "icon": "icon_6040",
     "rank": 2,
-    "description": "Diminue la Menace généré par le Chaman de 10% et augmente ses chances de Toucher de 4%"
+    "description": "Augmente les chances de Toucher du Chaman de 4%"
   },
   "60403": {
     "name": "Précision Elémentaire (rang3)",
     "icon": "icon_6040",
     "rank": 3,
-    "description": "Diminue la Menace généré par le Chaman de 15% et augmente ses chances de Toucher de 6%"
+    "description": "Augmente les chances de Toucher du Chaman de 6%"
   },
   "60404": {
     "name": "Specialisation:60 Row:4 Column:0 Rank:4",
@@ -12633,13 +12633,13 @@
     "name": "Réincarnation Améliorée (rang1)",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 15min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 10%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 15min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 15%"
   },
   "62312": {
     "name": "Réincarnation Améliorée (rang2)",
     "icon": "icon_6231",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 30min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 20%"
+    "description": "Diminue le temps de rechargement de la technique Réincarnation du Chaman de 30min et augmente le montant de vie et de mana lorsque le Chaman revient a la vie de 30%"
   },
   "62313": {
     "name": "Specialisation:62 Row:3 Column:1 Rank:3",
