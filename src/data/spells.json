@@ -16353,7 +16353,7 @@
     "name": "Sacrifice Démoniaque",
     "icon": "spell_shadow_psychicscream",
     "rank": 1,
-    "description": "Technique a activer, instantanée, gratuite en mana, 100yards de portée, Sacrifie le Familier et le tue pour poser une amélioration sur le Démoniste de 30min qui est insensible au effet de dissipation, l'effet dépend du type de Familier ; Diablotin : +15% de dégats Feu, Marcheur du Vide : restaure 1,5% de vie toutes les 3sec, Succube : +15% de dégats Ombre, Chasseur Corrompu : restaure 1,5% de mana toutes les 2sec, Infernal : augmente la Résistance Feu de 15pts par niveau du Familier, Garde Funeste : augmente la Résistance Ombre de 15pts par niveau du Familier, Gangregarde : augmente de 15% la vitesse d'incantation du Démoniste"
+    "description": "Technique a activer, instantanée, gratuite en mana, 100yards de portée, Sacrifie le Familier et le tue pour poser une amélioration sur le Démoniste de 30min qui est insensible au effet de dissipation, l'effet dépend du type de Familier ; Diablotin : +15% de dégats Feu, Marcheur du Vide : restaure 1% de vie toutes les 1sec, Succube : +15% de dégats Ombre, Chasseur Corrompu : restaure 5% de mana toutes les 1sec, Infernal : augmente la Résistance Feu de 120pts, Garde Funeste : augmente la Résistance Ombre de 120pts, Gangregarde : augmente de 15% la vitesse d'incantation du Démoniste, de plus 100% du coût en mana du Familier est rendu au Démoniste"
   },
   "81412": {
     "name": "Specialisation:81 Row:4 Column:1 Rank:2",
@@ -16383,7 +16383,7 @@
     "name": "Maître Démonologue",
     "icon": "spell_shadow_shadowpact",
     "rank": 1,
-    "description": "Pose une amélioration passive au Démoniste tant qu'un de ses Familier est invoqué qui est insensible a la dissipation, l'effet dépend du type de Familier ; Diablotin : réduit la menace généré de 20%, Marcheur du Vide : réduit les dégats physique subit de 20%, Succube : augmente les dégats infligés de 20%, Chasseur Corrompu : augmente toutes les Résistances Magiques de 20pts par niveau du Familier, Infernal : augmente la Résistance Feu de 20pts par niveau du Familier et renvoi 20pts de dégats de Feu a chaque attaque subit par le Démoniste en mélée ou a distance, Garde Funeste : augmente la Résistance Ombre de 20pts par niveau du Familier et Réduit le mana en mana et en vie de toutes les techniques du Démoniste de 20%, Gangregarde : diminue tous les dégats subit de 20%"
+    "description": "Pose une amélioration passive au Démoniste tant qu'un de ses Familier est invoqué qui est insensible a la dissipation, l'effet dépend du type de Familier ; Diablotin : réduit la menace généré du Démoniste de 20%, Marcheur du Vide : réduit les dégats physique subit du Démoniste de 20%, Succube : augmente les dégats infligés de 10% du Familier et du Démoniste, Chasseur Corrompu : augmente toutes les Résistances Magiques du Démoniste de 120pts, Infernal : augmente la Résistance Feu de 60pts et renvoi 20pts de dégats de Feu a chaque attaque subit par le Démoniste en mélée ou a distance, Garde Funeste : augmente la Résistance Ombre de 60pts et Réduit le mana en mana et en vie de toutes les techniques du Démoniste de 20%, Gangregarde : diminue tous les dégats subit de 20%"
   },
   "81422": {
     "name": "Specialisation:81 Row:4 Column:2 Rank:2",
