@@ -18300,10 +18300,10 @@
     "description": "Description for Specialisation:91 Row:2 Column:1 Rank:5. Use icon icon_9121.jpg"
   },
   "91221": {
-    "name": "Instinct de Survie",
-    "icon": "spell_shadow_deathscream",
+    "name": "Maitrise des Formes",
+    "icon": "ability_mount_jungletiger",
     "rank": 1,
-    "description": "Technique a activer, instantanée, utilisable même sous contrôle et dans toutes les formes de Druide sans forcer le changeforme, gratuite en Mana ou Rage ou Energie, 3min de temps de rechargement, Augmente temporairement la vie du Druide de 30% durant 20sec"
+    "description": "Permet au Druide de gagner une amélioration supplémentaire insensible a la Dissipation lorsqu'il se transforme dans une Forme ; en Ours : Il gagne +1pts de Rage toutes les 3sec, en Félin : il augmente sa Détection des Camouflés de +10rangs, en Otarie : il augmente sa vitesse de Nage de 10%, en Voyage : il permet a 10% de sa régénération de Vie d'être toujours active, en Sélénien : il permet a 10% de sa régénération de mana d'être toujours active, et pour finir en Arbre : il augmente les soins réçu de 10%"
   },
   "91222": {
     "name": "Specialisation:91 Row:2 Column:2 Rank:2",
@@ -18423,19 +18423,19 @@
     "name": "Attaques Lacérantes (rang1)",
     "icon": "spell_shadow_vampiricaura",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 10sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 10%"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 10sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 10% et diminue de 5pts la Résistance Magique des cibles des sorts du Druide"
   },
   "91322": {
     "name": "Attaques Lacérantes (rang2)",
     "icon": "icon_9132",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 20sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 20%"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 20sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 20% et diminue de 10pts la Résistance Magique des cibles des sorts du Druide"
   },
   "91323": {
     "name": "Attaques Lacérantes (rang3)",
     "icon": "icon_9132",
     "rank": 3,
-    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 30sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 30%"
+    "description": "Diminue le temps de rechargement de la technique Enrager du Druide en Ours de 30sec et augmente les chances de critiques de la Technique Ravage du Druide en Félin de 30% et diminue de 15pts la Résistance Magique des cibles des sorts du Druide"
   },
   "91324": {
     "name": "Specialisation:91 Row:3 Column:2 Rank:4",
@@ -18513,7 +18513,7 @@
     "name": "Frénésie Primitive",
     "icon": "ability_ghoulfrenzy",
     "rank": 1,
-    "description": "Permet au Druide de gagner 5pts de Rage en Forme d'Ours ou 1pts de Combo supplémentaire en Forme de Félin a chaque fois qu'il inflige un coup critique avec une de ses techniques ou qu'il esquive une attaque, ne peut pas se produire plus d'une fois par seconde"
+    "description": "Permet au Druide de gagner 5pts de Rage en Forme d'Ours ou 1pts de Combo supplémentaire en Forme de Félin ou 1% de mana lorsqu'il est dans une autre Forme de Druide a chaque fois qu'il inflige un coup critique avec une de ses techniques ou qu'il esquive une attaque, ne peut pas se produire plus d'une fois par seconde"
   },
   "91412": {
     "name": "Specialisation:91 Row:4 Column:1 Rank:2",
@@ -18603,13 +18603,13 @@
     "name": "Furie Sauvage (rang1)",
     "icon": "ability_druid_ravage",
     "rank": 1,
-    "description": "Augmente les dégats de toutes les techniques du Druide de 10% et augmente son Expertise de 3%"
+    "description": "Augmente le montant des dégats et des soins de toutes les techniques du Druide de 10% et augmente son Expertise de 3%"
   },
   "91512": {
     "name": "Furie Sauvage (rang2)",
     "icon": "icon_9151",
     "rank": 2,
-    "description": "Augmente les dégats de toutes les techniques du Druide de 20% et augmente son Expertise de 6%"
+    "description": "Augmente le montant des dégats et des soins de toutes les techniques du Druide de 20% et augmente son Expertise de 6%"
   },
   "91513": {
     "name": "Specialisation:91 Row:5 Column:1 Rank:3",
@@ -19020,10 +19020,10 @@
     "description": "Description for Specialisation:92 Row:2 Column:1 Rank:5. Use icon icon_9221.jpg"
   },
   "92221": {
-    "name": "Maîtrise des Formes",
-    "icon": "ability_mount_jungletiger",
+    "name": "Instinct de Survie",
+    "icon": "spell_shadow_deathscream",
     "rank": 1,
-    "description": "Permet au Druide de gagner une amélioration supplémentaire insensible a la Dissipation lorsqu'il se transforme dans une Forme ; en Ours : Il gagne +1pts de Rage toutes les 3sec, en Félin : il augmente sa Détection des Camouflés de +10rangs, en Otarie : il augmente sa régénération de la mana de 10%, en Voyage : il permet a 10% de sa régénération de Vie d'être toujours active, en Sélénien : il augmente sa vitesse d'incantation de 10%, et pour finir en Arbre : il augmente les soins réçu de 10%"
+    "description": "Technique a activer, instantanée, utilisable même sous contrôle et dans toutes les formes de Druide sans forcer le changeforme, gratuite en Mana ou Rage ou Energie, 3min de temps de rechargement, Augmente temporairement la vie du Druide de 30% durant 20sec"
   },
   "92222": {
     "name": "Specialisation:92 Row:2 Column:2 Rank:2",
