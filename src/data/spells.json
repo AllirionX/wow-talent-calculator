@@ -963,19 +963,19 @@
     "name": "Folie Sanguinaire (rang1)",
     "icon": "spell_shadow_summonimp",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 1% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 1% de ses points de vie en 6sec"
   },
   "11202": {
     "name": "Folie Sanguinaire (rang2)",
     "icon": "icon_1120",
     "rank": 2,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 2% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 2% de ses points de vie en 6sec"
   },
   "11203": {
     "name": "Folie Sanguinaire (rang3)",
     "icon": "icon_1120",
     "rank": 3,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui lui rend 3% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 3% de ses points de vie en 6sec"
   },
   "11204": {
     "name": "Specialisation:11 Row:2 Column:0 Rank:4",
@@ -1023,7 +1023,7 @@
     "name": "Ivresse de la Victoire",
     "icon": "spell_holy_fistofjustice",
     "rank": 1,
-    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir tué un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
+    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir utilisé la technique Execution ou si le Guerrier tue un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1053,13 +1053,13 @@
     "name": "Défi Intimidant (rang1)",
     "icon": "ability_golemthunderclap",
     "rank": 1,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 1min"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 1min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 50%"
   },
   "11232": {
     "name": "Défi Intimidant (rang2)",
     "icon": "icon_1123",
     "rank": 2,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 2min"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 2min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 100%"
   },
   "11233": {
     "name": "Specialisation:11 Row:2 Column:3 Rank:3",
@@ -1143,19 +1143,19 @@
     "name": "Enragé (rang1)",
     "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort,  il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
   },
   "11322": {
     "name": "Enragé (rang2)",
     "icon": "icon_1132",
     "rank": 2,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
   },
   "11323": {
     "name": "Enragé (rang3)",
     "icon": "icon_1132",
     "rank": 3,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
   },
   "11324": {
     "name": "Specialisation:11 Row:3 Column:2 Rank:4",
@@ -1173,13 +1173,13 @@
     "name": "Fonceur (rang1)",
     "icon": "ability_rogue_sprint",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Interception de 5sec"
+    "description": "Diminue le temps de rechargement de la technique Interception de 5sec et son coût en Rage de 5pts"
   },
   "11332": {
     "name": "Fonceur (rang2)",
     "icon": "icon_1133",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Interception de 10sec"
+    "description": "Diminue le temps de rechargement de la technique Interception de 10sec et son coût en Rage de 10pts"
   },
   "11333": {
     "name": "Specialisation:11 Row:3 Column:3 Rank:3",
