@@ -1473,13 +1473,13 @@
     "name": "Provocation Améliorée (rang1)",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Provocation de 1sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 5%"
+    "description": "Diminue le temps de rechargement de la technique Provocation de 1sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 6%"
   },
   "12012": {
     "name": "Provocation Améliorée (rang2)",
     "icon": "icon_1201",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Provocation de 2sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 10%"
+    "description": "Diminue le temps de rechargement de la technique Provocation de 2sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 12%"
   },
   "12013": {
     "name": "Specialisation:12 Row:0 Column:1 Rank:3",
@@ -2910,16 +2910,16 @@
     "description": "Description for Specialisation:21 Row:0 Column:0 Rank:5. Use icon icon_2100.jpg"
   },
   "21011": {
-    "name": "Bénédiction de Salut Améliorée (rang1)",
-    "icon": "spell_holy_sealofsalvation",
+    "name": "Faveur du Gardien (rang1)",
+    "icon": "spell_holy_sealofprotection",
     "rank": 1,
-    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeur diminuent les dégats subit par la cible de 3% et augmente leur durée de 5min"
+    "description": "Diminue le temps de rechargement de Main de Protection de 1min, augmente la durée de Main de Liberté de 3sec et diminue le temps de rechargement de Main de Sacrifice de 50%"
   },
   "21012": {
-    "name": "Bénédiction de Salut Améliorée (rang2)",
+    "name": "Faveur du Gardien (rang2)",
     "icon": "icon_2101",
     "rank": 2,
-    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeur diminuent les dégats subit par la cible de 6% et augmente leur durée de 10min"
+    "description": "Diminue le temps de rechargement de Main de Protection de 2min, augmente la durée de Main de Liberté de 6sec et diminue le temps de rechargement de Main de Sacrifice de 100%"
   },
   "21013": {
     "name": "Specialisation:21 Row:0 Column:1 Rank:3",
@@ -2940,22 +2940,22 @@
     "description": "Description for Specialisation:21 Row:0 Column:1 Rank:5. Use icon icon_2101.jpg"
   },
   "21021": {
-    "name": "Anticipation (rang1)",
-    "icon": "spell_magic_lesserinvisibilty",
+    "name": "Aura Améliorée (rang1)",
+    "icon": "spell_holy_devotionaura",
     "rank": 1,
-    "description": "Augmente les chances d'esquiver du Paladin de 2%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 5%"
   },
   "21022": {
-    "name": "Anticipation (rang2)",
+    "name": "Aura Améliorée (rang2)",
     "icon": "icon_2102",
     "rank": 2,
-    "description": "Augmente les chances d'esquiver du Paladin de 4%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 10%"
   },
   "21023": {
-    "name": "Anticipation (rang3)",
+    "name": "Aura Améliorée (rang3)",
     "icon": "icon_2102",
     "rank": 3,
-    "description": "Augmente les chances d'esquiver du Paladin de 6%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 15%"
   },
   "21024": {
     "name": "Specialisation:21 Row:0 Column:2 Rank:4",
@@ -2970,16 +2970,16 @@
     "description": "Description for Specialisation:21 Row:0 Column:2 Rank:5. Use icon icon_2102.jpg"
   },
   "21031": {
-    "name": "Redoute (rang1)",
-    "icon": "ability_defend",
+    "name": "Bénédiction de Salut Améliorée (rang1)",
+    "icon": "spell_holy_sealofsalvation",
     "rank": 1,
-    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 15% durant 10sec ou 5 charges"
+    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeur diminuent les dégats subit par la cible de 3% et augmente leur durée de 50%"
   },
   "21032": {
-    "name": "Redoute (rang2)",
+    "name": "Bénédiction de Salut Améliorée (rang2)",
     "icon": "icon_2103",
     "rank": 2,
-    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 30% durant 10sec ou 5 charges"
+    "description": "En plus de ces effets, les Bénédiction de Salut et Bénédiction de Salut Majeur diminuent les dégats subit par la cible de 6% et augmente leur durée de 100%"
   },
   "21033": {
     "name": "Specialisation:21 Row:0 Column:3 Rank:3",
@@ -3000,22 +3000,22 @@
     "description": "Description for Specialisation:21 Row:0 Column:3 Rank:5. Use icon icon_2103.jpg"
   },
   "21101": {
-    "name": "Poids du Bouclier (rang1)",
-    "icon": "spell_arcane_arcaneresilience",
+    "name": "Devoir Sacré (rang1)",
+    "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
-    "description": "Diminue les chances du Paladin de subir un coup critique de 2%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 2% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21102": {
-    "name": "Poids du Bouclier (rang2)",
+    "name": "Devoir Sacré (rang2)",
     "icon": "icon_2110",
     "rank": 2,
-    "description": "Diminue les chances du Paladin de subir un coup critique de 4%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 4% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21103": {
-    "name": "Poids du Bouclier (rang3)",
+    "name": "Devoir Sacré (rang3)",
     "icon": "icon_2110",
     "rank": 3,
-    "description": "Diminue les chances du Paladin de subir un coup critique de 6%"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 6% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21104": {
     "name": "Specialisation:21 Row:1 Column:0 Rank:4",
@@ -3030,16 +3030,16 @@
     "description": "Description for Specialisation:21 Row:1 Column:0 Rank:5. Use icon icon_2110.jpg"
   },
   "21111": {
-    "name": "Faveur du Gardien (rang1)",
-    "icon": "spell_holy_sealofprotection",
+    "name": "Redoute (rang1)",
+    "icon": "ability_defend",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de Main de Protection de 1min, augmente la durée de Main de Liberté de 3sec et diminue le temps de rechargement de Main de Sacrifice de 50%"
+    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 15% durant 10sec ou 5 charges"
   },
   "21112": {
-    "name": "Faveur du Gardien (rang2)",
+    "name": "Redoute (rang2)",
     "icon": "icon_2111",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de Main de Protection de 2min, augmente la durée de Main de Liberté de 6sec et diminue le temps de rechargement de Main de Sacrifice de 100%"
+    "description": "Lorsque le Paladin obtient une parade, une esquive, un blocage sur une attaque subit, ou qu'il subit un coup critique, il gagne une amélioration qui augmente ses chances de bloquer de 30% durant 10sec ou 5 charges"
   },
   "21113": {
     "name": "Specialisation:21 Row:1 Column:1 Rank:3",
@@ -3060,22 +3060,22 @@
     "description": "Description for Specialisation:21 Row:1 Column:1 Rank:5. Use icon icon_2111.jpg"
   },
   "21121": {
-    "name": "Spécialisation Bouclier (rang1)",
-    "icon": "inv_shield_06",
+    "name": "Résistance (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 2%"
+    "description": "Augmente l'Armure du Paladin de 3% et diminue la durée des effets affectant le mouvement de 10%"
   },
   "21122": {
-    "name": "Spécialisation Bouclier (rang2)",
+    "name": "Résistance (rang2)",
     "icon": "icon_2112",
     "rank": 2,
-    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 4%"
+    "description": "Augmente l'Armure du Paladin de 6% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "21123": {
-    "name": "Spécialisation Bouclier (rang3)",
+    "name": "Résistance (rang3)",
     "icon": "icon_2112",
     "rank": 3,
-    "description": "Augmente les chances de bloquer avec un bouclier du Paladin de 6%"
+    "description": "Augmente l'Armure du Paladin de 9% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "21124": {
     "name": "Specialisation:21 Row:1 Column:2 Rank:4",
@@ -3120,22 +3120,22 @@
     "description": "Description for Specialisation:21 Row:1 Column:3 Rank:5. Use icon icon_2113.jpg"
   },
   "21201": {
-    "name": "Devoir Sacré (rang1)",
-    "icon": "spell_holy_prayerofhealing02",
+    "name": "Anticipation (rang1)",
+    "icon": "spell_magic_lesserinvisibilty",
     "rank": 1,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 4%"
+    "description": "Augmente les chances d'Esquiver du Paladin de 2%"
   },
   "21202": {
-    "name": "Devoir Sacré (rang2)",
+    "name": "Anticipation (rang2)",
     "icon": "icon_2120",
     "rank": 2,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 8%"
+    "description": "Augmente les chances d'Esquiver du Paladin de 4%"
   },
   "21203": {
-    "name": "Devoir Sacré (rang3)",
+    "name": "Anticipation (rang3)",
     "icon": "icon_2120",
     "rank": 3,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 12%"
+    "description": "Augmente les chances d'Esquiver du Paladin de 6%"
   },
   "21204": {
     "name": "Specialisation:21 Row:2 Column:0 Rank:4",
@@ -3219,7 +3219,7 @@
     "name": "Blocage Amélioré (rang2)",
     "icon": "icon_2123",
     "rank": 2,
-    "description": "Augmente le montant des blocages du Paladin de 30% et lorsqu'il bloque il regagne 1% de sa mana"
+    "description": "Augmente le montant des blocages du Paladin de 30% et lorsqu'il bloque il regagne 2% de sa mana"
   },
   "21233": {
     "name": "Specialisation:21 Row:2 Column:3 Rank:3",
@@ -3240,22 +3240,22 @@
     "description": "Description for Specialisation:21 Row:2 Column:3 Rank:5. Use icon icon_2123.jpg"
   },
   "21301": {
-    "name": "Auras Améliorées (rang1)",
-    "icon": "spell_holy_devotionaura",
+    "name": "Foi en son Bouclier (rang1)",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 5%"
+    "description": "Diminue les dégâts infligés par les Sorts sur le Paladin de 2%"
   },
   "21302": {
-    "name": "Auras Améliorées (rang2)",
+    "name": "Foi en son Bouclier (rang2)",
     "icon": "icon_2130",
     "rank": 2,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 10%"
+    "description": "Diminue les dégâts infligés par les Sorts sur le Paladin de 4%"
   },
   "21303": {
-    "name": "Auras Améliorées (rang3)",
+    "name": "Foi en son Bouclier (rang3)",
     "icon": "icon_2130",
     "rank": 3,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 15%"
+    "description": "Diminue les dégâts infligés par les Sorts sur le Paladin de 6%"
   },
   "21304": {
     "name": "Specialisation:21 Row:3 Column:0 Rank:4",
@@ -3300,22 +3300,22 @@
     "description": "Description for Specialisation:21 Row:3 Column:1 Rank:5. Use icon icon_2131.jpg"
   },
   "21321": {
-    "name": "Résistance (rang1)",
-    "icon": "spell_holy_devotion",
+    "name": "Spécialisation Bouclier (rang1)",
+    "icon": "inv_shield_06",
     "rank": 1,
-    "description": "Augmente l'Armure du Paladin de 4% et diminue la durée des effets affectant le mouvement de 10%"
+    "description": "Augmente les chances de Bloquer avec un bouclier du Paladin de 2%"
   },
   "21322": {
-    "name": "Résistance (rang2)",
+    "name": "Spécialisation Bouclier (rang2)",
     "icon": "icon_2132",
     "rank": 2,
-    "description": "Augmente l'Armure du Paladin de 8% et diminue la durée des effets affectant le mouvement de 20%"
+    "description": "Augmente les chances de Bloquer avec un bouclier du Paladin de 4%"
   },
   "21323": {
-    "name": "Résistance (rang3)",
+    "name": "Spécialisation Bouclier (rang3)",
     "icon": "icon_2132",
     "rank": 3,
-    "description": "Augmente l'Armure du Paladin de 12% et diminue la durée des effets affectant le mouvement de 30%"
+    "description": "Augmente les chances de Bloquer avec un bouclier du Paladin de 6%"
   },
   "21324": {
     "name": "Specialisation:21 Row:3 Column:2 Rank:4",
@@ -3363,19 +3363,19 @@
     "name": "Ardent Défenseur (rang1)",
     "icon": "ability_warrior_shieldwall",
     "rank": 1,
-    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 5% de dégats en moins"
+    "description": "Lorsque le Paladin passe en dessous de 20% de ses points de vie, il subit 5% de dégâts en moins"
   },
   "21402": {
     "name": "Ardent Défenseur (rang2)",
     "icon": "icon_2140",
     "rank": 2,
-    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 10% de dégats en moins"
+    "description": "Lorsque le Paladin passe en dessous de 20% de ses points de vie, il subit 10% de dégâts en moins"
   },
   "21403": {
     "name": "Ardent Défenseur (rang3)",
     "icon": "icon_2140",
     "rank": 3,
-    "description": "Lorsqu'il passe en dessous de 20% de ses points de vie, le Paladin subit 15% de dégats en moins"
+    "description": "Lorsque le Paladin passe en dessous de 20% de ses points de vie, il subit 15% de dégâts en moins"
   },
   "21404": {
     "name": "Specialisation:21 Row:4 Column:0 Rank:4",
@@ -3453,13 +3453,13 @@
     "name": "Rétribution (rang1)",
     "icon": "spell_holy_blessingofstrength",
     "rank": 1,
-    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 1 charge d'attaque supplémentaire"
+    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 1 d'attaque supplémentaire ou 1 Charge"
   },
   "21432": {
     "name": "Rétribution (rang2)",
     "icon": "icon_2143",
     "rank": 2,
-    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 2 charges d'attaques supplémentaires"
+    "description": "Lorsque le Paladin obtient une parade, un blocage, une esquive ou qu'il subit un coup critique, le Paladin gagne 1 d'attaque supplémentaire ou 2 Charges"
   },
   "21433": {
     "name": "Specialisation:21 Row:4 Column:3 Rank:3",
@@ -3483,13 +3483,13 @@
     "name": "Expert au Bouclier (rang1)",
     "icon": "spell_holy_powerwordshield",
     "rank": 1,
-    "description": "Donne 3% d'Expertise au Paladin et augmente la menace généré par ses attaques avec une arme a une main et un bouclier de 3%"
+    "description": "Augmente l'Expertise au Paladin de 3% et augmente la menace généré par ses attaques avec une Arme a une main et un Bouclier de 3%"
   },
   "21512": {
     "name": "Expert au Bouclier (rang2)",
     "icon": "icon_2151",
     "rank": 2,
-    "description": "Donne 6% d'Expertise au Paladin et augmente la menace généré par ses attaques avec une arme a une main et un bouclier de 6%"
+    "description": "Augmente l'Expertise au Paladin de 6% et augmente la menace généré par ses attaques avec une Arme a une main et un Bouclier de 6%"
   },
   "21513": {
     "name": "Specialisation:21 Row:5 Column:1 Rank:3",
@@ -3513,19 +3513,19 @@
     "name": "Persistance (rang1)",
     "icon": "ability_golemthunderclap",
     "rank": 1,
-    "description": "Convertit 10% de l'Endurance du Paladin en bonus sort"
+    "description": "Convertit 10% de l'Endurance du Paladin en Bonus sort"
   },
   "21522": {
     "name": "Persistance (rang2)",
     "icon": "icon_2152",
     "rank": 2,
-    "description": "Convertit 20% de l'Endurance du Paladin en bonus sort"
+    "description": "Convertit 20% de l'Endurance du Paladin en Bonus sort"
   },
   "21523": {
     "name": "Persistance (rang3)",
     "icon": "icon_2152",
     "rank": 3,
-    "description": "Convertit 30% de l'Endurance du Paladin en bonus sort"
+    "description": "Convertit 30% de l'Endurance du Paladin en Bonus sort"
   },
   "21524": {
     "name": "Specialisation:21 Row:5 Column:2 Rank:4",
@@ -3573,7 +3573,7 @@
     "name": "Bouclier Vengeur",
     "icon": "ability_warrior_shieldbash",
     "rank": 1,
-    "description": "Technique a activer, 30sec de temps de rechargement, 8-30yards de portée, coûte 250pts de mana, Touche jusqu'a 3 cibles a portée, silence et ralentit de 50% durant 4sec et inflige 130pts de dégats du sacré et génére un niveau de menace important"
+    "description": "Technique a activer, 30sec de temps de rechargement, 8-30yards de portée, coûte 250pts de mana, Requiert un Bouclier, Lance un projectile qui touche jusqu'a 3 cibles a portée, les cibles sont Silence et voit leur Vitesse de déplacement diminué de 50% durant 4sec et inflige 130pts de dégâts du Sacré et génére un niveau de menace important"
   },
   "21622": {
     "name": "Specialisation:21 Row:6 Column:2 Rank:2",
@@ -3603,19 +3603,19 @@
     "name": "Force Divine (rang1)",
     "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Augmente la Force du Paladin de 4%"
+    "description": "Augmente la Force du Paladin de 3%"
   },
   "22002": {
     "name": "Force Divine (rang2)",
     "icon": "icon_2200",
     "rank": 2,
-    "description": "Augmente la Force du Paladin de 8%"
+    "description": "Augmente la Force du Paladin de 6%"
   },
   "22003": {
     "name": "Force Divine (rang3)",
     "icon": "icon_2200",
     "rank": 3,
-    "description": "Augmente la Force du Paladin de 12%"
+    "description": "Augmente la Force du Paladin de 9%"
   },
   "22004": {
     "name": "Specialisation:22 Row:0 Column:0 Rank:4",
@@ -3633,13 +3633,13 @@
     "name": "Bénédiction de Puissance Améliorée (rang1)",
     "icon": "spell_holy_fistofjustice",
     "rank": 1,
-    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 10% et augmente leur durée de 5min"
+    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 10% et augmente leur durée de 50%"
   },
   "22012": {
     "name": "Bénédiction de Puissance Améliorée (rang2)",
     "icon": "icon_2201",
     "rank": 2,
-    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 20% et augmente leur durée de 10min"
+    "description": "Augmente le montant de Puissance d'Attaque apporté par les techniques Bénédiction de Puissance et Bénédiction de Puissance Majeure de 20% et augmente leur durée de 100%"
   },
   "22013": {
     "name": "Specialisation:22 Row:0 Column:1 Rank:3",
@@ -13143,19 +13143,19 @@
     "name": "Absorption (rang1)",
     "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
   },
   "70122": {
     "name": "Absorption (rang2)",
     "icon": "icon_7012",
     "rank": 2,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 20pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 20pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
   },
   "70123": {
     "name": "Absorption (rang3)",
     "icon": "icon_7012",
     "rank": 3,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 30pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 30pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
   },
   "70124": {
     "name": "Specialisation:70 Row:1 Column:2 Rank:4",
@@ -13173,13 +13173,13 @@
     "name": "Transfert Amélioré (rang1)",
     "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 50% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 15%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 1sec"
+    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 50% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 10%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 1sec"
   },
   "70132": {
     "name": "Transfert Amélioré (rang2)",
     "icon": "icon_7013",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 100% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 30%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 2sec"
+    "description": "Diminue le coût en mana des techniques Transfert, de Téléportation et de Portail du Mage de 100% et lorsqu'il utilise cette technique, il gagne une amélioration pendant 4sec qui réduit les dégats subit de 20%, pour finir diminue le temps d'incantation des techniques de Téléportation et de Portail de 2sec"
   },
   "70133": {
     "name": "Specialisation:70 Row:1 Column:3 Rank:3",
@@ -13623,7 +13623,7 @@
     "name": "Déflagration des Arcanes",
     "icon": "spell_lightning_lightningbolt01",
     "rank": 1,
-    "description": "Technique a activer, 2,5sec de temps d'incantation, 770pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 842pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
+    "description": "Technique a activer, 2,5sec de temps d'incantation, 660pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 721pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
   },
   "70612": {
     "name": "Specialisation:70 Row:6 Column:1 Rank:2",
@@ -13653,7 +13653,7 @@
     "name": "Lenteur",
     "icon": "spell_ice_magicdamage",
     "rank": 1,
-    "description": "Technique a activer, instantanée, dure 10sec, 320pts de mana, 30yards de portée, Diminue la vitesse de déplacement de la cible, sa vitesse d'attaque en mélée et a distance, ainsi que sa vitesse d'incantation de 30% et si c'est possible, vol sur la cible une amélioration pour la donner au Mage"
+    "description": "Technique a activer, instantanée, dure 10sec, 320pts de mana, 30yards de portée, Diminue la vitesse de déplacement de la cible, sa vitesse d'attaque en mélée et a distance, ainsi que sa vitesse d'incantation de 30% et si c'est possible, vol sur la cible une amélioration pour la donner au Mage, une seule cible a la fois"
   },
   "70622": {
     "name": "Specialisation:70 Row:6 Column:2 Rank:2",
