@@ -3,19 +3,19 @@
     "name": "Force Physique (rang1)",
     "icon": "spell_holy_fistofjustice",
     "rank": 1,
-    "description": "Augmente la Force du Guerrier de 4%"
+    "description": "Augmente la Force du Guerrier de 3%"
   },
   "10002": {
     "name": "Force Physique (rang2)",
     "icon": "icon_1000",
     "rank": 2,
-    "description": "Augmente la Force du Guerrier de 8%"
+    "description": "Augmente la Force du Guerrier de 6%"
   },
   "10003": {
     "name": "Force Physique (rang3)",
     "icon": "icon_1000",
     "rank": 3,
-    "description": "Augmente la Force du Guerrier de 12%"
+    "description": "Augmente la Force du Guerrier de 9%"
   },
   "10004": {
     "name": "Specialisation:10 Row:0 Column:0 Rank:4",
@@ -33,13 +33,13 @@
     "name": "Charge améliorée (rang1)",
     "icon": "ability_warrior_charge",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Charge de 5sec et augmente la quantité de Rage génèré par la technique de 3pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 5sec et augmente la quantité de Rage générée par la technique de 5pts"
   },
   "10012": {
     "name": "Charge améliorée (rang2)",
     "icon": "icon_1001",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Charge de 10sec et augmente la quantité de Rage génèré par la technique de 6pts"
+    "description": "Diminue le temps de rechargement de la technique Charge de 10sec et augmente la quantité de Rage générée par la technique de 10pts"
   },
   "10013": {
     "name": "Specialisation:10 Row:0 Column:1 Rank:3",
@@ -63,19 +63,19 @@
     "name": "Maîtrise Tactique (rang1)",
     "icon": "spell_nature_enchantarmor",
     "rank": 1,
-    "description": "En plus des 10pts de base, le Guerrier conserve 5pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve +5pts de Rage supplémentaires lorsqu'il change de Posture"
   },
   "10022": {
     "name": "Maîtrise Tactique (rang2)",
     "icon": "icon_1002",
     "rank": 2,
-    "description": "En plus des 10pts de base, le Guerrier conserve 10pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve +10pts de Rage supplémentaires lorsqu'il change de Posture"
   },
   "10023": {
     "name": "Maîtrise Tactique (rang3)",
     "icon": "icon_1002",
     "rank": 3,
-    "description": "En plus des 10pts de base, le Guerrier conserve 15pts de Rage supplémentaires lorsqu'il change de posture"
+    "description": "En plus des 10pts de base, le Guerrier conserve +15pts de Rage supplémentaires lorsqu'il change de Posture"
   },
   "10024": {
     "name": "Specialisation:10 Row:0 Column:2 Rank:4",
@@ -90,13 +90,13 @@
     "description": "Description for Specialisation:10 Row:0 Column:2 Rank:5. Use icon icon_1002.jpg"
   },
   "10031": {
-    "name": "Dragonne au poignet (rang1)",
+    "name": "Dragonne au Poignet (rang1)",
     "icon": "spell_holy_vindication",
     "rank": 1,
     "description": "Diminue la durée des effets de désarmement sur le Guerrier de 25%"
   },
   "10032": {
-    "name": "Dragonne au poignet (rang2)",
+    "name": "Dragonne au Poignet (rang2)",
     "icon": "icon_1003",
     "rank": 2,
     "description": "Diminue la durée des effets de désarmement sur le Guerrier de 50%"
@@ -243,19 +243,19 @@
     "name": "Blessures Profondes (rang1)",
     "icon": "ability_backstab",
     "rank": 1,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de dégats de son arme en points de dégats en 12sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de son arme en points de dégâts en 12sec"
   },
   "10202": {
     "name": "Blessures Profondes (rang2)",
     "icon": "icon_1020",
     "rank": 2,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de dégats de son arme en points de dégats en 9sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de son arme en points de dégâts en 9sec"
   },
   "10203": {
     "name": "Blessures Profondes (rang3)",
     "icon": "icon_1020",
     "rank": 3,
-    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de dégats de son arme en points de dégats en 6sec"
+    "description": "Lorsque le Guerrier obtient un effet critique, il pose un affaiblissement sur la cible qui lui inflige 60% de la plage de son arme en points de dégâts en 6sec"
   },
   "10204": {
     "name": "Specialisation:10 Row:2 Column:0 Rank:4",
@@ -273,7 +273,7 @@
     "name": "Juggernaut",
     "icon": "spell_nature_unyeildingstamina",
     "rank": 1,
-    "description": "Permet au Guerrier de génèrer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne 75% de chance de critique sur sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Dévaster dans les 30sec" 
+    "description": "Permet au Guerrier de générer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne +75% de chance de critique avec sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Fracasser dans les 30sec" 
   },
   "10212": {
     "name": "Specialisation:10 Row:2 Column:1 Rank:2",
@@ -303,7 +303,7 @@
     "name": "Heurtoir",
     "icon": "ability_warrior_decisivestrike",
     "rank": 1,
-    "description": "Technique a activer, 0-5yards de portée, 15pts de Rage, 3sec de cast, utilisable dans toutes les postures, Inflige un dégat physique a la cible équivalent a la plage de dégats de l'arme +87"
+    "description": "Technique a activer, 0-5yards de portée, 20pts de Rage, 3sec de cast, utilisable dans toutes les postures, Inflige un dégât physique a la cible équivalent a la Plage de l'arme +87"
   },
   "10222": {
     "name": "Specialisation:10 Row:2 Column:2 Rank:2",
@@ -333,13 +333,13 @@
     "name": "Heurtoir Amélioré (rang1)",
     "icon": "spell_holy_eyeforaneye",
     "rank": 1,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec et diminue son coût en Rage de 2pts"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,25sec et diminue son coût en Rage de 10pts"
   },
   "10232": {
     "name": "Heurtoir Amélioré (rang2)",
     "icon": "icon_1023",
     "rank": 2,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 1sec et diminue son coût en Rage de 5pts"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec et diminue son coût en Rage de 20pts"
   },
   "10233": {
     "name": "Specialisation:10 Row:2 Column:3 Rank:3",
@@ -363,19 +363,19 @@
     "name": "Spécialisation Armes a deux mains (rang1)",
     "icon": "inv_axe_09",
     "rank": 1,
-    "description": "Augmente les dégats infligés par le Guerrier lorsqu'il est équipé d'une arme a deux mains de 2%"
+    "description": "Augmente les dégâts infligés par le Guerrier lorsqu'il est équipé d'une Arme a deux mains de 2%"
   },
   "10302": {
     "name": "Spécialisation Armes a deux mains (rang2)",
     "icon": "icon_1030",
     "rank": 2,
-    "description": "Augmente les dégats infligés par le Guerrier lorsqu'il est équipé d'une arme a deux mains de 4%"
+    "description": "Augmente les dégâts infligés par le Guerrier lorsqu'il est équipé d'une Arme a deux mains de 4%"
   },
   "10303": {
     "name": "Spécialisation Armes a deux mains (rang3)",
     "icon": "icon_1030",
     "rank": 3,
-    "description": "Augmente les dégats infligés par le Guerrier lorsqu'il est équipé d'une arme a deux mains de 6%"
+    "description": "Augmente les dégâts infligés par le Guerrier lorsqu'il est équipé d'une Arme a deux mains de 6%"
   },
   "10304": {
     "name": "Specialisation:10 Row:3 Column:0 Rank:4",
@@ -393,13 +393,13 @@
     "name": "Empaler (rang1)",
     "icon": "ability_searingarrow",
     "rank": 1,
-    "description": "Augmente les dégats infligés par les critiques des techniques du Guerrier de 10%"
+    "description": "Augmente les dégâts infligés par les critiques des techniques du Guerrier de 10%"
   },
   "10312": {
     "name": "Empaler (rang2)",
     "icon": "icon_1031",
     "rank": 2,
-    "description": "Augmente les dégats infligés par les critiques des techniques du Guerrier de 20%"
+    "description": "Augmente les dégâts infligés par les critiques des techniques du Guerrier de 20%"
   },
   "10313": {
     "name": "Specialisation:10 Row:3 Column:1 Rank:3",
@@ -423,19 +423,19 @@
     "name": "Brise-Genoux Amélioré (rang1)",
     "icon": "ability_shockwave",
     "rank": 1,
-    "description": "Diminue le cout en Rage de la technique Brise-Genoux de 1pts, et la technique inflige 1% de la plage de dégats de l'arme en plus de ses effets"
+    "description": "Diminue le coût en Rage de la technique Brise-Genoux de 1pts, et permet à la technique d'infligée a la cible 1% de la Plage de l'arme"
   },
   "10322": {
     "name": "Brise-Genoux Amélioré (rang2)",
     "icon": "icon_1032",
     "rank": 2,
-    "description": "Diminue le cout en Rage de la technique Brise-Genoux de 2pts, et la technique inflige 2% de la plage de dégats de l'arme en plus de ses effets"
+    "description": "Diminue le coût en Rage de la technique Brise-Genoux de 2pts, et permet à la technique d'infligée a la cible 2% de la Plage de l'arme"
   },
   "10323": {
     "name": "Brise-Genoux Amélioré (rang3)",
     "icon": "icon_1032",
     "rank": 3,
-    "description": "Diminue le cout en Rage de la technique Brise-Genoux de 3pts, et la technique inflige 3% de la plage de dégats de l'arme en plus de ses effets"
+    "description": "Diminue le coût en Rage de la technique Brise-Genoux de 3pts, et permet à la technique d'infligée a la cible 3% de la Plage de l'arme"
   },
   "10324": {
     "name": "Specialisation:10 Row:3 Column:2 Rank:4",
@@ -453,13 +453,13 @@
     "name": "Volonté de Fer (rang1)",
     "icon": "spell_magic_magearmor",
     "rank": 1,
-    "description": "Diminue la durée des effets d'étourdissement et de charme sur le Guerrier de 10%"
+    "description": "Diminue la durée des effets d'Etourdissement et de Charme sur le Guerrier de 10%"
   },
   "10332": {
     "name": "Volonté de Fer (rang2)",
     "icon": "icon_1033",
     "rank": 2,
-    "description": "Diminue la durée des effets d'étourdissement et de charme sur le Guerrier de 20%"
+    "description": "Diminue la durée des effets d'Etourdissement et de Charme sur le Guerrier de 20%"
   },
   "10333": {
     "name": "Specialisation:10 Row:3 Column:3 Rank:3",
@@ -513,7 +513,7 @@
     "name": "Attaques Circulaires",
     "icon": "ability_rogue_slicedice",
     "rank": 1,
-    "description": "Technique a activer, 30sec de temps de recharge, 30pts de Rage, utilisable dans toutes les postures, Vos attaques en mélées touches également une cible a portée, dure 10sec ou 5 charges"
+    "description": "Technique a activer, 30sec de temps de recharge, 30pts de Rage, utilisable dans toutes les Postures, Les Attaques en mélées du Guerrier touchent également une cible supplémentaire a portée, dure 10sec ou 5 charges"
   },
   "10412": {
     "name": "Specialisation:10 Row:4 Column:1 Rank:2",
@@ -543,7 +543,7 @@
     "name": "Goût du Sang",
     "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "Chaque tick de la technique Pourfendre permet l'activation de la technique Fulgurance"
+    "description": "Chaque tick de la technique Pourfendre permet l'activation des techniques Fulgurance et Vengeance"
   },
   "10422": {
     "name": "Specialisation:10 Row:4 Column:2 Rank:2",
@@ -573,13 +573,13 @@
     "name": "Traumatisme (rang1)",
     "icon": "ability_druid_ravage",
     "rank": 1,
-    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 10%"
+    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégâts des effets de Saignements sur la cible de 10%"
   },
   "10432": {
     "name": "Traumatisme (rang2)",
     "icon": "icon_1043",
     "rank": 2,
-    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégats des saignements sur cette cible de 20%"
+    "description": "Les saignements du Guerrier appliquent également sur la cible un affaiblissement supplémentaire qui augmente les dégâts des effets de Saignements sur la cible de 20%"
   },
   "10433": {
     "name": "Specialisation:10 Row:4 Column:3 Rank:3",
@@ -603,13 +603,13 @@
     "name": "Duelliste (rang1)",
     "icon": "inv_sword_27",
     "rank": 1,
-    "description": "Augmente toutes les compétences d'armes du Guerrier de 3pts et permet a ses attaques d'ignorer 3% de l'armure de sa cible"
+    "description": "Augmente toutes les Compétences d'armes du Guerrier de 3pts et permet a ses attaques d'ignorer 3% de l'armure de sa cible"
   },
   "10512": {
     "name": "Duelliste (rang2)",
     "icon": "icon_1051",
     "rank": 2,
-    "description": "Augmente toutes les compétences d'armes du Guerrier de 6pts et permet a ses attaques d'ignorer 6% de l'armure de sa cible"
+    "description": "Augmente toutes les Compétences d'armes du Guerrier de 6pts et permet a ses attaques d'ignorer 6% de l'armure de sa cible"
   },
   "10513": {
     "name": "Specialisation:10 Row:5 Column:1 Rank:3",
@@ -633,19 +633,19 @@
     "name": "Expert en Armes (rang1)",
     "icon": "inv_axe_06",
     "rank": 1,
-    "description": "Augmente les chances de critique du Guerrier de 2% et sa vitesse d'attaque de 5%"
+    "description": "Augmente les chances de Critiques du Guerrier de 2% et sa Vitesse d'attaque de 5%"
   },
   "10522": {
     "name": "Expert en Armes (rang2)",
     "icon": "icon_1052",
     "rank": 2,
-    "description": "Augmente les chances de critique du Guerrier de 4% et sa vitesse d'attaque de 10%"
+    "description": "Augmente les chances de Critiques du Guerrier de 4% et sa Vitesse d'attaque de 10%"
   },
   "10523": {
     "name": "Expert en Armes (rang3)",
     "icon": "icon_1052",
     "rank": 3,
-    "description": "Augmente les chances de critique du Guerrier de 6% et sa vitesse d'attaque de 15%"
+    "description": "Augmente les chances de Critiques du Guerrier de 6% et sa Vitesse d'attaque de 15%"
   },
   "10524": {
     "name": "Specialisation:10 Row:5 Column:2 Rank:4",
@@ -663,7 +663,7 @@
     "name": "Frappe Mortelle",
     "icon": "ability_warrior_savageblow",
     "rank": 1,
-    "description": "Technique a activer, 6sec de temps de rechargement, 30pts en Rage, 0-5yards de portée, utilisable dans toutes les postures, Inflige a la cible un dégat instantané équivalent a 70% de la plage de dégats de l'arme +160 et pose un affaiblissement sur la cible durant 10sec qui réduit les soins qu'elle subit de 50%"
+    "description": "Technique a activer, 6sec de temps de rechargement, 30pts en Rage, 0-5yards de portée, utilisable dans toutes les Postures, Inflige a la cible un dégât instantané équivalent a 70% de la Plage de l'arme +160 et pose un affaiblissement sur la cible durant 10sec qui réduit les Soins qu'elle reçoit de 50%"
   },
   "10612": {
     "name": "Specialisation:10 Row:6 Column:1 Rank:2",
@@ -693,7 +693,7 @@
     "name": "Second Souffle",
     "icon": "ability_warrior_battleshout",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un effet d'imobilisation ou d'étourdissement, il gagne une amélioration qui lui donne instantanément 10pts de Rage puis, lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
+    "description": "Lorsque le Guerrier est victime d'un effet d'Imobilisation ou d'Etourdissement, il gagne une amélioration qui lui donne instantanément 10pts de Rage puis, lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
   },
   "10622": {
     "name": "Specialisation:10 Row:6 Column:2 Rank:2",
@@ -723,19 +723,19 @@
     "name": "Tonus Physique (rang1)",
     "icon": "spell_nature_undyingstrength",
     "rank": 1,
-    "description": "Augmente l'Agilité du Guerrier de 4%"
+    "description": "Augmente l'Agilité du Guerrier de 3%"
   },
   "11002": {
     "name": "Tonus Physique (rang2)",
     "icon": "icon_1100",
     "rank": 2,
-    "description": "Augmente l'Agilité du Guerrier de 8%"
+    "description": "Augmente l'Agilité du Guerrier de 6%"
   },
   "11003": {
     "name": "Tonus Physique (rang3)",
     "icon": "icon_1100",
     "rank": 3,
-    "description": "Augmente l'Agilité du Guerrier de 12%"
+    "description": "Augmente l'Agilité du Guerrier de 9%"
   },
   "11004": {
     "name": "Specialisation:11 Row:0 Column:0 Rank:4",
@@ -753,13 +753,13 @@
     "name": "Cris Améliorés (rang1)",
     "icon": "ability_warrior_warcry",
     "rank": 1,
-    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 15%"
+    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 20%"
   },
   "11012": {
     "name": "Cris Améliorés (rang2)",
     "icon": "icon_1101",
     "rank": 2,
-    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 30%"
+    "description": "Augmente les effets des techniques Cri de Guerre, Cri Démoralisant et Cri de Commandement de 40%"
   },
   "11013": {
     "name": "Specialisation:11 Row:0 Column:1 Rank:3",
@@ -783,19 +783,19 @@
     "name": "Cruauté (rang1)",
     "icon": "ability_rogue_eviscerate",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Guerrier de 2%"
+    "description": "Augmente les chances de Critiques du Guerrier de 2%"
   },
   "11022": {
     "name": "Cruauté (rang2)",
     "icon": "icon_1102",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Guerrier de 4%"
+    "description": "Augmente les chances de Critiques du Guerrier de 4%"
   },
   "11023": {
     "name": "Cruauté (rang3)",
     "icon": "icon_1102",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Guerrier de 6%"
+    "description": "Augmente les chances de Critiques du Guerrier de 6%"
   },
   "11024": {
     "name": "Specialisation:11 Row:0 Column:2 Rank:4",
@@ -813,13 +813,13 @@
     "name": "Rage Sanguinaire Améliorée (rang1)",
     "icon": "ability_racial_bloodrage",
     "rank": 1,
-    "description": "Augmente le montant de Rage génèré par la technique Rage Sanguinaire de 3pts"
+    "description": "Augmente le montant de Rage généré par la technique Rage Sanguinaire de 5pts"
   },
   "11032": {
     "name": "Rage Sanguinaire Améliorée (rang2)",
     "icon": "icon_1103",
     "rank": 2,
-    "description": "Augmente le montant de Rage génèré par la technique Rage Sanguinaire de 6pts"
+    "description": "Augmente le montant de Rage généré par la technique Rage Sanguinaire de 10pts"
   },
   "11033": {
     "name": "Specialisation:11 Row:0 Column:3 Rank:3",
@@ -843,19 +843,19 @@
     "name": "Enchaînement Amélioré (rang1)",
     "icon": "ability_warrior_cleave",
     "rank": 1,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 40% et permet de toucher 1 cible suplémentaire"
+    "description": "Augmente les dégâts infligés par la technique Enchaînement de 40% et permet de toucher 1 cible suplémentaire"
   },
   "11102": {
     "name": "Enchaînement Amélioré (rang2)",
     "icon": "icon_1110",
     "rank": 2,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 80% et permet de toucher 2 cibles suplémentaires"
+    "description": "Augmente les dégâts infligés par la technique Enchaînement de 80% et permet de toucher 2 cibles suplémentaires"
   },
   "11103": {
     "name": "Enchaînement Amélioré (rang3)",
     "icon": "icon_1110",
     "rank": 3,
-    "description": "Augmente les dégats infligés par la technique Enchaînement de 120% et permet de toucher 3 cibles suplémentaires"
+    "description": "Augmente les dégâts infligés par la technique Enchaînement de 120% et permet de toucher 3 cibles suplémentaires"
   },
   "11104": {
     "name": "Specialisation:11 Row:1 Column:0 Rank:4",
@@ -903,19 +903,19 @@
     "name": "Posture Berserker Améliorée (rang1)",
     "icon": "ability_racial_avatar",
     "rank": 1,
-    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
+    "description": "Diminue la pénalitée de dégâts subie en Posture Berserker de 3% ainsi que la menace génèrée par le Guerrier dans cette posture de 5%"
   },
   "11122": {
     "name": "Posture Berserker Améliorée (rang2)",
     "icon": "icon_1112",
     "rank": 2,
-    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 6% ainsi que la menace génèrée par le Guerrier dans cette posture de 10%"
+    "description": "Diminue la pénalitée de dégâts subie en Posture Berserker de 6% ainsi que la menace génèrée par le Guerrier dans cette posture de 10%"
   },
   "11123": {
     "name": "Posture Berserker Améliorée (rang3)",
     "icon": "icon_1112",
     "rank": 3,
-    "description": "Diminue la pénalitée de dégats subit en Posture Berserker de 9% ainsi que la menace génèrée par le Guerrier dans cette posture de 15%"
+    "description": "Diminue la pénalitée de dégâts subie en Posture Berserker de 9% ainsi que la menace génèrée par le Guerrier dans cette posture de 15%"
   },
   "11124": {
     "name": "Specialisation:11 Row:1 Column:2 Rank:4",
@@ -933,13 +933,13 @@
     "name": "Colère Déchaînée (rang1)",
     "icon": "spell_nature_stoneclawtotem",
     "rank": 1,
-    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 50% de chance d'obtenir un bonus de +1pts en Rage"
+    "description": "Lorsqu'une attaque automatique du Guerrier est réussie, il a 50% de chance d'obtenir un bonus de +1pts en Rage"
   },
   "11132": {
     "name": "Colère Déchaînée (rang2)",
     "icon": "icon_1113",
     "rank": 2,
-    "description": "Lorsqu'une de vos attaques en mélées est réussies, le Guerrier a 100% de chance d'obtenir un bonus de +1pts en Rage"
+    "description": "Lorsqu'une attaque automatique du Guerrier est réussie, il a 100% de chance d'obtenir un bonus de +1pts en Rage"
   },
   "11133": {
     "name": "Specialisation:11 Row:1 Column:3 Rank:3",
@@ -963,19 +963,19 @@
     "name": "Folie Sanguinaire (rang1)",
     "icon": "spell_shadow_summonimp",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 1% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 1% de ses Points de vie en 6sec, 1 tick toutes les secondes"
   },
   "11202": {
     "name": "Folie Sanguinaire (rang2)",
     "icon": "icon_1120",
     "rank": 2,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 2% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 2% de ses Points de vie en 6sec, 1 tick toutes les secondes"
   },
   "11203": {
     "name": "Folie Sanguinaire (rang3)",
     "icon": "icon_1120",
     "rank": 3,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 3% de ses points de vie en 6sec"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage ou un Renvoi de sort, il gagne une amélioration qui lui rend 3% de ses Points de vie en 6sec, 1 tick toutes les secondes"
   },
   "11204": {
     "name": "Specialisation:11 Row:2 Column:0 Rank:4",
@@ -993,7 +993,7 @@
     "name": "Hurlement Perçant",
     "icon": "spell_shadow_deathscream",
     "rank": 1,
-    "description": "Technique a activer, instantané, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans les 10yards et ralentit leur vitesse de déplacement de 50% durant 6sec"
+    "description": "Technique a activer, instantanée, 10pts de Rage, Cri qui affecte toutes les cibles ennemies dans un rayon de 10yards autour du Guerrier et ralentit leur vitesse de déplacement de 50% durant 6sec"
   },
   "11212": {
     "name": "Specialisation:11 Row:2 Column:1 Rank:2",
@@ -1023,7 +1023,7 @@
     "name": "Ivresse de la Victoire",
     "icon": "spell_holy_fistofjustice",
     "rank": 1,
-    "description": "Technique a activer, instantané, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec après avoir utilisé la technique Execution ou si le Guerrier tue un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
+    "description": "Technique a activer, instantanée, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec si le Guerrier tue un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une Attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1053,13 +1053,13 @@
     "name": "Défi Intimidant (rang1)",
     "icon": "ability_golemthunderclap",
     "rank": 1,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 1min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 50%"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 1min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 5pts"
   },
   "11232": {
     "name": "Défi Intimidant (rang2)",
     "icon": "icon_1123",
     "rank": 2,
-    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 2min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 100%"
+    "description": "Réduit le temps de rechargement des techniques Cri d'Intimidation et Cri de Défi de 2min et diminue également le coût en Rage des techniques Volée de Coup et Coup de Bouclier de 10pts"
   },
   "11233": {
     "name": "Specialisation:11 Row:2 Column:3 Rank:3",
@@ -1083,19 +1083,19 @@
     "name": "Spécialisation Ambidextrie (rang1)",
     "icon": "ability_dualwield",
     "rank": 1,
-    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 8%"
+    "description": "Augmente les dégâts infligés par l'Arme en Main gauche du Guerrier de 8%"
   },
   "11302": {
     "name": "Spécialisation Ambidextrie (rang2)",
     "icon": "icon_1130",
     "rank": 2,
-    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 16%"
+    "description": "Augmente les dégâts infligés par l'Arme en Main gauche du Guerrier de 16%"
   },
   "11303": {
     "name": "Spécialisation Ambidextrie (rang3)",
     "icon": "icon_1130",
     "rank": 3,
-    "description": "Augmente les dégats infligés par l'arme en main gauche du Guerrier de 24%"
+    "description": "Augmente les dégâts infligés par l'Arme en Main gauche du Guerrier de 24%"
   },
   "11304": {
     "name": "Specialisation:11 Row:3 Column:0 Rank:4",
@@ -1113,13 +1113,13 @@
     "name": "Exécution Améliorée (rang1)",
     "icon": "inv_sword_48",
     "rank": 1,
-    "description": "Diminue le cout en Rage de la technique Exécution de 2pts et lui rend ensuite 5pts de Rage"
+    "description": "Diminue le coût en Rage de la technique Exécution de 2pts et lui rend instantanément 5pts de Rage"
   },
   "11312": {
     "name": "Exécution Améliorée (rang2)",
     "icon": "icon_1131",
     "rank": 2,
-    "description": "Diminue le cout en Rage de la technique Exécution de 5pts et lui rend ensuite 10pts de Rage"
+    "description": "Diminue le coût en Rage de la technique Exécution de 5pts et lui rend instantanéement 10pts de Rage"
   },
   "11313": {
     "name": "Specialisation:11 Row:3 Column:1 Rank:3",
@@ -1143,19 +1143,19 @@
     "name": "Enragé (rang1)",
     "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort,  il gagne une amélioration qui augmente les dégats qu'il inflige de 8% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort,  il gagne une amélioration qui augmente les dégâts qu'il inflige de 8% durant 6sec ou 6 charges"
   },
   "11322": {
     "name": "Enragé (rang2)",
     "icon": "icon_1132",
     "rank": 2,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégats qu'il inflige de 16% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégâts qu'il inflige de 16% durant 6sec ou 6 charges"
   },
   "11323": {
     "name": "Enragé (rang3)",
     "icon": "icon_1132",
     "rank": 3,
-    "description": "Lorsque le Guerrier est victime d'un coup critique, ou qu'il obtient une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégats qu'il inflige de 24% durant 12sec ou 12 charges"
+    "description": "Lorsque le Guerrier est victime d'un Coup critique, ou qu'il fait une Esquive, ou une Parade, ou un Blocage, ou un Renvoi de sort, il gagne une amélioration qui augmente les dégâts qu'il inflige de 24% durant 6sec ou 6 charges"
   },
   "11324": {
     "name": "Specialisation:11 Row:3 Column:2 Rank:4",
@@ -1203,19 +1203,19 @@
     "name": "Précision (rang1)",
     "icon": "ability_marksmanship",
     "rank": 1,
-    "description": "Augmente les chances de toucher du Guerrier de 2%"
+    "description": "Augmente les chances de Toucher du Guerrier de 2%"
   },
   "11402": {
     "name": "Précision (rang2)",
     "icon": "icon_1140",
     "rank": 2,
-    "description": "Augmente les chances de toucher du Guerrier de 4%"
+    "description": "Augmente les chances de Toucher du Guerrier de 4%"
   },
   "11403": {
     "name": "Précision (rang3)",
     "icon": "icon_1140",
     "rank": 3,
-    "description": "Augmente les chances de toucher du Guerrier de 6%"
+    "description": "Augmente les chances de Toucher du Guerrier de 6%"
   },
   "11404": {
     "name": "Specialisation:11 Row:4 Column:0 Rank:4",
@@ -1233,7 +1233,7 @@
     "name": "Souhait Mortel",
     "icon": "spell_shadow_deathpact",
     "rank": 1,
-    "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les postures, Procure un effet de rage sur le Guerrier durant 30sec, le Guerrier se libère et est insensible aux effets de Peur et augmente les dégats qu'il inflige de 20% mais il ne peut plus ni Parer, ni Esquiver ni Bloquer les attaques"
+    "description": "Technique a activer, instantané, 10pts de Rage, utilisable dans toutes les Postures, Procure un effet de Rage sur le Guerrier durant 30sec, le Guerrier se libère et devient Insensible aux effets de Peur et augmente les dégâts qu'il inflige de 20% mais il ne peut plus faire de Parade, ni d'Esquive, ni de Blocage durant l'effet"
   },
   "11412": {
     "name": "Specialisation:11 Row:4 Column:1 Rank:2",
@@ -1323,13 +1323,13 @@
     "name": "Rage Berserker Améliorée (rang1)",
     "icon": "spell_nature_ancestralguardian",
     "rank": 1,
-    "description": "En plus de ces effets la technique Rage Berserker génère instantanément 5pts de Rage au Guerrier"
+    "description": "En plus de ces effets la technique Rage Berserker génére instantanément 5pts de Rage au Guerrier"
   },
   "11512": {
     "name": "Rage Berserker Améliorée (rang2)",
     "icon": "icon_1151",
     "rank": 2,
-    "description": "En plus de ces effets la technique Rage Berserker génère instantanément 10pts de Rage au Guerrier"
+    "description": "En plus de ces effets la technique Rage Berserker génére instantanément 10pts de Rage au Guerrier"
   },
   "11513": {
     "name": "Specialisation:11 Row:5 Column:1 Rank:3",
@@ -1353,19 +1353,19 @@
     "name": "Rafale (rang1)",
     "icon": "ability_ghoulfrenzy",
     "rank": 1,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d'attaque de 10% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un Coup critique, il gagne une amélioration qui augmente sa Vitesse d'attaque en mélée de 10% durant 12sec ou 3 charges"
   },
   "11522": {
     "name": "Rafale (rang2)",
     "icon": "icon_1152",
     "rank": 2,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d'attaque de 20% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un Coup critique, il gagne une amélioration qui augmente sa Vitesse d'attaque en mélée de 20% durant 12sec ou 3 charges"
   },
   "11523": {
     "name": "Rafale (rang3)",
     "icon": "icon_1152",
     "rank": 3,
-    "description": "Lorsque le Guerrier inflige un coup critique, il gagne une amélioration qui augmente sa vitesse d(attaque de 30% durant 12sec ou 3 charges"
+    "description": "Lorsque le Guerrier inflige un Coup critique, il gagne une amélioration qui augmente sa Vitesse d'attaque en mélée de 30% durant 12sec ou 3 charges"
   },
   "11524": {
     "name": "Specialisation:11 Row:5 Column:2 Rank:4",
@@ -1383,7 +1383,7 @@
     "name": "Sanguinaire",
     "icon": "spell_nature_bloodlust",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 30pts de Rage, 0-5yards de portée, 6sec de temps de rechargement, inflige instantanément un dégats a la cible d'un montant équivalent a 45% de la Puissance d'Attaque du Guerrier, de plus les 3 prochaines attaques dans les 8sec soignent le Guerrier de 1% de ses points de vie"
+    "description": "Technique a activer, instantanée, 30pts de Rage, 0-5yards de portée, 6sec de temps de rechargement, inflige instantanément un dégâts a la cible d'un montant équivalent a 45% de la Puissance d'Attaque du Guerrier, de plus les 3 prochaines Attaques en mélée du Guerrier dans les 8sec le soignent de 1% de ses Points de vie"
   },
   "11612": {
     "name": "Specialisation:11 Row:6 Column:1 Rank:2",
@@ -1413,7 +1413,7 @@
     "name": "Mutilation",
     "icon": "spell_shadow_lifedrain",
     "rank": 1,
-    "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige des dégats pendant 10sec au lieu de lui retiré un montant de vie instantané"
+    "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige le montant de dégâts qu'inflige la technique mais pendant 10sec au lieu d'instantanément, ce qui peut le libérer de certain effet de contrôle notamment"
   },
   "11622": {
     "name": "Specialisation:11 Row:6 Column:2 Rank:2",
@@ -1443,19 +1443,19 @@
     "name": "Endurance Physique (rang1)",
     "icon": "spell_holy_devotionaura",
     "rank": 1,
-    "description": "Augmente l'Endurance du Guerrier de 4%"
+    "description": "Augmente l'Endurance du Guerrier de 3%"
   },
   "12002": {
     "name": "Endurance Physique (rang2)",
     "icon": "icon_1200",
     "rank": 2,
-    "description": "Augmente l'Endurance du Guerrier de 8%"
+    "description": "Augmente l'Endurance du Guerrier de 6%"
   },
   "12003": {
     "name": "Endurance Physique (rang3)",
     "icon": "icon_1200",
     "rank": 3,
-    "description": "Augmente l'Endurance du Guerrier de 12%"
+    "description": "Augmente l'Endurance du Guerrier de 9%"
   },
   "12004": {
     "name": "Specialisation:12 Row:0 Column:0 Rank:4",
@@ -1473,13 +1473,13 @@
     "name": "Provocation Améliorée (rang1)",
     "icon": "spell_nature_reincarnation",
     "rank": 1,
-    "description": "Réduit le temps de rechargement de la technique Provocation de 1sec"
+    "description": "Diminue le temps de rechargement de la technique Provocation de 1sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 5%"
   },
   "12012": {
     "name": "Provocation Améliorée (rang2)",
     "icon": "icon_1201",
     "rank": 2,
-    "description": "Réduit le temps de rechargement de la technique Provocation de 2sec"
+    "description": "Diminue le temps de rechargement de la technique Provocation de 2sec et augmente les chances de Toucher du Guerrier avec ses techniques de Cri de 10%"
   },
   "12013": {
     "name": "Specialisation:12 Row:0 Column:1 Rank:3",
@@ -1500,22 +1500,22 @@
     "description": "Description for Specialisation:12 Row:0 Column:1 Rank:5. Use icon icon_1201.jpg"
   },
   "12021": {
-    "name": "Spécialisation Bouclier (rang1)",
-    "icon": "inv_shield_06",
+    "name": "Résistance (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Augmente les chances de bloquer du Guerrier avec un bouclier de 2%"
+    "description": "Augmente l'Armure du Guerrier de 3% et diminue la durée des effets affectant le mouvement de 10%"
   },
   "12022": {
-    "name": "Spécialisation Bouclier (rang2)",
+    "name": "Résistance (rang2)",
     "icon": "icon_1202",
     "rank": 2,
-    "description": "Augmente les chances de bloquer du Guerrier avec un bouclier de 4%"
+    "description": "Augmente l'Armure du Guerrier de 6% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "12023": {
-    "name": "Spécialisation Bouclier (rang3)",
+    "name": "Résistance (rang3)",
     "icon": "icon_1202",
     "rank": 3,
-    "description": "Augmente les chances de bloquer du Guerrier avec un bouclier de 6%"
+    "description": "Augmente l'Armure du Guerrier de 9% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "12024": {
     "name": "Specialisation:12 Row:0 Column:2 Rank:4",
@@ -1533,13 +1533,13 @@
     "name": "Rage Sanguinaire Atténuée (rang1)",
     "icon": "ability_racial_bloodrage",
     "rank": 1,
-    "description": "Réduit le montant de vie consommé par la technique Rage Sanguinaire de 45%"
+    "description": "Diminue le montant de Point de Vie consommé par la technique Rage Sanguinaire de 45%"
   },
   "12032": {
     "name": "Rage Sanguinaire Atténuée (rang2)",
     "icon": "icon_1203",
     "rank": 2,
-    "description": "Réduit le montant de vie consommé par la technique Rage Sanguinaire de 90%"
+    "description": "Diminue le montant de Point de Vie consommé par la technique Rage Sanguinaire de 90%"
   },
   "12033": {
     "name": "Specialisation:12 Row:0 Column:3 Rank:3",
@@ -1563,19 +1563,19 @@
     "name": "Coup de Tonnerre Amélioré (rang1)",
     "icon": "ability_thunderclap",
     "rank": 1,
-    "description": "Réduit le cout en Rage de la technique Coup de Tonnerre de 2pts et augmente ses effets de 5%"
+    "description": "Diminue le coût en Rage de la technique Coup de Tonnerre de 2pts et augmente ses effets de 5% ainsi que ses dégâts de 50% et augmente le nombre de cible affecté de 1"
   },
   "12102": {
     "name": "Coup de Tonnerre Amélioré (rang2)",
     "icon": "icon_1210",
     "rank": 2,
-    "description": "Réduit le cout en Rage de la technique Coup de Tonnerre de 3pts et augmente ses effets de 10%"
+    "description": "Diminue le coût en Rage de la technique Coup de Tonnerre de 3pts et augmente ses effets de 10% ainsi que ses dégâts de 100% et augmente le nombre de cible affecté de 2"
   },
   "12103": {
     "name": "Coup de Tonnerre Amélioré (rang3)",
     "icon": "icon_1210",
     "rank": 3,
-    "description": "Réduit le cout en Rage de la technique Coup de Tonnerre de 4pts et augmente ses effets de 15%"
+    "description": "Diminue le coût en Rage de la technique Coup de Tonnerre de 4pts et augmente ses effets de 15% ainsi que ses dégâts de 150% et augmente le nombre de cible affecté de 3"
   },
   "12104": {
     "name": "Specialisation:12 Row:1 Column:0 Rank:4",
@@ -1593,13 +1593,13 @@
     "name": "Blocage Amélioré (rang1)",
     "icon": "spell_holy_sealofprotection",
     "rank": 1,
-    "description": "Augmente le montant de Blocage du Guerrier avec un bouclier de 15% et lorsqu'il Bloque le Guerrier gagne 1pts de Rage"
+    "description": "Augmente le montant de Blocage du Guerrier avec un Bouclier de 15% et lorsqu'il Bloque le Guerrier gagne 1pts de Rage"
   },
   "12112": {
     "name": "Blocage Amélioré (rang2)",
     "icon": "icon_1211",
     "rank": 2,
-    "description": "Augmente le montant de Blocage du Guerrier avec un bouclier de 30% et lorsqu'il Bloque le Guerrier gagne 2pts de Rage"
+    "description": "Augmente le montant de Blocage du Guerrier avec un Bouclier de 30% et lorsqu'il Bloque le Guerrier gagne 2pts de Rage"
   },
   "12113": {
     "name": "Specialisation:12 Row:1 Column:1 Rank:3",
@@ -1623,19 +1623,19 @@
     "name": "Défiance (rang1)",
     "icon": "ability_warrior_innerrage",
     "rank": 1,
-    "description": "Augmente la menace génèrée par le Guerrier de 5%"
+    "description": "Augmente la menace génèrée par le Guerrier de 5% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12122": {
     "name": "Défiance (rang2)",
     "icon": "icon_1212",
     "rank": 2,
-    "description": "Augmente la menace génèrée par le Guerrier de 10%"
+    "description": "Augmente la menace génèrée par le Guerrier de 10% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12123": {
     "name": "Défiance (rang3)",
     "icon": "icon_1212",
     "rank": 3,
-    "description": "Augmente la menace génèrée par le Guerrier de 15%"
+    "description": "Augmente la menace génèrée par le Guerrier de 15% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12124": {
     "name": "Specialisation:12 Row:1 Column:2 Rank:4",
@@ -1653,13 +1653,13 @@
     "name": "Têtu (rang1)",
     "icon": "ability_racial_avatar",
     "rank": 1,
-    "description": "Lorsque le Guerrier obtient une Parade ou une Esquive, il génère instantanément 1pts de Rage et augmente ses chances de critiques avec les techniques Frappe Héroïque, Coup de Tonnerre et Enchaînement de 3%"
+    "description": "Lorsqu'une Attaque en mélée du Guerrier obtient une Parade ou une Esquive, il génère instantanément 1pts de Rage et augmente ses chances de Critiques avec les techniques Frappe Héroïque, Coup de Tonnerre et Enchaînement de 3%"
   },
   "12132": {
     "name": "Têtu (rang2)",
     "icon": "icon_1213",
     "rank": 2,
-    "description": "Lorsque le Guerrier obtient une Parade ou une Esquive, il génère instantanément 2pts de Rage et augmente ses chances de critiques avec les techniques Frappe Héroïque, Coup de Tonnerre et Enchaînement de 6%"
+    "description": "Lorsqu'une Attaque en mélée du Guerrier obtient une Parade ou une Esquive, il génère instantanément 2pts de Rage et augmente ses chances de Critiques avec les techniques Frappe Héroïque, Coup de Tonnerre et Enchaînement de 6%"
   },
   "12133": {
     "name": "Specialisation:12 Row:1 Column:3 Rank:3",
@@ -1713,7 +1713,7 @@
     "name": "Dernier Rempart",
     "icon": "spell_holy_ashestoashes",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 0pts de Rage, 4min de temps de rechargement, utilisable dans toutes les postures et sous contrôle, accorde au Guerrier 30% de point de vie temporairement durant 20sec"
+    "description": "Technique a activer, instantanée, gratuit en Rage, 3min de temps de rechargement, utilisable dans toutes les Postures et même sous Contrôle, accorde au Guerrier 30% de Point de Vie temporairement durant 20sec"
   },
   "12212": {
     "name": "Specialisation:12 Row:2 Column:1 Rank:2",
@@ -1743,7 +1743,7 @@
     "name": "Maîtrise du Blocage Améliorée",
     "icon": "ability_defend",
     "rank": 1,
-    "description": "Permet a la technique Maîtrise du Blocage de bénéficier d'une charge supplémentaire et augmente sa durée de 3sec"
+    "description": "Permet a la technique Maîtrise du Blocage de bénéficier d'une Charge supplémentaire et augmente sa durée de 1,5sec"
   },
   "12222": {
     "name": "Specialisation:12 Row:2 Column:2 Rank:2",
@@ -1773,13 +1773,13 @@
     "name": "Vengeance Améliorée (rang1)",
     "icon": "ability_warrior_revenge",
     "rank": 1,
-    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 3% durant 6sec"
+    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégâts que la cible inflige de 3% durant 6sec"
   },
   "12232": {
     "name": "Vengeance Améliorée (rang2)",
     "icon": "icon_1223",
     "rank": 2,
-    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégats qu'elle inflige de 6% durant 6sec"
+    "description": "La technique Vengeance pose un affaiblissement sur la cible qui diminue les dégâts que la cible inflige de 6% durant 6sec"
   },
   "12233": {
     "name": "Specialisation:12 Row:2 Column:3 Rank:3",
@@ -1800,22 +1800,22 @@
     "description": "Description for Specialisation:12 Row:2 Column:3 Rank:5. Use icon icon_1223.jpg"
   },
   "12301": {
-    "name": "Résistance (rang1)",
-    "icon": "spell_holy_devotion",
+    "name": "Spécialisation Bouclier (rang1)",
+    "icon": "inv_shield_06",
     "rank": 1,
-    "description": "Augmente l'Armure du Guerrier de 4% et diminue la durée des effets affectant le mouvement de 10%"
+    "description": "Augmente les chances de Bloquer du Guerrier avec un Bouclier de 2%"
   },
   "12302": {
-    "name": "Résistance (rang2)",
+    "name": "Spécialisation Bouclier (rang2)",
     "icon": "icon_1230",
     "rank": 2,
-    "description": "Augmente l'Armure du Guerrier de 8% et diminue la durée des effets affectant le mouvement de 20%"
+    "description": "Augmente les chances de Bloquer du Guerrier avec un Bouclier de 4%"
   },
   "12303": {
-    "name": "Résistance (rang3)",
+    "name": "Spécialisation Bouclier (rang3)",
     "icon": "icon_1230",
     "rank": 3,
-    "description": "Augmente l'Armure du Guerrier de 12% et diminue la durée des effets affectant le mouvement de 30%"
+    "description": "Augmente les chances de Bloquer du Guerrier avec un Bouclier de 6%"
   },
   "12304": {
     "name": "Specialisation:12 Row:3 Column:0 Rank:4",
@@ -1863,19 +1863,19 @@
     "name": "Rage Focalisée (rang1)",
     "icon": "spell_shadow_unholyfrenzy",
     "rank": 1,
-    "description": "Réduit le cout en Rage de toutes les techniques du Guerrier de 1pts"
+    "description": "Diminue le coût en Rage de toutes les techniques du Guerrier de 1pts"
   },
   "12322": {
     "name": "Rage Focalisée (rang2)",
     "icon": "icon_1232",
     "rank": 2,
-    "description": "Réduit le cout en Rage de toutes les techniques du Guerrier de 2pts"
+    "description": "Diminue le coût en Rage de toutes les techniques du Guerrier de 2pts"
   },
   "12323": {
     "name": "Rage Focalisée (rang3)",
     "icon": "icon_1232",
     "rank": 3,
-    "description": "Réduit le cout en Rage de toutes les techniques du Guerrier de 3pts"
+    "description": "Diminue le coût en Rage de toutes les techniques du Guerrier de 3pts"
   },
   "12324": {
     "name": "Specialisation:12 Row:3 Column:2 Rank:4",
@@ -1893,13 +1893,13 @@
     "name": "Protecteur (rang1)",
     "icon": "spell_holy_powerwordshield",
     "rank": 1,
-    "description": "Réduit le temps de rechargement de la technique Intervention de 5sec et son cout en Rage de 50%"
+    "description": "Diminue le temps de rechargement de la technique Intervention de 5sec et son cout en Rage de 5pts"
   },
   "12332": {
     "name": "Protecteur (rang2)",
     "icon": "icon_1233",
     "rank": 2,
-    "description": "Réduit le temps de rechargement de la technique Intervention de 10sec et son cout en Rage de 100%"
+    "description": "Diminue le temps de rechargement de la technique Intervention de 10sec et son cout en Rage de 10pts"
   },
   "12333": {
     "name": "Specialisation:12 Row:3 Column:3 Rank:3",
@@ -1923,19 +1923,19 @@
     "name": "Survivant (rang1)",
     "icon": "ability_warrior_shieldwall",
     "rank": 1,
-    "description": "Réduit le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 11% et augmente la durée de ces techniques de 2sec"
+    "description": "Diminue le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 11% et augmente la durée de ces techniques de 2sec"
   },
   "12402": {
     "name": "Survivant (rang2)",
     "icon": "icon_1240",
     "rank": 2,
-    "description": "Réduit le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 22% et augmente la durée de ces techniques de 4sec"
+    "description": "Diminue le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 22% et augmente la durée de ces techniques de 4sec"
   },
   "12403": {
     "name": "Survivant (rang3)",
     "icon": "icon_1240",
     "rank": 3,
-    "description": "Réduit le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 33% et augmente la durée de ces techniques de 6sec"
+    "description": "Diminue le temps de recharge des techniques Mur Protecteur et Dernier Rempart de 33% et augmente la durée de ces techniques de 6sec"
   },
   "12404": {
     "name": "Specialisation:12 Row:4 Column:0 Rank:4",
@@ -1953,7 +1953,7 @@
     "name": "Renvoi de Sort",
     "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Lorsqu'il est activé, renvoie le prochain sort dans les 5sec lancé sur le Guerrier"
+    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en Posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Pose une amélioration sur le Guerrier qui renvoie le prochain Sort lancé sur le Guerrier dans les 5sec"
   },
   "12412": {
     "name": "Specialisation:12 Row:4 Column:1 Rank:2",
@@ -1983,7 +1983,7 @@
     "name": "Coup Traumatisant",
     "icon": "ability_thunderbolt",
     "rank": 1,
-    "description": "Technique a activer, instantané, 45sec de temps de rechargement, 0pts de Rage, 0-5yards de portée, Utilisable dans toutes les postures, Etourdit la cible durant 5sec et génére un haut niveau de menace"
+    "description": "Technique a activer, instantané, 45sec de temps de rechargement, gratuit en Rage, 0-5yards de portée, Utilisable dans toutes les Postures, Etourdit la cible durant 5sec et génére un haut niveau de menace"
   },
   "12422": {
     "name": "Specialisation:12 Row:4 Column:2 Rank:2",
@@ -2013,13 +2013,13 @@
     "name": "Coup de Bouclier Amélioré (rang1)",
     "icon": "ability_warrior_shieldbash",
     "rank": 1,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et ralentit de 50% la cible durant 1,5sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de ralentir de 50% la cible durant 2sec"
   },
   "12432": {
     "name": "Coup de Bouclier Amélioré (rang2)",
     "icon": "icon_1243",
     "rank": 2,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et ralentit de 50% la cible durant 3sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de ralentir de 50% la cible durant 4sec"
   },
   "12433": {
     "name": "Specialisation:12 Row:4 Column:3 Rank:3",
@@ -2043,13 +2043,13 @@
     "name": "Bouclier Pointu (rang1)",
     "icon": "spell_nature_thorns",
     "rank": 1,
-    "description": "Lorsque le Guerrier bloque une attaque avec son bouclier, il renvoit a l'attaquant un dégat équivalent a 1% de sa valeur de blocage"
+    "description": "Lorsque le Guerrier Bloque une attaque avec son bouclier, il inflige a l'attaquant un dégât équivalent a 1% de sa valeur de Blocage"
   },
   "12512": {
     "name": "Bouclier Pointu (rang2)",
     "icon": "icon_1251",
     "rank": 2,
-    "description": "Lorsque le Guerrier bloque une attaque avec son bouclier, il renvoit a l'attaquant un dégat équivalent a 2% de sa valeur de blocage"
+    "description": "Lorsque le Guerrier Bloque une attaque avec son bouclier, il inflige a l'attaquant un dégât équivalent a 2% de sa valeur de Blocage"
   },
   "12513": {
     "name": "Specialisation:12 Row:5 Column:1 Rank:3",
@@ -2073,19 +2073,19 @@
     "name": "Expert au Bouclier (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Lorsqu'il combat avec une Arme a une main et un Bouclier, le Guerrier augmente son Expertise et la menace qu'il génère de 2%"
+    "description": "Augmente l'Expertise du Guerrier de 2% et la menace qu'il génère avec ses techniques qui requiert une Arme a une main ou un Bouclier de 2%"
   },
   "12522": {
     "name": "Expert au Bouclier (rang2)",
     "icon": "icon_1252",
     "rank": 2,
-    "description": "Lorsqu'il combat avec une Arme a une main et un Bouclier, le Guerrier augmente son Expertise et la menace qu'il génère de 4%"
+    "description": "Augmente l'Expertise du Guerrier de 4% et la menace qu'il génère avec ses techniques qui requiert une Arme a une main ou un Bouclier de 4%"
   },
   "12523": {
     "name": "Expert au Bouclier (rang3)",
     "icon": "icon_1252",
     "rank": 3,
-    "description": "Lorsqu'il combat avec une arme a une main et un bouclier, le Guerrier augmente son Expertise et la menace qu'il génère de 6%"
+    "description": "Augmente l'Expertise du Guerrier de 6% et la menace qu'il génère avec ses techniques qui requiert une Arme a une main ou un Bouclier de 6%"
   },
   "12524": {
     "name": "Specialisation:12 Row:5 Column:2 Rank:4",
@@ -2100,10 +2100,10 @@
     "description": "Description for Specialisation:12 Row:5 Column:2 Rank:5. Use icon icon_1252.jpg"
   },
   "12611": {
-    "name": "Heurt de Bouclier",
-    "icon": "inv_shield_05",
+    "name": "Fracasser",
+    "icon": "inv_sword_20",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 30pts de Rage, 0-5yards de portée, Requiert un Bouclier, utilisable dans toutes les postures, inflige instantanément 230pts de dégats sur la cible + le score de blocage du Guerrier et a 100% de chance de dissiper un effet magique sur la cible"
+    "description": "Technique a activer, instantanée, Utilisable dans toutes les Ppostures, Requiert une Arme de mélée, 15pts de Rage, Inflige 15pts de dégâts a la cible +50% de la plage de l'arme du Guerrier, ce montant ignore l'Armure de la cible et génére un haut niveau de menace en plus de poser la technique Fracasse Armure sur la cible"
   },
   "12612": {
     "name": "Specialisation:12 Row:6 Column:1 Rank:2",
@@ -2130,10 +2130,10 @@
     "description": "Description for Specialisation:12 Row:6 Column:1 Rank:5. Use icon icon_1261.jpg"
   },
   "12621": {
-    "name": "Dévaster",
-    "icon": "inv_sword_20",
+    "name": "Heurt de Bouclier",
+    "icon": "inv_shield_05",
     "rank": 1,
-    "description": "Technique a activer, instantanée, Utilisable dans toutes les postures, Requiert une arme de mélée, 15pts de Rage, Inflige 15pts de dégats a la cible +50% de la plage de dégats de l'arme du Guerrier et génère un haut niveau de menace en plus de poser la technique Fracasse Armure sur la cible"
+    "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 30pts de Rage, 0-5yards de portée, Requiert un Bouclier, utilisable dans toutes les Postures, inflige instantanément 230pts de dégâts sur la cible + le score de Blocage du Guerrier et a 100% de chance de Dissiper une amélioration Magique sur la cible"
   },
   "12622": {
     "name": "Specialisation:12 Row:6 Column:2 Rank:2",
@@ -2163,19 +2163,19 @@
     "name": "Intelligence Divine (rang1)",
     "icon": "spell_nature_sleep",
     "rank": 1,
-    "description": "Augmente l'Intelligence du Paladin de 4%"
+    "description": "Augmente l'Intelligence du Paladin de 3%"
   },
   "20002": {
     "name": "Intelligence Divine (rang2)",
     "icon": "icon_2000",
     "rank": 2,
-    "description": "Augmente l'Intelligence du Paladin de 8%"
+    "description": "Augmente l'Intelligence du Paladin de 6%"
   },
   "20003": {
     "name": "Intelligence Divine (rang3)",
     "icon": "icon_2000",
     "rank": 3,
-    "description": "Augmente l'Intelligence du Paladin de 12%"
+    "description": "Augmente l'Intelligence du Paladin de 9%"
   },
   "20004": {
     "name": "Specialisation:20 Row:0 Column:0 Rank:4",
@@ -2193,13 +2193,13 @@
     "name": "Focalisation Améliorée (rang1)",
     "icon": "spell_arcane_blink",
     "rank": 1,
-    "description": "Donne 35% de chance de non-interruption lorsque le Paladin cast un sort de l'école de Magie du Sacré"
+    "description": "Donne 35% de chance d'anti interruption au Paladin lorsqu'il incante un Sort du Sacré"
   },
   "20012": {
     "name": "Focalisation Améliorée (rang2)",
     "icon": "icon_2001",
     "rank": 2,
-    "description": "Donne 70% de chance de non-interruption lorsque le Paladin cast un sort de l'école de Magie du Sacré"
+    "description": "Donne 70% de chance d'anti interruption au Paladin lorsqu'il incante un Sort du Sacré"
   },
   "20013": {
     "name": "Specialisation:20 Row:0 Column:1 Rank:3",
@@ -2223,19 +2223,19 @@
     "name": "Piété Amélioré (rang1)",
     "icon": "ability_thunderbolt",
     "rank": 1,
-    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 5%"
+    "description": "Augmente les dégâts infligés par la techniques Sceau de Piété et lorsqu'elle est Jugé de 5%"
   },
   "20022": {
     "name": "Piété Amélioré (rang2)",
     "icon": "icon_2002",
     "rank": 2,
-    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 10%"
+    "description": "Augmente les dégâts infligés par la techniques Sceau de Piété et lorsqu'elle est Jugé de 10%"
   },
   "20023": {
     "name": "Piété Amélioré (rang3)",
     "icon": "icon_2002",
     "rank": 3,
-    "description": "Augmente les dégats infligés par les techniques Sceau de Piété et Jugement de Piété de 15%"
+    "description": "Augmente les dégâts infligés par la techniques Sceau de Piété et lorsqu'elle est Jugé de 15%"
   },
   "20024": {
     "name": "Specialisation:20 Row:0 Column:2 Rank:4",
@@ -2253,13 +2253,13 @@
     "name": "Bénédiction de Sagesse Améliorée (rang1)",
     "icon": "spell_holy_sealofwisdom",
     "rank": 1,
-    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 10% et augmente leur durée de 5min"
+    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 10% et augmente leur durée de 50%"
   },
   "20032": {
     "name": "Bénédiction de Sagesse Améliorée (rang2)",
     "icon": "icon_2003",
     "rank": 2,
-    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 20% et augmente leur durée de 10min"
+    "description": "Augmente les effets des techniques Bénédiction de Sagesse et Bénédiction de Sagesse Supérieur de 20% et augmente leur durée de 100%"
   },
   "20033": {
     "name": "Specialisation:20 Row:0 Column:3 Rank:3",
@@ -2280,19 +2280,19 @@
     "description": "Description for Specialisation:20 Row:0 Column:3 Rank:5. Use icon icon_2003.jpg"
   },
   "20101": {
-    "name": "Foi en son Armure (rang1)",
+    "name": "Foi en la Lumière (rang1)",
     "icon": "spell_holy_devotionaura",
     "rank": 1,
     "description": "Diminue les Résistances Magiques de la cible du Paladin de 5pts et augmente la Résistance Sacré du Paladin de 20pts"
   },
   "20102": {
-    "name": "Foi en son Armure (rang2)",
+    "name": "Foi en la Lumière (rang2)",
     "icon": "icon_2010",
     "rank": 2,
     "description": "Diminue les Résistances Magiques de la cible du Paladin de 10pts et augmente la Résistance Sacré du Paladin de 40pts"
   },
   "20103": {
-    "name": "Foi en son Armure (rang3)",
+    "name": "Foi en la Lumière (rang3)",
     "icon": "icon_2010",
     "rank": 3,
     "description": "Diminue les Résistances Magiques de la cible du Paladin de 15pts et augmente la Résistance Sacré du Paladin de 60pts"
@@ -2343,19 +2343,19 @@
     "name": "Puissance Purifiante (rang1)",
     "icon": "spell_holy_excorcism",
     "rank": 1,
-    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 5%"
+    "description": "Diminue le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 10%"
   },
   "20122": {
     "name": "Puissance Purifiante (rang2)",
     "icon": "icon_2012",
     "rank": 2,
-    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 10%"
+    "description": "Diminue le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 20%"
   },
   "20123": {
     "name": "Puissance Purifiante (rang3)",
     "icon": "icon_2012",
     "rank": 3,
-    "description": "Réduit le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 15%"
+    "description": "Diminue le coût en mana des techniques Exorcisme, Colère Divine, Renvoi du Mal, Marteaux de Courroux et Marteau de Justice de 30%"
   },
   "20124": {
     "name": "Specialisation:20 Row:1 Column:2 Rank:4",
@@ -2373,13 +2373,13 @@
     "name": "Imposition des Mains Améliorées (rang1)",
     "icon": "spell_holy_layonhands",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 1min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui diminue les dégats subit de 3% durant 1min"
+    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 1min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui diminue les dégats subit de 3% durant 2min"
   },
   "20132": {
     "name": "Imposition des Mains Améliorées (rang2)",
     "icon": "icon_2013",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 2min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui diminue les dégats subit de 3% durant 2min"
+    "description": "Diminue le temps de rechargement de la technique Imposition des Mains de 2min et lorsqu'elle est utilisé, elle pose sur la cible une amélioration qui diminue les dégats subit de 6% durant 2min"
   },
   "20133": {
     "name": "Specialisation:20 Row:1 Column:3 Rank:3",
@@ -2433,7 +2433,7 @@
     "name": "Consécration",
     "icon": "spell_holy_innerfire",
     "rank": 1,
-    "description": "Technique a activer, instantanée, coût 135pts de mana, Consacre le sol autour du Paladin et inflige 64pts de dégats du sacré aux ennemis dans la zone et soigne les alliés dans la zone du même montant durant 8sec"
+    "description": "Technique a activer, instantanée, coût 135pts de mana, Consacre le sol autour du Paladin et inflige 64pts de dégâts du Sacré aux ennemis dans la zone et soigne les alliés dans la zone du même montant durant 8sec, 1 tick toutes les secondes"
   },
   "20212": {
     "name": "Specialisation:20 Row:2 Column:1 Rank:2",
@@ -2463,7 +2463,7 @@
     "name": "Main Généreuse",
     "icon": "spell_frost_manarecharge",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques Main de Liberté, Main de Sacrifice, Main de Protection, Imposition des Mains de 100% et leur procure 1sec de temps de recharge global au lieu d'1,5sec"
+    "description": "Diminue le coût en mana des techniques Main de Liberté, Main de Sacrifice, Main de Protection, Imposition des Mains de 100% et leur procure 1sec de temps de rechargement global au lieu d'1,5sec"
   },
   "20222": {
     "name": "Specialisation:20 Row:2 Column:2 Rank:2",
@@ -2493,13 +2493,13 @@
     "name": "Rédemption Améliorée (rang1)",
     "icon": "spell_holy_blessedrecovery",
     "rank": 1,
-    "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que le temps d'incantation de la technique de 1sec et augmente le montant de vie et de mana rendue par la technique et quand le Paladin revient a la vie  a la cible de 15%"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 20%, ainsi que son temps d'incantation de 1sec et augmente le montant de Point de vie et de mana rendue a la cible et quand le Paladin revient a la Vie de 15%"
   },
   "20232": {
     "name": "Rédemption Améliorée (rang2)",
     "icon": "icon_2023",
     "rank": 2,
-    "description": "Diminue le coût en mana de la Technique Rédemption de 40%, ainsi que le temps d'incantation de la technique de 2sec et augmente le montant de vie et de mana rendue par la technique et quand le Paladin revient a la vie  a la cible de 30%"
+    "description": "Diminue le coût en mana de la Technique Rédemption de 40%, ainsi que son temps d'incantation de 2sec et augmente le montant de Point de vie et de mana rendue a la cible et quand le Paladin revient a la Vie de 30%"
   },
   "20233": {
     "name": "Specialisation:20 Row:2 Column:3 Rank:3",
@@ -2523,19 +2523,19 @@
     "name": "Vie Bénie (rang1)",
     "icon": "spell_holy_renew",
     "rank": 1,
-    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 2%"
+    "description": "Diminue le coût en mana de toutes les techniques instantanés du Paladin de 2%"
   },
   "20302": {
     "name": "Vie Bénie (rang2)",
     "icon": "icon_2030",
     "rank": 2,
-    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 4%"
+    "description": "Diminue le coût en mana de toutes les techinques instantanés du Paladin de 4%"
   },
   "20303": {
     "name": "Vie Bénie (rang3)",
     "icon": "icon_2030",
     "rank": 3,
-    "description": "Diminue le coût en mana de tous les sorts instantanés du Paladin de 6%"
+    "description": "Diminue le coût en mana de toutes les techniques instantanés du Paladin de 6%"
   },
   "20304": {
     "name": "Specialisation:20 Row:3 Column:0 Rank:4",
@@ -2583,19 +2583,19 @@
     "name": "Puissance du Sacré (rang1)",
     "icon": "spell_holy_power",
     "rank": 1,
-    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 2%"
+    "description": "Augmente les chances de Critiques du Paladin de 2%"
   },
   "20322": {
     "name": "Puissance du Sacré (rang2)",
     "icon": "icon_2032",
     "rank": 2,
-    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 4%"
+    "description": "Augmente les chances de Critiques du Paladin de 4%"
   },
   "20323": {
     "name": "Puissance du Sacré (rang3)",
     "icon": "icon_2032",
     "rank": 3,
-    "description": "Augmente les chances de critiques du Paladin avec ses sorts du sacré de 6%"
+    "description": "Augmente les chances de Critiques du Paladin de 6%"
   },
   "20324": {
     "name": "Specialisation:20 Row:3 Column:2 Rank:4",
@@ -2613,13 +2613,13 @@
     "name": "Chasser le Mal (rang1)",
     "icon": "spell_holy_holynova",
     "rank": 1,
-    "description": "Du moment que la technique Pistage des Mort-Vivant est active sur le Paladin, diminue le temps de rechargement d'Exorcisme et Colère Divine de 10% ainsi que le temps d'incantation de Renvoi du Mal de 50%"
+    "description": "Diminue le temps de rechargement des techniques Exorcisme et Colère Divine du Paladin de 10% ainsi que le temps d'incantation de la technique Renvoi du Mal de 50%"
   },
   "20332": {
     "name": "Chasser le Mal (rang2)",
     "icon": "icon_2033",
     "rank": 2,
-    "description": "Du moment que la technique Pistage des Mort-Vivant est active sur le Paladin, diminue le temps de rechargement d'Exorcisme et Colère Divine de 20% ainsi que le temps d'incantation de Renvoi du Mal de 100%"
+    "description": "Diminue le temps de rechargement des techniques Exorcisme et Colère Divine du Paladin de 20% ainsi que le temps d'incantation de la technique Renvoi du Mal de 100%"
   },
   "20333": {
     "name": "Specialisation:20 Row:3 Column:3 Rank:3",
@@ -2643,19 +2643,19 @@
     "name": "Lumière Infinie (rang1)",
     "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
-    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 2%"
+    "description": "Augmente le montant de Soin rendu par les techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière du Paladin de 2%"
   },
   "20402": {
     "name": "Lumière Infinie (rang2)",
     "icon": "icon_2040",
     "rank": 2,
-    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 4%"
+    "description": "Augmente le montant de Soin rendu par les techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière du Paladin de 4%"
   },
   "20403": {
     "name": "Lumière Infinie (rang3)",
     "icon": "icon_2040",
     "rank": 3,
-    "description": "Augmente le montant de soin des techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière de 6%"
+    "description": "Augmente le montant de Soin rendu par les techniques Consécration, Horion Sacré, Sceau de Lumière et Jugement de Lumière du Paladin de 6%"
   },
   "20404": {
     "name": "Specialisation:20 Row:4 Column:0 Rank:4",
@@ -2673,7 +2673,7 @@
     "name": "Faveur Divine",
     "icon": "spell_holy_heal",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Procure une amélioration au Paladin qui donne 100% de chance a son prochain sort du sacré d'obtenir un effet critique."
+    "description": "Technique a activer, instantanée, 1min de temps de rechargement, gratuite en mana, Pose une amélioration sur le Paladin qui donne 100% de chance a son prochain sort du sacré d'obtenir un effet critique."
   },
   "20412": {
     "name": "Specialisation:20 Row:4 Column:1 Rank:2",
@@ -2703,7 +2703,7 @@
     "name": "Concentration Améliorée",
     "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Tous les joueurs bénéficiant d'une Aura de ce Paladin voit la durée des effets de Silence réduite de 30%, ne se cumule pas avec d'autre effet similaire"
+    "description": "Tous les Joueurs bénéficiant d'une amélioration d'Aura de ce Paladin voit la durée des effets de Silence réduite de 30%, ne se cumule pas avec d'autre effet similaire"
   },
   "20422": {
     "name": "Specialisation:20 Row:4 Column:2 Rank:2",
@@ -2763,13 +2763,13 @@
     "name": "Etendue de Lumière (rang1)",
     "icon": "spell_holy_searinglightpriest",
     "rank": 1,
-    "description": "Augmente la portée des techniques Horion Sacré en version soin, Epuration, Purification ainsi que les différentes Mains de 5yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente la portée des techniques Horion Sacré en version soin, Epuration, Purification ainsi que les différentes Mains du Paladin de 5yards, jusqu'a un maximum de 40yards"
   },
   "20512": {
     "name": "Etendue de Lumière (rang2)",
     "icon": "icon_2051",
     "rank": 2,
-    "description": "Augmente la portée des techniques Horion Sacré en version soin, Epuration, Purification ainsi que les différentes Mains de 10yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente la portée des techniques Horion Sacré en version soin, Epuration, Purification ainsi que les différentes Mains du Paladin de 10yards, jusqu'a un maximum de 40yards"
   },
   "20513": {
     "name": "Specialisation:20 Row:5 Column:1 Rank:3",
@@ -2823,7 +2823,7 @@
     "name": "Illumination",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Lorsque le Paladin obtient un effet critique avec une technique du sacré, 100% du coût en mana de cette technique lui est rendu"
+    "description": "Lorsque le Paladin obtient un effet critique avec une technique du Sacré, 100% du coût en mana de cette technique lui est rendu"
   },
   "20612": {
     "name": "Specialisation:20 Row:6 Column:1 Rank:2",
@@ -2853,7 +2853,7 @@
     "name": "Horion Sacré",
     "icon": "spell_holy_searinglight",
     "rank": 1,
-    "description": "technique a activer, instantanée, coûte 225pdm, 15sec de temps de recharge, 20m de portée en offensif, 30m de portée en soin, inflige ou rend 212pts du sacré a la cible"
+    "description": "Technique a activer, instantanée, coûte 225pdm, 15sec de temps de recharge, 20m de portée en offensif, 30m de portée en soin, inflige ou rend 212pts du Sacré a la cible"
   },
   "20622": {
     "name": "Specialisation:20 Row:6 Column:2 Rank:2",
@@ -2883,19 +2883,19 @@
     "name": "Endurance Divine (rang1)",
     "icon": "spell_holy_wordfortitude",
     "rank": 1,
-    "description": "Augmente l'Endurance du Paladin de 4%"
+    "description": "Augmente l'Endurance du Paladin de 3%"
   },
   "21002": {
     "name": "Endurance Divine (rang2)",
     "icon": "icon_2100",
     "rank": 2,
-    "description": "Augmente l'Endurance du Paladin de 8%"
+    "description": "Augmente l'Endurance du Paladin de 6%"
   },
   "21003": {
     "name": "Endurance Divine (rang3)",
     "icon": "icon_2100",
     "rank": 3,
-    "description": "Augmente l'Endurance du Paladin de 12%"
+    "description": "Augmente l'Endurance du Paladin de 9%"
   },
   "21004": {
     "name": "Specialisation:21 Row:0 Column:0 Rank:4",
