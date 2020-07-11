@@ -333,13 +333,13 @@
     "name": "Heurtoir Amélioré (rang1)",
     "icon": "spell_holy_eyeforaneye",
     "rank": 1,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,25sec et diminue son coût en Rage de 10pts"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,25sec et diminue son coût en Rage ainsi que celui de la technique Désarmement de 10pts"
   },
   "10232": {
     "name": "Heurtoir Amélioré (rang2)",
     "icon": "icon_1023",
     "rank": 2,
-    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec et diminue son coût en Rage de 20pts"
+    "description": "Diminue le temps de cast de la Technique Heurtoir de 0,5sec et diminue son coût en Rage ainsi que celui de la technique Désarmement de 20pts"
   },
   "10233": {
     "name": "Specialisation:10 Row:2 Column:3 Rank:3",
@@ -1500,22 +1500,22 @@
     "description": "Description for Specialisation:12 Row:0 Column:1 Rank:5. Use icon icon_1201.jpg"
   },
   "12021": {
-    "name": "Résistance (rang1)",
-    "icon": "spell_holy_devotion",
+    "name": "Défiance (rang1)",
+    "icon": "ability_warrior_innerrage",
     "rank": 1,
-    "description": "Augmente l'Armure du Guerrier de 3% et diminue la durée des effets affectant le mouvement de 10%"
+    "description": "Augmente la menace génèrée par le Guerrier de 5% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12022": {
-    "name": "Résistance (rang2)",
+    "name": "Défiance (rang2)",
     "icon": "icon_1202",
     "rank": 2,
-    "description": "Augmente l'Armure du Guerrier de 6% et diminue la durée des effets affectant le mouvement de 20%"
+    "description": "Augmente la menace génèrée par le Guerrier de 10% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12023": {
-    "name": "Résistance (rang3)",
+    "name": "Défiance (rang3)",
     "icon": "icon_1202",
     "rank": 3,
-    "description": "Augmente l'Armure du Guerrier de 9% et diminue la durée des effets affectant le mouvement de 30%"
+    "description": "Augmente la menace génèrée par le Guerrier de 15% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
   },
   "12024": {
     "name": "Specialisation:12 Row:0 Column:2 Rank:4",
@@ -1620,22 +1620,22 @@
     "description": "Description for Specialisation:12 Row:1 Column:1 Rank:5. Use icon icon_1211.jpg"
   },
   "12121": {
-    "name": "Défiance (rang1)",
-    "icon": "ability_warrior_innerrage",
+    "name": "Résistance (rang1)",
+    "icon": "spell_holy_devotion",
     "rank": 1,
-    "description": "Augmente la menace génèrée par le Guerrier de 5% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
+    "description": "Augmente l'Armure du Guerrier de 3% et diminue la durée des effets affectant le mouvement de 10%"
   },
   "12122": {
-    "name": "Défiance (rang2)",
+    "name": "Résistance (rang2)",
     "icon": "icon_1212",
     "rank": 2,
-    "description": "Augmente la menace génèrée par le Guerrier de 10% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
+    "description": "Augmente l'Armure du Guerrier de 6% et diminue la durée des effets affectant le mouvement de 20%"
   },
   "12123": {
-    "name": "Défiance (rang3)",
+    "name": "Résistance (rang3)",
     "icon": "icon_1212",
     "rank": 3,
-    "description": "Augmente la menace génèrée par le Guerrier de 15% en Posture Défensive et diminue la menace généré dans les autres Postures du même montant"
+    "description": "Augmente l'Armure du Guerrier de 9% et diminue la durée des effets affectant le mouvement de 30%"
   },
   "12124": {
     "name": "Specialisation:12 Row:1 Column:2 Rank:4",
@@ -1950,10 +1950,10 @@
     "description": "Description for Specialisation:12 Row:4 Column:0 Rank:5. Use icon icon_1240.jpg"
   },
   "12411": {
-    "name": "Renvoi de Sort",
-    "icon": "classic_spell_holy_blessingofprotection",
+    "name": "Coup Traumatisant",
+    "icon": "ability_thunderbolt",
     "rank": 1,
-    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en Posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Pose une amélioration sur le Guerrier qui renvoie le prochain Sort lancé sur le Guerrier dans les 5sec"
+    "description": "Technique a activer, instantané, 45sec de temps de rechargement, gratuit en Rage, 0-5yards de portée, requiert une Arme de mélée, Utilisable dans toutes les Postures, Etourdit la cible durant 5sec et génére un haut niveau de menace"
   },
   "12412": {
     "name": "Specialisation:12 Row:4 Column:1 Rank:2",
@@ -1980,10 +1980,10 @@
     "description": "Description for Specialisation:12 Row:4 Column:1 Rank:5. Use icon icon_1241.jpg"
   },
   "12421": {
-    "name": "Coup Traumatisant",
-    "icon": "ability_thunderbolt",
+    "name": "Renvoi de Sort",
+    "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Technique a activer, instantané, 45sec de temps de rechargement, gratuit en Rage, 0-5yards de portée, Utilisable dans toutes les Postures, Etourdit la cible durant 5sec et génére un haut niveau de menace"
+    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en Posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Pose une amélioration sur le Guerrier qui renvoie le prochain Sort lancé sur le Guerrier dans les 5sec"
   },
   "12422": {
     "name": "Specialisation:12 Row:4 Column:2 Rank:2",
@@ -2013,13 +2013,13 @@
     "name": "Coup de Bouclier Amélioré (rang1)",
     "icon": "ability_warrior_shieldbash",
     "rank": 1,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de ralentir de 50% la cible durant 2sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de diminuer la Vitesse de déplacement de la cible de 50% durant 2sec"
   },
   "12432": {
     "name": "Coup de Bouclier Amélioré (rang2)",
     "icon": "icon_1243",
     "rank": 2,
-    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de ralentir de 50% la cible durant 4sec"
+    "description": "En plus de ces effets, la technique Coup de Bouclier a 100% de chance de Silence et de diminuer la Vitesse de déplacement de la cible de 50% durant 4sec"
   },
   "12433": {
     "name": "Specialisation:12 Row:4 Column:3 Rank:3",
