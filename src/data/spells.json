@@ -693,7 +693,7 @@
     "name": "Second Souffle",
     "icon": "ability_warrior_battleshout",
     "rank": 1,
-    "description": "Lorsque le Guerrier est victime d'un effet d'Imobilisation ou d'Etourdissement, il gagne une amélioration qui lui donne instantanément 10pts de Rage puis, lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec"
+    "description": "Lorsque le Guerrier est victime d'un effet d'Imobilisation ou d'Etourdissement, il gagne une amélioration qui lui donne instantanément 10pts de Rage puis, lui rend 10% de ses points de vie en 10sec et lui fait généré 10pts de Rage en 10sec, de plus permet a la technique Coup Railleur de provoquer un Etourdissement de 3sec sur la cible, et permet aussi lorsque le Guerrier utilise la technique Attaques Circulaires que sa prochaine technique Brise Genoux immobilise la cible durant 5sec"
   },
   "10622": {
     "name": "Specialisation:10 Row:6 Column:2 Rank:2",
@@ -2403,19 +2403,19 @@
     "name": "Lumière Guérisseuse (rang1)",
     "icon": "spell_holy_holybolt",
     "rank": 1,
-    "description": "Augmente le montant des soins du Paladin de 4%"
+    "description": "Augmente le montant des soins du Paladin de 3%"
   },
   "20202": {
     "name": "Lumière Guérisseuse (rang2)",
     "icon": "icon_2020",
     "rank": 2,
-    "description": "Augmente le montant des soins du Paladin de 8%"
+    "description": "Augmente le montant des soins du Paladin de 6%"
   },
   "20203": {
     "name": "Lumière Guérisseuse (rang3)",
     "icon": "icon_2020",
     "rank": 3,
-    "description": "Augmente le montant des soins du Paladin de 12%"
+    "description": "Augmente le montant des soins du Paladin de 9%"
   },
   "20204": {
     "name": "Specialisation:20 Row:2 Column:0 Rank:4",
@@ -3003,19 +3003,19 @@
     "name": "Devoir Sacré (rang1)",
     "icon": "spell_holy_prayerofhealing02",
     "rank": 1,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 2% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 1% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21102": {
     "name": "Devoir Sacré (rang2)",
     "icon": "icon_2110",
     "rank": 2,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 4% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 2% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21103": {
     "name": "Devoir Sacré (rang3)",
     "icon": "icon_2110",
     "rank": 3,
-    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 6% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
+    "description": "Augmente le montant de tous les soins que reçoit le Paladin de 3% et augmente les soins que reçoivent les Joueurs bénéfiant d'une technique d'Aura du Paladin du même montant"
   },
   "21104": {
     "name": "Specialisation:21 Row:1 Column:0 Rank:4",
@@ -3093,13 +3093,13 @@
     "name": "Fureur Vertueuse Améliorée (rang1)",
     "icon": "spell_holy_sealoffury",
     "rank": 1,
-    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 25% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%"
+    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 25% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 3%, de plus diminue la menace généré de 10% lorsque le Paladin n'est pas sous l'effet de la technique Fureur Vertueuse"
   },
   "21132": {
     "name": "Fureur Vertueuse Améliorée (rang2)",
     "icon": "icon_2113",
     "rank": 2,
-    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 50% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 6%"
+    "description": "Augmente la menace générée par la technique Fureur Vertueuse de 50% et lorsque le Paladin bénéficie de cette technique il réduit les dégats qu'il subit de 6%, de plus diminue la menace généré de 20% lorsque le Paladin n'est pas sous l'effet de la technique Fureur Vertueuse"
   },
   "21133": {
     "name": "Specialisation:21 Row:1 Column:3 Rank:3",
