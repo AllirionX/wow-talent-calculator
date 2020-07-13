@@ -273,7 +273,7 @@
     "name": "Juggernaut",
     "icon": "spell_nature_unyeildingstamina",
     "rank": 1,
-    "description": "Permet au Guerrier de générer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne +75% de chance de critique avec sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Fracasser dans les 30sec" 
+    "description": "Permet au Guerrier de générer 1pts de Rage toutes les 3sec, de plus, lorsqu'il utilise la technique Charge, Le Guerrier gagne une amélioration qui lui donne +100% de chance de critique avec sa prochaine technique Heurtoir ou Ivresse de la Victoire ou Heurt du Bouclier dans les 30sec" 
   },
   "10212": {
     "name": "Specialisation:10 Row:2 Column:1 Rank:2",
@@ -843,19 +843,19 @@
     "name": "Enchaînement Amélioré (rang1)",
     "icon": "ability_warrior_cleave",
     "rank": 1,
-    "description": "Augmente les dégâts infligés par la technique Enchaînement de 40% et permet de toucher 1 cible suplémentaire"
+    "description": "Augmente le bonus de dégâts de la technique Enchaînement du Guerrier de 40% et permet de toucher 1 cible suplémentaire"
   },
   "11102": {
     "name": "Enchaînement Amélioré (rang2)",
     "icon": "icon_1110",
     "rank": 2,
-    "description": "Augmente les dégâts infligés par la technique Enchaînement de 80% et permet de toucher 2 cibles suplémentaires"
+    "description": "Augmente le bonus de dégâts de la technique Enchaînement du Guerrier de 80% et permet de toucher 2 cibles suplémentaires"
   },
   "11103": {
     "name": "Enchaînement Amélioré (rang3)",
     "icon": "icon_1110",
     "rank": 3,
-    "description": "Augmente les dégâts infligés par la technique Enchaînement de 120% et permet de toucher 3 cibles suplémentaires"
+    "description": "Augmente le bonus de dégâts de la technique Enchaînement du Guerrier de 120% et permet de toucher 3 cibles suplémentaires"
   },
   "11104": {
     "name": "Specialisation:11 Row:1 Column:0 Rank:4",
@@ -1023,7 +1023,7 @@
     "name": "Ivresse de la Victoire",
     "icon": "spell_holy_fistofjustice",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec si le Guerrier tue un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une Attaque a la cible équivalent a la Puissance d'Attaque du Guerrier"
+    "description": "Technique a activer, instantanée, 0-5yards de portée, gratuite en Rage, ne se déclanche qu'une seule fois pendant 30sec si le Guerrier tue un ennemi rapportant de l'expérience ou de l'honneur, Inflige instantanément une Attaque a la cible équivalent a 45% de la Puissance d'Attaque du Guerrier"
   },
   "11222": {
     "name": "Specialisation:11 Row:2 Column:2 Rank:2",
@@ -1410,7 +1410,7 @@
     "description": "Description for Specialisation:11 Row:6 Column:1 Rank:5. Use icon icon_1161.jpg"
   },
   "11621": {
-    "name": "Mutilation",
+    "name": "Automutilation",
     "icon": "spell_shadow_lifedrain",
     "rank": 1,
     "description": "En plus de ses effets la technique Rage Sanguinaire pose sur le Guerrier un affaiblissement qui lui inflige le montant de dégâts qu'inflige la technique mais pendant 10sec au lieu d'instantanément, ce qui peut le libérer de certain effet de contrôle notamment"
@@ -1983,7 +1983,7 @@
     "name": "Renvoi de Sort",
     "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en Posture Défensive et Combat uniquement, 25pts de Rage, 10sec de temps de rechargement, Pose une amélioration sur le Guerrier qui renvoie le prochain Sort lancé sur le Guerrier dans les 5sec"
+    "description": "Technique a activer, instantanée, requiert un Bouclier, utilisable en Posture Défensive et Combat uniquement, 15pts de Rage, 10sec de temps de rechargement, Pose une amélioration sur le Guerrier qui renvoie le prochain Sort lancé sur le Guerrier dans les 5sec"
   },
   "12422": {
     "name": "Specialisation:12 Row:4 Column:2 Rank:2",
@@ -2943,19 +2943,19 @@
     "name": "Aura Améliorée (rang1)",
     "icon": "spell_holy_devotionaura",
     "rank": 1,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 5%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 10%"
   },
   "21022": {
     "name": "Aura Améliorée (rang2)",
     "icon": "icon_2102",
     "rank": 2,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 10%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 20%"
   },
   "21023": {
     "name": "Aura Améliorée (rang3)",
     "icon": "icon_2102",
     "rank": 3,
-    "description": "Augmente les effets de toutes les Auras du Paladin de 15%"
+    "description": "Augmente les effets de toutes les Auras du Paladin de 30%"
   },
   "21024": {
     "name": "Specialisation:21 Row:0 Column:2 Rank:4",
@@ -3213,13 +3213,13 @@
     "name": "Blocage Amélioré (rang1)",
     "icon": "inv_shield_05",
     "rank": 1,
-    "description": "Augmente le montant des blocages du Paladin de 15% et lorsqu'il bloque il regagne 1% de sa mana"
+    "description": "Augmente le montant des blocages du Paladin de 15% et lorsqu'il bloque il regagne 1% de sa mana, cet effet ne peut se produire qu'une fois par seconde au maximum"
   },
   "21232": {
     "name": "Blocage Amélioré (rang2)",
     "icon": "icon_2123",
     "rank": 2,
-    "description": "Augmente le montant des blocages du Paladin de 30% et lorsqu'il bloque il regagne 2% de sa mana"
+    "description": "Augmente le montant des blocages du Paladin de 30% et lorsqu'il bloque il regagne 2% de sa mana, cet effet ne peut se produire qu'une fois par seconde au maximum"
   },
   "21233": {
     "name": "Specialisation:21 Row:2 Column:3 Rank:3",
@@ -3333,13 +3333,13 @@
     "name": "Soutien Divin (rang1)",
     "icon": "spell_nature_timestop",
     "rank": 1,
-    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine et Intervention Divine de 1min"
+    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine de 1min et Intervention Divine de 10min"
   },
   "21332": {
     "name": "Soutien Divin (rang2)",
     "icon": "icon_2133",
     "rank": 2,
-    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine et Intervention Divine de 2min"
+    "description": "Diminue le temps de rechargement des techniques Bouclier Divin, Protection Divine de 2min et Intervention Divine de 20min"
   },
   "21333": {
     "name": "Specialisation:21 Row:3 Column:3 Rank:3",
@@ -3423,7 +3423,7 @@
     "name": "Bouclier Sacré",
     "icon": "classic_spell_holy_blessingofprotection",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 10sec de temps de rechargement, coûte 150pts de mana, procure au Paladin une amélioration qui dure 10sec ou 5 charges, Augmente ses chances de bloquer de 30%, a chaque fois qu'il bloque une attaque, une charge est consommé et il lui procure 50pts de mana et renvoie 35pts de dégats du sacré, ces dégats génèrent +35% de menace"
+    "description": "Technique a activer, instantanée, 10sec de temps de rechargement, coûte 150pts de mana, procure au Paladin une amélioration qui dure 10sec ou 5 charges, Augmente ses chances de bloquer de 30%, a chaque fois qu'il bloque une attaque, une charge est consommé et renvoie 35pts de dégats du sacré, ces dégats génèrent +35% de menace"
   },
   "21422": {
     "name": "Specialisation:21 Row:4 Column:2 Rank:2",
@@ -3543,7 +3543,7 @@
     "name": "Marteau du Juste",
     "icon": "class_paladin",
     "rank": 1,
-    "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 0-5yards de portée, coûte 360pts de mana, Frappe jusqu'a 3 cibles devant le Paladin, inflige un dégat du sacré équivalent a la plage de dégat de l'arme mais génère un haut niveau de menace"
+    "description": "Technique a activer, instantanée, 6sec de temps de rechargement, 0-5yards de portée, coûte 360pts de mana, Requiert une Arme de mélée, Frappe jusqu'a 3 cibles devant le Paladin, inflige un dégat du sacré équivalent a 33% de la plage de dégat de l'arme mais génére un haut niveau de menace"
   },
   "21612": {
     "name": "Specialisation:21 Row:6 Column:1 Rank:2",
