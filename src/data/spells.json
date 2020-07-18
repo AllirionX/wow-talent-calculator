@@ -13290,16 +13290,16 @@
     "description": "Description for Specialisation:70 Row:2 Column:2 Rank:5. Use icon icon_7022.jpg"
   },
   "70231": {
-    "name": "Barrage des Arcanes (rang1)",
-    "icon": "spell_nature_starfall",
+    "name": "Evocation Améliorée (rang1)",
+    "icon": "spell_nature_purge",
     "rank": 1,
-    "description": "Confert 50% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
+    "description": "Diminue le temps de rechargement de la technique Evocation de 1min et permet a la technique de régénéré également 30% de la Vie du Mage durant la canalisation"
   },
   "70232": {
-    "name": "Barrage des Arcanes (rang2)",
+    "name": "Evocation Améliorée (rang2)",
     "icon": "icon_7023",
     "rank": 2,
-    "description": "Confert 100% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
+    "description": "Diminue le temps de rechargement de la technique Evocation de 2min et permet a la technique de régénéré également 60% de la Vie du Mage durant la canalisation"
   },
   "70233": {
     "name": "Specialisation:70 Row:2 Column:3 Rank:3",
@@ -13320,22 +13320,22 @@
     "description": "Description for Specialisation:70 Row:2 Column:3 Rank:5. Use icon icon_7023.jpg"
   },
   "70301": {
-    "name": "Evocation Améliorée (rang1)",
-    "icon": "spell_nature_purge",
+    "name": "Barrage des Arcanes (rang1)",
+    "icon": "spell_nature_starfall",
     "rank": 1,
-    "description": "Diminue le temps de rechargement de la technique Evocation de 1min et permet a la technique de régénéré également 20% de la Vie du Mage durant la canalisation"
+    "description": "Confert 35% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70302": {
-    "name": "Evocation Améliorée (rang2)",
+    "name": "Barrage des Arcanes (rang2)",
     "icon": "icon_7030",
     "rank": 2,
-    "description": "Diminue le temps de rechargement de la technique Evocation de 2min et permet a la technique de régénéré également 40% de la Vie du Mage durant la canalisation"
+    "description": "Confert 70% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70303": {
-    "name": "Evocation Améliorée (rang3)",
+    "name": "Barrage des Arcanes (rang3)",
     "icon": "icon_7030",
     "rank": 3,
-    "description": "Diminue le temps de rechargement de la technique Evocation de 3min et permet a la technique de régénéré également 60% de la Vie du Mage durant la canalisation"
+    "description": "Confert 100% de chance d'anti interruption au Mage avec ses techniques d'Arcanes"
   },
   "70304": {
     "name": "Specialisation:70 Row:3 Column:0 Rank:4",
@@ -13350,16 +13350,16 @@
     "description": "Description for Specialisation:70 Row:3 Column:0 Rank:5. Use icon icon_7030.jpg"
   },
   "70311": {
-    "name": "Affinitée avec les Arcanes (rang1)",
+    "name": "Allonge des Arcanes (rang1)",
     "icon": "spell_holy_greaterheal",
     "rank": 1,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 5% et augmente les dégats des critiques des sorts d'Arcane de 25% et augmente la portée des sorts d'Arcane de 3yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente la portée des sorts d'Arcane de 10%, jusqu'a un maximum de 40yards"
   },
   "70312": {
-    "name": "Affinitée avec les Arcanes (rang2)",
+    "name": "Allonge des Arcanes (rang2)",
     "icon": "icon_7031",
     "rank": 2,
-    "description": "Diminue le coût en mana des techniques d'Arcanes de 10% et augmente les dégats des critiques des sorts d'Arcane de 50% et augmente la portée des sorts d'Arcane de 6yards, jusqu'a un maximum de 40yards"
+    "description": "Augmente la portée des sorts d'Arcane de 20%, jusqu'a un maximum de 40yards"
   },
   "70313": {
     "name": "Specialisation:70 Row:3 Column:1 Rank:3",
@@ -13440,22 +13440,22 @@
     "description": "Description for Specialisation:70 Row:3 Column:3 Rank:5. Use icon icon_7033.jpg"
   },
   "70401": {
-    "name": "Instabilitée des Arcanes (rang1)",
+    "name": "Résilience des Arcanes (rang1)",
     "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Augmente les dégats et chances de critiques du Mage de 2%"
+    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 10pts"
   },
   "70402": {
-    "name": "Instabilitée des Arcanes (rang2)",
+    "name": "Résilience des Arcanes (rang2)",
     "icon": "icon_7040",
     "rank": 2,
-    "description": "Augmente les dégats et chances de critiques du Mage de 4%"
+    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 20pts"
   },
   "70403": {
-    "name": "Instabilitée des Arcanes (rang3)",
+    "name": "Résilience des Arcanes (rang3)",
     "icon": "icon_7040",
     "rank": 3,
-    "description": "Augmente les dégats et chances de critiques du Mage de 6%"
+    "description": "Convertit 150% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
   },
   "70404": {
     "name": "Specialisation:70 Row:4 Column:0 Rank:4",
@@ -13530,16 +13530,16 @@
     "description": "Description for Specialisation:70 Row:4 Column:2 Rank:5. Use icon icon_7042.jpg"
   },
   "70431": {
-    "name": "Résillience des Arcanes (rang1)",
+    "name": "Affinité avec les Arcanes (rang1)",
     "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 15pts"
+    "description": "Augmente les dégats infligés par le Mage de 3% et augmente ses chances de Critiques du même montant et diminue le coût en mana de toutes ses techniques de 5%"
   },
   "70432": {
-    "name": "Résilience des Arcanes (rang2)",
+    "name": "Affinité avec les Arcanes (rang2)",
     "icon": "icon_7043",
     "rank": 2,
-    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
+    "description": "Augmente les dégats infligés par le Mage de 6% et augmente ses chances de Critiques du même montant et diminue le coût en mana de toutes ses techniques de 10%"
   },
   "70433": {
     "name": "Specialisation:70 Row:4 Column:3 Rank:3",
@@ -13563,13 +13563,13 @@
     "name": "Concentration Amélioré (rang1)",
     "icon": "spell_nature_wispheal",
     "rank": 1,
-    "description": "Diminue la durée des effets de Silence sur le Mage de 15% et diminue les dégats subit durant ses effets de 10%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 10%"
+    "description": "Augmente les dégats des critiques des techniques d'Arcane du Mage de 10% et diminue la durée des effets de Silence sur le Mage de 15% et diminue les dégats subit durant ses effets de 10%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 10%"
   },
   "70512": {
     "name": "Concentration Amélioré (rang2)",
     "icon": "icon_7051",
     "rank": 2,
-    "description": "Diminue la durée des effets de Silence sur le Mage de 30% et diminue les dégats subit durant ses effets de 20%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 20%"
+    "description": "Augmente les dégats des critiques des techniques d'Arcane du Mage de 20% et diminue la durée des effets de Silence sur le Mage de 30% et diminue les dégats subit durant ses effets de 20%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 20%"
   },
   "70513": {
     "name": "Specialisation:70 Row:5 Column:1 Rank:3",
@@ -13623,7 +13623,7 @@
     "name": "Déflagration des Arcanes",
     "icon": "spell_lightning_lightningbolt01",
     "rank": 1,
-    "description": "Technique a activer, 2,5sec de temps d'incantation, 660pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 721pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
+    "description": "Technique a activer, 2,5sec de temps d'incantation, 550pts de mana, 30yards de portée, Envoi une bolt d'Energie sur la cible qui lui inflige 619pts de dégat d'arcanes, augmente les dégats de 5% au prix de 5% du coût de mana supplémentaire durant 8sec, stackable 4fois"
   },
   "70612": {
     "name": "Specialisation:70 Row:6 Column:1 Rank:2",
