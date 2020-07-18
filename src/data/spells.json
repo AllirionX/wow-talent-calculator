@@ -12993,13 +12993,13 @@
     "name": "Endurance des Arcanes (rang1)",
     "icon": "spell_shadow_charm",
     "rank": 1,
-    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 5% et augmente le nombre de charge des techniques de Gemme de Mana de 1"
+    "description": "Diminue les dégats subit par le Mage et augmente ses Points de Mana de 5% et augmente le nombre de charge des techniques de Gemme de Mana de 1"
   },
   "70012": {
     "name": "Endurance des Arcanes (rang2)",
     "icon": "icon_7001",
     "rank": 2,
-    "description": "Diminue les dégats subit et augmente les Points de Mana du Mage de 10% et augmente le nombre de charge des techniques de Gemme de Mana de 2"
+    "description": "Diminue les dégats subit par le Mage et augmente ses Points de Mana de 10% et augmente le nombre de charge des techniques de Gemme de Mana de 2"
   },
   "70013": {
     "name": "Specialisation:70 Row:0 Column:1 Rank:3",
@@ -13113,13 +13113,13 @@
     "name": "Bouclier de Mana Amélioré (rang1)",
     "icon": "spell_shadow_detectlesserinvisibility",
     "rank": 1,
-    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 10%, de plus 10% du coût en mana de la technique est rendu lorsqu'une amélioration sur le Mage est dissipé"
+    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 10%, de plus 10% du coût en mana de la technique est rendu au Mage lorsqu'une de ses améliorations est dissipé"
   },
   "70112": {
     "name": "Bouclier de Mana Amélioré (rang2)",
     "icon": "icon_7011",
     "rank": 2,
-    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 20%, de plus 20% du coût en mana de la technique est rendu lorsqu'une amélioration sur le Mage est dissipé"
+    "description": "Diminue le montant de mana absorbé par la technique Bouclier de Mana de 20%, de plus 20% du coût en mana de la technique est rendu au Mage lorsqu'une de ses améliorations est dissipé"
   },
   "70113": {
     "name": "Specialisation:70 Row:1 Column:1 Rank:3",
@@ -13143,19 +13143,19 @@
     "name": "Absorption (rang1)",
     "icon": "spell_nature_astralrecalgroup",
     "rank": 1,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 10% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 5pts et lui rend 33% des dégats qu'il absorbe avec ses techniques de Gardien en Point de mana"
   },
   "70122": {
     "name": "Absorption (rang2)",
     "icon": "icon_7012",
     "rank": 2,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 20pts et lui rend 20% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 10pts et lui rend 66% des dégats qu'il absorbe avec ses techniques de Gardien en Point de mana"
   },
   "70123": {
     "name": "Absorption (rang3)",
     "icon": "icon_7012",
     "rank": 3,
-    "description": "Augmente toutes les Résistances a la Magie du Mage de 30pts et lui rend 30% des dégats qu'il absorbe avec ses techniques de Gardien en mana"
+    "description": "Augmente toutes les Résistances a la Magie du Mage de 15pts et lui rend 100% des dégats qu'il absorbe avec ses techniques de Gardien en Point de mana"
   },
   "70124": {
     "name": "Specialisation:70 Row:1 Column:2 Rank:4",
