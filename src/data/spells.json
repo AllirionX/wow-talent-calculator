@@ -12783,7 +12783,7 @@
     "name": "Concentration",
     "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Diminue la durée des effets de Silence sur le Chaman de 30% et réduit les dégats qu'il subit durant ces effets de 15%"
+    "description": "Diminue la durée des effets de Silence sur le Chaman de 30% et réduit les dégats qu'il subit durant ces effets de 10%"
   },
   "62422": {
     "name": "Specialisation:62 Row:4 Column:2 Rank:2",
@@ -12813,13 +12813,13 @@
     "name": "Gardé par la Nature (rang1)",
     "icon": "spell_nature_healingway",
     "rank": 1,
-    "description": "Augmente la Résistance Nature du Chaman de 10pts, de plus lorsque le Chaman passe en dessous de 10% de vie, il réduit les dégats qu'il subit de 10%, génére 10% de menace en moins et augmente les soins qu'il reçoit de 10%"
+    "description": "Augmente la Résistance Nature du Chaman de 15pts, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 10%, génére 10% de menace en moins et augmente les soins qu'il reçoit de 6%"
   },
   "62432": {
     "name": "Gardé par la Nature (rang2)",
     "icon": "icon_6243",
     "rank": 2,
-    "description": "Augmente la Résistance Nature du Chaman de 20pts, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20%, génére 20% de menace en moins et augmente les soins qu'il reçoit de 20%"
+    "description": "Augmente la Résistance Nature du Chaman de 30pts, de plus lorsque le Chaman passe en dessous de 20% de vie, il réduit les dégats qu'il subit de 20%, génére 20% de menace en moins et augmente les soins qu'il reçoit de 12%"
   },
   "62433": {
     "name": "Specialisation:62 Row:4 Column:3 Rank:3",
@@ -13441,21 +13441,21 @@
   },
   "70401": {
     "name": "Résilience des Arcanes (rang1)",
-    "icon": "spell_shadow_teleport",
+    "icon": "spell_arcane_arcaneresilience",
     "rank": 1,
-    "description": "Convertit 50% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 10pts"
+    "description": "Convertit 33% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 10pts"
   },
   "70402": {
     "name": "Résilience des Arcanes (rang2)",
     "icon": "icon_7040",
     "rank": 2,
-    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 20pts"
+    "description": "Convertit 66% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 20pts"
   },
   "70403": {
     "name": "Résilience des Arcanes (rang3)",
     "icon": "icon_7040",
     "rank": 3,
-    "description": "Convertit 150% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
+    "description": "Convertit 100% de l'Intelligence du Mage en Point d'Armure et augmente sa Résistance Arcane de 30pts"
   },
   "70404": {
     "name": "Specialisation:70 Row:4 Column:0 Rank:4",
@@ -13531,15 +13531,15 @@
   },
   "70431": {
     "name": "Affinité avec les Arcanes (rang1)",
-    "icon": "spell_arcane_arcaneresilience",
+    "icon": "spell_shadow_teleport",
     "rank": 1,
-    "description": "Augmente les dégats infligés par le Mage de 3% et augmente ses chances de Critiques du même montant et diminue le coût en mana de toutes ses techniques de 5%"
+    "description": "Augmente les dégats infligés par le Mage de 3% et augmente ses chances de Critiques du même montant et augmente les dégats des critiques avec les techniques d'Arcane de 10%"
   },
   "70432": {
     "name": "Affinité avec les Arcanes (rang2)",
     "icon": "icon_7043",
     "rank": 2,
-    "description": "Augmente les dégats infligés par le Mage de 6% et augmente ses chances de Critiques du même montant et diminue le coût en mana de toutes ses techniques de 10%"
+    "description": "Augmente les dégats infligés par le Mage de 6% et augmente ses chances de Critiques du même montant et augmente les dégats des critiques avec les techniques d'Arcane de 20%"
   },
   "70433": {
     "name": "Specialisation:70 Row:4 Column:3 Rank:3",
@@ -13563,13 +13563,13 @@
     "name": "Concentration Amélioré (rang1)",
     "icon": "spell_nature_wispheal",
     "rank": 1,
-    "description": "Augmente les dégats des critiques des techniques d'Arcane du Mage de 10% et diminue la durée des effets de Silence sur le Mage de 15% et diminue les dégats subit durant ses effets de 10%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 10%"
+    "description": "Diminue le coût en mana des techniques du Mage de 5% et diminue la durée des effets de Silence sur le Mage de 15% et diminue les dégats subit durant ses effets de 5%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 10%"
   },
   "70512": {
     "name": "Concentration Amélioré (rang2)",
     "icon": "icon_7051",
     "rank": 2,
-    "description": "Augmente les dégats des critiques des techniques d'Arcane du Mage de 20% et diminue la durée des effets de Silence sur le Mage de 30% et diminue les dégats subit durant ses effets de 20%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 20%"
+    "description": "Diminue le coût en mana des techniques du Mage de 10% et diminue la durée des effets de Silence sur le Mage de 30% et diminue les dégats subit durant ses effets de 10%, de plus lorsque le Mage est sous l'effet de l'amélioration Concentration des Arcanes, il augmente ses chances de critique et sa vitesse d'incantation de 20%"
   },
   "70513": {
     "name": "Specialisation:70 Row:5 Column:1 Rank:3",
@@ -15873,13 +15873,13 @@
     "name": "Concentration Démoniaque (rang1)",
     "icon": "ability_hibernation",
     "rank": 1,
-    "description": "Donne 35% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie"
+    "description": "Donne 35% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie, de plus réduit la durée des effets de silence sur le Démoniste de 15% et réduit les dégats qu'il subit durant ces effets de 5%"
   },
   "81012": {
     "name": "Concentration Démoniaque (rang2)",
     "icon": "icon_8101",
     "rank": 2,
-    "description": "Donne 70% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie"
+    "description": "Donne 70% de chances d'anti interruption sur les incantations du Démoniste lorsqu'il utilise ses techniques de Démonologie, de plus réduit la durée des effets de silence sur le Démoniste de 30% et réduit les dégats qu'il subit durant ces effets de 10%"
   },
   "81013": {
     "name": "Specialisation:81 Row:0 Column:1 Rank:3",
@@ -19263,7 +19263,7 @@
     "name": "Concentration",
     "icon": "spell_holy_mindsooth",
     "rank": 1,
-    "description": "Diminue la durée des effets de Silence sur le Druide de 30% et réduit les dégats subit durant ces effets de 15%, ne se cumule pas avec d'autre effet similaire"
+    "description": "Diminue la durée des effets de Silence sur le Druide de 30% et réduit les dégats subit durant ces effets de 10%, ne se cumule pas avec d'autre effet similaire"
   },
   "92422": {
     "name": "Specialisation:92 Row:4 Column:2 Rank:2",
@@ -19323,13 +19323,13 @@
     "name": "Don de la Nature (rang1)",
     "icon": "spell_nature_protectionformnature",
     "rank": 1,
-    "description": "Augmente la Résistance Nature du Druide de 10pts et augmente l'efficacité de ses techniques de Soins de 5%"
+    "description": "Augmente la Résistance Nature du Druide de 15pts et augmente l'efficacité de ses techniques de Soins de 5%"
   },
   "92512": {
     "name": "Don de la Nature (rang2)",
     "icon": "icon_9251",
     "rank": 2,
-    "description": "Augmente la Résistance Nature du Druide de 20pts et augmente l'efficacité de ses techniques de Soins de 10%"
+    "description": "Augmente la Résistance Nature du Druide de 30pts et augmente l'efficacité de ses techniques de Soins de 10%"
   },
   "92513": {
     "name": "Specialisation:92 Row:5 Column:1 Rank:3",
